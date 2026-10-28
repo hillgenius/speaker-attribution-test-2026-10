@@ -183,17 +183,16 @@
       "video": {
         "url": "https://www.senate.gov/isvp/?auto_play=false&comm=armed&poster=https://www.armed-services.senate.gov/assets/images/video-poster.png&filename=armedA022525",
         "source": "Senate ISVP archive (filename armedA022525), 1280x720",
-        "timestamp": "2:14:39",
+        "timestamp": "2:14:43",
         "url_at_timestamp": null,
-        "timestamp_note": "The Senate player has no start-time link. Open the video and seek to 2:14:39.",
-        "clip_start_s": 8079.0,
-        "clip_end_s": 8109.0,
+        "timestamp_note": "The Senate player has no start-time link. Open the video and seek to 2:14:43.",
+        "clip_start_s": 8083.4,
+        "clip_end_s": 8097.6,
         "poster_time_s": 8091.0,
         "poster_shows": "Sen. Ted Budd speaking at his seat behind a 'MR. BUDD' nameplate.",
         "timeline": [
-          "8079-8083 s: Sen. Kelly at the 'MR. KELLY' nameplate finishes ('...I'm pretty sure I know what the answer would be. Thank you.').",
-          "8083.5-8085 s: brief cutaway to the witness table while a new voice says 'Thank you, Senator Kelly. I recognize myself.'",
-          "8085.5-8109 s: Budd on camera at the 'MR. BUDD' nameplate, continuing 'Mr. Feinberg, thank you for being here...' (print lines 2242-2247)."
+          "8083.4-8085.5 s: cutaway to the witness table as a new voice says 'Thank you, Senator Kelly. I recognize myself.' (print lines 2240-2241).",
+          "8085.5-8097.6 s: Budd on camera at the 'MR. BUDD' nameplate: 'Mr. Feinberg, thank you for being here... I appreciate their introduction.' (print lines 2242-2244)."
         ]
       },
       "tiro_1": {
@@ -204,14 +203,14 @@
       },
       "files": {
         "clip": "https://www.hillgenius.com/media/official-record/budd-wicker-clip.mp4",
-        "clip_note": "30 s cut from the video above, source seconds 8079 to 8109, H.264 1280x720. No edits other than trimming.",
+        "clip_note": "14.2 s cut from the video above, source seconds 8083.4 to 8097.6, from the first to the last word of print lines 2240-2244, H.264 1280x720. No edits other than trimming.",
         "poster": "https://www.hillgenius.com/media/official-record/budd-wicker-poster.jpg",
         "print_still": "https://www.hillgenius.com/media/official-record/budd-wicker-print.png",
         "print_still_lines_shown": [
-          2232,
-          2249
+          2240,
+          2244
         ],
-        "print_still_note": "The govinfo text of lines 2232-2249 rendered as an image. The text is unaltered; only the speaker label \"Chairman Wicker.\" is highlighted."
+        "print_still_note": "The govinfo text of lines 2240-2244 rendered as an image. The text is unaltered; only the speaker label \"Chairman Wicker.\" is highlighted."
       }
     },
     {
@@ -397,17 +396,17 @@
       "video": {
         "url": "https://www.senate.gov/isvp/?auto_play=false&comm=armed&poster=https://www.armed-services.senate.gov/assets/images/video-poster.png&filename=armedA032725&stt=0",
         "source": "Senate ISVP archive (filename armedA032725), 1280x720",
-        "timestamp": "2:19:21",
+        "timestamp": "2:19:23",
         "url_at_timestamp": null,
-        "timestamp_note": "The Senate player has no start-time link. Open the video and seek to 2:19:21.",
-        "clip_start_s": 8361.0,
-        "clip_end_s": 8393.0,
+        "timestamp_note": "The Senate player has no start-time link. Open the video and seek to 2:19:23.",
+        "clip_start_s": 8363.85,
+        "clip_end_s": 8382.8,
         "poster_time_s": 8382.0,
         "poster_shows": "Sen. Gary Peters speaking at his seat behind a 'MR. PETERS' nameplate.",
         "timeline": [
-          "8361-8366 s: Sen. Sullivan at the 'MR. SULLIVAN' nameplate wraps up; Wicker says 'Thank you, Senator Sullivan. Senator Peters.' (about 8364 s).",
-          "8367-8372 s: wide shot of the nominee table as Peters begins 'Thank you, Mr. Chairman. Dr. Meink, congratulations...'.",
-          "8373-8393 s: Peters on camera at the 'MR. PETERS' nameplate, through 'As you know, Selfridge Air National Guard Base in Michigan...' (print lines 2800-2805)."
+          "8363.9-8366 s: the camera is on Sen. Sullivan at the 'MR. SULLIVAN' nameplate as Wicker says 'Thank you, Senator Sullivan. Senator Peters.' (print lines 2797-2798).",
+          "8366-8374 s: wide shot of the nominee table as Peters begins 'Thank you, Mr. Chairman. Dr. Meink, congratulations...'.",
+          "8374-8382.8 s: Peters on camera at the 'MR. PETERS' nameplate, through '...a number of your priorities going forward.' (print lines 2799-2803)."
         ]
       },
       "tiro_1": {
@@ -418,14 +417,14 @@
       },
       "files": {
         "clip": "https://www.hillgenius.com/media/official-record/peters-kelly-clip.mp4",
-        "clip_note": "32 s cut from the video above, source seconds 8361 to 8393, H.264 1280x720. No edits other than trimming.",
+        "clip_note": "19.0 s cut from the video above, source seconds 8363.85 to 8382.8, from the first to the last word of print lines 2797-2803, H.264 1280x720. No edits other than trimming.",
         "poster": "https://www.hillgenius.com/media/official-record/peters-kelly-poster.jpg",
         "print_still": "https://www.hillgenius.com/media/official-record/peters-kelly-print.png",
         "print_still_lines_shown": [
-          2794,
-          2811
+          2797,
+          2803
         ],
-        "print_still_note": "The govinfo text of lines 2794-2811 rendered as an image. The text is unaltered; only the speaker label \"Senator Kelly.\" is highlighted."
+        "print_still_note": "The govinfo text of lines 2797-2803 rendered as an image. The text is unaltered; only the speaker label \"Senator Kelly.\" is highlighted."
       }
     },
     {
@@ -576,17 +575,16 @@
       "video": {
         "url": "https://www.youtube.com/watch?v=ZCDkyKLenIY",
         "source": "Committee YouTube video, 1280x720",
-        "timestamp": "2:16:58",
-        "url_at_timestamp": "https://www.youtube.com/watch?v=ZCDkyKLenIY&t=8218s",
+        "timestamp": "2:17:04",
+        "url_at_timestamp": "https://www.youtube.com/watch?v=ZCDkyKLenIY&t=8224s",
         "timestamp_note": null,
-        "clip_start_s": 8218.0,
-        "clip_end_s": 8250.0,
-        "poster_time_s": 8242.0,
+        "clip_start_s": 8224.1,
+        "clip_end_s": 8239.5,
+        "poster_time_s": 8236.0,
         "poster_shows": "Rep. Scott Fitzgerald reading his statement at the witness table behind a 'Rep. Fitzgerald / WI-05' card.",
         "timeline": [
-          "8218-8221 s: Rep. Kaptur at the 'Rep. Kaptur' card finishes her statement.",
-          "8221-8232 s: wide shot of the room; the chair says 'The chair now recognizes Representative Fitzgerald. You have five minutes for your testimony.'",
-          "8233-8250 s: Fitzgerald on camera behind the 'Rep. Fitzgerald / WI-05' card: 'Thank you, Chairman, Ranking Member, members of the committee, for allowing me to testify today about bicyclist and pedestrian safety...'."
+          "8224.1-8233 s: wide shot of the room; the chair says 'Seeing none, thank you for your testimony. The chair now recognizes Representative Fitzgerald. You have five minutes for your testimony.' (print lines 4203-4205), and Fitzgerald begins 'Thank you, Chairman...' at about 8231 s.",
+          "8233-8239.5 s: Fitzgerald on camera behind the 'Rep. Fitzgerald / WI-05' card: '...for allowing me to testify today about bicyclists and pedestrian safety.' (print lines 4210-4212)."
         ]
       },
       "tiro_1": {
@@ -597,14 +595,14 @@
       },
       "files": {
         "clip": "https://www.hillgenius.com/media/official-record/fitzgerald-fitzpatrick-clip.mp4",
-        "clip_note": "32 s cut from the video above, source seconds 8218 to 8250, H.264 1280x720. No edits other than trimming.",
+        "clip_note": "15.4 s cut from the video above, source seconds 8224.1 to 8239.5, from the first to the last word of print lines 4203-4212, H.264 1280x720. No edits other than trimming.",
         "poster": "https://www.hillgenius.com/media/official-record/fitzgerald-fitzpatrick-poster.jpg",
         "print_still": "https://www.hillgenius.com/media/official-record/fitzgerald-fitzpatrick-print.png",
         "print_still_lines_shown": [
-          4201,
-          4217
+          4203,
+          4212
         ],
-        "print_still_note": "The govinfo text of lines 4201-4217 rendered as an image. The text is unaltered; only the speaker label \"Mr. Fitzpatrick.\" is highlighted."
+        "print_still_note": "The govinfo text of lines 4203-4212 rendered as an image. The text is unaltered; only the speaker label \"Mr. Fitzpatrick.\" is highlighted."
       }
     },
     {
@@ -761,17 +759,17 @@
       "video": {
         "url": "https://www.youtube.com/watch?v=U2Rria4Vw64",
         "source": "Committee YouTube video, 1280x720",
-        "timestamp": "48:58",
-        "url_at_timestamp": "https://www.youtube.com/watch?v=U2Rria4Vw64&t=2938s",
+        "timestamp": "49:02",
+        "url_at_timestamp": "https://www.youtube.com/watch?v=U2Rria4Vw64&t=2942s",
         "timestamp_note": null,
-        "clip_start_s": 2938.0,
-        "clip_end_s": 2972.0,
+        "clip_start_s": 2942.2,
+        "clip_end_s": 2986.4,
         "poster_time_s": 2962.0,
         "poster_shows": "Rep. Tom McClintock speaking from the dais behind a 'MR. McCLINTOCK' nameplate.",
         "timeline": [
-          "2938-2949 s: Chairman Tiffany at the 'MR. TIFFANY / CHAIRMAN' nameplate: '...We will start out with the gentleman from California, Mr. McClintock.'",
-          "2949-2955 s: wide shot of the hearing room as McClintock begins 'Thank you, Mr. Chairman. You know, listening to the ranking member...'.",
-          "2956-2972 s: McClintock on camera behind the 'MR. McCLINTOCK' nameplate (print lines 2578-2584)."
+          "2942.2-2949 s: Chairman Tiffany at the 'MR. TIFFANY / CHAIRMAN' nameplate: 'Members, you will have five minutes for your questioning. We will start out with the gentleman from California, Mr. McClintock.' (print lines 2575-2577).",
+          "2949-2956 s: wide shot of the hearing room as McClintock begins 'Thank you, Mr. Chairman. You know, listening to the ranking member...'.",
+          "2956-2986.4 s: McClintock on camera behind the 'MR. McCLINTOCK' nameplate, through '...right back into good land management.' (print lines 2578-2588)."
         ]
       },
       "tiro_1": {
@@ -782,14 +780,14 @@
       },
       "files": {
         "clip": "https://www.hillgenius.com/media/official-record/mcclintock-mccormick-clip.mp4",
-        "clip_note": "34 s cut from the video above, source seconds 2938 to 2972, H.264 1280x720. No edits other than trimming.",
+        "clip_note": "44.2 s cut from the video above, source seconds 2942.2 to 2986.4, from the first to the last word of print lines 2575-2588, H.264 1280x720. No edits other than trimming.",
         "poster": "https://www.hillgenius.com/media/official-record/mcclintock-mccormick-poster.jpg",
         "print_still": "https://www.hillgenius.com/media/official-record/mcclintock-mccormick-print.png",
         "print_still_lines_shown": [
-          2573,
+          2575,
           2588
         ],
-        "print_still_note": "The govinfo text of lines 2573-2588 rendered as an image. The text is unaltered; only the speaker label \"Mr. McCormick.\" is highlighted."
+        "print_still_note": "The govinfo text of lines 2575-2588 rendered as an image. The text is unaltered; only the speaker label \"Mr. McCormick.\" is highlighted."
       }
     },
     {
@@ -975,27 +973,27 @@
       "video": {
         "url": "https://www.youtube.com/watch?v=vxEmQ-Ezi_M",
         "source": "Committee YouTube video, 1280x720",
-        "timestamp": "46:11",
-        "url_at_timestamp": "https://www.youtube.com/watch?v=vxEmQ-Ezi_M&t=2771s",
+        "timestamp": "46:16",
+        "url_at_timestamp": "https://www.youtube.com/watch?v=vxEmQ-Ezi_M&t=2776s",
         "timestamp_note": null,
-        "clip_start_s": 2771.0,
-        "clip_end_s": 2803.0,
-        "poster_time_s": 2794.0,
+        "clip_start_s": 2776.4,
+        "clip_end_s": 2791.9,
+        "poster_time_s": 2787.0,
         "poster_shows": "Judge Paul Black at the witness table behind a 'JUDGE BLACK' card.",
         "timeline": [
-          "2771-2775 s: Professor Baird at the 'PROFESSOR BAIRD' card finishes ('...will improve our bankruptcy laws. Thank you very much.').",
-          "2776-2783 s: Chairman Fitzgerald at the 'MR. FITZGERALD / CHAIRMAN' nameplate: 'Thank you, Professor Baird. Judge Black, you may begin.'",
-          "2785-2803 s: Black on camera behind the 'JUDGE BLACK' card: 'Chairman Fitzgerald, Ranking Member Nadler, members of the subcommittee, I'm Paul Black, United States Bankruptcy Judge for the Western District of Virginia...'."
+          "2776.4-2777.5 s: the camera is still on Professor Baird at the 'PROFESSOR BAIRD' card as the chair begins 'Thank you, Professor Baird.'",
+          "2777.5-2783.5 s: Chairman Fitzgerald at the 'MR. FITZGERALD / CHAIRMAN' nameplate: '...Judge Black, you may begin.' (print lines 750-751). Black starts speaking at about 2782 s.",
+          "2783.5-2791.9 s: Black on camera behind the 'JUDGE BLACK' card: 'Chairman Fitzgerald, Ranking Member Nadler, members of the subcommittee, I'm Paul Black, United States Bankruptcy Judge for the Western District of Virginia. Thank you for the opportunity to speak today.' (print lines 755-758)."
         ],
         "second_passage": {
           "print_lines": [
-            1254,
-            1261
+            1261,
+            1266
           ],
-          "timestamp": "1:15:25",
-          "url_at_timestamp": "https://www.youtube.com/watch?v=vxEmQ-Ezi_M&t=4525s",
-          "video_start_s": 4525.0,
-          "video_end_s": 4560.0,
+          "timestamp": "1:15:33",
+          "url_at_timestamp": "https://www.youtube.com/watch?v=vxEmQ-Ezi_M&t=4533s",
+          "video_start_s": 4533.4,
+          "video_end_s": 4558.4,
           "frame_time_s": 4540.0,
           "frame_shows": "Judge Black behind the 'JUDGE BLACK' card answering 'No, I really haven't in my court...' (from about 4533.6 s)."
         }
@@ -1009,14 +1007,14 @@
       },
       "files": {
         "clip": "https://www.hillgenius.com/media/official-record/black-baird-clip.mp4",
-        "clip_note": "32 s cut from the video above, source seconds 2771 to 2803, H.264 1280x720. No edits other than trimming.",
+        "clip_note": "15.5 s cut from the video above, source seconds 2776.4 to 2791.9, from the first to the last word of print lines 750-758, H.264 1280x720. No edits other than trimming.",
         "poster": "https://www.hillgenius.com/media/official-record/black-baird-poster.jpg",
         "print_still": "https://www.hillgenius.com/media/official-record/black-baird-print.png",
         "print_still_lines_shown": [
-          746,
-          761
+          750,
+          758
         ],
-        "print_still_note": "The govinfo text of lines 746-761 rendered as an image. The text is unaltered; only the speaker label \"Mr. Baird.\" is highlighted.",
+        "print_still_note": "The govinfo text of lines 750-758 rendered as an image. The text is unaltered; only the speaker label \"Mr. Baird.\" is highlighted.",
         "second_passage_frame": "https://www.hillgenius.com/media/official-record/black-baird-frame2.jpg"
       }
     }
