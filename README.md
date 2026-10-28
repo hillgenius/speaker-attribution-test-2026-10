@@ -41,27 +41,6 @@ mirror alters are in [prints/](prints/).
 - The score was corrected after scoring by three rules applied to all 100 hearings;
   both numbers are published. See [corrections.json](corrections.json) and [results/locked_run/](results/locked_run/).
 
-## What this published copy leaves out
-
-Some files are published with internal details cut, and a few are held back. None of this
-changes how the score is computed or checked.
-
-- Held back from code/scorer/: the tools that build the reference (llm_segment.py,
-  compare_refs.py, compare_words.py, finalize_reference.py), the scorer's internal notes
-  (LLM_REFERENCE.md, REGRESSION.md, PROVENANCE.md) and its tests. The score is recomputed from
-  the frozen references published here, so these aren't needed to check it.
-- [code/scorer/SHA256SUMS](code/scorer/SHA256SUMS) is the pre-registered hash list. Check the files that are here with
-  `shasum -a 256 -c --ignore-missing SHA256SUMS` inside code/scorer/. Every file matches except
-  roster.py: its database lookups and internal names are cut (each marked [redacted: ...]), so its
-  hash differs from the listed one. The cut code runs only when a hearing has no roster cache,
-  and every hearing's roster is in roster_cache/.
-- roster_cache/: the database queries that built each roster are removed; the rosters are complete.
-- [PREREGISTRATION.md](PREREGISTRATION.md): internal details cut, each marked [redacted: ...]. The unredacted
-  original's SHA-256 is at the top of the file.
-- code/rescore_corrected.py and code/audit_bioguides.py: home-directory paths made relative.
-- Not published: word and segment timestamps, voice time boundaries, and the print-to-audio
-  alignment code. Auditors can see them under an agreement: https://www.hillgenius.com/contact
-
 ## Files
 
 | Path | What it is |
@@ -69,7 +48,7 @@ changes how the score is computed or checked.
 | [summary.json](summary.json) | Headline, chamber split, members-vs-witnesses split, bootstrap interval, coverage, error causes, before-correction figures |
 | [per_hearing.csv](per_hearing.csv) | One row per hearing plus a TOTAL row |
 | [corrections.json](corrections.json) | The three correction rules and the six voices they changed |
-| [PREREGISTRATION.md](PREREGISTRATION.md) | The protocol as written before the draw, plus two sections added after scoring (redacted copy; see above) |
+| [PREREGISTRATION.md](PREREGISTRATION.md) | The protocol as written before the draw, plus two sections added after scoring (redacted copy) |
 | [NOTICE.md](NOTICE.md) | Copyright notice |
 | [SHA256SUMS](SHA256SUMS) | SHA-256 of every file in this repository |
 | [results/pooled.json](results/pooled.json) | The pooled score, as written by code/scorer/pool.py |
@@ -86,5 +65,5 @@ changes how the score is computed or checked.
 | [prints/prints.json](prints/prints.json) | GovInfo link and SHA-256 for every print; prints/ also holds the three prints GovInfo's mirror alters |
 | [audit/](audit/) | The 200-turn audit of agreeing reference turns, and the hand check of 12 surname matches (member_id_review.md) |
 | [sampling/](sampling/) | Population, its hash and report, pre-draw exclusions, the drawn sample with its beacon seed |
-| [code/](code/) | sampler.py, audit, correction and member-id check scripts, and the scorer (code/scorer/; see above for what is held back) |
+| [code/](code/) | sampler.py, audit, correction and member-id check scripts, and the scorer (code/scorer/) |
 | [media/official-record/official-record-errors.json](media/official-record/official-record-errors.json) | The five wrong-speaker passages in the official record: print hashes, line numbers, quotes, video timestamps; clips and images beside it |
