@@ -6,7 +6,10 @@ Results: https://www.hillgenius.com/tiro-1. Full report:
 https://www.hillgenius.com/methodology/speaker-attribution/report (Markdown:
 https://www.hillgenius.com/methodology/speaker-attribution.md).
 
-> © 2026 HillGenius. You may download, run and share these files to check the results. All other rights reserved. The GPO prints and govinfo text are U.S. government works. See [NOTICE.md](NOTICE.md).
+> Code is MIT-licensed ([LICENSE](LICENSE)); data is CC BY 4.0 ([LICENSE-DATA](LICENSE-DATA)). The GPO prints, govinfo text and congressional video are U.S. government works. No patent rights are granted. See [NOTICE.md](NOTICE.md).
+
+Anyone can use this test to measure their own transcription system. See
+[Test your own system](#test-your-own-system).
 
 - By words: 99.4% (1,639,116 of 1,649,095)
 - By speakers: 98.8% (1,669 of 1,690)
@@ -22,8 +25,9 @@ Every file here is listed in [SHA256SUMS](SHA256SUMS): `shasum -a 256 -c SHA256S
 
 ## Rerun the score
 
-Python 3.12, jiwer 4.0.0, beautifulsoup4 4.14.3. From code/scorer/, for each hearing in
-[sampling/sample.json](sampling/sample.json) (use references_corrected/ where it exists):
+Python 3.12, jiwer 4.0.0, beautifulsoup4 4.14.3. From code/scorer/, for each row of
+[per_hearing.csv](per_hearing.csv), which pairs each hearing_id with its CHRG id (use
+references_corrected/ where it exists):
 
     python score.py --hearing-id <hearing_id> --chrg <CHRG id> --print <GPO print> \
       --segments ../../transcripts/<hearing_id>.segments.jsonl \
@@ -33,6 +37,26 @@ Python 3.12, jiwer 4.0.0, beautifulsoup4 4.14.3. From code/scorer/, for each hea
 
 Each GPO print is on GovInfo (links in [prints/prints.json](prints/prints.json)); the three prints GovInfo's
 mirror alters are in [prints/](prints/).
+
+## Test your own system
+
+The references and the scorer work on any transcript, not only ours. To measure another
+system on the same 100 hearings:
+
+1. Fix the system first: same version and settings for every hearing, no changes after
+   you see a score.
+2. Transcribe each hearing's video. The committee page for each one is the `url` field in
+   [sampling/sample.json](sampling/sample.json).
+3. Write one JSON line per speaker turn, in order, like the files in
+   [transcripts/](transcripts/): `sequence_number`, `cluster_id` (your system's id for
+   the voice), `speaker_label` (the name it assigned), `bioguide_id` (optional; null is
+   fine) and `text`. Plain names are enough; the scorer matches them by surname.
+4. Score each hearing with the command above, passing your file as `--segments`, then
+   pool all 100. Report every hearing, including the ones that score badly.
+
+If you publish results, please publish your transcripts and per-hearing scores with them,
+so others can check them the way they can check ours, and credit the test as described in
+[NOTICE.md](NOTICE.md).
 
 ## Notes
 
@@ -49,7 +73,9 @@ mirror alters are in [prints/](prints/).
 | [per_hearing.csv](per_hearing.csv) | One row per hearing plus a TOTAL row |
 | [corrections.json](corrections.json) | The three correction rules and the six voices they changed |
 | [PREREGISTRATION.md](PREREGISTRATION.md) | The protocol as written before the draw, plus two sections added after scoring (redacted copy) |
-| [NOTICE.md](NOTICE.md) | Copyright notice |
+| [NOTICE.md](NOTICE.md) | Copyright, licenses, patent and name notice |
+| [LICENSE](LICENSE) | MIT License, for code/ |
+| [LICENSE-DATA](LICENSE-DATA) | CC BY 4.0, for the data |
 | [SHA256SUMS](SHA256SUMS) | SHA-256 of every file in this repository |
 | [results/pooled.json](results/pooled.json) | The pooled score, as written by code/scorer/pool.py |
 | [results/per_cluster.jsonl](results/per_cluster.jsonl) | One row per scored voice: print speaker, our label, words, verdict, match rule |
