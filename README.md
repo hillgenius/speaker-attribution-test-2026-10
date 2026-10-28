@@ -25,8 +25,8 @@ Every file here is listed in [SHA256SUMS](SHA256SUMS): `shasum -a 256 -c SHA256S
 
 ## Rerun the score
 
-Python 3.12, jiwer 4.0.0, beautifulsoup4 4.14.3. From code/scorer/, for each row of
-[per_hearing.csv](per_hearing.csv), which pairs each hearing_id with its CHRG id (use
+Python 3.12, jiwer 4.0.0, beautifulsoup4 4.14.3. From code/scorer/, for each hearing row of
+[per_hearing.csv](per_hearing.csv) (all but the TOTAL row), which pairs each hearing_id with its CHRG id (use
 references_corrected/ where it exists):
 
     python score.py --hearing-id <hearing_id> --chrg <CHRG id> --print <GPO print> \
