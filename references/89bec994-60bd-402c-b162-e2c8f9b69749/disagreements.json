@@ -1,0 +1,187 @@
+{
+ "hearing_id": "89bec994-60bd-402c-b162-e2c8f9b69749",
+ "chrg": "CHRG-119hhrg60631",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60631.htm",
+ "print_sha256": "8e8fc45b32f15882e8d9b4ab34fb2cbec9f4a38fe5daf184c219717b882917aa",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "6b84e6300d8bb426227f64e97884e48a35f1e648b7c2c8ab5292b2c91d2e8222",
+ "n_ref_words": 24374,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 26704,
+ "words_both_opinion": 24374,
+ "words_agree": 24113,
+ "words_disagree": 261,
+ "words_no_llm_opinion": 514,
+ "words_no_parser_opinion": 1057,
+ "words_inserted_material": 1273,
+ "agree_rate": 0.9893,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 2,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 514,
+   "end_word": 1647,
+   "word_count": 1133,
+   "start_line": 127,
+   "end_line": 295
+  },
+  {
+   "start_word": 2173,
+   "end_word": 2187,
+   "word_count": 14,
+   "start_line": 357,
+   "end_line": 360
+  },
+  {
+   "start_word": 2504,
+   "end_word": 2518,
+   "word_count": 14,
+   "start_line": 395,
+   "end_line": 398
+  },
+  {
+   "start_word": 3015,
+   "end_word": 3031,
+   "word_count": 16,
+   "start_line": 453,
+   "end_line": 456
+  },
+  {
+   "start_word": 3741,
+   "end_word": 3757,
+   "word_count": 16,
+   "start_line": 538,
+   "end_line": 541
+  },
+  {
+   "start_word": 4638,
+   "end_word": 4654,
+   "word_count": 16,
+   "start_line": 646,
+   "end_line": 649
+  },
+  {
+   "start_word": 5656,
+   "end_word": 5672,
+   "word_count": 16,
+   "start_line": 772,
+   "end_line": 775
+  },
+  {
+   "start_word": 6544,
+   "end_word": 6560,
+   "word_count": 16,
+   "start_line": 872,
+   "end_line": 875
+  },
+  {
+   "start_word": 7495,
+   "end_word": 7511,
+   "word_count": 16,
+   "start_line": 988,
+   "end_line": 991
+  },
+  {
+   "start_word": 8428,
+   "end_word": 8444,
+   "word_count": 16,
+   "start_line": 1101,
+   "end_line": 1104
+  }
+ ],
+ "n_body_words_mapped": 24326,
+ "n_compare_words_spans": 4,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 10837,
+   "body_word_end": 10838,
+   "word_start": 8843,
+   "word_end": 8844,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1357,
+   "end_line": 1357,
+   "parser_speaker": "Fulcher",
+   "parser_bioguide_id": "F000469",
+   "llm_speaker": "Bhargava",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "leaving it to the States, it would be in the best interests of the startups----",
+    "span_text": "Mr. Fulcher. OK.",
+    "after": "Mr. Bhargava [continuing]. That we represent at General Catalyst. Mr. Fulcher. Thank you, Mr. Bhargava."
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 11487,
+   "body_word_end": 11718,
+   "word_start": 9482,
+   "word_end": 9713,
+   "n_ref_words_mapped": 231,
+   "word_count": 231,
+   "start_line": 1427,
+   "end_line": 1451,
+   "parser_speaker": "Kak",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Castor",
+   "llm_bioguide_id": "C001066",
+   "shape": "different person",
+   "excerpt": {
+    "before": "addicted early, and they want to take advantage of us. Really, what is happening here?",
+    "span_text": "Ms. Kak. Thank you, Representative.\n    To your point, none of this is novel. It is depressingly \nfamiliar. And we are seeing that the risks of AI are compounded \nfor young people.\n    Let's just focus in on privacy risks as just one example. \nWe are seeing millions of children's faces being scraped from \nthe internet to be used so that companies can turn a profit, \nand these are images that could be used or weaponized against \nthese same children as they grow and follow them through for \nthe rest of their lives.\n    You mentioned voice data. I think it is important to note \nthat, when the FTC cracked down on Amazon Alexa for storing \nvoice prints of children long after they should have, their \nresponse was that they were saving it indefinitely because AI. \nSo AI has become a real free-for-all to trample on the rights \nof all consumers, but I would say with greatest threat to young \npeople and children.\n    And to the point that you just made, I think at the heart \nof this is a very corrosive business model that prioritizes \ncapturing our attention, user engagement at any cost in the \npursuit of profit.\n    I think we need targeted, bright-line rules to crack down \non the worst bad apples, but we also need strong regulation \nthat gets at the heart of this invasive and really toxic \nbusiness model.",
+    "after": "Ms. Castor. Thank you very much. I yield back my time. Mr. Bilirakis. The gentlelady"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 23612,
+   "body_word_end": 23614,
+   "word_start": 21393,
+   "word_end": 21395,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 2752,
+   "end_line": 2752,
+   "parser_speaker": "Kean",
+   "parser_bioguide_id": "K000398",
+   "llm_speaker": "Thierer",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "rather, that would cover technology more broadly. So the key thing here is technology neutrality----",
+    "span_text": "Mr. Kean. Uh-huh.",
+    "after": "Mr. Thierer [continuing]. And making sure that we don't have this voluminous, overlapping set of"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 24572,
+   "body_word_end": 24599,
+   "word_start": 22316,
+   "word_end": 22343,
+   "n_ref_words_mapped": 27,
+   "word_count": 27,
+   "start_line": 2857,
+   "end_line": 2860,
+   "parser_speaker": "Bilirakis",
+   "parser_bioguide_id": "B001257",
+   "llm_speaker": "Veasey",
+   "llm_bioguide_id": "V000131",
+   "shape": "different person",
+   "excerpt": {
+    "before": "lot of sense. Thank you, Mr. Chairman. I yield back the balance of my time.",
+    "span_text": "Mr. Bilirakis. The gentleman yields back.\n    Now I will recognize the vice chairman from the great State \nof Pennsylvania, Mr. Joyce--Dr. Joyce--for his 5 minutes of \nquestioning.",
+    "after": "Mr. Joyce. Thank you, Chairman Bilirakis, and thank you for our witnesses who have agreed"
+   },
+   "span_id": "d004"
+  }
+ ]
+}

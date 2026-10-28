@@ -1,0 +1,72 @@
+{
+ "hearing_id": "aeb03595-9276-4d4d-8800-5a27710d95a8",
+ "chrg": "CHRG-119hhrg61183",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg61183.htm",
+ "print_sha256": "1e726df6632628c957aa5dd6bded56a6dcf674f247119739d4656d81d2d917c3",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "bf5ed306003098f7ff66ea7e0bb0465147fd3144fe8c619b4dd256cfc7e0371c",
+ "n_ref_words": 17607,
+ "roster_source": "committee_membership",
+ "total_body_words": 18329,
+ "words_both_opinion": 17607,
+ "words_agree": 17582,
+ "words_disagree": 25,
+ "words_no_llm_opinion": 495,
+ "words_no_parser_opinion": 674,
+ "words_inserted_material": 48,
+ "agree_rate": 0.9986,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 4791,
+   "end_word": 4807,
+   "word_count": 16,
+   "start_line": 606,
+   "end_line": 609
+  },
+  {
+   "start_word": 5835,
+   "end_word": 5851,
+   "word_count": 16,
+   "start_line": 721,
+   "end_line": 724
+  },
+  {
+   "start_word": 7321,
+   "end_word": 7337,
+   "word_count": 16,
+   "start_line": 885,
+   "end_line": 888
+  }
+ ],
+ "n_body_words_mapped": 17596,
+ "n_compare_words_spans": 1,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 5851,
+   "body_word_end": 5876,
+   "word_start": 5291,
+   "word_end": 5316,
+   "n_ref_words_mapped": 25,
+   "word_count": 25,
+   "start_line": 724,
+   "end_line": 727,
+   "parser_speaker": "Smith",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Hudson",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "very much. [The prepared statement of Mr. Hudson follows:] [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]",
+    "span_text": "Mr. Smith. Thank you so very much. Without objection, your \nfull statement as you asked, and same with Mr. Isaacs and Ms. \nKhair.\n    The floor is yours.",
+    "after": "STATEMENT OF KHOLOOD KHAIR Ms. Khair. Thank you very much. Chairman Smith, Ranking Member Jacobs,"
+   },
+   "span_id": "d001"
+  }
+ ]
+}

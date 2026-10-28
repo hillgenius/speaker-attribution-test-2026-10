@@ -1,0 +1,144 @@
+{
+ "hearing_id": "d147d128-7af7-4b1d-bda9-5092de315db0",
+ "chrg": "CHRG-119hhrg62887",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg62887.htm",
+ "print_sha256": "a5a5afdb72e882b02ea673c29c9a0b8bf5a3e1c064a6a404b766bfe91dcd27f6",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "cbaf4f28766a6bb815e6df824585443b2feb1161f26dd3bc1adf36465ed5eae2",
+ "n_ref_words": 14440,
+ "roster_source": "committee_membership",
+ "total_body_words": 15710,
+ "words_both_opinion": 14440,
+ "words_agree": 13998,
+ "words_disagree": 442,
+ "words_no_llm_opinion": 366,
+ "words_no_parser_opinion": 745,
+ "words_inserted_material": 525,
+ "agree_rate": 0.9694,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 2,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 366,
+   "end_word": 802,
+   "word_count": 436,
+   "start_line": 108,
+   "end_line": 194
+  },
+  {
+   "start_word": 1525,
+   "end_word": 1539,
+   "word_count": 14,
+   "start_line": 274,
+   "end_line": 278
+  },
+  {
+   "start_word": 2822,
+   "end_word": 2837,
+   "word_count": 15,
+   "start_line": 416,
+   "end_line": 419
+  },
+  {
+   "start_word": 3611,
+   "end_word": 3626,
+   "word_count": 15,
+   "start_line": 509,
+   "end_line": 512
+  },
+  {
+   "start_word": 4144,
+   "end_word": 4159,
+   "word_count": 15,
+   "start_line": 575,
+   "end_line": 578
+  },
+  {
+   "start_word": 4847,
+   "end_word": 4862,
+   "word_count": 15,
+   "start_line": 657,
+   "end_line": 660
+  },
+  {
+   "start_word": 5548,
+   "end_word": 5563,
+   "word_count": 15,
+   "start_line": 740,
+   "end_line": 743
+  }
+ ],
+ "n_body_words_mapped": 14432,
+ "n_compare_words_spans": 3,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 8696,
+   "body_word_end": 9111,
+   "word_start": 7685,
+   "word_end": 8099,
+   "n_ref_words_mapped": 413,
+   "word_count": 415,
+   "start_line": 1077,
+   "end_line": 1119,
+   "parser_speaker": "Allen",
+   "parser_bioguide_id": "A000372",
+   "llm_speaker": "Wilson",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "now recognize my neighbor and friend across the river, Representative Joe Wilson, for his questions.",
+    "span_text": "Mr. Wilson Thank you very much Chairman Rick Allen for your \nleadership, and it is very humbling on this side. I get to \nfollow two great chair people, can you imagine? Tim Walberg and \nRick Allen, but I am grateful to be here, and with that too, I \nwant to thank all the witnesses for being here.\n    The National Right to Work Committee to me for decades has \njust been a pioneer for workers' rights and successfully \npromoting workers' rights and right to work laws in a majority \nof the American states. South Carolina is a prime example of \nsuccess, with workers having rights to join a union or not.\n    No forced unionization. The consequence has been that South \nCarolina now has become the largest manufacturer of tires in \nAmerica, with Michelin Tires, Bridgestone Tires, Continental \nTires, GT Tires of Singapore, and the leading exporter of tires \nof any State in the union. Additionally, South Carolina is the \nleading exporter of cars, with BMWs, the largest manufacturing \nplant, X-5's for everyone in Spartanburg, South Carolina, along \nwith Volvo and Mercedes.\n    Especially extraordinary is Boeing, with 10,000 jobs in the \nCharleston area building 787-10 jet liners, and my constituents \ndirectly benefit with Boeing by having tubing by Zeus \nCorporation, cable by Brisbee Incorporation, and with ATY \nproviding the interiors.\n    Last year I was happy to actually be in Riyadh, Saudi \nArabia where they announced the purchase of 39 billion dollars-\nworth of 787 jet liners, and of course President Trump topped \nthat. Last month he worked with Qatar to buy 100 billion \ndollars-worth of 787s. We really benefit by having workers \nhaving a choice of jobs, unionization or not.\n    Ms. Abruzzo, I want to thank you for your service with NLRB \nwith Michael Nicaro, Sr. I am grateful that the National Right \nto Work Act has been introduced over the years. I am grateful \nto be the lead. 100 co-sponsors in the House, which erases \nforced dues clauses in Federal statute, without adding a single \nletter to Federal law.\n    South Carolina's right to work law State has seen \ntremendous economic growth, as I have indicated, expanding \neconomic freedom for businesses and workers, and we need to \ncontinue to promote job creation and ending forced unionization \nto extend workers' rights to the American people.\n    Mr. Solem, the work that you do at the National Right to \nWork Foundation is so critical, and how is it that you assess \nthe bill of workers choice to be?",
+    "after": "Mr. Solem. Thank you, Congressman. I think you just hit the nail in the head"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 10538,
+   "body_word_end": 10539,
+   "word_start": 9485,
+   "word_end": 9486,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1273,
+   "end_line": 1273,
+   "parser_speaker": "Onder",
+   "parser_bioguide_id": "O000177",
+   "llm_speaker": "Vernuccio",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "front of you again, this time in front of Congress, so thank you very much.",
+    "span_text": "Mr. Onder. Yes.",
+    "after": "Mr. Vernuccio. Thank you for your leadership on the Worker Enfranchisement Act that would require"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 11839,
+   "body_word_end": 11865,
+   "word_start": 10756,
+   "word_end": 10782,
+   "n_ref_words_mapped": 26,
+   "word_count": 26,
+   "start_line": 1409,
+   "end_line": 1411,
+   "parser_speaker": "Allen",
+   "parser_bioguide_id": "A000372",
+   "llm_speaker": "DeSaulnier",
+   "llm_bioguide_id": "D000623",
+   "shape": "different person",
+   "excerpt": {
+    "before": "of the country. Ms. Abruzzo. That is right. Mr. DeSaulnier. Thank you. I yield back.",
+    "span_text": "Chairman Allen. I thank the gentleman for yielding, and now \nit is my privilege to recognize our great Chairman Emeritus of \nthis Committee, Ms. Foxx of North Carolina.",
+    "after": "Mrs. Foxx. Thank you very much Mr. Chairman. I appreciate it, and I thank our"
+   },
+   "span_id": "d003"
+  }
+ ]
+}

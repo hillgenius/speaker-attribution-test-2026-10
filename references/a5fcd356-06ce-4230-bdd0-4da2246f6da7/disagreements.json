@@ -1,0 +1,158 @@
+{
+ "hearing_id": "a5fcd356-06ce-4230-bdd0-4da2246f6da7",
+ "chrg": "CHRG-119hhrg64314",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg64314.htm",
+ "print_sha256": "1097c556b0b292981bce8182dcc62552028eecb59412e3a15e9a9949006679de",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "1dcf6414d79442f5d1a3a59151166cf94a2a80b3b0ab247d81d3cc60fdae32be",
+ "n_ref_words": 14979,
+ "roster_source": "committee_membership",
+ "total_body_words": 16627,
+ "words_both_opinion": 14225,
+ "words_agree": 14178,
+ "words_disagree": 47,
+ "words_no_llm_opinion": 1088,
+ "words_no_parser_opinion": 772,
+ "words_inserted_material": 877,
+ "agree_rate": 0.9967,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 321,
+   "end_word": 1069,
+   "word_count": 748,
+   "start_line": 138,
+   "end_line": 276
+  },
+  {
+   "start_word": 1836,
+   "end_word": 1852,
+   "word_count": 16,
+   "start_line": 365,
+   "end_line": 369
+  },
+  {
+   "start_word": 2570,
+   "end_word": 2587,
+   "word_count": 17,
+   "start_line": 445,
+   "end_line": 449
+  },
+  {
+   "start_word": 3603,
+   "end_word": 3619,
+   "word_count": 16,
+   "start_line": 569,
+   "end_line": 573
+  },
+  {
+   "start_word": 4250,
+   "end_word": 4266,
+   "word_count": 16,
+   "start_line": 644,
+   "end_line": 649
+  },
+  {
+   "start_word": 5382,
+   "end_word": 5398,
+   "word_count": 16,
+   "start_line": 779,
+   "end_line": 783
+  },
+  {
+   "start_word": 6261,
+   "end_word": 6277,
+   "word_count": 16,
+   "start_line": 880,
+   "end_line": 884
+  },
+  {
+   "start_word": 6859,
+   "end_word": 6875,
+   "word_count": 16,
+   "start_line": 944,
+   "end_line": 948
+  },
+  {
+   "start_word": 7554,
+   "end_word": 7570,
+   "word_count": 16,
+   "start_line": 1021,
+   "end_line": 1025
+  }
+ ],
+ "n_body_words_mapped": 14964,
+ "n_compare_words_spans": 3,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 9311,
+   "body_word_end": 9313,
+   "word_start": 7938,
+   "word_end": 7940,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1202,
+   "end_line": 1202,
+   "parser_speaker": "Epstein",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Omar",
+   "llm_bioguide_id": "O000173",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "can choose to stick with the existing system. Ms. Omar. Thank you. I yield back.",
+    "span_text": "Mr. Epstein. Thank you.",
+    "after": "Chairman Mackenzie. Thank you. Mr. Epstein, I will go to myself for the next round"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 10358,
+   "body_word_end": 10401,
+   "word_start": 8966,
+   "word_end": 9009,
+   "n_ref_words_mapped": 43,
+   "word_count": 43,
+   "start_line": 1308,
+   "end_line": 1312,
+   "parser_speaker": "Epstein",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Grothman",
+   "llm_bioguide_id": "G000576",
+   "shape": "different person",
+   "excerpt": {
+    "before": "the 1950's if you were in the military. Okay. Your written testimony--this is for you,",
+    "span_text": "Mr. Epstein. Your written testimony also says the current mega \nevent model in boxing financially benefits a few boxers at the \ntop. How would the creation of a UBO organization promote \ngrowth for this sport and success spread out among boxers a \nlittle bit more?",
+    "after": "Mr. Foster. Yes. I think the model really is what we have done at the"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 16206,
+   "body_word_end": 16208,
+   "word_start": 14668,
+   "word_end": 14670,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1879,
+   "end_line": 1879,
+   "parser_speaker": "Mackenzie",
+   "parser_bioguide_id": "M001230",
+   "llm_speaker": "Omar",
+   "llm_bioguide_id": "O000173",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "enter data from BoxRec about the number of fights and boxing events in recent years.",
+    "span_text": "Chairman Mackenzie. Without objection.",
+    "after": "[The information referred to follows:] [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] Chairman Mackenzie. I would"
+   },
+   "span_id": "d003"
+  }
+ ]
+}

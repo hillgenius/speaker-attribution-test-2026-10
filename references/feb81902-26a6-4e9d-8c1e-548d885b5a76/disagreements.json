@@ -1,0 +1,217 @@
+{
+ "hearing_id": "feb81902-26a6-4e9d-8c1e-548d885b5a76",
+ "chrg": "CHRG-119hhrg60779",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60779.htm",
+ "print_sha256": "ceaeb36d07dbc76395b7e1dcc006f276123aee5f15f3f83ef134551fe5b29169",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "5064ba11071a4b22da713ba61c8e586fd9248cdddfa7e3240161825333b4076d",
+ "n_ref_words": 15783,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 16784,
+ "words_both_opinion": 15783,
+ "words_agree": 15758,
+ "words_disagree": 25,
+ "words_no_llm_opinion": 586,
+ "words_no_parser_opinion": 933,
+ "words_inserted_material": 68,
+ "agree_rate": 0.9984,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 5675,
+   "end_word": 5692,
+   "word_count": 17,
+   "start_line": 738,
+   "end_line": 742
+  },
+  {
+   "start_word": 6532,
+   "end_word": 6549,
+   "word_count": 17,
+   "start_line": 845,
+   "end_line": 849
+  },
+  {
+   "start_word": 7289,
+   "end_word": 7306,
+   "word_count": 17,
+   "start_line": 929,
+   "end_line": 933
+  },
+  {
+   "start_word": 8101,
+   "end_word": 8118,
+   "word_count": 17,
+   "start_line": 1031,
+   "end_line": 1035
+  }
+ ],
+ "n_body_words_mapped": 15767,
+ "n_compare_words_spans": 5,
+ "n_header_scan_spans": 2,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 10596,
+   "body_word_end": 10597,
+   "word_start": 9788,
+   "word_end": 9789,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1317,
+   "end_line": 1317,
+   "parser_speaker": "Onder",
+   "parser_bioguide_id": "O000177",
+   "llm_speaker": "Cooper",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "were involved in some recent National Day of Protest. They created the toolkit for it.",
+    "span_text": "Mr. Onder. Right.",
+    "after": "Ms. Cooper. It was for in the name of Palestine, or the Free Palestine movement."
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 12430,
+   "body_word_end": 12450,
+   "word_start": 11579,
+   "word_end": 11599,
+   "n_ref_words_mapped": 20,
+   "word_count": 20,
+   "start_line": 1510,
+   "end_line": 1512,
+   "parser_speaker": "Van Drew",
+   "parser_bioguide_id": "V000133",
+   "llm_speaker": "Cooper",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "overuse my time either. Ms. Cooper, I am going to ask you questions really quickly.",
+    "span_text": "I just want a yes or no. Are universities that tolerate \nharassment of Jewish students violating their obligations under \nTitle VI? Yes or no?",
+    "after": "Ms. Cooper. Yes. Mr. Van Drew. Has the threat environment on campus escalated tremendously, including"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 12487,
+   "body_word_end": 12488,
+   "word_start": 11629,
+   "word_end": 11630,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1518,
+   "end_line": 1518,
+   "parser_speaker": "Cooper",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Van Drew",
+   "llm_bioguide_id": "V000133",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "from Rutgers, including the new president is watching, since October 7, 2023? Yes or no?",
+    "span_text": "Ms. Cooper. Yes.",
+    "after": "Mr. Van Drew. Has the Trump Administration strengthened enforcement of Title VI through investigations, et"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 12509,
+   "body_word_end": 12510,
+   "word_start": 11646,
+   "word_end": 11647,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1522,
+   "end_line": 1522,
+   "parser_speaker": "Cooper",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Van Drew",
+   "llm_bioguide_id": "V000133",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "the Trump Administration strengthened enforcement of Title VI through investigations, et cetera? Yes or no?",
+    "span_text": "Ms. Cooper. Yes.",
+    "after": "Mr. Van Drew. Should colleges that allow open support for terrorist groups like Hamas on"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 12607,
+   "body_word_end": 12609,
+   "word_start": 11728,
+   "word_end": 11730,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1536,
+   "end_line": 1536,
+   "parser_speaker": "Cooper",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Van Drew",
+   "llm_bioguide_id": "V000133",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "student groups that glorify terrorist organizations, face disciplinary questions and conse- quences? Yes or no?",
+    "span_text": "Ms. Cooper. Yes. More.",
+    "after": "Mr. Van Drew. Do you believe that some of the current Federal civil rights enforcement"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Ms. Debra Cooper--Ms. Cooper is the Chief of Digital",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 4623,
+   "body_word_end": 4966,
+   "word_count": 343,
+   "word_start": 4017,
+   "word_end": 4360,
+   "n_ref_words_mapped": 343,
+   "start_line": 611,
+   "end_line": 649,
+   "parser_speaker": "Van Drew",
+   "parser_bioguide_id": "V000133",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "Without objection, all other opening statements will be included in the record. We will now introduce today's witnesses.",
+    "span_text": "Ms. Debra Cooper--Ms. Cooper is the Chief of Digital \nActivism at the End Jew Hatred, a grassroots organization that \nfocuses on combating discrimination and oppression targeting \nJews. She is also Director of Strategy of the Jewish Advocacy \nResearch and Writer group. Her work focuses on the development \nand the implementation of advocacy efforts to protect the right \nof Jews and Israelis in the United States and abroad.\n    Welcome. Good to see you again.\n    Mr. Kenneth L. Marcus--Mr. Marcus is the Founder, Chair, \nand CEO of the Louis D. Brandeis Center for Human Rights Under \nLaw, a nonprofit organization that works to advance the civil \nand human rights of Jewish people. He also serves as a lecturer \nat the George Washington University Law School and previously \nserved as the Assistant Secretary of Education for Civil \nRights.\n    Mr. Dan Schneider--Mr. Schneider is the Vice President for \nFree Speech at the Media Research Center, a media watchdog \norganization. He previously served in the White House, \nDepartment of Labor, Department of Health and Human Services, \nand as a House and Senate staffer.\n    I want to pronounce your name right. Mr. Matt Nosanchuk--\ngot it. Good. Mr. Nosanchuk is the former Deputy Assistant \nSecretary for Operations and Outreach in the Office of Civil \nRights at the Department of Education. He previously co-founded \nand led the New York Jewish Agenda, a nonprofit organization \nfocused on education and advocacy for the Jewish community in \nNew York.\n    We are going to begin by swearing you all in. Would you all \nplease rise? Raise your right hand. Do you swear or affirm \nunder penalty of perjury that the testimony you are about to \ngive is true and correct to the best of your knowledge, \ninformation, and belief, so help you God?\n    Thank you. Be seated.\n    Let the record reflect that the witnesses have answered in \nthe affirmative.\n    Please know that your written testimony will be entered \ninto the record in its entirety. Accordingly, we ask that you \nsummarize your testimony in five minutes.\n    Ms. Cooper, you may begin.",
+    "after": ""
+   },
+   "span_id": "h001",
+   "shape": "header-scan flag"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Mr. Dan Schneider--Mr. Schneider is the Vice President for",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 4760,
+   "body_word_end": 4966,
+   "word_count": 206,
+   "word_start": 4154,
+   "word_end": 4360,
+   "n_ref_words_mapped": 206,
+   "start_line": 626,
+   "end_line": 649,
+   "parser_speaker": "Van Drew",
+   "parser_bioguide_id": "V000133",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "at the George Washington University Law School and previously served as the Assistant Secretary of Education for Civil Rights.",
+    "span_text": "Mr. Dan Schneider--Mr. Schneider is the Vice President for \nFree Speech at the Media Research Center, a media watchdog \norganization. He previously served in the White House, \nDepartment of Labor, Department of Health and Human Services, \nand as a House and Senate staffer.\n    I want to pronounce your name right. Mr. Matt Nosanchuk--\ngot it. Good. Mr. Nosanchuk is the former Deputy Assistant \nSecretary for Operations and Outreach in the Office of Civil \nRights at the Department of Education. He previously co-founded \nand led the New York Jewish Agenda, a nonprofit organization \nfocused on education and advocacy for the Jewish community in \nNew York.\n    We are going to begin by swearing you all in. Would you all \nplease rise? Raise your right hand. Do you swear or affirm \nunder penalty of perjury that the testimony you are about to \ngive is true and correct to the best of your knowledge, \ninformation, and belief, so help you God?\n    Thank you. Be seated.\n    Let the record reflect that the witnesses have answered in \nthe affirmative.\n    Please know that your written testimony will be entered \ninto the record in its entirety. Accordingly, we ask that you \nsummarize your testimony in five minutes.\n    Ms. Cooper, you may begin.",
+    "after": ""
+   },
+   "span_id": "h002",
+   "shape": "header-scan flag"
+  }
+ ]
+}

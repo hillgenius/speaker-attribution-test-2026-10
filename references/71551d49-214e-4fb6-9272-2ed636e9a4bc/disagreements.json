@@ -1,0 +1,72 @@
+{
+ "hearing_id": "71551d49-214e-4fb6-9272-2ed636e9a4bc",
+ "chrg": "CHRG-119hhrg60816",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60816.htm",
+ "print_sha256": "9a62efbcae34c6c9c02f123eb174d1adf8d0ad3754eb6c5f9c0dbd8025692f56",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "a63cc4c85f5082d286f6c7f9fec2219d2ef13cc60a085951e7675f3f5b7c2a6a",
+ "n_ref_words": 10957,
+ "roster_source": "committee_membership",
+ "total_body_words": 11921,
+ "words_both_opinion": 10957,
+ "words_agree": 10941,
+ "words_disagree": 16,
+ "words_no_llm_opinion": 599,
+ "words_no_parser_opinion": 964,
+ "words_inserted_material": 0,
+ "agree_rate": 0.9985,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [],
+ "n_body_words_mapped": 10943,
+ "n_compare_words_spans": 2,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 8071,
+   "body_word_end": 8086,
+   "word_start": 7287,
+   "word_end": 7302,
+   "n_ref_words_mapped": 15,
+   "word_count": 15,
+   "start_line": 1017,
+   "end_line": 1019,
+   "parser_speaker": "Rubenstein",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Crane",
+   "llm_bioguide_id": "C001132",
+   "shape": "different person",
+   "excerpt": {
+    "before": "today. Thank you, Ms. Chairwoman, for hosting this event. I want to start with you,",
+    "span_text": "Dr. Rubenstein. Are you concerned about adversarial countries, \nlike China, developing quantum computing before the United \nStates?",
+    "after": "Dr. Rubenstein. I am definitely concerned about this. We really do not know what is"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 8620,
+   "body_word_end": 8621,
+   "word_start": 7802,
+   "word_end": 7803,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1078,
+   "end_line": 1078,
+   "parser_speaker": "Mandich",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Crane",
+   "llm_bioguide_id": "C001132",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Yes. Mr. Crane. You said you worked in the intelligence field for a long time?",
+    "span_text": "Mr. Mandich. Yes.",
+    "after": "Mr. Crane. Does it concern you that universities like Brown and others allow students to"
+   },
+   "span_id": "d002"
+  }
+ ]
+}

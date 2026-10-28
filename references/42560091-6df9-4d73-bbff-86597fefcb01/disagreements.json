@@ -1,0 +1,100 @@
+{
+ "hearing_id": "42560091-6df9-4d73-bbff-86597fefcb01",
+ "chrg": "CHRG-119hhrg62628",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg62628.htm",
+ "print_sha256": "668598b6a79015534cb5b5b263007c9e648c8040babcce99bca87041300b4a20",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "03fece7fa16bcdaaa8e975603107525e69f93e221d9c3ab11cf56c2f4b73eaee",
+ "n_ref_words": 20240,
+ "roster_source": "committee_membership",
+ "total_body_words": 21159,
+ "words_both_opinion": 12339,
+ "words_agree": 12108,
+ "words_disagree": 231,
+ "words_no_llm_opinion": 573,
+ "words_no_parser_opinion": 842,
+ "words_inserted_material": 7978,
+ "agree_rate": 0.9813,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1382,
+   "end_word": 2103,
+   "word_count": 721,
+   "start_line": 324,
+   "end_line": 398
+  },
+  {
+   "start_word": 2904,
+   "end_word": 3557,
+   "word_count": 653,
+   "start_line": 483,
+   "end_line": 544
+  },
+  {
+   "start_word": 3579,
+   "end_word": 4169,
+   "word_count": 590,
+   "start_line": 547,
+   "end_line": 608
+  },
+  {
+   "start_word": 5632,
+   "end_word": 6652,
+   "word_count": 1020,
+   "start_line": 788,
+   "end_line": 922
+  },
+  {
+   "start_word": 7811,
+   "end_word": 10401,
+   "word_count": 2590,
+   "start_line": 1059,
+   "end_line": 1326
+  },
+  {
+   "start_word": 11080,
+   "end_word": 11777,
+   "word_count": 697,
+   "start_line": 1410,
+   "end_line": 1488
+  },
+  {
+   "start_word": 12888,
+   "end_word": 14595,
+   "word_count": 1707,
+   "start_line": 1617,
+   "end_line": 1795
+  }
+ ],
+ "n_body_words_mapped": 20157,
+ "n_compare_words_spans": 1,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 16408,
+   "body_word_end": 16639,
+   "word_start": 15655,
+   "word_end": 15886,
+   "n_ref_words_mapped": 231,
+   "word_count": 231,
+   "start_line": 1981,
+   "end_line": 2002,
+   "parser_speaker": "Graves",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Pou",
+   "llm_bioguide_id": "P000621",
+   "shape": "different person",
+   "excerpt": {
+    "before": "your department learn from the parade shooting, about the presence of firearms in the crowds?",
+    "span_text": "Chief Graves. As we plan for all situations, obviously \nlocalized gun violence is one of those. You know, when you look \nat these mass gatherings, we're looking at lone attacks, we're \nlooking at coordinated terrorist attacks, but also localized \ngun violence. On that day, on February 14, 2024, there were 2 \ngroups of people that had a perceived provocation with one \nanother that led to gun violence.\n    The lack of, I guess, the respect for life, conflict \nresolution, emotional regulation, and just going straight to \nguns in a conflict is a problem in many cities in America. I \nwould say, you know, as we plan for those, we want to make sure \nthat we have enough officers that are on the ground that can \nrespond, that can immediately stop a threat, or, in fact, if we \nsee something brewing, we can deescalate it.\n    In this situation we had a lot of officers right in the \narea where the shooting happened. At times law enforcement is \nno longer a deterrent when someone decides to pull a trigger. \nYou know, we've seen that time and again not only in my city, \nbut also across the United States. So just making sure that we \nare properly deployed and that we also have the training that \nyou saw on display of officers running toward the threat when \nyou have what you believe to be an active shooter.",
+    "after": "Ms. Pou. Thank you. Thank you. Chief, very quickly, how do the police departments ensure"
+   },
+   "span_id": "d001"
+  }
+ ]
+}

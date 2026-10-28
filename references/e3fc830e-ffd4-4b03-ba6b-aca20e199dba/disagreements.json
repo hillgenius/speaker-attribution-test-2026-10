@@ -1,0 +1,124 @@
+{
+ "hearing_id": "e3fc830e-ffd4-4b03-ba6b-aca20e199dba",
+ "chrg": "CHRG-119shrg60343",
+ "chamber": "senate",
+ "print_file": "CHRG-119shrg60343.htm",
+ "print_sha256": "0df5ab5d518918d1df1981741d189dd234f329b9b7d0952b3808460ec5dbca3d",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "b1d54b642836ed5e6beb046aa2dcfc2606511768df1e56165cac997411c27cd3",
+ "n_ref_words": 11038,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 16420,
+ "words_both_opinion": 11038,
+ "words_agree": 10963,
+ "words_disagree": 75,
+ "words_no_llm_opinion": 446,
+ "words_no_parser_opinion": 5365,
+ "words_inserted_material": 17,
+ "agree_rate": 0.9932,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 2,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 2665,
+   "end_word": 2682,
+   "word_count": 17,
+   "start_line": 453,
+   "end_line": 460
+  }
+ ],
+ "n_body_words_mapped": 11019,
+ "n_compare_words_spans": 4,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 1960,
+   "body_word_end": 2004,
+   "word_start": 1502,
+   "word_end": 1546,
+   "n_ref_words_mapped": 44,
+   "word_count": 44,
+   "start_line": 366,
+   "end_line": 370,
+   "parser_speaker": "Sullivan",
+   "parser_bioguide_id": "S001198",
+   "llm_speaker": "Hirono",
+   "llm_bioguide_id": "H001042",
+   "shape": "different person",
+   "excerpt": {
+    "before": "General Reed, again, I thank you for your leadership. I look forward to your testimony",
+    "span_text": "Senator Sullivan. Thank you, Senator Hirono. I see that we \nhave the Ranking Member of the entire Committee, the former \nChairman of the Armed Services Committee here with us, my good \nfriend, Senator Jack Reed. Senator Reed, would you wish to say \na few opening comments?",
+    "after": "Senator Reed. Mr. Chairman, thank you for your hospitality, but I would just wait for"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 2023,
+   "body_word_end": 2024,
+   "word_start": 1561,
+   "word_end": 1562,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 373,
+   "end_line": 373,
+   "parser_speaker": "Sullivan",
+   "parser_bioguide_id": "S001198",
+   "llm_speaker": "Reed",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Mr. Chairman, thank you for your hospitality, but I would just wait for my questions.",
+    "span_text": "Senator Sullivan. Great.",
+    "after": "Senator Reed. Thank you very much. Senator Sullivan. Okay. Thank you. General Reed, the floor"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 2032,
+   "body_word_end": 2056,
+   "word_start": 1566,
+   "word_end": 1590,
+   "n_ref_words_mapped": 24,
+   "word_count": 24,
+   "start_line": 375,
+   "end_line": 377,
+   "parser_speaker": "Sullivan",
+   "parser_bioguide_id": "S001198",
+   "llm_speaker": "Reed",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "would just wait for my questions. Senator Sullivan. Great. Senator Reed. Thank you very much.",
+    "span_text": "Senator Sullivan. Okay. Thank you. General Reed, the floor \nis yours, and a longer written statement we can make sure it \ngets submitted for the record.",
+    "after": "STATEMENT OF GENERAL RANDALL REED, USAF, COMMANDER, UNITED STATES TRANSPORTATION COMMAND General Reed. Chairman Sullivan,"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 6279,
+   "body_word_end": 6285,
+   "word_start": 5649,
+   "word_end": 5655,
+   "n_ref_words_mapped": 6,
+   "word_count": 6,
+   "start_line": 835,
+   "end_line": 835,
+   "parser_speaker": "Reed",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Sullivan",
+   "llm_bioguide_id": "S001198",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "for aircraft and for sealift. Senator Reed. Thank you very much. Thank you, Mr. Chairman.",
+    "span_text": "Senaror Sullivan: Thank you, Senator Reed. Senator Scott.",
+    "after": "Senator Scott. Thank you. Thank you, Chairman. General Reed, thanks for your service. I appreciate"
+   },
+   "span_id": "d004"
+  }
+ ]
+}

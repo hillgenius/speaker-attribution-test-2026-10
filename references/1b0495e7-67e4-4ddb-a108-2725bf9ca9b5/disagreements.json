@@ -1,0 +1,226 @@
+{
+ "hearing_id": "1b0495e7-67e4-4ddb-a108-2725bf9ca9b5",
+ "chrg": "CHRG-119hhrg59901",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg59901.htm",
+ "print_sha256": "bb5373730474794c01990de35858a9fbde03ca47abdd8618a2cd4d8d4de55bc1",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "3e6a2c70d34a76c442bb39b050f6313c050105a46673b7dd797ea9fc865a4083",
+ "n_ref_words": 29899,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 32165,
+ "words_both_opinion": 29895,
+ "words_agree": 29431,
+ "words_disagree": 464,
+ "words_no_llm_opinion": 1297,
+ "words_no_parser_opinion": 2090,
+ "words_inserted_material": 180,
+ "agree_rate": 0.9845,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 3,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 2237,
+   "end_word": 2252,
+   "word_count": 15,
+   "start_line": 354,
+   "end_line": 357
+  },
+  {
+   "start_word": 2466,
+   "end_word": 2481,
+   "word_count": 15,
+   "start_line": 382,
+   "end_line": 385
+  },
+  {
+   "start_word": 3037,
+   "end_word": 3052,
+   "word_count": 15,
+   "start_line": 453,
+   "end_line": 456
+  },
+  {
+   "start_word": 3809,
+   "end_word": 3824,
+   "word_count": 15,
+   "start_line": 550,
+   "end_line": 553
+  },
+  {
+   "start_word": 4066,
+   "end_word": 4081,
+   "word_count": 15,
+   "start_line": 585,
+   "end_line": 588
+  },
+  {
+   "start_word": 4464,
+   "end_word": 4479,
+   "word_count": 15,
+   "start_line": 632,
+   "end_line": 635
+  },
+  {
+   "start_word": 4797,
+   "end_word": 4812,
+   "word_count": 15,
+   "start_line": 675,
+   "end_line": 678
+  },
+  {
+   "start_word": 6422,
+   "end_word": 6437,
+   "word_count": 15,
+   "start_line": 867,
+   "end_line": 870
+  },
+  {
+   "start_word": 7354,
+   "end_word": 7369,
+   "word_count": 15,
+   "start_line": 979,
+   "end_line": 982
+  },
+  {
+   "start_word": 8154,
+   "end_word": 8169,
+   "word_count": 15,
+   "start_line": 1070,
+   "end_line": 1073
+  },
+  {
+   "start_word": 8991,
+   "end_word": 9006,
+   "word_count": 15,
+   "start_line": 1172,
+   "end_line": 1175
+  },
+  {
+   "start_word": 9507,
+   "end_word": 9522,
+   "word_count": 15,
+   "start_line": 1237,
+   "end_line": 1240
+  }
+ ],
+ "n_body_words_mapped": 29798,
+ "n_compare_words_spans": 4,
+ "n_header_scan_spans": 1,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 22924,
+   "body_word_end": 23082,
+   "word_start": 20987,
+   "word_end": 21145,
+   "n_ref_words_mapped": 158,
+   "word_count": 158,
+   "start_line": 2703,
+   "end_line": 2719,
+   "parser_speaker": "Whitman",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Veasey",
+   "llm_bioguide_id": "V000131",
+   "shape": "different person",
+   "excerpt": {
+    "before": "have athletes been able to work around that, and how has it impacted them academically?",
+    "span_text": "Mr. Whitman. Thank you for the question, Congressman.\n    We have had the chance now at the University of Illinois to \nparticipate in the expanded Big Ten since the beginning of the \nfall, and so I have some firsthand experience watching a number \nof our teams make those trips.\n    The thing that I would remind you is that we continue to \ntry and champion our student-athletes both in their academic \nand their athletic pursuits. And in the expanded Big Ten \nfootprint, just as an example, for schools that compete at the \nlevel that we do, we are used to traveling nationally. Our \nstudent-athletes in all of our sports travel extensively, \nacross the country, to participate in their nonconference \ncompetition.\n    And so, for Illinois, we have now replaced some of those \nnonconference competitions maybe in California or Texas or \nFlorida with now conference competitions. And so the chance for \nthem is not that much different than what it was before.",
+    "after": "Mr. Veasey. Yes. Mr. Whitman. And we are also able to provide them with robust"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 24345,
+   "body_word_end": 24622,
+   "word_start": 22328,
+   "word_end": 22605,
+   "n_ref_words_mapped": 277,
+   "word_count": 277,
+   "start_line": 2862,
+   "end_line": 2896,
+   "parser_speaker": "Kelly",
+   "parser_bioguide_id": "K000385",
+   "llm_speaker": "Bilirakis",
+   "llm_bioguide_id": "B001257",
+   "shape": "different person",
+   "excerpt": {
+    "before": "The gentleman yields back. I now recognize Ms. Kelly for her 5 minutes of questioning.",
+    "span_text": "Ms. Kelly. Thank you, Chair Bilirakis and Ranking Member \nSchakowsky.\n    As we continue with today's hearing, I look forward to \ndiscussing how we can protect college athletes' ability to \nbenefit from NIL and NIH funding for crucial biomedical \nresearch done at our Nation's colleges and universities.\n    As I said in my opening remarks, indirect costs are the \ninfrastructure that makes research possible. They are the \noversight, buildings, utilities, safety protocols, training, \nand regulatory compliance that is a necessary part of medical \nresearch and particularly critical to clinical studies.\n    If these costs are not supported, institutions across the \nNation, like Lurie Children's Hospital, which is affiliated \nwith Northwestern University's Feinberg School of Medicine, \nwill lose the ability to continue discovering and delivering \ncutting-edge treatments, and cures and therapies will be \nessentially undermined. In fact, Lurie Children's expects that \nby 2030 we will need to subsidize their infrastructure costs by \nan additional $30 million per year.\n    College athletes, particularly those in contact sports like \nfootball, face significant risk when it comes to long-term \nhealth, especially concerning head injuries that may not be \nimmediately diagnosed.\n    Studies have shown that around 10 percent of college \nfootball players sustain concussions each season, with many \ngoing undiagnosed and untreated at the time. These injuries, \nparticularly repeated concussions, can lead to long-term \nneurological conditions such as CTE, which may not manifest \nsymptoms until later years.\n    Mr. Whitman, welcome. Given the growing body of research on \nthe long-term effects of brain injuries, what steps are \nathletic directors and universities taking to ensure that \ncollege athletes have access to comprehensive healthcare, \nincluding ongoing monitoring for head injuries even after they \nhave left the field?",
+    "after": "Mr. Whitman. Our student-athletes are the beneficiaries of world-class healthcare, concierge healthcare, 24/7 healthcare that"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 31333,
+   "body_word_end": 31335,
+   "word_start": 29132,
+   "word_end": 29134,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3619,
+   "end_line": 3619,
+   "parser_speaker": "Bilirakis",
+   "parser_bioguide_id": "B001257",
+   "llm_speaker": "Pfluger",
+   "llm_bioguide_id": "P000048",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Playoff''--anyways, I want to enter this into the record, because I think it is important.",
+    "span_text": "Mr. Bilirakis. Without objection.",
+    "after": "[The information appears at the conclusion of the hearing.] Mr. Pfluger. Thank you. And I"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 31662,
+   "body_word_end": 31689,
+   "word_start": 29444,
+   "word_end": 29471,
+   "n_ref_words_mapped": 27,
+   "word_count": 27,
+   "start_line": 3654,
+   "end_line": 3656,
+   "parser_speaker": "Cole",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Pfluger",
+   "llm_bioguide_id": "P000048",
+   "shape": "different person",
+   "excerpt": {
+    "before": "your magic wand, and what is the--what needs to be fixed first, from your perspective?",
+    "span_text": "Ms. Cole. Yes, absolutely. Thank you so much for the \nquestion and also for everything you do for the great State of \nTexas. I am actually from Houston, so----",
+    "after": "Mr. Pfluger. Oh, great. Ms. Cole. Yes. I am very grateful for everything that you"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Mr. Justin Falcinelli. He is a former college athlete,",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 4974,
+   "body_word_end": 5125,
+   "word_count": 151,
+   "word_start": 3490,
+   "word_end": 3640,
+   "n_ref_words_mapped": 150,
+   "start_line": 696,
+   "end_line": 714,
+   "parser_speaker": "Bilirakis",
+   "parser_bioguide_id": "B001257",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "Ms. Emily Cole, All-American track athlete, Duke University, class of 2024. Thank you for being here. We appreciate you so much.",
+    "span_text": "Mr. Justin Falcinelli. He is a former college athlete, \nClemson University--so you are representing the ACC--and vice \npresident of the College Football Players Association.\n    Welcome.\n    Mr. Anthony Egbo, a football athlete, Abilene Christian \nUniversity, class of 2024.\n    Thanks for being here, Anthony.\n    And then we have Mr. Josh Whitman, who is an athletic \ndirector at the University of Illinois. Go, Illini! And we have \ngot an Illinois Member of Congress here, our ranking member, so \nshe will be happy about that.\n    And then we want to introduce--I am going to yield to \nRepresentative Fry on this introduction--but a great coach and \nan outstanding individual and comes from a great family.\n    So I really appreciate you being here, sir, representing \nyourself, but you are also representing to a certain extent the \nSEC.\n    So thank you very much.\n    I am going to yield to Representative Fry to introduce our",
+    "after": ""
+   },
+   "span_id": "h001",
+   "shape": "header-scan flag"
+  }
+ ]
+}

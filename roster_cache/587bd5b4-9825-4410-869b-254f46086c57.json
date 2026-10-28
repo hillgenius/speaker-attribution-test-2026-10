@@ -1,0 +1,3551 @@
+{
+ "hearing_id": "587bd5b4-9825-4410-869b-254f46086c57",
+ "congress": 119,
+ "chamber": "House",
+ "committee_candidates": [
+  {
+   "bioguide_id": "K000400",
+   "name": "Sydney Kamlager-Dove",
+   "cl_last": "Kamlager-Dove",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "R000614",
+   "name": "Chip Roy",
+   "cl_last": "Roy",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "M001177",
+   "name": "Tom McClintock",
+   "cl_last": "McClintock",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "M001184",
+   "name": "Thomas Massie",
+   "cl_last": "Massie",
+   "state": "KY"
+  },
+  {
+   "bioguide_id": "H001096",
+   "name": "Harriet Hageman",
+   "cl_last": "Hageman",
+   "state": "WY"
+  },
+  {
+   "bioguide_id": "H001095",
+   "name": "Wesley Hunt",
+   "cl_last": "Hunt",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "G000576",
+   "name": "Glenn Grothman",
+   "cl_last": "Grothman",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "H001102",
+   "name": "Mark Harris",
+   "cl_last": "Harris",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "O000177",
+   "name": "Robert Onder",
+   "cl_last": "Onder",
+   "state": "MO"
+  },
+  {
+   "bioguide_id": "G000603",
+   "name": "Brandon Gill",
+   "cl_last": "Gill",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "S001205",
+   "name": "Mary Gay Scanlon",
+   "cl_last": "Scanlon",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "C001068",
+   "name": "Steve Cohen",
+   "cl_last": "Cohen",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "J000298",
+   "name": "Pramila Jayapal",
+   "cl_last": "Jayapal",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "N000191",
+   "name": "Joe Neguse",
+   "cl_last": "Neguse",
+   "state": "CO"
+  },
+  {
+   "bioguide_id": "B001318",
+   "name": "Becca Balint",
+   "cl_last": "Balint",
+   "state": "VT"
+  },
+  {
+   "bioguide_id": "G000599",
+   "name": "Daniel Goldman",
+   "cl_last": "Goldman",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "S001193",
+   "name": "Eric Swalwell",
+   "cl_last": "Swalwell",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "C001130",
+   "name": "Jasmine Crockett",
+   "cl_last": "Crockett",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "J000289",
+   "name": "Jim Jordan",
+   "cl_last": "Jordan",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "I000056",
+   "name": "Darrell Issa",
+   "cl_last": "Issa",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "B001302",
+   "name": "Andy Biggs",
+   "cl_last": "Biggs",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "T000165",
+   "name": "Thomas Tiffany",
+   "cl_last": "Tiffany",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "F000471",
+   "name": "Scott Fitzgerald",
+   "cl_last": "Fitzgerald",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "C001118",
+   "name": "Ben Cline",
+   "cl_last": "Cline",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "G000589",
+   "name": "Lance Gooden",
+   "cl_last": "Gooden",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "V000133",
+   "name": "Jefferson Van Drew",
+   "cl_last": "Van Drew",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "N000026",
+   "name": "Troy Nehls",
+   "cl_last": "Nehls",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "M001212",
+   "name": "Barry Moore",
+   "cl_last": "Moore",
+   "state": "AL"
+  },
+  {
+   "bioguide_id": "L000597",
+   "name": "Laurel Lee",
+   "cl_last": "Lee",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "F000478",
+   "name": "Russell Fry",
+   "cl_last": "Fry",
+   "state": "SC"
+  },
+  {
+   "bioguide_id": "K000405",
+   "name": "Brad Knott",
+   "cl_last": "Knott",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "S001228",
+   "name": "Derek Schmidt",
+   "cl_last": "Schmidt",
+   "state": "KS"
+  },
+  {
+   "bioguide_id": "B001322",
+   "name": "Michael Baumgartner",
+   "cl_last": "Baumgartner",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "R000606",
+   "name": "Jamie Raskin",
+   "cl_last": "Raskin",
+   "state": "MD"
+  },
+  {
+   "bioguide_id": "N000002",
+   "name": "Jerrold Nadler",
+   "cl_last": "Nadler",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "L000397",
+   "name": "Zoe Lofgren",
+   "cl_last": "Lofgren",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "J000288",
+   "name": "Hank Johnson",
+   "cl_last": "Johnson",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "L000582",
+   "name": "Ted Lieu",
+   "cl_last": "Lieu",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "C001110",
+   "name": "Lou Correa",
+   "cl_last": "Correa",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "M001208",
+   "name": "Lucy McBath",
+   "cl_last": "McBath",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "R000305",
+   "name": "Deborah Ross",
+   "cl_last": "Ross",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "G000586",
+   "name": "Chuy Garcia",
+   "cl_last": "Garc\u00eda",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "M001217",
+   "name": "Jared Moskowitz",
+   "cl_last": "Moskowitz",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "K000401",
+   "name": "Kevin Kiley",
+   "cl_last": "Kiley",
+   "state": "CA"
+  }
+ ],
+ "chamber_candidates": [
+  {
+   "bioguide_id": "C001059",
+   "name": "Jim Costa",
+   "cl_last": "Costa",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "G000568",
+   "name": "Morgan Griffith",
+   "cl_last": "Griffith",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "N000002",
+   "name": "Jerrold Nadler",
+   "cl_last": "Nadler",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "T000480",
+   "name": "William Timmons",
+   "cl_last": "Timmons",
+   "state": "SC"
+  },
+  {
+   "bioguide_id": "H001095",
+   "name": "Wesley Hunt",
+   "cl_last": "Hunt",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "W000804",
+   "name": "Robert Wittman",
+   "cl_last": "Wittman",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "R000612",
+   "name": "John Rose",
+   "cl_last": "Rose",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "V000081",
+   "name": "Nydia Velazquez",
+   "cl_last": "Vel\u00e1zquez",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "O000176",
+   "name": "Johnny Olszewski",
+   "cl_last": "Olszewski",
+   "state": "MD"
+  },
+  {
+   "bioguide_id": "S001218",
+   "name": "Melanie Stansbury",
+   "cl_last": "Stansbury",
+   "state": "NM"
+  },
+  {
+   "bioguide_id": "C001132",
+   "name": "Elijah Crane",
+   "cl_last": "Crane",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "L000600",
+   "name": "Nicholas Langworthy",
+   "cl_last": "Langworthy",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "F000474",
+   "name": "Mike Flood",
+   "cl_last": "Flood",
+   "state": "NE"
+  },
+  {
+   "bioguide_id": "M001204",
+   "name": "Daniel Meuser",
+   "cl_last": "Meuser",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "T000165",
+   "name": "Thomas Tiffany",
+   "cl_last": "Tiffany",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "B001307",
+   "name": "James Baird",
+   "cl_last": "Baird",
+   "state": "IN"
+  },
+  {
+   "bioguide_id": "M001241",
+   "name": "Dave Min",
+   "cl_last": "Min",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "V000139",
+   "name": "Matt Van Epps",
+   "cl_last": "Van Epps",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "S001224",
+   "name": "Keith Self",
+   "cl_last": "Self",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "H000874",
+   "name": "Steny Hoyer",
+   "cl_last": "Hoyer",
+   "state": "MD"
+  },
+  {
+   "bioguide_id": "T000488",
+   "name": "Shri Thanedar",
+   "cl_last": "Thanedar",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "M001214",
+   "name": "Frank Mrvan",
+   "cl_last": "Mrvan",
+   "state": "IN"
+  },
+  {
+   "bioguide_id": "G000576",
+   "name": "Glenn Grothman",
+   "cl_last": "Grothman",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "M001206",
+   "name": "Joseph Morelle",
+   "cl_last": "Morelle",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "H001085",
+   "name": "Chrissy Houlahan",
+   "cl_last": "Houlahan",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "S001190",
+   "name": "Brad Schneider",
+   "cl_last": "Schneider",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "L000397",
+   "name": "Zoe Lofgren",
+   "cl_last": "Lofgren",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "D000096",
+   "name": "Danny Davis",
+   "cl_last": "Davis",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "H001047",
+   "name": "Jim Himes",
+   "cl_last": "Himes",
+   "state": "CT"
+  },
+  {
+   "bioguide_id": "G000581",
+   "name": "Vicente Gonzalez",
+   "cl_last": "Gonzalez",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "S001220",
+   "name": "Dale Strong",
+   "cl_last": "Strong",
+   "state": "AL"
+  },
+  {
+   "bioguide_id": "L000590",
+   "name": "Susie Lee",
+   "cl_last": "Lee",
+   "state": "NV"
+  },
+  {
+   "bioguide_id": "M001238",
+   "name": "Sarah McBride",
+   "cl_last": "McBride",
+   "state": "DE"
+  },
+  {
+   "bioguide_id": "H001081",
+   "name": "Jahana Hayes",
+   "cl_last": "Hayes",
+   "state": "CT"
+  },
+  {
+   "bioguide_id": "B001287",
+   "name": "Ami Bera",
+   "cl_last": "Bera",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "C001131",
+   "name": "Greg Casar",
+   "cl_last": "Casar",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "L000606",
+   "name": "George Latimer",
+   "cl_last": "Latimer",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "G000590",
+   "name": "Mark Green",
+   "cl_last": "Green",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "N000189",
+   "name": "Dan Newhouse",
+   "cl_last": "Newhouse",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "S001213",
+   "name": "Bryan Steil",
+   "cl_last": "Steil",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "D000626",
+   "name": "Warren Davidson",
+   "cl_last": "Davidson",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "M000317",
+   "name": "Nicole Malliotakis",
+   "cl_last": "Malliotakis",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "E000301",
+   "name": "Sarah Elfreth",
+   "cl_last": "Elfreth",
+   "state": "MD"
+  },
+  {
+   "bioguide_id": "S001148",
+   "name": "Mike Simpson",
+   "cl_last": "Simpson",
+   "state": "ID"
+  },
+  {
+   "bioguide_id": "V000135",
+   "name": "Derrick Van Orden",
+   "cl_last": "Van Orden",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "M001227",
+   "name": "Jennifer McClellan",
+   "cl_last": "McClellan",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "C001069",
+   "name": "Joe Courtney",
+   "cl_last": "Courtney",
+   "state": "CT"
+  },
+  {
+   "bioguide_id": "M001230",
+   "name": "Ryan Mackenzie",
+   "cl_last": "Mackenzie",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "J000288",
+   "name": "Hank Johnson",
+   "cl_last": "Johnson",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "D000032",
+   "name": "Byron Donalds",
+   "cl_last": "Donalds",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "M001217",
+   "name": "Jared Moskowitz",
+   "cl_last": "Moskowitz",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "C001087",
+   "name": "Rick Crawford",
+   "cl_last": "Crawford",
+   "state": "AR"
+  },
+  {
+   "bioguide_id": "B001291",
+   "name": "Brian Babin",
+   "cl_last": "Babin",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "B001296",
+   "name": "Brendan Boyle",
+   "cl_last": "Boyle",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "B001327",
+   "name": "Robert Bresnahan",
+   "cl_last": "Bresnahan",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "M001228",
+   "name": "Celeste Maloy",
+   "cl_last": "Maloy",
+   "state": "UT"
+  },
+  {
+   "bioguide_id": "F000469",
+   "name": "Russ Fulcher",
+   "cl_last": "Fulcher",
+   "state": "ID"
+  },
+  {
+   "bioguide_id": "P000610",
+   "name": "Stacey Plaskett",
+   "cl_last": "Plaskett",
+   "state": "VI"
+  },
+  {
+   "bioguide_id": "R000606",
+   "name": "Jamie Raskin",
+   "cl_last": "Raskin",
+   "state": "MD"
+  },
+  {
+   "bioguide_id": "C001116",
+   "name": "Andrew Clyde",
+   "cl_last": "Clyde",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "S001212",
+   "name": "Pete Stauber",
+   "cl_last": "Stauber",
+   "state": "MN"
+  },
+  {
+   "bioguide_id": "S001200",
+   "name": "Darren Soto",
+   "cl_last": "Soto",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "A000369",
+   "name": "Mark Amodei",
+   "cl_last": "Amodei",
+   "state": "NV"
+  },
+  {
+   "bioguide_id": "C001112",
+   "name": "Salud Carbajal",
+   "cl_last": "Carbajal",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "H001090",
+   "name": "Josh Harder",
+   "cl_last": "Harder",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "S000510",
+   "name": "Adam Smith",
+   "cl_last": "Smith",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "B000740",
+   "name": "Stephanie Bice",
+   "cl_last": "Bice",
+   "state": "OK"
+  },
+  {
+   "bioguide_id": "C001103",
+   "name": "Buddy Carter",
+   "cl_last": "Carter",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "C001053",
+   "name": "Tom Cole",
+   "cl_last": "Cole",
+   "state": "OK"
+  },
+  {
+   "bioguide_id": "M001216",
+   "name": "Cory Mills",
+   "cl_last": "Mills",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "A000381",
+   "name": "Yassamin Ansari",
+   "cl_last": "Ansari",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "D000600",
+   "name": "Mario Diaz-Balart",
+   "cl_last": "Diaz-Balart",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "M001163",
+   "name": "Doris Matsui",
+   "cl_last": "Matsui",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "M000871",
+   "name": "Tracey Mann",
+   "cl_last": "Mann",
+   "state": "KS"
+  },
+  {
+   "bioguide_id": "C001066",
+   "name": "Kathy Castor",
+   "cl_last": "Castor",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "B001292",
+   "name": "Donald Beyer",
+   "cl_last": "Beyer",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "J000305",
+   "name": "Sara Jacobs",
+   "cl_last": "Jacobs",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "A000055",
+   "name": "Robert Aderholt",
+   "cl_last": "Aderholt",
+   "state": "AL"
+  },
+  {
+   "bioguide_id": "J000309",
+   "name": "Jonathan Jackson",
+   "cl_last": "Jackson",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "F000472",
+   "name": "Scott Franklin",
+   "cl_last": "Franklin",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "H001068",
+   "name": "Jared Huffman",
+   "cl_last": "Huffman",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "B001282",
+   "name": "Andy Barr",
+   "cl_last": "Barr",
+   "state": "KY"
+  },
+  {
+   "bioguide_id": "D000623",
+   "name": "Mark DeSaulnier",
+   "cl_last": "DeSaulnier",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "H001101",
+   "name": "Pat Harrigan",
+   "cl_last": "Harrigan",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "S001229",
+   "name": "Jefferson Shreve",
+   "cl_last": "Shreve",
+   "state": "IN"
+  },
+  {
+   "bioguide_id": "P000197",
+   "name": "Nancy Pelosi",
+   "cl_last": "Pelosi",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "K000388",
+   "name": "Trent Kelly",
+   "cl_last": "Kelly",
+   "state": "MS"
+  },
+  {
+   "bioguide_id": "M001245",
+   "name": "Christian Menefee",
+   "cl_last": "Menefee",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "W000823",
+   "name": "Michael Waltz",
+   "cl_last": null,
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "T000468",
+   "name": "Dina Titus",
+   "cl_last": "Titus",
+   "state": "NV"
+  },
+  {
+   "bioguide_id": "G000599",
+   "name": "Daniel Goldman",
+   "cl_last": "Goldman",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "W000806",
+   "name": "Daniel Webster",
+   "cl_last": "Webster",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "W000798",
+   "name": "Tim Walberg",
+   "cl_last": "Walberg",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "F000468",
+   "name": "Lizzie Fletcher",
+   "cl_last": "Fletcher",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "B001260",
+   "name": "Vern Buchanan",
+   "cl_last": "Buchanan",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "A000375",
+   "name": "Jodey Arrington",
+   "cl_last": "Arrington",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "M000687",
+   "name": "Kweisi Mfume",
+   "cl_last": "Mfume",
+   "state": "MD"
+  },
+  {
+   "bioguide_id": "C001101",
+   "name": "Katherine Clark",
+   "cl_last": "Clark",
+   "state": "MA"
+  },
+  {
+   "bioguide_id": "K000402",
+   "name": "Timothy Kennedy",
+   "cl_last": "Kennedy",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "R000621",
+   "name": "Emily Randall",
+   "cl_last": "Randall",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "W000814",
+   "name": "Randy Weber",
+   "cl_last": "Weber",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "K000392",
+   "name": "David Kustoff",
+   "cl_last": "Kustoff",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "M001194",
+   "name": "John Moolenaar",
+   "cl_last": "Moolenaar",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "W000795",
+   "name": "Joe Wilson",
+   "cl_last": "Wilson",
+   "state": "SC"
+  },
+  {
+   "bioguide_id": "G000593",
+   "name": "Carlos Gimenez",
+   "cl_last": "Gimenez",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "W000816",
+   "name": "Roger Williams",
+   "cl_last": "Williams",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "J000310",
+   "name": "Julie Johnson",
+   "cl_last": "Johnson",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "G000559",
+   "name": "John Garamendi",
+   "cl_last": "Garamendi",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "T000474",
+   "name": "Norma Torres",
+   "cl_last": "Torres",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "G000583",
+   "name": "Josh Gottheimer",
+   "cl_last": "Gottheimer",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "B001322",
+   "name": "Michael Baumgartner",
+   "cl_last": "Baumgartner",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "F000454",
+   "name": "Bill Foster",
+   "cl_last": "Foster",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "P000609",
+   "name": "Gary Palmer",
+   "cl_last": "Palmer",
+   "state": "AL"
+  },
+  {
+   "bioguide_id": "C001110",
+   "name": "Lou Correa",
+   "cl_last": "Correa",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "S000522",
+   "name": "Chris Smith",
+   "cl_last": "Smith",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "M001208",
+   "name": "Lucy McBath",
+   "cl_last": "McBath",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "F000484",
+   "name": "Randy Fine",
+   "cl_last": "Fine",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "W000797",
+   "name": "Debbie Wasserman Schultz",
+   "cl_last": "Wasserman Schultz",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "L000599",
+   "name": "Michael Lawler",
+   "cl_last": "Lawler",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "M000194",
+   "name": "Nancy Mace",
+   "cl_last": "Mace",
+   "state": "SC"
+  },
+  {
+   "bioguide_id": "K000389",
+   "name": "Ro Khanna",
+   "cl_last": "Khanna",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "M001239",
+   "name": "John McGuire",
+   "cl_last": "McGuire",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "C001051",
+   "name": "John Carter",
+   "cl_last": "Carter",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "M001219",
+   "name": "James Moylan",
+   "cl_last": "Moylan",
+   "state": "GU"
+  },
+  {
+   "bioguide_id": "E000294",
+   "name": "Tom Emmer",
+   "cl_last": "Emmer",
+   "state": "MN"
+  },
+  {
+   "bioguide_id": "F000481",
+   "name": "Shomari Figures",
+   "cl_last": "Figures",
+   "state": "AL"
+  },
+  {
+   "bioguide_id": "J000289",
+   "name": "Jim Jordan",
+   "cl_last": "Jordan",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "T000460",
+   "name": "Mike Thompson",
+   "cl_last": "Thompson",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "R000395",
+   "name": "Hal Rogers",
+   "cl_last": "Rogers",
+   "state": "KY"
+  },
+  {
+   "bioguide_id": "G000604",
+   "name": "Maggie Goodlander",
+   "cl_last": "Goodlander",
+   "state": "NH"
+  },
+  {
+   "bioguide_id": "V000133",
+   "name": "Jefferson Van Drew",
+   "cl_last": "Van Drew",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "H001093",
+   "name": "Erin Houchin",
+   "cl_last": "Houchin",
+   "state": "IN"
+  },
+  {
+   "bioguide_id": "S001159",
+   "name": "Marilyn Strickland",
+   "cl_last": "Strickland",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "L000601",
+   "name": "Greg Landsman",
+   "cl_last": "Landsman",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "M001160",
+   "name": "Gwen Moore",
+   "cl_last": "Moore",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "C001080",
+   "name": "Judy Chu",
+   "cl_last": "Chu",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "B001315",
+   "name": "Nikki Budzinski",
+   "cl_last": "Budzinski",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "J000299",
+   "name": "Mike Johnson",
+   "cl_last": "Johnson",
+   "state": "LA"
+  },
+  {
+   "bioguide_id": "M001226",
+   "name": "Robert Menendez",
+   "cl_last": "Menendez",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "L000596",
+   "name": "Anna Paulina Luna",
+   "cl_last": "Luna",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "C001108",
+   "name": "James Comer",
+   "cl_last": "Comer",
+   "state": "KY"
+  },
+  {
+   "bioguide_id": "H001058",
+   "name": "Bill Huizenga",
+   "cl_last": "Huizenga",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "Y000067",
+   "name": "Rudy Yakym",
+   "cl_last": "Yakym",
+   "state": "IN"
+  },
+  {
+   "bioguide_id": "T000490",
+   "name": "David Taylor",
+   "cl_last": "Taylor",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "O000019",
+   "name": "Jay Obernolte",
+   "cl_last": "Obernolte",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "F000466",
+   "name": "Brian Fitzpatrick",
+   "cl_last": "Fitzpatrick",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "G000601",
+   "name": "Craig Goldman",
+   "cl_last": "Goldman",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "D000216",
+   "name": "Rosa DeLauro",
+   "cl_last": "DeLauro",
+   "state": "CT"
+  },
+  {
+   "bioguide_id": "V000129",
+   "name": "David Valadao",
+   "cl_last": "Valadao",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "P000597",
+   "name": "Chellie Pingree",
+   "cl_last": "Pingree",
+   "state": "ME"
+  },
+  {
+   "bioguide_id": "M001205",
+   "name": "Carol Miller",
+   "cl_last": "Miller",
+   "state": "WV"
+  },
+  {
+   "bioguide_id": "G000598",
+   "name": "Robert Garcia",
+   "cl_last": "Garcia",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "L000585",
+   "name": "Darin LaHood",
+   "cl_last": "LaHood",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "T000463",
+   "name": "Michael Turner",
+   "cl_last": "Turner",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "M001232",
+   "name": "April McClain Delaney",
+   "cl_last": "McClain Delaney",
+   "state": "MD"
+  },
+  {
+   "bioguide_id": "N000015",
+   "name": "Richard Neal",
+   "cl_last": "Neal",
+   "state": "MA"
+  },
+  {
+   "bioguide_id": "L000595",
+   "name": "Julia Letlow",
+   "cl_last": "Letlow",
+   "state": "LA"
+  },
+  {
+   "bioguide_id": "J000302",
+   "name": "John Joyce",
+   "cl_last": "Joyce",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "K000375",
+   "name": "William Keating",
+   "cl_last": "Keating",
+   "state": "MA"
+  },
+  {
+   "bioguide_id": "C001068",
+   "name": "Steve Cohen",
+   "cl_last": "Cohen",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "T000193",
+   "name": "Bennie Thompson",
+   "cl_last": "Thompson",
+   "state": "MS"
+  },
+  {
+   "bioguide_id": "F000478",
+   "name": "Russell Fry",
+   "cl_last": "Fry",
+   "state": "SC"
+  },
+  {
+   "bioguide_id": "E000299",
+   "name": "Veronica Escobar",
+   "cl_last": "Escobar",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "W000788",
+   "name": "Nikema Williams",
+   "cl_last": "Williams",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "R000620",
+   "name": "Luz Rivas",
+   "cl_last": "Rivas",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "S001214",
+   "name": "Greg Steube",
+   "cl_last": "Steube",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "C001072",
+   "name": "Andre Carson",
+   "cl_last": "Carson",
+   "state": "IN"
+  },
+  {
+   "bioguide_id": "W000187",
+   "name": "Maxine Waters",
+   "cl_last": "Waters",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "G000602",
+   "name": "Laura Gillen",
+   "cl_last": "Gillen",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "K000376",
+   "name": "Mike Kelly",
+   "cl_last": "Kelly",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "B001285",
+   "name": "Julia Brownley",
+   "cl_last": "Brownley",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "F000459",
+   "name": "Chuck Fleischmann",
+   "cl_last": "Fleischmann",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "B001325",
+   "name": "Sheri Biggs",
+   "cl_last": "Biggs",
+   "state": "SC"
+  },
+  {
+   "bioguide_id": "S001193",
+   "name": "Eric Swalwell",
+   "cl_last": "Swalwell",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "M001177",
+   "name": "Tom McClintock",
+   "cl_last": "McClintock",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "P000614",
+   "name": "Chris Pappas",
+   "cl_last": "Pappas",
+   "state": "NH"
+  },
+  {
+   "bioguide_id": "G000606",
+   "name": "Adelita Grijalva",
+   "cl_last": "Grijalva",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "L000557",
+   "name": "John Larson",
+   "cl_last": "Larson",
+   "state": "CT"
+  },
+  {
+   "bioguide_id": "D000617",
+   "name": "Suzan DelBene",
+   "cl_last": "DelBene",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "C001127",
+   "name": "Sheila Cherfilus-McCormick",
+   "cl_last": "Cherfilus-McCormick",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "C001061",
+   "name": "Emanuel Cleaver",
+   "cl_last": "Cleaver",
+   "state": "MO"
+  },
+  {
+   "bioguide_id": "Z000018",
+   "name": "Ryan Zinke",
+   "cl_last": "Zinke",
+   "state": "MT"
+  },
+  {
+   "bioguide_id": "M001237",
+   "name": "Kristen McDonald Rivet",
+   "cl_last": "McDonald Rivet",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "J000311",
+   "name": "Brian Jack",
+   "cl_last": "Jack",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "E000235",
+   "name": "Mike Ezell",
+   "cl_last": "Ezell",
+   "state": "MS"
+  },
+  {
+   "bioguide_id": "O000177",
+   "name": "Robert Onder",
+   "cl_last": "Onder",
+   "state": "MO"
+  },
+  {
+   "bioguide_id": "E000297",
+   "name": "Adriano Espaillat",
+   "cl_last": "Espaillat",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "S000929",
+   "name": "Victoria Spartz",
+   "cl_last": "Spartz",
+   "state": "IN"
+  },
+  {
+   "bioguide_id": "B000668",
+   "name": "Cliff Bentz",
+   "cl_last": "Bentz",
+   "state": "OR"
+  },
+  {
+   "bioguide_id": "D000230",
+   "name": "Donald Davis",
+   "cl_last": "Davis",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "A000380",
+   "name": "Gabe Amo",
+   "cl_last": "Amo",
+   "state": "RI"
+  },
+  {
+   "bioguide_id": "G000603",
+   "name": "Brandon Gill",
+   "cl_last": "Gill",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "F000110",
+   "name": "Cleo Fields",
+   "cl_last": "Fields",
+   "state": "LA"
+  },
+  {
+   "bioguide_id": "B001324",
+   "name": "Wesley Bell",
+   "cl_last": "Bell",
+   "state": "MO"
+  },
+  {
+   "bioguide_id": "V000136",
+   "name": "Gabe Vasquez",
+   "cl_last": "Vasquez",
+   "state": "NM"
+  },
+  {
+   "bioguide_id": "J000294",
+   "name": "Hakeem Jeffries",
+   "cl_last": "Jeffries",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "H001067",
+   "name": "Richard Hudson",
+   "cl_last": "Hudson",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "A000372",
+   "name": "Rick Allen",
+   "cl_last": "Allen",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "S001195",
+   "name": "Jason Smith",
+   "cl_last": "Smith",
+   "state": "MO"
+  },
+  {
+   "bioguide_id": "C000537",
+   "name": "Jim Clyburn",
+   "cl_last": "Clyburn",
+   "state": "SC"
+  },
+  {
+   "bioguide_id": "L000562",
+   "name": "Stephen Lynch",
+   "cl_last": "Lynch",
+   "state": "MA"
+  },
+  {
+   "bioguide_id": "G000558",
+   "name": "Brett Guthrie",
+   "cl_last": "Guthrie",
+   "state": "KY"
+  },
+  {
+   "bioguide_id": "C001063",
+   "name": "Henry Cuellar",
+   "cl_last": "Cuellar",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "M001223",
+   "name": "Seth Magaziner",
+   "cl_last": "Magaziner",
+   "state": "RI"
+  },
+  {
+   "bioguide_id": "H001066",
+   "name": "Steven Horsford",
+   "cl_last": "Horsford",
+   "state": "NV"
+  },
+  {
+   "bioguide_id": "R000579",
+   "name": "Patrick Ryan",
+   "cl_last": "Ryan",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "R000600",
+   "name": "Aumua Amata Radewagen",
+   "cl_last": "Radewagen",
+   "state": "AS"
+  },
+  {
+   "bioguide_id": "F000450",
+   "name": "Virginia Foxx",
+   "cl_last": "Foxx",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "H001052",
+   "name": "Andy Harris",
+   "cl_last": "Harris",
+   "state": "MD"
+  },
+  {
+   "bioguide_id": "V000134",
+   "name": "Beth Van Duyne",
+   "cl_last": "Van Duyne",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "J000307",
+   "name": "John James",
+   "cl_last": "James",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "P000608",
+   "name": "Scott Peters",
+   "cl_last": "Peters",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "I000056",
+   "name": "Darrell Issa",
+   "cl_last": "Issa",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "E000298",
+   "name": "Ron Estes",
+   "cl_last": "Estes",
+   "state": "KS"
+  },
+  {
+   "bioguide_id": "A000370",
+   "name": "Alma Adams",
+   "cl_last": "Adams",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "G000600",
+   "name": "Marie Perez",
+   "cl_last": "Gluesenkamp Perez",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "R000609",
+   "name": "John Rutherford",
+   "cl_last": "Rutherford",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "S001201",
+   "name": "Tom Suozzi",
+   "cl_last": "Suozzi",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "P000048",
+   "name": "August Pfluger",
+   "cl_last": "Pfluger",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "H001103",
+   "name": "Pablo Hernandez",
+   "cl_last": "Hern\u00e1ndez Rivera",
+   "state": "PR"
+  },
+  {
+   "bioguide_id": "J000304",
+   "name": "Ronny Jackson",
+   "cl_last": "Jackson",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "S001216",
+   "name": "Kim Schrier",
+   "cl_last": "Schrier",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "C001136",
+   "name": "Herbert Conaway",
+   "cl_last": "Conaway",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "K000403",
+   "name": "Mike Kennedy",
+   "cl_last": "Kennedy",
+   "state": "UT"
+  },
+  {
+   "bioguide_id": "W000829",
+   "name": "Tony Wied",
+   "cl_last": "Wied",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "J000295",
+   "name": "David Joyce",
+   "cl_last": "Joyce",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "B000825",
+   "name": "Lauren Boebert",
+   "cl_last": "Boebert",
+   "state": "CO"
+  },
+  {
+   "bioguide_id": "W000822",
+   "name": "Bonnie Watson Coleman",
+   "cl_last": "Watson Coleman",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "T000491",
+   "name": "Derek Tran",
+   "cl_last": "Tran",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "S001226",
+   "name": "Andrea Salinas",
+   "cl_last": "Salinas",
+   "state": "OR"
+  },
+  {
+   "bioguide_id": "E000296",
+   "name": "Dwight Evans",
+   "cl_last": "Evans",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "P000621",
+   "name": "Nellie Pou",
+   "cl_last": "Pou",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "M001240",
+   "name": "Addison McDowell",
+   "cl_last": "McDowell",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "C001091",
+   "name": "Joaquin Castro",
+   "cl_last": "Castro",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "H001102",
+   "name": "Mark Harris",
+   "cl_last": "Harris",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "S001207",
+   "name": "Mikie Sherrill",
+   "cl_last": null,
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "G000551",
+   "name": "Raul Grijalva",
+   "cl_last": null,
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "D000635",
+   "name": "Maxine Dexter",
+   "cl_last": "Dexter",
+   "state": "OR"
+  },
+  {
+   "bioguide_id": "Q000023",
+   "name": "Mike Quigley",
+   "cl_last": "Quigley",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "M001236",
+   "name": "Tim Moore",
+   "cl_last": "Moore",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "B001302",
+   "name": "Andy Biggs",
+   "cl_last": "Biggs",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "M000312",
+   "name": "Jim McGovern",
+   "cl_last": "McGovern",
+   "state": "MA"
+  },
+  {
+   "bioguide_id": "M001137",
+   "name": "Gregory Meeks",
+   "cl_last": "Meeks",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "A000371",
+   "name": "Pete Aguilar",
+   "cl_last": "Aguilar",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "C001078",
+   "name": "Gerald Connolly",
+   "cl_last": null,
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "M001212",
+   "name": "Barry Moore",
+   "cl_last": "Moore",
+   "state": "AL"
+  },
+  {
+   "bioguide_id": "L000597",
+   "name": "Laurel Lee",
+   "cl_last": "Lee",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "D000631",
+   "name": "Madeleine Dean",
+   "cl_last": "Dean",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "B001309",
+   "name": "Tim Burchett",
+   "cl_last": "Burchett",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "K000400",
+   "name": "Sydney Kamlager-Dove",
+   "cl_last": "Kamlager-Dove",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "B001298",
+   "name": "Don Bacon",
+   "cl_last": "Bacon",
+   "state": "NE"
+  },
+  {
+   "bioguide_id": "G000596",
+   "name": "Marjorie Greene",
+   "cl_last": "Greene",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "C001130",
+   "name": "Jasmine Crockett",
+   "cl_last": "Crockett",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "O000173",
+   "name": "Ilhan Omar",
+   "cl_last": "Omar",
+   "state": "MN"
+  },
+  {
+   "bioguide_id": "M001222",
+   "name": "Max Miller",
+   "cl_last": "Miller",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "S001172",
+   "name": "Adrian Smith",
+   "cl_last": "Smith",
+   "state": "NE"
+  },
+  {
+   "bioguide_id": "M001188",
+   "name": "Grace Meng",
+   "cl_last": "Meng",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "S001145",
+   "name": "Jan Schakowsky",
+   "cl_last": "Schakowsky",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "M001225",
+   "name": "Kevin Mullin",
+   "cl_last": "Mullin",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "R000603",
+   "name": "David Rouzer",
+   "cl_last": "Rouzer",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "F000477",
+   "name": "Valerie Foushee",
+   "cl_last": "Foushee",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "W000809",
+   "name": "Steve Womack",
+   "cl_last": "Womack",
+   "state": "AR"
+  },
+  {
+   "bioguide_id": "H001072",
+   "name": "French Hill",
+   "cl_last": "Hill",
+   "state": "AR"
+  },
+  {
+   "bioguide_id": "C001067",
+   "name": "Yvette Clarke",
+   "cl_last": "Clarke",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "T000486",
+   "name": "Ritchie Torres",
+   "cl_last": "Torres",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "B000490",
+   "name": "Sanford Bishop",
+   "cl_last": "Bishop",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "M001231",
+   "name": "John Mannion",
+   "cl_last": "Mannion",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "N000188",
+   "name": "Donald Norcross",
+   "cl_last": "Norcross",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "S001230",
+   "name": "Suhas Subramanyam",
+   "cl_last": "Subramanyam",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "L000560",
+   "name": "Rick Larsen",
+   "cl_last": "Larsen",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "M001233",
+   "name": "Mark Messmer",
+   "cl_last": "Messmer",
+   "state": "IN"
+  },
+  {
+   "bioguide_id": "C001117",
+   "name": "Sean Casten",
+   "cl_last": "Casten",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "P000607",
+   "name": "Mark Pocan",
+   "cl_last": "Pocan",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "C001133",
+   "name": "Juan Ciscomani",
+   "cl_last": "Ciscomani",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "H001096",
+   "name": "Harriet Hageman",
+   "cl_last": "Hageman",
+   "state": "WY"
+  },
+  {
+   "bioguide_id": "M001211",
+   "name": "Mary Miller",
+   "cl_last": "Miller",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "B001317",
+   "name": "Josh Brecheen",
+   "cl_last": "Brecheen",
+   "state": "OK"
+  },
+  {
+   "bioguide_id": "W000830",
+   "name": "George Whitesides",
+   "cl_last": "Whitesides",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "D000530",
+   "name": "Christopher Deluzio",
+   "cl_last": "Deluzio",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "B001318",
+   "name": "Becca Balint",
+   "cl_last": "Balint",
+   "state": "VT"
+  },
+  {
+   "bioguide_id": "D000628",
+   "name": "Neal Dunn",
+   "cl_last": "Dunn",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "F000470",
+   "name": "Michelle Fischbach",
+   "cl_last": "Fischbach",
+   "state": "MN"
+  },
+  {
+   "bioguide_id": "C001125",
+   "name": "Troy Carter",
+   "cl_last": "Carter",
+   "state": "LA"
+  },
+  {
+   "bioguide_id": "B001300",
+   "name": "Nanette Barragan",
+   "cl_last": "Barrag\u00e1n",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "B001323",
+   "name": "Nicholas Begich",
+   "cl_last": "Begich",
+   "state": "AK"
+  },
+  {
+   "bioguide_id": "M001143",
+   "name": "Betty McCollum",
+   "cl_last": "McCollum",
+   "state": "MN"
+  },
+  {
+   "bioguide_id": "K000398",
+   "name": "Thomas Kean",
+   "cl_last": "Kean",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "K000391",
+   "name": "Raja Krishnamoorthi",
+   "cl_last": "Krishnamoorthi",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "T000489",
+   "name": "Sylvester Turner",
+   "cl_last": "Turner",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "M001184",
+   "name": "Thomas Massie",
+   "cl_last": "Massie",
+   "state": "KY"
+  },
+  {
+   "bioguide_id": "O000172",
+   "name": "Alexandria Ocasio-Cortez",
+   "cl_last": "Ocasio-Cortez",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "S001205",
+   "name": "Mary Gay Scanlon",
+   "cl_last": "Scanlon",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "J000298",
+   "name": "Pramila Jayapal",
+   "cl_last": "Jayapal",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "D000624",
+   "name": "Debbie Dingell",
+   "cl_last": "Dingell",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "S001211",
+   "name": "Greg Stanton",
+   "cl_last": "Stanton",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "S000250",
+   "name": "Pete Sessions",
+   "cl_last": "Sessions",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "C001123",
+   "name": "Gilbert Cisneros",
+   "cl_last": "Cisneros",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "C001126",
+   "name": "Mike Carey",
+   "cl_last": "Carey",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "F000475",
+   "name": "Brad Finstad",
+   "cl_last": "Finstad",
+   "state": "MN"
+  },
+  {
+   "bioguide_id": "B001295",
+   "name": "Mike Bost",
+   "cl_last": "Bost",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "L000603",
+   "name": "Morgan Luttrell",
+   "cl_last": "Luttrell",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "D000197",
+   "name": "Diana DeGette",
+   "cl_last": "DeGette",
+   "state": "CO"
+  },
+  {
+   "bioguide_id": "C001119",
+   "name": "Angie Craig",
+   "cl_last": "Craig",
+   "state": "MN"
+  },
+  {
+   "bioguide_id": "T000469",
+   "name": "Paul Tonko",
+   "cl_last": "Tonko",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "B001314",
+   "name": "Aaron Bean",
+   "cl_last": "Bean",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "K000401",
+   "name": "Kevin Kiley",
+   "cl_last": "Kiley",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "G000605",
+   "name": "Adam Gray",
+   "cl_last": "Gray",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "H001082",
+   "name": "Kevin Hern",
+   "cl_last": "Hern",
+   "state": "OK"
+  },
+  {
+   "bioguide_id": "M001229",
+   "name": "LaMonica McIver",
+   "cl_last": "McIver",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "B001321",
+   "name": "Tom Barrett",
+   "cl_last": "Barrett",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "C001118",
+   "name": "Ben Cline",
+   "cl_last": "Cline",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "T000472",
+   "name": "Mark Takano",
+   "cl_last": "Takano",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "F000480",
+   "name": "Vince Fong",
+   "cl_last": "Fong",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "K000397",
+   "name": "Young Kim",
+   "cl_last": "Kim",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "K000385",
+   "name": "Robin Kelly",
+   "cl_last": "Kelly",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "E000071",
+   "name": "Jake Ellzey",
+   "cl_last": "Ellzey",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "L000578",
+   "name": "Doug LaMalfa",
+   "cl_last": null,
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "S001157",
+   "name": "David Scott",
+   "cl_last": "Scott",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "G000597",
+   "name": "Andrew Garbarino",
+   "cl_last": "Garbarino",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "M001210",
+   "name": "Gregory Murphy",
+   "cl_last": "Murphy",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "C001137",
+   "name": "Jeff Crank",
+   "cl_last": "Crank",
+   "state": "CO"
+  },
+  {
+   "bioguide_id": "L000583",
+   "name": "Barry Loudermilk",
+   "cl_last": "Loudermilk",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "G000591",
+   "name": "Michael Guest",
+   "cl_last": "Guest",
+   "state": "MS"
+  },
+  {
+   "bioguide_id": "B001306",
+   "name": "Troy Balderson",
+   "cl_last": "Balderson",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "C001115",
+   "name": "Michael Cloud",
+   "cl_last": "Cloud",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "S001189",
+   "name": "Austin Scott",
+   "cl_last": "Scott",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "C001039",
+   "name": "Kat Cammack",
+   "cl_last": "Cammack",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "G000589",
+   "name": "Lance Gooden",
+   "cl_last": "Gooden",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "M001215",
+   "name": "Mariannette Miller-Meeks",
+   "cl_last": "Miller-Meeks",
+   "state": "IA"
+  },
+  {
+   "bioguide_id": "N000191",
+   "name": "Joe Neguse",
+   "cl_last": "Neguse",
+   "state": "CO"
+  },
+  {
+   "bioguide_id": "R000622",
+   "name": "Josh Riley",
+   "cl_last": "Riley",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "D000616",
+   "name": "Scott DesJarlais",
+   "cl_last": "DesJarlais",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "C001121",
+   "name": "Jason Crow",
+   "cl_last": "Crow",
+   "state": "CO"
+  },
+  {
+   "bioguide_id": "H001100",
+   "name": "Jeff Hurd",
+   "cl_last": "Hurd",
+   "state": "CO"
+  },
+  {
+   "bioguide_id": "N000147",
+   "name": "Eleanor Norton",
+   "cl_last": "Norton",
+   "state": "DC"
+  },
+  {
+   "bioguide_id": "G000546",
+   "name": "Sam Graves",
+   "cl_last": "Graves",
+   "state": "MO"
+  },
+  {
+   "bioguide_id": "V000138",
+   "name": "Eugene Vindman",
+   "cl_last": "Vindman",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "G000565",
+   "name": "Paul Gosar",
+   "cl_last": "Gosar",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "F000246",
+   "name": "Pat Fallon",
+   "cl_last": "Fallon",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "L000566",
+   "name": "Robert Latta",
+   "cl_last": "Latta",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "W000812",
+   "name": "Ann Wagner",
+   "cl_last": "Wagner",
+   "state": "MO"
+  },
+  {
+   "bioguide_id": "S001188",
+   "name": "Marlin Stutzman",
+   "cl_last": "Stutzman",
+   "state": "IN"
+  },
+  {
+   "bioguide_id": "C001055",
+   "name": "Ed Case",
+   "cl_last": "Case",
+   "state": "HI"
+  },
+  {
+   "bioguide_id": "M001196",
+   "name": "Seth Moulton",
+   "cl_last": "Moulton",
+   "state": "MA"
+  },
+  {
+   "bioguide_id": "F000476",
+   "name": "Maxwell Frost",
+   "cl_last": "Frost",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "M001199",
+   "name": "Brian Mast",
+   "cl_last": "Mast",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "H001086",
+   "name": "Diana Harshbarger",
+   "cl_last": "Harshbarger",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "L000593",
+   "name": "Mike Levin",
+   "cl_last": "Levin",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "B001326",
+   "name": "Janelle Bynum",
+   "cl_last": "Bynum",
+   "state": "OR"
+  },
+  {
+   "bioguide_id": "D000399",
+   "name": "Lloyd Doggett",
+   "cl_last": "Doggett",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "K000405",
+   "name": "Brad Knott",
+   "cl_last": "Knott",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "P000620",
+   "name": "Brittany Pettersen",
+   "cl_last": "Pettersen",
+   "state": "CO"
+  },
+  {
+   "bioguide_id": "S001199",
+   "name": "Lloyd Smucker",
+   "cl_last": "Smucker",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "S001156",
+   "name": "Linda Sanchez",
+   "cl_last": "S\u00e1nchez",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "P000034",
+   "name": "Frank Pallone",
+   "cl_last": "Pallone",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "S001185",
+   "name": "Terri Sewell",
+   "cl_last": "Sewell",
+   "state": "AL"
+  },
+  {
+   "bioguide_id": "R000619",
+   "name": "Michael Rulli",
+   "cl_last": "Rulli",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "L000602",
+   "name": "Summer Lee",
+   "cl_last": "Lee",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "S001183",
+   "name": "David Schweikert",
+   "cl_last": "Schweikert",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "W000831",
+   "name": "James Walkinshaw",
+   "cl_last": "Walkinshaw",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "P000617",
+   "name": "Ayanna Pressley",
+   "cl_last": "Pressley",
+   "state": "MA"
+  },
+  {
+   "bioguide_id": "L000491",
+   "name": "Frank Lucas",
+   "cl_last": "Lucas",
+   "state": "OK"
+  },
+  {
+   "bioguide_id": "R000575",
+   "name": "Mike Rogers",
+   "cl_last": "Rogers",
+   "state": "AL"
+  },
+  {
+   "bioguide_id": "R000305",
+   "name": "Deborah Ross",
+   "cl_last": "Ross",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "G000585",
+   "name": "Jimmy Gomez",
+   "cl_last": "Gomez",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "O000086",
+   "name": "Burgess Owens",
+   "cl_last": "Owens",
+   "state": "UT"
+  },
+  {
+   "bioguide_id": "I000058",
+   "name": "Glenn Ivey",
+   "cl_last": "Ivey",
+   "state": "MD"
+  },
+  {
+   "bioguide_id": "M001213",
+   "name": "Blake Moore",
+   "cl_last": "Moore",
+   "state": "UT"
+  },
+  {
+   "bioguide_id": "T000487",
+   "name": "Jill Tokuda",
+   "cl_last": "Tokuda",
+   "state": "HI"
+  },
+  {
+   "bioguide_id": "P000613",
+   "name": "Jimmy Panetta",
+   "cl_last": "Panetta",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "O000175",
+   "name": "Andrew Ogles",
+   "cl_last": "Ogles",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "S000344",
+   "name": "Brad Sherman",
+   "cl_last": "Sherman",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "G000586",
+   "name": "Chuy Garcia",
+   "cl_last": "Garc\u00eda",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "R000610",
+   "name": "Guy Reschenthaler",
+   "cl_last": "Reschenthaler",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "M001220",
+   "name": "Morgan McGarvey",
+   "cl_last": "McGarvey",
+   "state": "KY"
+  },
+  {
+   "bioguide_id": "M001136",
+   "name": "Lisa McClain",
+   "cl_last": "McClain",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "C001129",
+   "name": "Mike Collins",
+   "cl_last": "Collins",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "D000634",
+   "name": "Troy Downing",
+   "cl_last": "Downing",
+   "state": "MT"
+  },
+  {
+   "bioguide_id": "A000379",
+   "name": "Mark Alford",
+   "cl_last": "Alford",
+   "state": "MO"
+  },
+  {
+   "bioguide_id": "J000301",
+   "name": "Dusty Johnson",
+   "cl_last": "Johnson",
+   "state": "SD"
+  },
+  {
+   "bioguide_id": "D000594",
+   "name": "Monica De La Cruz",
+   "cl_last": "De La Cruz",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "S001223",
+   "name": "Emilia Sykes",
+   "cl_last": "Sykes",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "T000467",
+   "name": "Glenn Thompson",
+   "cl_last": "Thompson",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "B001257",
+   "name": "Gus Bilirakis",
+   "cl_last": "Bilirakis",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "H001094",
+   "name": "Val Hoyle",
+   "cl_last": "Hoyle",
+   "state": "OR"
+  },
+  {
+   "bioguide_id": "S001228",
+   "name": "Derek Schmidt",
+   "cl_last": "Schmidt",
+   "state": "KS"
+  },
+  {
+   "bioguide_id": "B001281",
+   "name": "Joyce Beatty",
+   "cl_last": "Beatty",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "C001120",
+   "name": "Dan Crenshaw",
+   "cl_last": "Crenshaw",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "B001316",
+   "name": "Eric Burlison",
+   "cl_last": "Burlison",
+   "state": "MO"
+  },
+  {
+   "bioguide_id": "V000131",
+   "name": "Marc Veasey",
+   "cl_last": "Veasey",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "D000629",
+   "name": "Sharice Davids",
+   "cl_last": "Davids",
+   "state": "KS"
+  },
+  {
+   "bioguide_id": "U000040",
+   "name": "Lauren Underwood",
+   "cl_last": "Underwood",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "R000599",
+   "name": "Raul Ruiz",
+   "cl_last": "Ruiz",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "W000821",
+   "name": "Bruce Westerman",
+   "cl_last": "Westerman",
+   "state": "AR"
+  },
+  {
+   "bioguide_id": "N000190",
+   "name": "Ralph Norman",
+   "cl_last": "Norman",
+   "state": "SC"
+  },
+  {
+   "bioguide_id": "P000605",
+   "name": "Scott Perry",
+   "cl_last": "Perry",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "T000478",
+   "name": "Claudia Tenney",
+   "cl_last": "Tenney",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "M001218",
+   "name": "Richard McCormick",
+   "cl_last": "McCormick",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "F000446",
+   "name": "Randy Feenstra",
+   "cl_last": "Feenstra",
+   "state": "IA"
+  },
+  {
+   "bioguide_id": "L000598",
+   "name": "Nick LaLota",
+   "cl_last": "LaLota",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "S001221",
+   "name": "Hillary Scholten",
+   "cl_last": "Scholten",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "N000193",
+   "name": "Zachary Nunn",
+   "cl_last": "Nunn",
+   "state": "IA"
+  },
+  {
+   "bioguide_id": "L000582",
+   "name": "Ted Lieu",
+   "cl_last": "Lieu",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "E000246",
+   "name": "Chuck Edwards",
+   "cl_last": "Edwards",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "G000553",
+   "name": "Al Green",
+   "cl_last": "Green",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "G000592",
+   "name": "Jared Golden",
+   "cl_last": "Golden",
+   "state": "ME"
+  },
+  {
+   "bioguide_id": "S001215",
+   "name": "Haley Stevens",
+   "cl_last": "Stevens",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "L000607",
+   "name": "Sam Liccardo",
+   "cl_last": "Liccardo",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "K000404",
+   "name": "Kimberlyn King-Hinds",
+   "cl_last": "King-Hinds",
+   "state": "MP"
+  },
+  {
+   "bioguide_id": "K000399",
+   "name": "Jennifer Kiggans",
+   "cl_last": "Kiggans",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "T000482",
+   "name": "Lori Trahan",
+   "cl_last": "Trahan",
+   "state": "MA"
+  },
+  {
+   "bioguide_id": "H001091",
+   "name": "Ashley Hinson",
+   "cl_last": "Hinson",
+   "state": "IA"
+  },
+  {
+   "bioguide_id": "S001196",
+   "name": "Elise Stefanik",
+   "cl_last": "Stefanik",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "M001224",
+   "name": "Nathaniel Moran",
+   "cl_last": "Moran",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "B001278",
+   "name": "Suzanne Bonamici",
+   "cl_last": "Bonamici",
+   "state": "OR"
+  },
+  {
+   "bioguide_id": "H001099",
+   "name": "Mike Haridopolos",
+   "cl_last": "Haridopolos",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "N000026",
+   "name": "Troy Nehls",
+   "cl_last": "Nehls",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "M001157",
+   "name": "Michael McCaul",
+   "cl_last": "McCaul",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "M001234",
+   "name": "Kelly Morrison",
+   "cl_last": "Morrison",
+   "state": "MN"
+  },
+  {
+   "bioguide_id": "L000273",
+   "name": "Teresa Leger Fernandez",
+   "cl_last": "Leger Fernandez",
+   "state": "NM"
+  },
+  {
+   "bioguide_id": "H001077",
+   "name": "Clay Higgins",
+   "cl_last": "Higgins",
+   "state": "LA"
+  },
+  {
+   "bioguide_id": "S000168",
+   "name": "Maria Salazar",
+   "cl_last": "Salazar",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "G000587",
+   "name": "Sylvia Garcia",
+   "cl_last": "Garcia",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "A000148",
+   "name": "Jake Auchincloss",
+   "cl_last": "Auchincloss",
+   "state": "MA"
+  },
+  {
+   "bioguide_id": "F000483",
+   "name": "Laura Friedman",
+   "cl_last": "Friedman",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "E000300",
+   "name": "Gabe Evans",
+   "cl_last": "Evans",
+   "state": "CO"
+  },
+  {
+   "bioguide_id": "F000471",
+   "name": "Scott Fitzgerald",
+   "cl_last": "Fitzgerald",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "S001176",
+   "name": "Steve Scalise",
+   "cl_last": "Scalise",
+   "state": "LA"
+  },
+  {
+   "bioguide_id": "R000614",
+   "name": "Chip Roy",
+   "cl_last": "Roy",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "H001098",
+   "name": "Abraham Hamadeh",
+   "cl_last": "Hamadeh",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "K000009",
+   "name": "Marcy Kaptur",
+   "cl_last": "Kaptur",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "M001235",
+   "name": "Riley Moore",
+   "cl_last": "Moore",
+   "state": "WV"
+  },
+  {
+   "bioguide_id": "W000808",
+   "name": "Frederica Wilson",
+   "cl_last": "Wilson",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "F000482",
+   "name": "Julie Fedorchak",
+   "cl_last": "Fedorchak",
+   "state": "ND"
+  },
+  {
+   "bioguide_id": "F000462",
+   "name": "Lois Frankel",
+   "cl_last": "Frankel",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "R000617",
+   "name": "Delia Ramirez",
+   "cl_last": "Ramirez",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "S000185",
+   "name": "Bobby Scott",
+   "cl_last": "Scott",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "C000059",
+   "name": "Ken Calvert",
+   "cl_last": "Calvert",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "B001313",
+   "name": "Shontel Brown",
+   "cl_last": "Brown",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "S001225",
+   "name": "Eric Sorensen",
+   "cl_last": "Sorensen",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "V000130",
+   "name": "Juan Vargas",
+   "cl_last": "Vargas",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "B001301",
+   "name": "Jack Bergman",
+   "cl_last": "Bergman",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "P000622",
+   "name": "Jimmy Patronis",
+   "cl_last": "Patronis",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "G000594",
+   "name": "Tony Gonzales",
+   "cl_last": "Gonzales",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "T000481",
+   "name": "Rashida Tlaib",
+   "cl_last": "Tlaib",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "S001231",
+   "name": "Lateefah Simon",
+   "cl_last": "Simon",
+   "state": "CA"
+  }
+ ],
+ "other_chamber_candidates": [
+  {
+   "bioguide_id": "Y000064",
+   "name": "Todd Young",
+   "cl_last": "Young",
+   "state": "IN"
+  },
+  {
+   "bioguide_id": "K000367",
+   "name": "Amy Klobuchar",
+   "cl_last": "Klobuchar",
+   "state": "MN"
+  },
+  {
+   "bioguide_id": "D000622",
+   "name": "Tammy Duckworth",
+   "cl_last": "Duckworth",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "T000476",
+   "name": "Thom Tillis",
+   "cl_last": "Tillis",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "H000273",
+   "name": "John Hickenlooper",
+   "cl_last": "Hickenlooper",
+   "state": "CO"
+  },
+  {
+   "bioguide_id": "K000393",
+   "name": "John Kennedy",
+   "cl_last": "Kennedy",
+   "state": "LA"
+  },
+  {
+   "bioguide_id": "P000595",
+   "name": "Gary Peters",
+   "cl_last": "Peters",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "M001111",
+   "name": "Patty Murray",
+   "cl_last": "Murray",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "H001042",
+   "name": "Mazie Hirono",
+   "cl_last": "Hirono",
+   "state": "HI"
+  },
+  {
+   "bioguide_id": "B001303",
+   "name": "Lisa Blunt Rochester",
+   "cl_last": "Blunt Rochester",
+   "state": "DE"
+  },
+  {
+   "bioguide_id": "R000608",
+   "name": "Jacky Rosen",
+   "cl_last": "Rosen",
+   "state": "NV"
+  },
+  {
+   "bioguide_id": "C001035",
+   "name": "Susan Collins",
+   "cl_last": "Collins",
+   "state": "ME"
+  },
+  {
+   "bioguide_id": "V000128",
+   "name": "Chris Van Hollen",
+   "cl_last": "Van Hollen",
+   "state": "MD"
+  },
+  {
+   "bioguide_id": "L000577",
+   "name": "Mike Lee",
+   "cl_last": "Lee",
+   "state": "UT"
+  },
+  {
+   "bioguide_id": "C001088",
+   "name": "Chris Coons",
+   "cl_last": "Coons",
+   "state": "DE"
+  },
+  {
+   "bioguide_id": "H001089",
+   "name": "Josh Hawley",
+   "cl_last": "Hawley",
+   "state": "MO"
+  },
+  {
+   "bioguide_id": "M000934",
+   "name": "Jerry Moran",
+   "cl_last": "Moran",
+   "state": "KS"
+  },
+  {
+   "bioguide_id": "F000463",
+   "name": "Deb Fischer",
+   "cl_last": "Fischer",
+   "state": "NE"
+  },
+  {
+   "bioguide_id": "C001047",
+   "name": "Shelley Moore Capito",
+   "cl_last": "Capito",
+   "state": "WV"
+  },
+  {
+   "bioguide_id": "M001176",
+   "name": "Jeff Merkley",
+   "cl_last": "Merkley",
+   "state": "OR"
+  },
+  {
+   "bioguide_id": "L000575",
+   "name": "James Lankford",
+   "cl_last": "Lankford",
+   "state": "OK"
+  },
+  {
+   "bioguide_id": "D000563",
+   "name": "Dick Durbin",
+   "cl_last": "Durbin",
+   "state": "IL"
+  },
+  {
+   "bioguide_id": "B001236",
+   "name": "John Boozman",
+   "cl_last": "Boozman",
+   "state": "AR"
+  },
+  {
+   "bioguide_id": "S000148",
+   "name": "Chuck Schumer",
+   "cl_last": "Schumer",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "S001194",
+   "name": "Brian Schatz",
+   "cl_last": "Schatz",
+   "state": "HI"
+  },
+  {
+   "bioguide_id": "P000145",
+   "name": "Alex Padilla",
+   "cl_last": "Padilla",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "H000601",
+   "name": "Bill Hagerty",
+   "cl_last": "Hagerty",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "G000555",
+   "name": "Kirsten Gillibrand",
+   "cl_last": "Gillibrand",
+   "state": "NY"
+  },
+  {
+   "bioguide_id": "S001150",
+   "name": "Adam Schiff",
+   "cl_last": "Schiff",
+   "state": "CA"
+  },
+  {
+   "bioguide_id": "B001277",
+   "name": "Richard Blumenthal",
+   "cl_last": "Blumenthal",
+   "state": "CT"
+  },
+  {
+   "bioguide_id": "M001242",
+   "name": "Bernie Moreno",
+   "cl_last": "Moreno",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "T000278",
+   "name": "Tommy Tuberville",
+   "cl_last": "Tuberville",
+   "state": "AL"
+  },
+  {
+   "bioguide_id": "O000174",
+   "name": "Jon Ossoff",
+   "cl_last": "Ossoff",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "S001217",
+   "name": "Rick Scott",
+   "cl_last": "Scott",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "S000033",
+   "name": "Bernie Sanders",
+   "cl_last": "Sanders",
+   "state": "VT"
+  },
+  {
+   "bioguide_id": "H001079",
+   "name": "Cindy Hyde-Smith",
+   "cl_last": "Hyde-Smith",
+   "state": "MS"
+  },
+  {
+   "bioguide_id": "C001098",
+   "name": "Ted Cruz",
+   "cl_last": "Cruz",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "S001227",
+   "name": "Eric Schmitt",
+   "cl_last": "Schmitt",
+   "state": "MO"
+  },
+  {
+   "bioguide_id": "H001076",
+   "name": "Maggie Hassan",
+   "cl_last": "Hassan",
+   "state": "NH"
+  },
+  {
+   "bioguide_id": "K000383",
+   "name": "Angus King",
+   "cl_last": "King",
+   "state": "ME"
+  },
+  {
+   "bioguide_id": "H001104",
+   "name": "Jon Husted",
+   "cl_last": "Husted",
+   "state": "OH"
+  },
+  {
+   "bioguide_id": "B001267",
+   "name": "Michael Bennet",
+   "cl_last": "Bennet",
+   "state": "CO"
+  },
+  {
+   "bioguide_id": "W000802",
+   "name": "Sheldon Whitehouse",
+   "cl_last": "Whitehouse",
+   "state": "RI"
+  },
+  {
+   "bioguide_id": "J000312",
+   "name": "Jim Justice",
+   "cl_last": "Justice",
+   "state": "WV"
+  },
+  {
+   "bioguide_id": "M000133",
+   "name": "Ed Markey",
+   "cl_last": "Markey",
+   "state": "MA"
+  },
+  {
+   "bioguide_id": "C001113",
+   "name": "Catherine Cortez Masto",
+   "cl_last": "Cortez Masto",
+   "state": "NV"
+  },
+  {
+   "bioguide_id": "C001075",
+   "name": "Bill Cassidy",
+   "cl_last": "Cassidy",
+   "state": "LA"
+  },
+  {
+   "bioguide_id": "H001046",
+   "name": "Martin Heinrich",
+   "cl_last": "Heinrich",
+   "state": "NM"
+  },
+  {
+   "bioguide_id": "K000377",
+   "name": "Mark Kelly",
+   "cl_last": "Kelly",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "S001203",
+   "name": "Tina Smith",
+   "cl_last": "Smith",
+   "state": "MN"
+  },
+  {
+   "bioguide_id": "W000817",
+   "name": "Elizabeth Warren",
+   "cl_last": "Warren",
+   "state": "MA"
+  },
+  {
+   "bioguide_id": "W000790",
+   "name": "Raphael Warnock",
+   "cl_last": "Warnock",
+   "state": "GA"
+  },
+  {
+   "bioguide_id": "M001153",
+   "name": "Lisa Murkowski",
+   "cl_last": "Murkowski",
+   "state": "AK"
+  },
+  {
+   "bioguide_id": "B001230",
+   "name": "Tammy Baldwin",
+   "cl_last": "Baldwin",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "T000250",
+   "name": "John Thune",
+   "cl_last": "Thune",
+   "state": "SD"
+  },
+  {
+   "bioguide_id": "R000605",
+   "name": "Mike Rounds",
+   "cl_last": "Rounds",
+   "state": "SD"
+  },
+  {
+   "bioguide_id": "C000127",
+   "name": "Maria Cantwell",
+   "cl_last": "Cantwell",
+   "state": "WA"
+  },
+  {
+   "bioguide_id": "K000384",
+   "name": "Tim Kaine",
+   "cl_last": "Kaine",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "S001184",
+   "name": "Tim Scott",
+   "cl_last": "Scott",
+   "state": "SC"
+  },
+  {
+   "bioguide_id": "R000618",
+   "name": "Pete Ricketts",
+   "cl_last": "Ricketts",
+   "state": "NE"
+  },
+  {
+   "bioguide_id": "C001095",
+   "name": "Tom Cotton",
+   "cl_last": "Cotton",
+   "state": "AR"
+  },
+  {
+   "bioguide_id": "M001169",
+   "name": "Chris Murphy",
+   "cl_last": "Murphy",
+   "state": "CT"
+  },
+  {
+   "bioguide_id": "A000382",
+   "name": "Angela Alsobrooks",
+   "cl_last": "Alsobrooks",
+   "state": "MD"
+  },
+  {
+   "bioguide_id": "W000437",
+   "name": "Roger Wicker",
+   "cl_last": "Wicker",
+   "state": "MS"
+  },
+  {
+   "bioguide_id": "S001208",
+   "name": "Elissa Slotkin",
+   "cl_last": "Slotkin",
+   "state": "MI"
+  },
+  {
+   "bioguide_id": "S001198",
+   "name": "Dan Sullivan",
+   "cl_last": "Sullivan",
+   "state": "AK"
+  },
+  {
+   "bioguide_id": "M001190",
+   "name": "Markwayne Mullin",
+   "cl_last": "Mullin",
+   "state": "OK"
+  },
+  {
+   "bioguide_id": "C001114",
+   "name": "John Curtis",
+   "cl_last": "Curtis",
+   "state": "UT"
+  },
+  {
+   "bioguide_id": "C001096",
+   "name": "Kevin Cramer",
+   "cl_last": "Cramer",
+   "state": "ND"
+  },
+  {
+   "bioguide_id": "B001261",
+   "name": "John Barrasso",
+   "cl_last": "Barrasso",
+   "state": "WY"
+  },
+  {
+   "bioguide_id": "R000584",
+   "name": "Jim Risch",
+   "cl_last": "Risch",
+   "state": "ID"
+  },
+  {
+   "bioguide_id": "W000779",
+   "name": "Ron Wyden",
+   "cl_last": "Wyden",
+   "state": "OR"
+  },
+  {
+   "bioguide_id": "P000603",
+   "name": "Rand Paul",
+   "cl_last": "Paul",
+   "state": "KY"
+  },
+  {
+   "bioguide_id": "B001319",
+   "name": "Katie Britt",
+   "cl_last": "Britt",
+   "state": "AL"
+  },
+  {
+   "bioguide_id": "B001299",
+   "name": "Jim Banks",
+   "cl_last": "Banks",
+   "state": "IN"
+  },
+  {
+   "bioguide_id": "M001198",
+   "name": "Roger Marshall",
+   "cl_last": "Marshall",
+   "state": "KS"
+  },
+  {
+   "bioguide_id": "G000386",
+   "name": "Chuck Grassley",
+   "cl_last": "Grassley",
+   "state": "IA"
+  },
+  {
+   "bioguide_id": "M001244",
+   "name": "Ashley Moody",
+   "cl_last": "Moody",
+   "state": "FL"
+  },
+  {
+   "bioguide_id": "W000805",
+   "name": "Mark Warner",
+   "cl_last": "Warner",
+   "state": "VA"
+  },
+  {
+   "bioguide_id": "L000571",
+   "name": "Cynthia Lummis",
+   "cl_last": "Lummis",
+   "state": "WY"
+  },
+  {
+   "bioguide_id": "B001305",
+   "name": "Ted Budd",
+   "cl_last": "Budd",
+   "state": "NC"
+  },
+  {
+   "bioguide_id": "K000394",
+   "name": "Andy Kim",
+   "cl_last": "Kim",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "G000359",
+   "name": "Lindsey Graham",
+   "cl_last": "Graham",
+   "state": "SC"
+  },
+  {
+   "bioguide_id": "D000618",
+   "name": "Steve Daines",
+   "cl_last": "Daines",
+   "state": "MT"
+  },
+  {
+   "bioguide_id": "W000800",
+   "name": "Peter Welch",
+   "cl_last": "Welch",
+   "state": "VT"
+  },
+  {
+   "bioguide_id": "E000295",
+   "name": "Joni Ernst",
+   "cl_last": "Ernst",
+   "state": "IA"
+  },
+  {
+   "bioguide_id": "M000355",
+   "name": "Mitch McConnell",
+   "cl_last": "McConnell",
+   "state": "KY"
+  },
+  {
+   "bioguide_id": "B001243",
+   "name": "Marsha Blackburn",
+   "cl_last": "Blackburn",
+   "state": "TN"
+  },
+  {
+   "bioguide_id": "J000293",
+   "name": "Ron Johnson",
+   "cl_last": "Johnson",
+   "state": "WI"
+  },
+  {
+   "bioguide_id": "R000122",
+   "name": "Jack Reed",
+   "cl_last": "Reed",
+   "state": "RI"
+  },
+  {
+   "bioguide_id": "M001243",
+   "name": "David McCormick",
+   "cl_last": "McCormick",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "G000574",
+   "name": "Ruben Gallego",
+   "cl_last": "Gallego",
+   "state": "AZ"
+  },
+  {
+   "bioguide_id": "L000570",
+   "name": "Ben Ray Luj\u00e1n",
+   "cl_last": "Luj\u00e1n",
+   "state": "NM"
+  },
+  {
+   "bioguide_id": "F000479",
+   "name": "John Fetterman",
+   "cl_last": "Fetterman",
+   "state": "PA"
+  },
+  {
+   "bioguide_id": "B001288",
+   "name": "Cory Booker",
+   "cl_last": "Booker",
+   "state": "NJ"
+  },
+  {
+   "bioguide_id": "H001061",
+   "name": "John Hoeven",
+   "cl_last": "Hoeven",
+   "state": "ND"
+  },
+  {
+   "bioguide_id": "S001232",
+   "name": "Tim Sheehy",
+   "cl_last": "Sheehy",
+   "state": "MT"
+  },
+  {
+   "bioguide_id": "S001181",
+   "name": "Jeanne Shaheen",
+   "cl_last": "Shaheen",
+   "state": "NH"
+  },
+  {
+   "bioguide_id": "C001056",
+   "name": "John Cornyn",
+   "cl_last": "Cornyn",
+   "state": "TX"
+  },
+  {
+   "bioguide_id": "C000880",
+   "name": "Mike Crapo",
+   "cl_last": "Crapo",
+   "state": "ID"
+  }
+ ]
+}

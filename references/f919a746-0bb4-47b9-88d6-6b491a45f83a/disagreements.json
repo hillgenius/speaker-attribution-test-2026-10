@@ -1,0 +1,186 @@
+{
+ "hearing_id": "f919a746-0bb4-47b9-88d6-6b491a45f83a",
+ "chrg": "CHRG-119hhrg60318",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60318.htm",
+ "print_sha256": "97f3db3f169c25b22c44cb91abf80807125d70871c78c8989c91a26e5b16cdaa",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "c0c8eaf81f38a11a18e017553b250a0a4131ef80f9506759fc886ec20364346d",
+ "n_ref_words": 16191,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 17486,
+ "words_both_opinion": 16191,
+ "words_agree": 16189,
+ "words_disagree": 2,
+ "words_no_llm_opinion": 815,
+ "words_no_parser_opinion": 1215,
+ "words_inserted_material": 80,
+ "agree_rate": 0.9999,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 4355,
+   "end_word": 4371,
+   "word_count": 16,
+   "start_line": 590,
+   "end_line": 594
+  },
+  {
+   "start_word": 5259,
+   "end_word": 5275,
+   "word_count": 16,
+   "start_line": 693,
+   "end_line": 697
+  },
+  {
+   "start_word": 6024,
+   "end_word": 6040,
+   "word_count": 16,
+   "start_line": 785,
+   "end_line": 788
+  },
+  {
+   "start_word": 6916,
+   "end_word": 6932,
+   "word_count": 16,
+   "start_line": 889,
+   "end_line": 893
+  },
+  {
+   "start_word": 7433,
+   "end_word": 7449,
+   "word_count": 16,
+   "start_line": 955,
+   "end_line": 959
+  }
+ ],
+ "n_body_words_mapped": 16171,
+ "n_compare_words_spans": 1,
+ "n_header_scan_spans": 4,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 16555,
+   "body_word_end": 16557,
+   "word_start": 15316,
+   "word_end": 15318,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1971,
+   "end_line": 1971,
+   "parser_speaker": "Toner",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Issa",
+   "llm_bioguide_id": "I000056",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "have the level of cybersecurity, every one of them pretty much uses those chips, right?",
+    "span_text": "Ms. Toner. Yes, sir.",
+    "after": "Mr. Issa. Maybe we can have a sense of consensus here for a moment. Isn't"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Mr. Nicholas Anderson. Mr. Anderson is President and Chief",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 2889,
+   "body_word_end": 3385,
+   "word_count": 496,
+   "word_start": 2065,
+   "word_end": 2560,
+   "n_ref_words_mapped": 494,
+   "start_line": 434,
+   "end_line": 486,
+   "parser_speaker": "Issa",
+   "parser_bioguide_id": "I000056",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "Mr. Issa. Without objection, all other opening statements will be included in the record. It is now my pleasure to introduce our panel of witnesses.",
+    "span_text": "Mr. Nicholas Anderson. Mr. Anderson is President and Chief \nOperating Officer of Invictus International Consulting Company \nwhich provides technical services for national security \nsystems. He previously served as Chief Information Officer for \npublic sector at Lumen Technologies and served at the \nDepartment of Energy, Office of Management and Budget, and the \nDepartment of the Navy, Coast Guard, and served on active duty \nas a United States Marine which I presume means that he has \nbeen to Camp Pendleton in my District. It is a rite of passage.\n    Dr. Benjamin Jensen. Dr. Jensen is the Director of Future \nLabs and a Senior Fellow with the Defense and Security \nDepartment at the Center for Strategic and International \nStudies. He is also the Frank E. Petersen Chair for Emerging \nTechnologies and a Professor of Strategic Studies at the Marine \nCorps University--I knew you were asked for a reason--on \nAdvanced Warfare. Dr. Jensen previously served as Senior \nResearch Director of the U.S. Cyber Solarium Commission and is \na Reserve Officer in the United States Army. Double dipping.\n    Mr. Christopher Mohr. Mr. Mohr is President of the Software \nInformation Industry Association, a collection of \nentertainment, consumer, and business software companies. He \npreviously served as Senior Vice President for Intellectual \nProperty and General Counsel at that organization and continues \nto serve as the Chief Legal Officer for the association.\n    Ms. Helen Toner. Ms. Toner is the Director of Strategies \nand Foundation Research Grants at Georgetown Center for \nSecurity and Emerging Technology. She previously served as \nSenior Research Analyst at Open Philanthropy where she advised \npolicymakers and grantmakers on AI policy and strategy.\n    Dr. John Villasenor is Professor of Electrical Engineering, \nLaw, Public Policy, and Management and the facility Codirector \nat the Institute for Technology, Law, and Policy at UCLA. The \nprofessor works and his work is focused on technology and law-\nrelated to artificial intelligence, digital communication, \ncomputing, network, cybersecurity, and privacy.\n    We welcome our witnesses here today and pursuant to the \nCommittee's rules, I would ask that you all rise to take the \noath and the right hand is always good to use.\n    Do you solemnly swear or affirm under penalty of perjury \nthat the testimony you will give will be true and correct to \nthe best of your knowledge and information?\n    Please be seated. Let the record reflect that all witnesses \nanswered in the affirmative.\n    Another part you have all seen on CSPAN, we would like you \nto stay as close as you can to five minutes. The lights on in \nfront of you will count you down and indicate when you are \nclose to, and then finally when you hit five minutes. Rest \nassured that not only will all your opening statements in their \nentirety be included in the record, but additional information \nthat you provide or that later you provide pursuant to \nquestions or things which are stimulated by our discussion. You \nreally get hours and hours, you just get five minutes up front.\n    Dr. Jensen.",
+    "after": ""
+   },
+   "span_id": "h001",
+   "shape": "header-scan flag"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Dr. Benjamin Jensen. Dr. Jensen is the Director of Future",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 2976,
+   "body_word_end": 3385,
+   "word_count": 409,
+   "word_start": 2152,
+   "word_end": 2560,
+   "n_ref_words_mapped": 407,
+   "start_line": 443,
+   "end_line": 486,
+   "parser_speaker": "Issa",
+   "parser_bioguide_id": "I000056",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "as a United States Marine which I presume means that he has been to Camp Pendleton in my District. It is a rite of passage.",
+    "span_text": "Dr. Benjamin Jensen. Dr. Jensen is the Director of Future \nLabs and a Senior Fellow with the Defense and Security \nDepartment at the Center for Strategic and International \nStudies. He is also the Frank E. Petersen Chair for Emerging \nTechnologies and a Professor of Strategic Studies at the Marine \nCorps University--I knew you were asked for a reason--on \nAdvanced Warfare. Dr. Jensen previously served as Senior \nResearch Director of the U.S. Cyber Solarium Commission and is \na Reserve Officer in the United States Army. Double dipping.\n    Mr. Christopher Mohr. Mr. Mohr is President of the Software \nInformation Industry Association, a collection of \nentertainment, consumer, and business software companies. He \npreviously served as Senior Vice President for Intellectual \nProperty and General Counsel at that organization and continues \nto serve as the Chief Legal Officer for the association.\n    Ms. Helen Toner. Ms. Toner is the Director of Strategies \nand Foundation Research Grants at Georgetown Center for \nSecurity and Emerging Technology. She previously served as \nSenior Research Analyst at Open Philanthropy where she advised \npolicymakers and grantmakers on AI policy and strategy.\n    Dr. John Villasenor is Professor of Electrical Engineering, \nLaw, Public Policy, and Management and the facility Codirector \nat the Institute for Technology, Law, and Policy at UCLA. The \nprofessor works and his work is focused on technology and law-\nrelated to artificial intelligence, digital communication, \ncomputing, network, cybersecurity, and privacy.\n    We welcome our witnesses here today and pursuant to the \nCommittee's rules, I would ask that you all rise to take the \noath and the right hand is always good to use.\n    Do you solemnly swear or affirm under penalty of perjury \nthat the testimony you will give will be true and correct to \nthe best of your knowledge and information?\n    Please be seated. Let the record reflect that all witnesses \nanswered in the affirmative.\n    Another part you have all seen on CSPAN, we would like you \nto stay as close as you can to five minutes. The lights on in \nfront of you will count you down and indicate when you are \nclose to, and then finally when you hit five minutes. Rest \nassured that not only will all your opening statements in their \nentirety be included in the record, but additional information \nthat you provide or that later you provide pursuant to \nquestions or things which are stimulated by our discussion. You \nreally get hours and hours, you just get five minutes up front.\n    Dr. Jensen.",
+    "after": ""
+   },
+   "span_id": "h002",
+   "shape": "header-scan flag"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Mr. Christopher Mohr. Mr. Mohr is President of the Software",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 3065,
+   "body_word_end": 3385,
+   "word_count": 320,
+   "word_start": 2241,
+   "word_end": 2560,
+   "n_ref_words_mapped": 318,
+   "start_line": 452,
+   "end_line": 486,
+   "parser_speaker": "Issa",
+   "parser_bioguide_id": "I000056",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "Jensen previously served as Senior Research Director of the U.S. Cyber Solarium Commission and is a Reserve Officer in the United States Army. Double dipping.",
+    "span_text": "Mr. Christopher Mohr. Mr. Mohr is President of the Software \nInformation Industry Association, a collection of \nentertainment, consumer, and business software companies. He \npreviously served as Senior Vice President for Intellectual \nProperty and General Counsel at that organization and continues \nto serve as the Chief Legal Officer for the association.\n    Ms. Helen Toner. Ms. Toner is the Director of Strategies \nand Foundation Research Grants at Georgetown Center for \nSecurity and Emerging Technology. She previously served as \nSenior Research Analyst at Open Philanthropy where she advised \npolicymakers and grantmakers on AI policy and strategy.\n    Dr. John Villasenor is Professor of Electrical Engineering, \nLaw, Public Policy, and Management and the facility Codirector \nat the Institute for Technology, Law, and Policy at UCLA. The \nprofessor works and his work is focused on technology and law-\nrelated to artificial intelligence, digital communication, \ncomputing, network, cybersecurity, and privacy.\n    We welcome our witnesses here today and pursuant to the \nCommittee's rules, I would ask that you all rise to take the \noath and the right hand is always good to use.\n    Do you solemnly swear or affirm under penalty of perjury \nthat the testimony you will give will be true and correct to \nthe best of your knowledge and information?\n    Please be seated. Let the record reflect that all witnesses \nanswered in the affirmative.\n    Another part you have all seen on CSPAN, we would like you \nto stay as close as you can to five minutes. The lights on in \nfront of you will count you down and indicate when you are \nclose to, and then finally when you hit five minutes. Rest \nassured that not only will all your opening statements in their \nentirety be included in the record, but additional information \nthat you provide or that later you provide pursuant to \nquestions or things which are stimulated by our discussion. You \nreally get hours and hours, you just get five minutes up front.\n    Dr. Jensen.",
+    "after": ""
+   },
+   "span_id": "h003",
+   "shape": "header-scan flag"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Ms. Helen Toner. Ms. Toner is the Director of Strategies",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 3115,
+   "body_word_end": 3385,
+   "word_count": 270,
+   "word_start": 2291,
+   "word_end": 2560,
+   "n_ref_words_mapped": 268,
+   "start_line": 458,
+   "end_line": 486,
+   "parser_speaker": "Issa",
+   "parser_bioguide_id": "I000056",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "as Senior Vice President for Intellectual Property and General Counsel at that organization and continues to serve as the Chief Legal Officer for the association.",
+    "span_text": "Ms. Helen Toner. Ms. Toner is the Director of Strategies \nand Foundation Research Grants at Georgetown Center for \nSecurity and Emerging Technology. She previously served as \nSenior Research Analyst at Open Philanthropy where she advised \npolicymakers and grantmakers on AI policy and strategy.\n    Dr. John Villasenor is Professor of Electrical Engineering, \nLaw, Public Policy, and Management and the facility Codirector \nat the Institute for Technology, Law, and Policy at UCLA. The \nprofessor works and his work is focused on technology and law-\nrelated to artificial intelligence, digital communication, \ncomputing, network, cybersecurity, and privacy.\n    We welcome our witnesses here today and pursuant to the \nCommittee's rules, I would ask that you all rise to take the \noath and the right hand is always good to use.\n    Do you solemnly swear or affirm under penalty of perjury \nthat the testimony you will give will be true and correct to \nthe best of your knowledge and information?\n    Please be seated. Let the record reflect that all witnesses \nanswered in the affirmative.\n    Another part you have all seen on CSPAN, we would like you \nto stay as close as you can to five minutes. The lights on in \nfront of you will count you down and indicate when you are \nclose to, and then finally when you hit five minutes. Rest \nassured that not only will all your opening statements in their \nentirety be included in the record, but additional information \nthat you provide or that later you provide pursuant to \nquestions or things which are stimulated by our discussion. You \nreally get hours and hours, you just get five minutes up front.\n    Dr. Jensen.",
+    "after": ""
+   },
+   "span_id": "h004",
+   "shape": "header-scan flag"
+  }
+ ]
+}

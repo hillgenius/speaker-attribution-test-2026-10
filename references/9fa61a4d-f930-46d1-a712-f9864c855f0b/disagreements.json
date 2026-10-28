@@ -1,0 +1,125 @@
+{
+ "hearing_id": "9fa61a4d-f930-46d1-a712-f9864c855f0b",
+ "chrg": "CHRG-119hhrg63931",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg63931.htm",
+ "print_sha256": "3c6773caa311ac887d1c66d3704913bff3c853856bee4bc6bc63c0041318f0b7",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "cc83e526b6ad298ddec8a61dcecf938d5180aeb39d0dfce9a6ca59cc292ef95c",
+ "n_ref_words": 14432,
+ "roster_source": "committee_membership",
+ "total_body_words": 15582,
+ "words_both_opinion": 14431,
+ "words_agree": 14429,
+ "words_disagree": 2,
+ "words_no_llm_opinion": 358,
+ "words_no_parser_opinion": 667,
+ "words_inserted_material": 484,
+ "agree_rate": 0.9999,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 358,
+   "end_word": 751,
+   "word_count": 393,
+   "start_line": 109,
+   "end_line": 184
+  },
+  {
+   "start_word": 1256,
+   "end_word": 1271,
+   "word_count": 15,
+   "start_line": 243,
+   "end_line": 246
+  },
+  {
+   "start_word": 2447,
+   "end_word": 2463,
+   "word_count": 16,
+   "start_line": 379,
+   "end_line": 383
+  },
+  {
+   "start_word": 3359,
+   "end_word": 3374,
+   "word_count": 15,
+   "start_line": 490,
+   "end_line": 493
+  },
+  {
+   "start_word": 3884,
+   "end_word": 3899,
+   "word_count": 15,
+   "start_line": 554,
+   "end_line": 557
+  },
+  {
+   "start_word": 4680,
+   "end_word": 4695,
+   "word_count": 15,
+   "start_line": 642,
+   "end_line": 645
+  },
+  {
+   "start_word": 5488,
+   "end_word": 5503,
+   "word_count": 15,
+   "start_line": 728,
+   "end_line": 731
+  }
+ ],
+ "n_body_words_mapped": 14424,
+ "n_compare_words_spans": 1,
+ "n_header_scan_spans": 1,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 14596,
+   "body_word_end": 14598,
+   "word_start": 13484,
+   "word_end": 13486,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1714,
+   "end_line": 1714,
+   "parser_speaker": "Scott",
+   "parser_bioguide_id": "S000185",
+   "llm_speaker": "Goetz",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "focused on academics, and expectations for young people. I lost the question, I am sorry.",
+    "span_text": "Mr. Scott. Well, tracking.",
+    "after": "Mr. Goetz. Oh, tracking, tracking. Well, I think we need to make sure that in"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Dr. Volzer, Mrs. Rice and Mrs. Gasper, do you agree with",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 7283,
+   "body_word_end": 7349,
+   "word_count": 66,
+   "word_start": 6333,
+   "word_end": 6399,
+   "n_ref_words_mapped": 66,
+   "start_line": 920,
+   "end_line": 926,
+   "parser_speaker": "Bonamici",
+   "parser_bioguide_id": "B001278",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "and it is even more critical when CTE at middle schools and high schools. Again, we do not know what the jobs will look like.",
+    "span_text": "Dr. Volzer, Mrs. Rice and Mrs. Gasper, do you agree with \nMr. Goetz that career and technical education is education? \nAnybody disagree with that? Go ahead, anybody. Do you all agree \nthat it is an educational program, career and technical \neducation, it is more of an educational program than a job \ntraining program? Go ahead, Dr. Volzer. I am also out of time, \nso go ahead.",
+    "after": ""
+   },
+   "span_id": "h001",
+   "shape": "header-scan flag"
+  }
+ ]
+}

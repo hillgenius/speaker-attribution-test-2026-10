@@ -1,0 +1,56 @@
+{
+ "hearing_id": "4108ac73-473a-4d43-9f82-34d64010e97e",
+ "chrg": "CHRG-119hhrg60912",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60912.htm",
+ "print_sha256": "d44d410e96a8ec0cabee4ec25f22731f93702d9ce592fdfd960091c21849953f",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "10f8c441ca0f7264b45a8fbd4390bb89cbc82ea44c93e73ec905c11b46638083",
+ "n_ref_words": 15239,
+ "roster_source": "committee_membership",
+ "total_body_words": 16042,
+ "words_both_opinion": 15239,
+ "words_agree": 15239,
+ "words_disagree": 0,
+ "words_no_llm_opinion": 538,
+ "words_no_parser_opinion": 739,
+ "words_inserted_material": 64,
+ "agree_rate": 1.0,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 3038,
+   "end_word": 3054,
+   "word_count": 16,
+   "start_line": 483,
+   "end_line": 487
+  },
+  {
+   "start_word": 4144,
+   "end_word": 4160,
+   "word_count": 16,
+   "start_line": 601,
+   "end_line": 605
+  },
+  {
+   "start_word": 4900,
+   "end_word": 4916,
+   "word_count": 16,
+   "start_line": 690,
+   "end_line": 694
+  },
+  {
+   "start_word": 5790,
+   "end_word": 5806,
+   "word_count": 16,
+   "start_line": 790,
+   "end_line": 794
+  }
+ ],
+ "n_body_words_mapped": 15231,
+ "n_compare_words_spans": 0,
+ "n_header_scan_spans": 0,
+ "spans": []
+}

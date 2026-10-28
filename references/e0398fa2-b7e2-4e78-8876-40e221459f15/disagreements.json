@@ -1,0 +1,144 @@
+{
+ "hearing_id": "e0398fa2-b7e2-4e78-8876-40e221459f15",
+ "chrg": "CHRG-119hhrg63266",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg63266.htm",
+ "print_sha256": "bbde7c80124781c93e5733df005b9b94acd1b73aea7939fc39a2cbfa34d35857",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "9ebd1fc7de5374c46771b24f55ab2d4948eac5482164be0fea3c0f178c36d060",
+ "n_ref_words": 11538,
+ "roster_source": "committee_membership",
+ "total_body_words": 12614,
+ "words_both_opinion": 11027,
+ "words_agree": 10960,
+ "words_disagree": 67,
+ "words_no_llm_opinion": 834,
+ "words_no_parser_opinion": 631,
+ "words_inserted_material": 445,
+ "agree_rate": 0.9939,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 3,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 323,
+   "end_word": 677,
+   "word_count": 354,
+   "start_line": 103,
+   "end_line": 175
+  },
+  {
+   "start_word": 1188,
+   "end_word": 1203,
+   "word_count": 15,
+   "start_line": 237,
+   "end_line": 240
+  },
+  {
+   "start_word": 1922,
+   "end_word": 1938,
+   "word_count": 16,
+   "start_line": 325,
+   "end_line": 328
+  },
+  {
+   "start_word": 2843,
+   "end_word": 2858,
+   "word_count": 15,
+   "start_line": 431,
+   "end_line": 434
+  },
+  {
+   "start_word": 3209,
+   "end_word": 3224,
+   "word_count": 15,
+   "start_line": 478,
+   "end_line": 481
+  },
+  {
+   "start_word": 3981,
+   "end_word": 3996,
+   "word_count": 15,
+   "start_line": 568,
+   "end_line": 571
+  },
+  {
+   "start_word": 4634,
+   "end_word": 4649,
+   "word_count": 15,
+   "start_line": 647,
+   "end_line": 650
+  }
+ ],
+ "n_body_words_mapped": 11520,
+ "n_compare_words_spans": 3,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 7801,
+   "body_word_end": 7839,
+   "word_start": 6855,
+   "word_end": 6893,
+   "n_ref_words_mapped": 38,
+   "word_count": 38,
+   "start_line": 990,
+   "end_line": 994,
+   "parser_speaker": "Harper",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Messmer",
+   "llm_bioguide_id": "M001233",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Chairman, and thank you for the witnesses for being here today, especially my fellow Hoosier,",
+    "span_text": "Mr. Harper. Mr. Harper, compliance assistance programs are a \nproactive approach that results in reduced costs for both OSHA \nand the participating employers. Can you explain to our \nSubcommittee how these programs reduce costs for both OSHA and \nthe employers?",
+    "after": "Mr. Harper. Thank you for your question. With the assistance programs, especially with the SGEs,"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 9883,
+   "body_word_end": 9901,
+   "word_start": 8887,
+   "word_end": 8905,
+   "n_ref_words_mapped": 18,
+   "word_count": 18,
+   "start_line": 1205,
+   "end_line": 1206,
+   "parser_speaker": "Mackenzie",
+   "parser_bioguide_id": "M001230",
+   "llm_speaker": "Fine",
+   "llm_bioguide_id": "F000484",
+   "shape": "different person",
+   "excerpt": {
+    "before": "you all for being here, and that answers my questions. I yield back Mr. Chairman.",
+    "span_text": "Chairman Mackenzie. Thank you. Next, we will go to the \nRanking Member of the Full Committee, Mr. Scott from Virginia.",
+    "after": "Mr. Scott. Thank you. Thank you, Mr. Chairman. Ms. Reindel, the Department of Labor released"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 10671,
+   "body_word_end": 10682,
+   "word_start": 9651,
+   "word_end": 9662,
+   "n_ref_words_mapped": 11,
+   "word_count": 11,
+   "start_line": 1293,
+   "end_line": 1294,
+   "parser_speaker": "Mackenzie",
+   "parser_bioguide_id": "M001230",
+   "llm_speaker": "Scott",
+   "llm_bioguide_id": "S000185",
+   "shape": "different person",
+   "excerpt": {
+    "before": "the program better and validating that it is successful. Mr. Scott. Thank you, Mr. Chairman.",
+    "span_text": "Chairman Mackenzie. Thank you. Next, we will go to Mr. \nGrothman from Wisconsin.",
+    "after": "Mr. Grothman. Thank you. Give Andrew your expertise. In your written testimony, you say at"
+   },
+   "span_id": "d003"
+  }
+ ]
+}

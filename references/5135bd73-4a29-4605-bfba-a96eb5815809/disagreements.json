@@ -1,0 +1,138 @@
+{
+ "hearing_id": "5135bd73-4a29-4605-bfba-a96eb5815809",
+ "chrg": "CHRG-119shrg60836",
+ "chamber": "senate",
+ "print_file": "CHRG-119shrg60836.htm",
+ "print_sha256": "8ee5c4d9b39ac76b06dcada6b2846e28631f22399ec70a81b7ba0cd085e767a4",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "2b14f41af0327747e6478c22a49e33082e931325f2ffba77626636de4605a8e0",
+ "n_ref_words": 9750,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 10350,
+ "words_both_opinion": 9750,
+ "words_agree": 9677,
+ "words_disagree": 73,
+ "words_no_llm_opinion": 359,
+ "words_no_parser_opinion": 549,
+ "words_inserted_material": 51,
+ "agree_rate": 0.9925,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 2124,
+   "end_word": 2141,
+   "word_count": 17,
+   "start_line": 333,
+   "end_line": 337
+  },
+  {
+   "start_word": 3158,
+   "end_word": 3175,
+   "word_count": 17,
+   "start_line": 446,
+   "end_line": 450
+  },
+  {
+   "start_word": 3865,
+   "end_word": 3882,
+   "word_count": 17,
+   "start_line": 539,
+   "end_line": 543
+  }
+ ],
+ "n_body_words_mapped": 9738,
+ "n_compare_words_spans": 4,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 5137,
+   "body_word_end": 5203,
+   "word_start": 4660,
+   "word_end": 4726,
+   "n_ref_words_mapped": 66,
+   "word_count": 66,
+   "start_line": 670,
+   "end_line": 677,
+   "parser_speaker": "Mitre",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Rosen",
+   "llm_bioguide_id": "R000608",
+   "shape": "different person",
+   "excerpt": {
+    "before": "three of you, but I'll start they're similar, but I'm going to start with you,",
+    "span_text": "Mr. Mitre. How should we develop guidelines, or the guardrails, \nand benchmarks in ways that mitigate risk without stifling \ninnovation?\n    I might also add, I'm actually going to ask all three of \nyou this. How do we develop, for those of us sitting in this \nseat with all of you, a common policy language that is both \nnimble, but provides the availability for us to do effective \noversight?",
+    "after": "Mr. Mitre. Thank you, Senator. So, I wholeheartedly agree that it's important for us to"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 7280,
+   "body_word_end": 7281,
+   "word_start": 6767,
+   "word_end": 6768,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 893,
+   "end_line": 893,
+   "parser_speaker": "Rounds",
+   "parser_bioguide_id": "R000605",
+   "llm_speaker": "Mitre",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Thank you. Mr. Mitre? I apologize, am I saying your name correctly? Is it Mitter?",
+    "span_text": "Mr. Mitre. Mitre.",
+    "after": "Senator Rounds. Mitre. Mr. Mitre. Mitter is fine, too, though. We get it all the"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 8601,
+   "body_word_end": 8603,
+   "word_start": 8053,
+   "word_end": 8055,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1036,
+   "end_line": 1036,
+   "parser_speaker": "Rounds",
+   "parser_bioguide_id": "R000605",
+   "llm_speaker": "Ferris",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "like much lower levels in the department to execute and acquire these types of capabilities.",
+    "span_text": "Senator Rounds. Mr. Tadross?",
+    "after": "Mr. Tadross. Thank you, Senator. So, when I think about making it easier to acquire"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 9417,
+   "body_word_end": 9421,
+   "word_start": 8847,
+   "word_end": 8851,
+   "n_ref_words_mapped": 4,
+   "word_count": 4,
+   "start_line": 1117,
+   "end_line": 1117,
+   "parser_speaker": "Rounds",
+   "parser_bioguide_id": "R000605",
+   "llm_speaker": "Ferris",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "of us where we can find that opening and get in front of the Department.",
+    "span_text": "Senator Rounds. Thank you. Senator Rosen.",
+    "after": "Senator Rosen. I have one last question. I think for those of you who don't"
+   },
+   "span_id": "d004"
+  }
+ ]
+}

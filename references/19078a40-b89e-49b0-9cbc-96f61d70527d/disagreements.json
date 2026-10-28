@@ -1,0 +1,131 @@
+{
+ "hearing_id": "19078a40-b89e-49b0-9cbc-96f61d70527d",
+ "chrg": "CHRG-119hhrg61586",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg61586.txt",
+ "print_sha256": "a0649cc25732315cf42edaebce75e28a7edd06cf274a4d99a472d3a0f7f732e7",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "692963a5405ef4041317798cd021f8fa3e2323a0b4cd76bc694149cb427e9d4a",
+ "n_ref_words": 13071,
+ "roster_source": "committee_membership",
+ "total_body_words": 13884,
+ "words_both_opinion": 13071,
+ "words_agree": 12489,
+ "words_disagree": 582,
+ "words_no_llm_opinion": 483,
+ "words_no_parser_opinion": 795,
+ "words_inserted_material": 18,
+ "agree_rate": 0.9555,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 2753,
+   "end_word": 2762,
+   "word_count": 9,
+   "start_line": 385,
+   "end_line": 402
+  },
+  {
+   "start_word": 3364,
+   "end_word": 3373,
+   "word_count": 9,
+   "start_line": 462,
+   "end_line": 483
+  }
+ ],
+ "n_body_words_mapped": 13059,
+ "n_compare_words_spans": 4,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 2786,
+   "body_word_end": 3364,
+   "word_start": 2262,
+   "word_end": 2840,
+   "n_ref_words_mapped": 578,
+   "word_count": 578,
+   "start_line": 407,
+   "end_line": 461,
+   "parser_speaker": "TODD",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Huizenga",
+   "llm_bioguide_id": "H001058",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Todd, you are recognized for 5 minutes for an opening statement. STATEMENT OF BRIANNE TODD",
+    "span_text": "Ms. TODD. Chairman Huizenga, Ranking Member KamlagerDove, and other distinguished members of the subcommittee, good\nmorning and thank you for inviting me to speak with you today.\nAs the ranking member noted, I just returned last night from a\ncounterterrorism seminar in Uzbekistan, so I am delighted to be\nhere with you today and I would underscore that all of the opinions\nand views expressed are my own.\nYou have received my written testimony so today I will focus on\nthree main points about the evolving terror threat in Central Asia\nand why U.S. leadership remains crucial.\nFirst, the terror threat in Central Asia is reaching an inflection\npoint. Central Asia has not historically been a center of terrorist\nactivity but we are now witnessing some troubling trends.\nThe Islamic State Khorasan Province, also known as ISIS\u2013K, is\nexpanding its influence and exploiting regional vulnerabilities.\nCentral Asians were involved in several high-profile attacks last\nyear including the deadly Crocus City Hall attack in Moscow.\nTo attract recruits ISIS\u2013K and its related affiliates have become\nmore agile, more globalized, and more ideologically seductive to the\nmarginalized. Today, they are radicalizing, recruiting, and directing attacks with unprecedented speed and precision.\nISIS\u2013K has leveraged encrypted messaging apps, cryptocurrency\nplatforms, and AI-generated content to coordinate attacks and disseminate propaganda as seen in its recruitment efforts following\nthe Crocus City Hall attack.\nSecond, U.S. engagement in Central Asia is essential for our national security. I have asked them to project a map, and if you can\nsee the map the region sits at a strategic crossroads bordered by\nRussia, China, Afghanistan, and Iran.\nFor over 30 years the United States has supported the sovereignty, stability, and security of these countries. Stable partners\nin Central Asia work with us to share intelligence, disrupt terror\nfinancing, intercept returning foreign terrorist fighters, and support the rehabilitation and reintegration of returning fighters\u2019 family members. They are key to preventing attacks against the\nUnited States and our allies.\nThird, U.S. assistance has made a difference, but if the United\nStates steps back then the region\u2019s needs will go unmet or others\nwill fill the gap.\nUSAID programs like the Resilient Communities Activity and\nEmployment and Enterprise Development Activity addressed some\nof the root causes of extremism by supporting rural economic development, youth opportunities, and civil society.\nThese modest investments produced real results. However, as\nthese programs conclude our ability to bolster Central Asia\u2019s resilience is at risk.\nSome may argue that U.S. resources are better spent elsewhere.\nHowever, the cost of inaction could be greater in the long term.\n\n\nThe Central Asian states have sought deeper ties with the\nUnited States because they value our partnership on security and\ndevelopment issues.\nA vacuum left by the United States could embolden extremist\ngroups as local governments may lack the capacity to counter\nevolving threats without our support.\nRussia and China are also poised to expand their influence. China\u2019s Belt and Road projects have already increased Beijing\u2019s economic leverage and Russia\u2019s security agreements could limit our access to intelligence and regional cooperation.\nLet me close by emphasizing that now is not the time to abandon\nour Central Asian partners. Sustained strategic U.S. engagement\nin Central Asia can advance our national security interests by\nworking with the region toward long-term stability and preventing\nfuture terrorist attacks at home and abroad.\nThank you for your attention and your continued commitment to\nour security.",
+    "after": "[The prepared statement of Ms. Todd follows:] Mr. HUIZENGA. The gentlelady yields back, and I\u2014on"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 3838,
+   "body_word_end": 3840,
+   "word_start": 3291,
+   "word_end": 3293,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 522,
+   "end_line": 522,
+   "parser_speaker": "CURTIS",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Huizenga",
+   "llm_bioguide_id": "H001058",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "the Taliban government themselves or are they just turning a blind eye and allowing another?",
+    "span_text": "Ms. CURTIS. I think\u2014\u2014",
+    "after": "Mr. HUIZENGA. Is it ISIS\u2013K or who is it that would be operating? Ms. CURTIS."
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 8144,
+   "body_word_end": 8145,
+   "word_start": 7488,
+   "word_end": 7489,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 911,
+   "end_line": 911,
+   "parser_speaker": "CURTIS",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Johnson",
+   "llm_bioguide_id": "J000310",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "compromise of our national security and is making us vulnerable. Is that true as well?",
+    "span_text": "Ms. CURTIS. Yes.",
+    "after": "Ms. JOHNSON. Yes. I appreciate that because the thing is that we have had lots"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 8583,
+   "body_word_end": 8584,
+   "word_start": 7915,
+   "word_end": 7916,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 949,
+   "end_line": 949,
+   "parser_speaker": "CURTIS",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Johnson",
+   "llm_bioguide_id": "J000310",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "people out of a radicalized, militarized, terroristic bent of their mind frame. Isn\u2019t that right?",
+    "span_text": "Ms. CURTIS. Yes.",
+    "after": "Ms. JOHNSON. Would either one of you care to elaborate? Ms. CURTIS. Yes, if I"
+   },
+   "span_id": "d004"
+  }
+ ]
+}

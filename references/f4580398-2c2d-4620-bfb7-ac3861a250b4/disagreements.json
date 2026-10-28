@@ -1,0 +1,247 @@
+{
+ "hearing_id": "f4580398-2c2d-4620-bfb7-ac3861a250b4",
+ "chrg": "CHRG-119shrg61560",
+ "chamber": "senate",
+ "print_file": "CHRG-119shrg61560.htm",
+ "print_sha256": "74b2aba11293eaf08cd9af65a8a95d701f87b4324d3fdf6875b668fe11d3aa42",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "a309864d57e55071b350e9b8a6282658a209f843ea63edd8c33a584d7f353a0a",
+ "n_ref_words": 42689,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 78000,
+ "words_both_opinion": 22724,
+ "words_agree": 21795,
+ "words_disagree": 929,
+ "words_no_llm_opinion": 442,
+ "words_no_parser_opinion": 35210,
+ "words_inserted_material": 20066,
+ "agree_rate": 0.9591,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 4,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 3094,
+   "end_word": 6538,
+   "word_count": 3444,
+   "start_line": 456,
+   "end_line": 816
+  },
+  {
+   "start_word": 7227,
+   "end_word": 11185,
+   "word_count": 3958,
+   "start_line": 908,
+   "end_line": 1329
+  },
+  {
+   "start_word": 11702,
+   "end_word": 18102,
+   "word_count": 6400,
+   "start_line": 1393,
+   "end_line": 2059
+  },
+  {
+   "start_word": 18824,
+   "end_word": 22015,
+   "word_count": 3191,
+   "start_line": 2153,
+   "end_line": 2502
+  },
+  {
+   "start_word": 22592,
+   "end_word": 25647,
+   "word_count": 3055,
+   "start_line": 2574,
+   "end_line": 2878
+  },
+  {
+   "start_word": 26131,
+   "end_word": 26149,
+   "word_count": 18,
+   "start_line": 2942,
+   "end_line": 2946
+  }
+ ],
+ "n_body_words_mapped": 42583,
+ "n_compare_words_spans": 8,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 2214,
+   "body_word_end": 2221,
+   "word_start": 1755,
+   "word_end": 1762,
+   "n_ref_words_mapped": 7,
+   "word_count": 7,
+   "start_line": 349,
+   "end_line": 349,
+   "parser_speaker": "Sullivan",
+   "parser_bioguide_id": "S001198",
+   "llm_speaker": "Hirono",
+   "llm_bioguide_id": "H001042",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "and I have worked together---- Senator Sullivan. Well, we are going to get into the----",
+    "span_text": "Senator Hirono.--for you to personally insult me, okay.",
+    "after": "Senator Sullivan. I am not insulting you at all. Senator Hirono. Thank you. Senator Sullivan."
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 2223,
+   "body_word_end": 2230,
+   "word_start": 1762,
+   "word_end": 1769,
+   "n_ref_words_mapped": 7,
+   "word_count": 7,
+   "start_line": 350,
+   "end_line": 350,
+   "parser_speaker": "Sullivan",
+   "parser_bioguide_id": "S001198",
+   "llm_speaker": "Hirono",
+   "llm_bioguide_id": "H001042",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "we are going to get into the---- Senator Hirono.--for you to personally insult me, okay.",
+    "span_text": "Senator Sullivan. I am not insulting you at all.",
+    "after": "Senator Hirono. Thank you. Senator Sullivan. I am not insulting you. I am just glad"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 27417,
+   "body_word_end": 27531,
+   "word_start": 26717,
+   "word_end": 26831,
+   "n_ref_words_mapped": 114,
+   "word_count": 114,
+   "start_line": 3074,
+   "end_line": 3086,
+   "parser_speaker": "Hirono",
+   "parser_bioguide_id": "H001042",
+   "llm_speaker": "Sullivan",
+   "llm_bioguide_id": "S001198",
+   "shape": "different person",
+   "excerpt": {
+    "before": "that a little more challenging. Senator Sullivan. Great. I am going to yield back to",
+    "span_text": "Senator Hirono. I will get through this line of questioning.\n    I do want to do a recognition, Admiral, to the sailors and \nmarines who have been deploying all over the world and in the \nRed Sea in particular, you know, remarkable performance in \nterms of shooting down all the incoming missiles and drones at \nyour ships.\n    My understanding it is the most combat that the Navy has \nundertaken in terms of serious missile threats to our ships \nsince World War II and you have done it incredibly well.\n    So to all the sailors and marines on those deployed ships \nfor the great job they have done, thank you from the\n    entire U.S. Senate.\n    Senator Hirono?",
+    "after": "Senator Hirono. Thank you, Mr. Chairman. I get that a full year CR is going"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 28694,
+   "body_word_end": 28696,
+   "word_start": 27959,
+   "word_end": 27961,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3213,
+   "end_line": 3213,
+   "parser_speaker": "Hirono",
+   "parser_bioguide_id": "H001042",
+   "llm_speaker": "Mingus",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "through non-DOD contract mechanisms? General Mingus. Absolutely can take a look at that, ma'am, yes.",
+    "span_text": "Senator Hirono. Thank you.",
+    "after": "Senator Sullivan. Thank you. Thank you, Senator Hirono. Chairman Wicker? Senator Wicker. Well, Chairman, I"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 30594,
+   "body_word_end": 30884,
+   "word_start": 29807,
+   "word_end": 30097,
+   "n_ref_words_mapped": 290,
+   "word_count": 290,
+   "start_line": 3418,
+   "end_line": 3445,
+   "parser_speaker": "Kaine",
+   "parser_bioguide_id": "K000384",
+   "llm_speaker": "Sullivan",
+   "llm_bioguide_id": "S001198",
+   "shape": "different person",
+   "excerpt": {
+    "before": "of focus to our surface ships and our submarines. Senator Sullivan. Great. Good. Senator Kaine?",
+    "span_text": "Senator Kaine. Thank you, Mr. Chair, and like others I am \njust going to talk about the CR first.\n    You know, I came on this Committee in January 2013 and \nevery year you all and your predecessors sit before us and tell \nus that a CR is a bad thing and we do not listen to you.\n    You know, at some point you got to measure by the action, \nnot by the words that we say. We have allowed a CR to be normal \nfrom October 1 to the end of the calendar year. That is just \nkind of the norm.\n    But we have often gone beyond that into the next calendar \nyear, and we stand on the threshold of the first time where we \nhave just gone to CR for the entire year.\n    I agree with what the Chairman said earlier, the Chairman \nof the subcommittee, that a CR is better than a shutdown. I do \nagree with that. But why do we have to accept half-assed over \ncatastrophic?\n    The House voted on the CR yesterday and they left town. \nThey are out. They adjourned. Now we are going to hear what the \nSenate has to say and then try to do the right thing for the \ncountry.\n    They are gone, because they are, like, okay, we can jam you \nto vote for a CR that is bad for the defense of this Nation by \nskipping town on a Tuesday.\n    This speaks very loudly about the priorities of this Nation \nand this is all done in public with our adversaries watching.\n    Admiral Kilby, I think you testified in your opening \ntestimony that under a CR one-fifth of our ships will miss \ntheir maintenance schedule. Did I hear that right?",
+    "after": "Admiral Kilby. Eleven. Specifically, 11 ships those maintenance availabilities are at risk. Senator Kaine. Okay."
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 38418,
+   "body_word_end": 38670,
+   "word_start": 37443,
+   "word_end": 37695,
+   "n_ref_words_mapped": 252,
+   "word_count": 252,
+   "start_line": 4246,
+   "end_line": 4274,
+   "parser_speaker": "Mahoney",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Sullivan",
+   "llm_bioguide_id": "S001198",
+   "shape": "different person",
+   "excerpt": {
+    "before": "anywhere and what is the balance and how we doing on all those things, General?",
+    "span_text": "General Mahoney. Senator, we talked extensively about this \nand if you remember where the Force Design journey started and \nthat was with the statement that we are not manned, trained, or \nequipped for the future fight.\n    That is something tough for a marine to swallow. That is \nwhat generated the shift in some of the design elements of our \nforce.\n    We believe that we are on the right course based on \noperations extant today, based on experimentation that we have \ndone, based on what the Combatant Commands (COCOMs) demand.\n    That having said, the top priority of our Commandant, in \nfact, is to balance that modernization. If we put that in the \nmodernization bin, although Force Design is modernization, \ntalent management, training and education and logistics, we \nwill put it in the modernization bin with the ability to \nrespond to crises.\n    We have talked about the dearth of amphib shipping. That is \nsignificant. I believe it is strategic to the Nation. As far as \norganic combat power goes, we divested of heavy armor. We do \nnot believe in the situations that we were faced that we need \norganic heavy armor for maneuver or maneuver support.\n    We believe we have enough artillery, both rocket artillery \nand cannon artillery, for the problems that we will face. We \nbelieve that we have enough engineering and engineering \nsupport.\n    You brought up bridging. What we have found at gap \nnegotiation, gap crossing, is a shortfall and we have divested \nof bridging equipment, frankly, that was too heavy and \nlogistically unsupportable.",
+    "after": "Senator Sullivan. So can marines cross a river if they do an amphibious invasion and"
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 40070,
+   "body_word_end": 40326,
+   "word_start": 39063,
+   "word_end": 39318,
+   "n_ref_words_mapped": 254,
+   "word_count": 256,
+   "start_line": 4427,
+   "end_line": 4453,
+   "parser_speaker": "Sullivan",
+   "parser_bioguide_id": "S001198",
+   "llm_speaker": "Hirono",
+   "llm_bioguide_id": "H001042",
+   "shape": "different person",
+   "excerpt": {
+    "before": "We await that kind of information but until then, highly questionable. Thank you, Mr. Chairman.",
+    "span_text": "Senator Sullivan. Thank you, Senator Hirono.\n    I am going to wrap up here with just a few more questions. \nAgain, thanks for the patience. This has been a really good, \nenlightening hearing and I appreciate all the witnesses' \ntestimony and frank discussion of our readiness challenges.\n    General Spain, I am going to turn to you a little bit on \ncontested logistics. Ms. Maurer talked about it. We all deal \nwith it, all the services, but the Air Force, I think, in \nparticular with its tanker fleet, is particularly challenged \nbecause tankers are so important.\n    The previous Secretary of the Air Force committed after the \nChief of Staff of the Air Force and many others over the last \nseveral years we are going to be moving more KC-135s to \nEielson.\n    But what is the sense of your tanker fleet writ large and \nhow can we be addressing that, and can you commit to me to \nkeeping that timeline on getting those four tankers? I think \none has already been moved to Eielson but we need three more \nwith over 100 fifth-gen fighters in Alaska.\n    As you know, our Air Force is doing a fantastic job, real-\nworld missions, very regularly intercepting Russian Bear \nbombers in our Air Defense Identification Zone (ADIZ), Chinese \nand Russian strategic bombers in our ADIZ.\n    Our military, our Air Force has done a great job up there. \nBut as you know, those intercept missions are not easy and we \nneed tankers, but we need tankers throughout the world. So what \nis the situation there?",
+    "after": "Lieutenant General Spain. Thanks, Senator. I appreciate the question. As you are fully aware, we"
+   },
+   "span_id": "d007"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 42595,
+   "body_word_end": 42596,
+   "word_start": 41541,
+   "word_end": 41542,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 4691,
+   "end_line": 4691,
+   "parser_speaker": "Sullivan",
+   "parser_bioguide_id": "S001198",
+   "llm_speaker": "Guetlein",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Secretary of Defense owes an answer back to the President by the end of March.",
+    "span_text": "Senator Sullivan. Good.",
+    "after": "General Guetlein. We are on path to do that. Not only is it an organizational"
+   },
+   "span_id": "d008"
+  }
+ ]
+}

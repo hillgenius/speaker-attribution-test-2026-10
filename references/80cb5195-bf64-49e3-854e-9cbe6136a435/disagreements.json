@@ -1,0 +1,210 @@
+{
+ "hearing_id": "80cb5195-bf64-49e3-854e-9cbe6136a435",
+ "chrg": "CHRG-119hhrg64245",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg64245.htm",
+ "print_sha256": "d95e73e33eeae1c03d1253677e176ae4c6d6211ef0c6402c7196e25c40276657",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "19ea407e926ee0d5e073fc4217b2f443b287913c9bc85a0cd9dac89dd0403311",
+ "n_ref_words": 16399,
+ "roster_source": "committee_membership",
+ "total_body_words": 17648,
+ "words_both_opinion": 16399,
+ "words_agree": 16011,
+ "words_disagree": 388,
+ "words_no_llm_opinion": 379,
+ "words_no_parser_opinion": 807,
+ "words_inserted_material": 442,
+ "agree_rate": 0.9763,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 5,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 379,
+   "end_word": 730,
+   "word_count": 351,
+   "start_line": 108,
+   "end_line": 172
+  },
+  {
+   "start_word": 1342,
+   "end_word": 1357,
+   "word_count": 15,
+   "start_line": 241,
+   "end_line": 244
+  },
+  {
+   "start_word": 2133,
+   "end_word": 2149,
+   "word_count": 16,
+   "start_line": 328,
+   "end_line": 331
+  },
+  {
+   "start_word": 3027,
+   "end_word": 3042,
+   "word_count": 15,
+   "start_line": 433,
+   "end_line": 436
+  },
+  {
+   "start_word": 3627,
+   "end_word": 3642,
+   "word_count": 15,
+   "start_line": 507,
+   "end_line": 510
+  },
+  {
+   "start_word": 4496,
+   "end_word": 4511,
+   "word_count": 15,
+   "start_line": 613,
+   "end_line": 616
+  },
+  {
+   "start_word": 5127,
+   "end_word": 5142,
+   "word_count": 15,
+   "start_line": 692,
+   "end_line": 695
+  }
+ ],
+ "n_body_words_mapped": 16395,
+ "n_compare_words_spans": 6,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 10201,
+   "body_word_end": 10204,
+   "word_start": 9193,
+   "word_end": 9196,
+   "n_ref_words_mapped": 3,
+   "word_count": 3,
+   "start_line": 1233,
+   "end_line": 1233,
+   "parser_speaker": "Hess",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Bonamici",
+   "llm_bioguide_id": "B001278",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "correct that Joe Pitts was a Truman scholar nominee who did not get a scholarship?",
+    "span_text": "Mr. Hess. I believe so.",
+    "after": "Ms. Bonamici. Was that fact disclosed in the article that you wrote? Mr. Hess. I"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 10585,
+   "body_word_end": 10659,
+   "word_start": 9557,
+   "word_end": 9631,
+   "n_ref_words_mapped": 74,
+   "word_count": 74,
+   "start_line": 1278,
+   "end_line": 1286,
+   "parser_speaker": "Kabbany",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Moylan",
+   "llm_bioguide_id": "M001219",
+   "shape": "different person",
+   "excerpt": {
+    "before": "regard for political affiliation, ensuring students across the political spectrum have a chance to succeed.",
+    "span_text": "Ms. Kabbany. Conservative students may be less likely to \npursue degrees in social science, and more likely to pursue \ndegrees in things like business, criminal justice, engineering \nfields that are not typically associated with the traditional \npublic service. From what I heard, this scholarship program can \nsometimes have limited outreach to programs that tend to have \nconservative students in them.\n    What reforms can be made to ensure broader outreach, and \ntherefore, greater intellectual and political diversity?",
+    "after": "Ms. Kabbany. Thank you for the question. I think that we need to do better"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 11974,
+   "body_word_end": 11988,
+   "word_start": 10912,
+   "word_end": 10926,
+   "n_ref_words_mapped": 14,
+   "word_count": 14,
+   "start_line": 1426,
+   "end_line": 1427,
+   "parser_speaker": "Owens",
+   "parser_bioguide_id": "O000086",
+   "llm_speaker": "Grijalva",
+   "llm_bioguide_id": "G000606",
+   "shape": "different person",
+   "excerpt": {
+    "before": "thank you all for your time here, and with that Mr. Chairman, I yield back.",
+    "span_text": "Chairman Owens. Thank you. I would like to recognize my \nfriend from North Carolina, Mr. Harris.",
+    "after": "Mr. Harris. Thank you, Mr. Chairman, and thanks to all of you serving on the"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 15231,
+   "body_word_end": 15245,
+   "word_start": 14048,
+   "word_end": 14062,
+   "n_ref_words_mapped": 14,
+   "word_count": 14,
+   "start_line": 1773,
+   "end_line": 1774,
+   "parser_speaker": "Owens",
+   "parser_bioguide_id": "O000086",
+   "llm_speaker": "Scott",
+   "llm_bioguide_id": "S000185",
+   "shape": "different person",
+   "excerpt": {
+    "before": "what services these organizations will be able to provide. Mr. Scott. Thank you, Mr. Chairman.",
+    "span_text": "Chairman Owens. Thank you. I would now like to recognize my \nfriend from Missouri, Mr. Onder.",
+    "after": "Mr. Onder. Thank you, Mr. Chairman, and thank you to all the witnesses for being"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 16272,
+   "body_word_end": 16285,
+   "word_start": 15049,
+   "word_end": 15062,
+   "n_ref_words_mapped": 13,
+   "word_count": 13,
+   "start_line": 1885,
+   "end_line": 1886,
+   "parser_speaker": "Owens",
+   "parser_bioguide_id": "O000086",
+   "llm_speaker": "Onder",
+   "llm_bioguide_id": "O000177",
+   "shape": "different person",
+   "excerpt": {
+    "before": "is supposed to cultivate. Mr. Onder. Thank you. I yield back Mr. Chairman, thank you.",
+    "span_text": "Chairman Owens. Thank you. I would like to recognize my \nfriend from Florida, Mr. Fine.",
+    "after": "Mr. Fine. Well, thank you Mr. Chairman, and we have talked a lot in this"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 16938,
+   "body_word_end": 17208,
+   "word_start": 15701,
+   "word_end": 15971,
+   "n_ref_words_mapped": 270,
+   "word_count": 270,
+   "start_line": 1954,
+   "end_line": 1983,
+   "parser_speaker": "Adams",
+   "parser_bioguide_id": "A000370",
+   "llm_speaker": "Owens",
+   "llm_bioguide_id": "O000086",
+   "shape": "different person",
+   "excerpt": {
+    "before": "move to closing remarks. I would like to recognize Ms. Adams for her closing remarks.",
+    "span_text": "Ms. Adams. Thank you, Mr. Chairman, and thank you to our \nwitnesses. Today's hearing could have been an opportunity to \nwork together to tackle the real challenges facing students and \nfamilies. Instead we have seen a partisan attempt to \nmanufacture outrage over a respected scholarship program while \nignoring the growing crisis of college affordability and \nstudent debt.\n    Let us not lose sight of what is at stake. The average cost \nof college has skyrocketed. Tens of millions of Americans are \ncarrying student debt that impacts every aspect of their lives, \nfrom starting a family, to saving for retirement. This burden \nfalls heaviest on those already facing systemic inequality, \nwomen, first generation students, and communities of color.\n    Instead of offering solutions, Republicans passed the Big \nUgly Law, a policy that slashes financial aid, eliminates key \nprotections and increases monthly payments for most borrowers, \nall while the Trump administration is illegally dismantling the \nDepartment of Education, including the Office of Postsecondary \nEducation.\n    Together, these actions by Republicans make it harder to go \nto college, harder to stay in college, and harder to recover \nfinancially after graduation. Democrats are offering a better \nway forward. The Lowering Obstacles to Achievement Now, LOAN, \nthis act would double Pell Grants, would lower interest rates, \nand ensure student loan repayment is fair, and manageable.\n    It is a real plan to fix a real problem. The American \npeople do not want political theater. They want us to lower \ncosts, expand opportunity, and give every student a fair shot, \nand that is what we are fighting for. Thank you again to all of \nour witnesses and Mr. Chairman, I yield back.",
+    "after": "Chairman Owens. Thank you so much. This is a very inciteful, I will say a"
+   },
+   "span_id": "d006"
+  }
+ ]
+}

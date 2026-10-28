@@ -1,0 +1,154 @@
+{
+ "hearing_id": "b8cceb3f-4db9-470f-844f-9f9e2d11591a",
+ "chrg": "CHRG-119hhrg59922",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg59922.htm",
+ "print_sha256": "9e11cdda69296030f5642b725c9817353e5f703f707bc3d4d70f75d567349a9f",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "948813a3168b553b60460e3391e51e9af18f967ffaa42bb670089fb3fb307c64",
+ "n_ref_words": 26435,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 28370,
+ "words_both_opinion": 26435,
+ "words_agree": 26433,
+ "words_disagree": 2,
+ "words_no_llm_opinion": 1052,
+ "words_no_parser_opinion": 1815,
+ "words_inserted_material": 120,
+ "agree_rate": 0.9999,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1778,
+   "end_word": 1793,
+   "word_count": 15,
+   "start_line": 312,
+   "end_line": 315
+  },
+  {
+   "start_word": 2471,
+   "end_word": 2486,
+   "word_count": 15,
+   "start_line": 397,
+   "end_line": 400
+  },
+  {
+   "start_word": 3289,
+   "end_word": 3304,
+   "word_count": 15,
+   "start_line": 489,
+   "end_line": 492
+  },
+  {
+   "start_word": 3782,
+   "end_word": 3797,
+   "word_count": 15,
+   "start_line": 551,
+   "end_line": 554
+  },
+  {
+   "start_word": 5097,
+   "end_word": 5112,
+   "word_count": 15,
+   "start_line": 714,
+   "end_line": 717
+  },
+  {
+   "start_word": 5894,
+   "end_word": 5909,
+   "word_count": 15,
+   "start_line": 819,
+   "end_line": 822
+  },
+  {
+   "start_word": 6792,
+   "end_word": 6807,
+   "word_count": 15,
+   "start_line": 927,
+   "end_line": 930
+  },
+  {
+   "start_word": 7598,
+   "end_word": 7613,
+   "word_count": 15,
+   "start_line": 1028,
+   "end_line": 1031
+  }
+ ],
+ "n_body_words_mapped": 26397,
+ "n_compare_words_spans": 2,
+ "n_header_scan_spans": 1,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 11493,
+   "body_word_end": 11494,
+   "word_start": 10051,
+   "word_end": 10052,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1462,
+   "end_line": 1462,
+   "parser_speaker": "Allen",
+   "parser_bioguide_id": "A000372",
+   "llm_speaker": "Hale",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "in Kentucky? Mr. Hale. Not as much. Of course, we are not as far along.",
+    "span_text": "Mr. Allen. Right.",
+    "after": "Mr. Hanson. But that is definitely a potential issue that we could see that we"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 11673,
+   "body_word_end": 11674,
+   "word_start": 10210,
+   "word_end": 10211,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1484,
+   "end_line": 1484,
+   "parser_speaker": "Allen",
+   "parser_bioguide_id": "A000372",
+   "llm_speaker": "Donovan",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "an industry overall, we do not have the workforce that we need to complete this--",
+    "span_text": "Mr. Allen. Yes.",
+    "after": "Mr. Donovan [continuing]. Across the country. Oh, and that is why we have been pleased"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Mr. Spellmeyer, Mr. Hale, how should Congress try to",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 22928,
+   "body_word_end": 22965,
+   "word_count": 37,
+   "word_start": 21148,
+   "word_end": 21185,
+   "n_ref_words_mapped": 37,
+   "start_line": 2679,
+   "end_line": 2683,
+   "parser_speaker": "Cammack",
+   "parser_bioguide_id": "C001039",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "they have the same requirements. Now, I tried to do this for the U.S. GAO Reconnect program last Congress with my Rural Internet Improvement Act.",
+    "span_text": "Mr. Spellmeyer, Mr. Hale, how should Congress try to \nstandardize requirements for the different broadband programs \nacross the various agencies? I would love to hear your feedback \non this.\n    And I will start with you, Mr. Spellmeyer.",
+    "after": ""
+   },
+   "span_id": "h001",
+   "shape": "header-scan flag"
+  }
+ ]
+}

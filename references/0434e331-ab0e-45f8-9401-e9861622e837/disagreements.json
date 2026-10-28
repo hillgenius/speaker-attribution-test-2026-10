@@ -1,0 +1,350 @@
+{
+ "hearing_id": "0434e331-ab0e-45f8-9401-e9861622e837",
+ "chrg": "CHRG-119hhrg61277",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg61277.htm",
+ "print_sha256": "4f2ebdfd54334cc2b8bcf4c541179145e0031170ae8aa03149c46bdfe9f9de91",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "0d63cd2aea5aba19b4fc1a6a3c41d355bb1bb855a80064841fe033de500085c0",
+ "n_ref_words": 24173,
+ "roster_source": "committee_membership",
+ "total_body_words": 31031,
+ "words_both_opinion": 10985,
+ "words_agree": 10662,
+ "words_disagree": 323,
+ "words_no_llm_opinion": 4781,
+ "words_no_parser_opinion": 6805,
+ "words_inserted_material": 13138,
+ "agree_rate": 0.9706,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 5,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 5772,
+   "end_word": 6523,
+   "word_count": 751,
+   "start_line": 1163,
+   "end_line": 1247
+  },
+  {
+   "start_word": 7976,
+   "end_word": 8540,
+   "word_count": 564,
+   "start_line": 1441,
+   "end_line": 1510
+  },
+  {
+   "start_word": 9522,
+   "end_word": 16804,
+   "word_count": 7282,
+   "start_line": 1629,
+   "end_line": 2578
+  },
+  {
+   "start_word": 17661,
+   "end_word": 20878,
+   "word_count": 3217,
+   "start_line": 2681,
+   "end_line": 3008
+  },
+  {
+   "start_word": 21296,
+   "end_word": 22620,
+   "word_count": 1324,
+   "start_line": 3062,
+   "end_line": 3228
+  }
+ ],
+ "n_body_words_mapped": 24028,
+ "n_compare_words_spans": 13,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 23974,
+   "body_word_end": 23976,
+   "word_start": 18937,
+   "word_end": 18939,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3377,
+   "end_line": 3377,
+   "parser_speaker": "Marroni",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Perry",
+   "llm_bioguide_id": "P000605",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "the appropriations process. Judiciary, as a branch of Government, is setting its own requirements there----",
+    "span_text": "Mr. Perry [interrupting]. Okay, so----",
+    "after": "Mr. Marroni [continuing]. We certainly can help by providing reports, but we are not the"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 24317,
+   "body_word_end": 24325,
+   "word_start": 19265,
+   "word_end": 19273,
+   "n_ref_words_mapped": 8,
+   "word_count": 8,
+   "start_line": 3415,
+   "end_line": 3416,
+   "parser_speaker": "Marroni",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Perry",
+   "llm_bioguide_id": "P000605",
+   "shape": "different person",
+   "excerpt": {
+    "before": "are describing, they are including the cost-neutral elements. But Judge Suddaby may be able to----",
+    "span_text": "Mr. Perry [interrupting]. Okay, Judge, what do you say to \nthat?",
+    "after": "Judge Suddaby. Yes, thank you. First of all, Mr. Chairman, I want to assure you"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 25570,
+   "body_word_end": 25712,
+   "word_start": 20490,
+   "word_end": 20632,
+   "n_ref_words_mapped": 142,
+   "word_count": 142,
+   "start_line": 3553,
+   "end_line": 3566,
+   "parser_speaker": "Suddaby",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Barrett",
+   "llm_bioguide_id": "B001321",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Judge Suddaby. And any buildout in an existing courthouse includes those elements. Now, the courtrooms----",
+    "span_text": "Mr. Barrett [interrupting]. We have got a lot of legacy \ncourtrooms that aren't under that condition, right? Because \nthey haven't been built or updated since then. And if we look--\nand not to interrupt you or cut you off, but if we look \nretrospectively, do we do any analysis of what percent of the \ntime--and this is just an oversimplification of my own, kind \nof, understanding of this, is that most cases end up not going \nto a full trial, with a jury and everything else.\n    I am sure the courtrooms are used for other proceedings \nalong the way, but the--like the stuff you see on ``Law & \nOrder'' is less likely to happen in real life with dramatic \njury trials and everything else, thereby probably offloading \nsome of the need for courtrooms that are fairly dormant most of \nthe time. Is that accurate?",
+    "after": "Judge Suddaby. I would say it's not accurate. Mr. Barrett. Okay. Judge Suddaby. There is"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 26089,
+   "body_word_end": 26090,
+   "word_start": 20997,
+   "word_end": 20998,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3605,
+   "end_line": 3605,
+   "parser_speaker": "Barrett",
+   "parser_bioguide_id": "B001321",
+   "llm_speaker": "Suddaby",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "own, or do we rent any space currently? Judge Suddaby. There are some leased courthouses.",
+    "span_text": "Mr. Barrett. Okay.",
+    "after": "Judge Suddaby. And that is a decision that is made in conjunction with GSA, that"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 26926,
+   "body_word_end": 26942,
+   "word_start": 21810,
+   "word_end": 21826,
+   "n_ref_words_mapped": 16,
+   "word_count": 16,
+   "start_line": 3695,
+   "end_line": 3697,
+   "parser_speaker": "Peters",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Figures",
+   "llm_bioguide_id": "F000481",
+   "shape": "different person",
+   "excerpt": {
+    "before": "need to be addressed, and we are working with you to deal with that. So----",
+    "span_text": "Mr. Figures [interrupting]. Right. And I don't want to cut \nyou off, I've got one more----\n    Mr. Peters [interposing]. Go ahead.",
+    "after": "Mr. Figures [continuing]. Question I want to squeeze in. Throughout the DOGE process, there were"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 27385,
+   "body_word_end": 27398,
+   "word_start": 22260,
+   "word_end": 22273,
+   "n_ref_words_mapped": 13,
+   "word_count": 13,
+   "start_line": 3742,
+   "end_line": 3743,
+   "parser_speaker": "Perry",
+   "parser_bioguide_id": "P000605",
+   "llm_speaker": "Figures",
+   "llm_bioguide_id": "F000481",
+   "shape": "different person",
+   "excerpt": {
+    "before": "point. Mr. Figures. Thank you. I am well over my time. I appreciate it, Chair.",
+    "span_text": "Mr. Perry. The Chair thanks the gentleman. The Chair now \nrecognizes the gentleman, Mr. Onder.",
+    "after": "Dr. Onder. I thank you, Mr. Chairman, and thank you to the witnesses for being"
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 27544,
+   "body_word_end": 27545,
+   "word_start": 22415,
+   "word_end": 22416,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3760,
+   "end_line": 3760,
+   "parser_speaker": "Peters",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Onder",
+   "llm_bioguide_id": "O000177",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "within judiciary, elsewhere. But just because it's useful doesn't mean we can afford it. And----",
+    "span_text": "Dr. Onder [interposing]. Right.",
+    "after": "Mr. Peters [continuing]. So, what we are working to do is to develop a better"
+   },
+   "span_id": "d007"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 27797,
+   "body_word_end": 27798,
+   "word_start": 22656,
+   "word_end": 22657,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3788,
+   "end_line": 3788,
+   "parser_speaker": "Peters",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Onder",
+   "llm_bioguide_id": "O000177",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "say, I would welcome the opportunity to work together to determine how utilized they are----",
+    "span_text": "Dr. Onder [interposing]. Sure.",
+    "after": "Mr. Peters [continuing]. To determine how necessary they are. Dr. Onder. And Judge, do you"
+   },
+   "span_id": "d008"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 28450,
+   "body_word_end": 28452,
+   "word_start": 23292,
+   "word_end": 23294,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3862,
+   "end_line": 3862,
+   "parser_speaker": "Suddaby",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Perry",
+   "llm_bioguide_id": "P000605",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "the ongoing study. But as I have indicated, the use is so unique and different----",
+    "span_text": "Mr. Perry [interposing]. We understand.",
+    "after": "Judge Suddaby [continuing]. To any other public---- Mr. Perry [interrupting]. And we are not---- Judge"
+   },
+   "span_id": "d009"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 28462,
+   "body_word_end": 28466,
+   "word_start": 23301,
+   "word_end": 23305,
+   "n_ref_words_mapped": 4,
+   "word_count": 4,
+   "start_line": 3864,
+   "end_line": 3864,
+   "parser_speaker": "Suddaby",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Perry",
+   "llm_bioguide_id": "P000605",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "unique and different---- Mr. Perry [interposing]. We understand. Judge Suddaby [continuing]. To any other public----",
+    "span_text": "Mr. Perry [interrupting]. And we are not----",
+    "after": "Judge Suddaby [continuing]. You know, public space---- Mr. Perry [interrupting]. We are not here to"
+   },
+   "span_id": "d010"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 28476,
+   "body_word_end": 28605,
+   "word_start": 23312,
+   "word_end": 23441,
+   "n_ref_words_mapped": 129,
+   "word_count": 129,
+   "start_line": 3866,
+   "end_line": 3878,
+   "parser_speaker": "Suddaby",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Perry",
+   "llm_bioguide_id": "P000605",
+   "shape": "different person",
+   "excerpt": {
+    "before": "public---- Mr. Perry [interrupting]. And we are not---- Judge Suddaby [continuing]. You know, public space----",
+    "span_text": "Mr. Perry [interrupting]. We are not here to challenge \nthat, but we need to have the data.\n    In talking to both of you, or all three of you, regarding \nCongress' role in oversight, we can't do a good job at that, or \nan adequate job, if we don't have the information.\n    So, there is a study that is ongoing. Is it just a \ncontinual study, or is there going to be some end to it that we \nreceive a report? How will we know--or can we just tap into \nthat information at any time and get utilization rates for this \ncourtroom or that courtroom and this courthouse, this is how \nmany times somebody was in this one when somebody else needed \nto use it--how is that all----\n    Judge Suddaby [interposing]. Yes.",
+    "after": "Mr. Perry [continuing]. Meted out at this point? Judge Suddaby. The CACM Committee, again, is"
+   },
+   "span_id": "d011"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 28910,
+   "body_word_end": 28912,
+   "word_start": 23739,
+   "word_end": 23741,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3910,
+   "end_line": 3910,
+   "parser_speaker": "Perry",
+   "parser_bioguide_id": "P000605",
+   "llm_speaker": "Suddaby",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "like the outcome of that, either. So, it would be better to have the input----",
+    "span_text": "Judge Suddaby [interposing]. I see.",
+    "after": "Mr. Perry [continuing]. So that we can make decisions. Whether I think that the majority"
+   },
+   "span_id": "d012"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 29208,
+   "body_word_end": 29210,
+   "word_start": 24028,
+   "word_end": 24030,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3940,
+   "end_line": 3940,
+   "parser_speaker": "Suddaby",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Perry",
+   "llm_bioguide_id": "P000605",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "use of our space so we can keep not only the lights on, but the----",
+    "span_text": "Mr. Perry [interposing]. Yes, sure.",
+    "after": "Judge Suddaby [continuing]. People that we need to do the job in place. Mr. Perry."
+   },
+   "span_id": "d013"
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "hearing_id": "53ba377b-a199-444a-88ff-67b9011e6bec",
+ "chrg": "CHRG-119hhrg60988",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60988.htm",
+ "print_sha256": "675dfb29b005659c1de433ff7c8103e32702cc1108f98dadce5a5bfacd1cefa9",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "d25b1a40c289e8e6ac8a57de7c3af6b5b982b48348f90cb1816878346a65e79f",
+ "n_ref_words": 12231,
+ "roster_source": "committee_membership",
+ "total_body_words": 13519,
+ "words_both_opinion": 11779,
+ "words_agree": 9465,
+ "words_disagree": 2314,
+ "words_no_llm_opinion": 831,
+ "words_no_parser_opinion": 1256,
+ "words_inserted_material": 32,
+ "agree_rate": 0.8035,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 5,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 3276,
+   "end_word": 3292,
+   "word_count": 16,
+   "start_line": 483,
+   "end_line": 486
+  },
+  {
+   "start_word": 3999,
+   "end_word": 4015,
+   "word_count": 16,
+   "start_line": 574,
+   "end_line": 577
+  }
+ ],
+ "n_body_words_mapped": 11744,
+ "n_compare_words_spans": 6,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 1534,
+   "body_word_end": 2234,
+   "word_start": 652,
+   "word_end": 1352,
+   "n_ref_words_mapped": 700,
+   "word_count": 700,
+   "start_line": 283,
+   "end_line": 356,
+   "parser_speaker": "Casten",
+   "parser_bioguide_id": "C001117",
+   "llm_speaker": "Davidson",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "SUBCOMMITTEE ON NATIONAL SECURITY, ILLICIT FINANCE AND INTERNATIONAL FINANCIAL INSTITUTIONS, A U.S. REPRESENTATIVE FROM ILLINOIS",
+    "span_text": "Mr. Casten. Thank you, Mr. Chairman, for holding this \nhearing. Thank you to our witnesses for appearing today. I am \nnot the ranking member of this committee. I will make no claims \nto be able to fill Mrs. Beatty's shoes. I will brag only that I \nhave a better hip because she is out getting surgery today to \nhave that hip repaired, so she will be back at full strength \nshortly.\n    The DPA gives the President authority to take various \nactions to ensure that the supply of materials and services are \nnecessary for our national defense, gives the President the \nauthority to prioritize government contracts, waive \ninternational trade agreements, offer incentives within the \ndomestic market to enhance production of critical materials and \ntechnologies if deemed necessary for the national defense.\n    We have seen many benefits in Illinois. We recently saw DPA \ninvoked to help resources in shipbuilding, not because Illinois \nis on a port, but because Illinois has a lot of steel \nmanufacturing that was important to that need, and that is an \nimportant issue.\n    Over the years, Congress has amended the definition of \nnational defense to include emergency preparedness, energy \nproduction activities, critical infrastructure, protection \nrestoration, and homeland security. We, of course, saw \napplications when we were facing novel challenges, national \nsecurity from the COVID-19 pandemic to the increasingly \ndevastating effects of climate change. To tackle those issues, \nthe executive branch has appropriately used the DPA to produce \nventilators, vaccines, as well as to accelerate domestic \nmanufacturing of clean energy technologies.\n    In 2022, the Biden Administration invoked the DPA to \ndevelop and reshape supply chains for transformers and other \ngrid components, solar panels, heat pumps, and hydrogen fuel \ncells. That is relevant because the Department of Defense, on a \nbipartisan basis going back for decades, has listed climate \nchange as a threat to national security all the way back to \n2008, saying that it must be a part of every strategic decision \nthe Department makes.\n    I wish my Republican colleagues did not criticize the use \nof the DPA to support cleaner and cheaper energy sources, \nbecause it is important. We want electric grid resiliency, but \nwe politicize this. We accuse President Biden of accusing the \nDPA to advance his agenda. I would argue that the DPA is an \nimportant tool to mobilize the U.S. industrial base to meet the \ndemands of national defense, including energy security and \nindependence.\n    I would note that President Trump recently invoked the DPA \nto promote the development of nuclear energy, which the \nPresident argues is necessary to achieve energy independence, \nalso a cleaner source, maybe not a cheaper source, but let us \nnot pick winners, but let us make sure that we do acknowledge \nthat energy security is important.\n    I do want to acknowledge that I think my Republican \ncolleagues raise a good point. Congress has a long history of \nsolving problems by asking the executive branch to solve them. \nThen we have a long history of complaining that the executive \nbranch abuses the power that we gave them. We can choose where \nthat sits, but that is an ongoing issue. I think a lot of us on \nthe Democratic side have concerns about how the current \noccupant of the White House is also abusing some of these \npowers. We have seen this not in the DPA, but in the \nInternational Emergency Economic Powers Act (IEEPA), where the \nPresident has declared that there is an emergency that requires \nthe imposition of tariffs. IEEPA is not a tariff statute, but \nit is being used that way. We have seen more recently in the \nTwitter feud between the President and Elon Musk, Steve Bannon \nsaying that the President should use the DPA to seize SpaceX in \nretaliation. That is not how the DPA works.\n    So in this context, I think it is appropriate at this \nmoment that we are discussing how Congress intended the DPA to \nfunction and how, if at all, we should tweak the DPA to make \nsure that Congress continues to fulfill its responsibilities as \nthe Article I branch, and I would submit to you the best branch \namong the three in Congress.\n    I look forward to the discussion, and I yield back.",
+    "after": "Chairman Davidson. Thanks, Mr. Casten. I now recognize the chairman of the full committee, Mr."
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 2271,
+   "body_word_end": 2423,
+   "word_start": 1369,
+   "word_end": 1521,
+   "n_ref_words_mapped": 152,
+   "word_count": 152,
+   "start_line": 364,
+   "end_line": 382,
+   "parser_speaker": "Hill",
+   "parser_bioguide_id": "H001072",
+   "llm_speaker": "Davidson",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "HON. FRENCH HILL, CHAIRMAN OF THE COMMITTEE ON FINANCIAL SERVICES, A U.S. REPRESENTATIVE FROM ARKANSAS",
+    "span_text": "Chairman Hill. I thank you, Chairman Davidson.\n    America is navigating one of the most dangerous and complex \nglobal threat environments in recent history. Our adversaries \nare accelerating innovation, scaling production, and heavily \ninvesting in their own national defense capabilities. It is \ncritical that the United States keeps pace and expands our \ndominance as the leader across the free world. That requires \nnot just military might, but economic resilience, financial \nagility, and industrial strength.\n    Today, this subcommittee will review the Defense Production \nAct ahead of its reauthorization. We will explore ways to use \nthe Defense Production Act to secure supply chains and \nstrengthen our domestic industrial base, while ensuring that \nour agencies have the tools they need to meet these 21st \ncentury threats.\n    I thank Chairman Davidson for his leadership. I look \nforward to our panel, and I thank members on both sides of the \naisle for engaging on this important issue.\n    I yield back.",
+    "after": "Chairman Davidson. Thank you, Chairman. Today, we welcome the testimony of Mr. William Russell, a"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 2541,
+   "body_word_end": 3276,
+   "word_start": 1622,
+   "word_end": 2357,
+   "n_ref_words_mapped": 735,
+   "word_count": 735,
+   "start_line": 400,
+   "end_line": 481,
+   "parser_speaker": "Russell",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Davidson",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "oral statement. STATEMENT OF WILLIAM RUSSELL, DIRECTOR, CONTRACTING AND NATIONAL SECURITY ACQUISITIONS, GOVERNMENT ACCOUNTABILITY OFFICE",
+    "span_text": "Mr. Russell. Thank you, Chairman Davidson, Chairman Hill, \nVice Chair Nunn, and Congressman Casten, members of the \nsubcommittee. Thank you for the opportunity to discuss Federal \nagency use of the Defense Production Act. While the DPA was \nfirst enacted nearly 75 years ago, its authorities continue to \nbe relied upon to bolster the industrial base today.\n    Since its last reauthorization in Fiscal Year 2018, \nCongress has appropriated at least $3.2 billion for DPA-related \nactivities, and agencies have used the DPA in a range of \ncircumstances to address national emergencies such as the \nCOVID-19 pandemic to ongoing efforts to make our supply chains \nmore resilient. In 2025 alone, agencies are using the DPA to \nhelp reconstitute the naval industrial base and to assist with \nexpanded production of critical minerals. Unless reauthorized, \nthe DPA authorities will expire in September 2025.\n    Overall, the DPA has been a durable and important tool to \naddress emergencies and enable domestic industrial base to \nmaintain or increase production of needed defense resources. I \nwould like to highlight today how agencies have used the DPA \nsince it was last reauthorized, as well as several challenges \nthey faced in doing so. This is based on our prior work looking \nat the DPA, as well as our new report that was issued today.\n    From fiscal years 2018 to 2024, agencies such as the \nDepartment of Defense (DOD), Department of Energy, Health and \nHuman Services, and others have placed over 2.5 million Title I \npriority ratings on contracts or orders. Priority ratings \nrequire companies to preference the delivery of goods and \nservices needed to the national defense over other customers. \nFor example, DOD uses these ratings for the production of \nmilitary aircraft and ships, among other things.\n    These agencies also made 222 Title III investments, valued \nat approximately $3.2 billion, to bolster the domestic \nindustrial base through expansion of manufacturing capacity of \nexisting suppliers, sustaining some of those suppliers, and \nbringing in new suppliers. For example, DOD completed \ninvestments that were used to respond to COVID-19 by expanding \nproduction of N95 masks and respirators and has ongoing \ninvestments intended to expand the domestic capacity in areas \nsuch as critical materials used in weapon systems, areas like \nelectronics, missiles, munitions, and more.\n    Use of Title VII authorities included industrial-based \nassessments and one voluntary agreement with industry over that \nperiod. For example, DOD, Health and Human Services (HHS), \nDepartment of Homeland Security (DHS), and others requested or \ncompleted 17 industrial-based assessments to better understand \ncritical supply chains such as microelectronics.\n    Agencies have experienced a number of challenges when using \nthe DPA, specifically difficulties tracking the rated orders \nthrough the COVID-19 response. Our latest report found \nadditional challenges. For example, DOD noted that industry \npartners did not always understand how to apply the priority \nratings throughout the supply chain, and DOD is currently \nconducting outreach to ensure a better understanding of these \nresponsibilities.\n    In terms of Title III, a key authority for loans was only \nused once since 2018. We found that DOD does not currently have \nthe expertise within its Defense Production Act Purchases \nOffice to fully leverage loan authorities. Additionally, the \nDPA-wide coordinator, currently Federal Emergency Management \nAgency (FEMA), has not collected and shared lessons learned, \nleveraging DOD's extensive experience with Title III \ncommitments over the years, but doing so could benefit other \nagencies like HHS. We had a recommendation to FEMA to address \nthis issue, and they concurred with it and are planning to take \nactions on that front.\n    In terms of Title VII, we found that there were challenges \nusing voluntary agreements. For example, FEMA faced challenges \nestablishing an agreement in time to have meaningful impact \nduring COVID-19 related to the distribution of personal \nprotective equipment (PPE). Government Accountability Office \n(GAO) has made a number of recommendations in our prior \nreports, and the agencies have generally taken actions to \naddress them, barring one, which is the U.S. International \nDefense Finance Corporation. We asked them to evaluate their \neffectiveness in applying the Title III loan program to assist \nDOD. That one is still open.\n    In conclusion, the DPA has helped agencies prepare for and \nrespond to threats in national defense, respond to emergencies, \nand increase the resilience of vital supply chains. \nImplementation of the authorities can be further improved to \nmake the DPA more effective and efficient moving forward.\n    Mr. Chairman, this concludes my prepared remarks.",
+    "after": "[The prepared statement of Mr. Russell follows:] [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] Chairman Davidson."
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 3322,
+   "body_word_end": 3999,
+   "word_start": 2372,
+   "word_end": 3049,
+   "n_ref_words_mapped": 677,
+   "word_count": 677,
+   "start_line": 493,
+   "end_line": 572,
+   "parser_speaker": "Levin",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Davidson",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "oral statement. STATEMENT OF ADAM G. LEVIN, ANALYST IN ECONOMIC DEVELOPMENT POLICY, CONGRESSIONAL RESEARCH SERVICE",
+    "span_text": "Mr. Levin. Thank you, Chairman Davidson, Committee Chairman \nHill, Vice Chairman Nunn, Congressman Casten, and members of \nthe subcommittee for inviting the Congressional Research \nService to testify today. My name is Adam Levin, and I am an \nAnalyst in Economic Development Policy. This morning, I will \nsummarize my written statement on the Defense Production Act of \n1950, or DPA, including a brief summary of the law's \nauthorities and a few issues for Congress to consider.\n    The DPA provides the President with an array of authorities \nto ``shape national defense preparedness programs and to take \nappropriate steps to maintain and enhance the domestic \nindustrial base.'' Since enactment, Presidents have used the \nDPA to manage the Nation's defense and non-defense-related \nproductive capacity.\n    The DPA contains three active titles, Title I, Title III, \nand Title VII. Title I allows the President to require private \nbusinesses to preferentially accept certain contracts and \norders, as well as to allocate materials, services, and \nfacilities.\n    Title III allows the President to provide loans, loan \nguarantees, purchases and purchase commitments, subsidies, and \nother financial assistance directly to private businesses.\n    Title VII provides the President with a variety of \nauthorities, including the power to establish voluntary \nagreements with industry and obtain information on the \nindustrial base. Title VII also defines key terms, including \nnational defense, and provides for the termination of most DPA \nprovisions. Due to this termination provision, the DPA's \nexpiring provisions are currently set to terminate on September \n30, 2025. Congress has reauthorized the DPA dozens of times, \nmost recently in 2018.\n    In addition to extending the law's termination provision, \nsome reauthorizations have amended various other aspects of the \nDPA, for example, by expanding eligibility for Title III \nassistance to certain businesses in the United Kingdom and \nAustralia.\n    Use of DPA authorities by executive branch agencies has \nebbed and flowed over time. The executive branch frequently \ninvoked the DPA in the first few years after enactment. In the \nfollowing years, the DPA, particularly Title III, was invoked \nless often, at least through the early 1980s. In recent years, \nDPA usage has increased. For example, both the Trump and Biden \nAdministrations invoked the law to respond to the COVID-19 \npandemic.\n    The Biden Administration also used Title III authorities to \nrespond to the 2022 Russian-Ukrainian War and to address \nnational defense concerns through clean energy technology \ninvestments. In March 2025, President Trump issued an executive \norder intended to bolster national security by increasing \ndomestic mineral production that, among other actions, invoked \nTitle III authorities.\n    I will now highlight a few issues Congress may consider. As \nmentioned, most DPA provisions will expire on September 30, \n2025, unless reauthorized. Since 1950, Congress has \nreauthorized expiring DPA provisions on at least 53 separate \noccasions. Within the past 40 years, there has been at least \none lapse in authorization, although Congress later \nretroactively enacted a reauthorization to encompass this \nperiod. With the upcoming expiration date in mind, Congress may \nconsider whether to reauthorize the DPA, what to include in any \npotential reauthorization, and how long a potential \nreauthorization may last.\n    Congress may also consider its oversight of the DPA. For \nexample, Congress could assess whether it feels the DPA has \nbeen used too often, too infrequently, or on an appropriate \nbasis, as well as whether the President has the right amount of \nlatitude to implement the DPA's authorities. Should Congress \ndetermine that its oversight role needs adjustment, Congress \ncould seek to further clarify how the DPA may or may not be \nused. One option for doing so may be to amend the law's \ndefinition of national defense.\n    Congress provides appropriations for DPA activities. Since \nFiscal Year 2020, Congress has appropriated at least $4.4 \nbillion to the DPA fund, which pays for Title III activities, \nas well as at least another $10 billion to pay for DPA \nresponses to the COVID-19 pandemic. Congress may consider \nwhether to continue these levels of appropriations, which are \nrelatively high by historical comparison.\n    This concludes my remarks. Thank you for the opportunity to \ntestify. I look forward to your questions.",
+    "after": "[The prepared statement of Mr. Levin follows:] [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] Chairman Davidson."
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 10698,
+   "body_word_end": 10747,
+   "word_start": 9551,
+   "word_end": 9600,
+   "n_ref_words_mapped": 49,
+   "word_count": 49,
+   "start_line": 1279,
+   "end_line": 1284,
+   "parser_speaker": "Russell",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Foster",
+   "llm_bioguide_id": "F000454",
+   "shape": "different person",
+   "excerpt": {
+    "before": "to create some amount of taxpayer debt, how do you do the balance on that?",
+    "span_text": "Mr. Russell. I can speak to the other side of the ledger, \ncertainly the subsidizing using the DPA. We have seen that \nthrough purchase commitments and other arrangements, a lot of \nsupport across some vital supply chains that DOD and others \nhave identified whether that is hypersonics, emerging things \nlike biomanufacturing.",
+    "after": "Mr. Foster. If you can respond for the record with anything that is written to"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 13163,
+   "body_word_end": 13164,
+   "word_start": 11920,
+   "word_end": 11921,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1546,
+   "end_line": 1546,
+   "parser_speaker": "McClain",
+   "parser_bioguide_id": "M001136",
+   "llm_speaker": "Russell",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "some of the lessons learned and experiences of DOD in applying the Title III purchase----",
+    "span_text": "Mrs. McClain. Yes.",
+    "after": "Mr. Russell [continuing]. commitments and other things so that could be shared with other agencies"
+   },
+   "span_id": "d006"
+  }
+ ]
+}

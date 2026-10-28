@@ -1,0 +1,276 @@
+{
+ "hearing_id": "bf28e8ba-a686-4812-b4b7-fc5aac7e30b0",
+ "chrg": "CHRG-119hhrg61404",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg61404.htm",
+ "print_sha256": "99ac4d01eb15f8ab731d0f27145cf6445a726af5ff5b8a7e4961e071a211156f",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "33a578a679f3bd637e897f51a3b8d214e78928daad54746e9f4679f09b562a61",
+ "n_ref_words": 28076,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 29090,
+ "words_both_opinion": 15189,
+ "words_agree": 15156,
+ "words_disagree": 33,
+ "words_no_llm_opinion": 564,
+ "words_no_parser_opinion": 924,
+ "words_inserted_material": 12977,
+ "agree_rate": 0.9978,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1527,
+   "end_word": 2383,
+   "word_count": 856,
+   "start_line": 282,
+   "end_line": 377
+  },
+  {
+   "start_word": 2998,
+   "end_word": 3598,
+   "word_count": 600,
+   "start_line": 450,
+   "end_line": 511
+  },
+  {
+   "start_word": 3621,
+   "end_word": 4298,
+   "word_count": 677,
+   "start_line": 514,
+   "end_line": 584
+  },
+  {
+   "start_word": 5301,
+   "end_word": 6864,
+   "word_count": 1563,
+   "start_line": 717,
+   "end_line": 887
+  },
+  {
+   "start_word": 7658,
+   "end_word": 11726,
+   "word_count": 4068,
+   "start_line": 988,
+   "end_line": 1456
+  },
+  {
+   "start_word": 12663,
+   "end_word": 14985,
+   "word_count": 2322,
+   "start_line": 1576,
+   "end_line": 1864
+  },
+  {
+   "start_word": 15862,
+   "end_word": 18753,
+   "word_count": 2891,
+   "start_line": 1973,
+   "end_line": 2316
+  }
+ ],
+ "n_body_words_mapped": 27964,
+ "n_compare_words_spans": 9,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 19075,
+   "body_word_end": 19077,
+   "word_start": 18355,
+   "word_end": 18357,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 2351,
+   "end_line": 2351,
+   "parser_speaker": "Robbins",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Gimenez",
+   "llm_bioguide_id": "G000593",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "to their passengers? Mr. Robbins. No, sir. Mr. Gimenez. We do not have that authority?",
+    "span_text": "Mr. Robbins. No, sir.",
+    "after": "Mr. Gimenez. OK. Does anybody have that authority? Mr. Robbins. In a very limited fashion,"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 22899,
+   "body_word_end": 22912,
+   "word_start": 22084,
+   "word_end": 22097,
+   "n_ref_words_mapped": 13,
+   "word_count": 13,
+   "start_line": 2777,
+   "end_line": 2778,
+   "parser_speaker": "Gimenez",
+   "parser_bioguide_id": "G000593",
+   "llm_speaker": "Carter",
+   "llm_bioguide_id": "C001125",
+   "shape": "different person",
+   "excerpt": {
+    "before": "love to dig deeper into this, Mr. Chairman. Thank you. Another time. Thank you all.",
+    "span_text": "Mr. Gimenez. The gentleman yields.\n    I now recognize the gentleman from New York, Mr. Garbarino.",
+    "after": "Mr. Garbarino. Thank you, Chairman. Perfect timing. Thanks for holding this great hearing today. As"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 24866,
+   "body_word_end": 24868,
+   "word_start": 23991,
+   "word_end": 23993,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3008,
+   "end_line": 3008,
+   "parser_speaker": "Robbins",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Gimenez",
+   "llm_bioguide_id": "G000593",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Mr. Walker. Yes, sir. Mr. Gimenez. Mr. Feddersen. Mr. Feddersen. Absolutely. Mr. Gimenez. Mr. Robbins.",
+    "span_text": "Mr. Robbins. Yes, sir.",
+    "after": "Mr. Gimenez. Would you consider that--I mean, you're right, that we've seen the enemy and"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 24994,
+   "body_word_end": 24996,
+   "word_start": 24113,
+   "word_end": 24115,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3024,
+   "end_line": 3024,
+   "parser_speaker": "Gimenez",
+   "parser_bioguide_id": "G000593",
+   "llm_speaker": "Hutton",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "defense of our homeland? Would you commit to do that? Mr. Hutton. Mr. Hutton. Absolutely.",
+    "span_text": "Mr. Gimenez. Mr. Walker.",
+    "after": "Mr. Walker. Yes, sir. Mr. Gimenez. Mr. Feddersen. Mr. Feddersen. Yes, sir. Mr. Gimenez. Mr."
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 24998,
+   "body_word_end": 25000,
+   "word_start": 24115,
+   "word_end": 24117,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3025,
+   "end_line": 3025,
+   "parser_speaker": "Walker",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Hutton",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Would you commit to do that? Mr. Hutton. Mr. Hutton. Absolutely. Mr. Gimenez. Mr. Walker.",
+    "span_text": "Mr. Walker. Yes, sir.",
+    "after": "Mr. Gimenez. Mr. Feddersen. Mr. Feddersen. Yes, sir. Mr. Gimenez. Mr. Robbins. Mr. Feddersen. We"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 25002,
+   "body_word_end": 25004,
+   "word_start": 24117,
+   "word_end": 24119,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3026,
+   "end_line": 3026,
+   "parser_speaker": "Gimenez",
+   "parser_bioguide_id": "G000593",
+   "llm_speaker": "Hutton",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "do that? Mr. Hutton. Mr. Hutton. Absolutely. Mr. Gimenez. Mr. Walker. Mr. Walker. Yes, sir.",
+    "span_text": "Mr. Gimenez. Mr. Feddersen.",
+    "after": "Mr. Feddersen. Yes, sir. Mr. Gimenez. Mr. Robbins. Mr. Feddersen. We recommend a tiger team"
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 25010,
+   "body_word_end": 25012,
+   "word_start": 24121,
+   "word_end": 24123,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3028,
+   "end_line": 3028,
+   "parser_speaker": "Gimenez",
+   "parser_bioguide_id": "G000593",
+   "llm_speaker": "Feddersen",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Gimenez. Mr. Walker. Mr. Walker. Yes, sir. Mr. Gimenez. Mr. Feddersen. Mr. Feddersen. Yes, sir.",
+    "span_text": "Mr. Gimenez. Mr. Robbins.",
+    "after": "Mr. Feddersen. We recommend a tiger team so those jurisdictions can actually coordinate in a"
+   },
+   "span_id": "d007"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 25031,
+   "body_word_end": 25033,
+   "word_start": 24138,
+   "word_end": 24140,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3031,
+   "end_line": 3031,
+   "parser_speaker": "Gimenez",
+   "parser_bioguide_id": "G000593",
+   "llm_speaker": "Feddersen",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "We recommend a tiger team so those jurisdictions can actually coordinate in a rapid manner.",
+    "span_text": "Mr. Gimenez. Mr. Robbins.",
+    "after": "Mr. Robbins. Absolutely, yes, sir. Mr. Gimenez. Look, I put this hearing together, but I"
+   },
+   "span_id": "d008"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 26335,
+   "body_word_end": 26341,
+   "word_start": 25424,
+   "word_end": 25430,
+   "n_ref_words_mapped": 6,
+   "word_count": 6,
+   "start_line": 3167,
+   "end_line": 3167,
+   "parser_speaker": "McIver",
+   "parser_bioguide_id": "M001229",
+   "llm_speaker": "Robbins",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "them, they become a huge asset to the community and a boost to public safety.",
+    "span_text": "Mrs. McIver. Thank you so much for that.",
+    "after": "Mr. Robbins. I wanted to call you Mr. Robinson. Again, I'm sorry. Mr. Robbins. It's"
+   },
+   "span_id": "d009"
+  }
+ ]
+}

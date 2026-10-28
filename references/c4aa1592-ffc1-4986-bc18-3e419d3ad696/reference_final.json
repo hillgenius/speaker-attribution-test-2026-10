@@ -1,0 +1,3132 @@
+{
+ "hearing_id": "c4aa1592-ffc1-4986-bc18-3e419d3ad696",
+ "chrg": "CHRG-119shrg61984",
+ "chamber": "senate",
+ "print_file": "CHRG-119shrg61984.htm",
+ "print_sha256": "d0a53bfc705dfba0163b5c915d1939cf8a5ea61956f8e095fb1ddb3793a759be",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "11315951a55fae870a0aa1cbfc90351c9c29493fb4380a823533bc815f8cdf9d",
+ "n_ref_words": 26839,
+ "review_log_sha256": "233f3cf03ae78d22eeaeffafdd1b51015a766895f80b2b5f518ee82a61395305",
+ "spans_reviewed": 109,
+ "decisions": {
+  "llm": 94,
+  "other": 2,
+  "parser": 10,
+  "split": 3
+ },
+ "words_relabeled": 5211,
+ "header_scan_reviewed": [
+  "Ms. Kelley Yes. Chairman, on the Space Force side, I would",
+  "Ms. Kelley Yes, Senator. We connected with the Air Force",
+  "Ms. Kelley Yes, Chairman. Much like the marines, we rely on"
+ ],
+ "turns": [
+  {
+   "turn_index": 0,
+   "parser_turn_index": 0,
+   "word_start": 0,
+   "word_end": 112,
+   "word_count": 112,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "good morning i'd like to call this hearing"
+  },
+  {
+   "turn_index": 1,
+   "parser_turn_index": 0,
+   "word_start": 112,
+   "word_end": 114,
+   "word_count": 2,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d001"
+   ],
+   "first_words": "i did"
+  },
+  {
+   "turn_index": 2,
+   "parser_turn_index": 1,
+   "word_start": 114,
+   "word_end": 658,
+   "word_count": 544,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "all right senate armed service subcommittee on personnel"
+  },
+  {
+   "turn_index": 3,
+   "parser_turn_index": 1,
+   "word_start": 658,
+   "word_end": 704,
+   "word_count": 46,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d002"
+   ],
+   "first_words": "thank you very much mr chairman our annual"
+  },
+  {
+   "turn_index": 4,
+   "parser_turn_index": 1,
+   "word_start": 704,
+   "word_end": 705,
+   "word_count": 1,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "allvolunteer"
+  },
+  {
+   "turn_index": 5,
+   "parser_turn_index": 1,
+   "word_start": 705,
+   "word_end": 1664,
+   "word_count": 959,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d002"
+   ],
+   "first_words": "force after all our ability to defend ourselves"
+  },
+  {
+   "turn_index": 6,
+   "parser_turn_index": 1,
+   "word_start": 1664,
+   "word_end": 1670,
+   "word_count": 6,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "your testimony thank you mr chairman"
+  },
+  {
+   "turn_index": 7,
+   "parser_turn_index": 2,
+   "word_start": 1670,
+   "word_end": 1689,
+   "word_count": 19,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you senator warren now we'll have opening"
+  },
+  {
+   "turn_index": 8,
+   "parser_turn_index": 3,
+   "word_start": 1689,
+   "word_end": 4316,
+   "word_count": 2627,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "chairman tuberville ranking member warren and distinguished members"
+  },
+  {
+   "turn_index": 9,
+   "parser_turn_index": 4,
+   "word_start": 4316,
+   "word_end": 4317,
+   "word_count": 1,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "admiral"
+  },
+  {
+   "turn_index": 10,
+   "parser_turn_index": 5,
+   "word_start": 4317,
+   "word_end": 7456,
+   "word_count": 3139,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "chairman tuberville ranking member warren and distinguished subcommittee"
+  },
+  {
+   "turn_index": 11,
+   "parser_turn_index": 6,
+   "word_start": 7456,
+   "word_end": 7461,
+   "word_count": 5,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you admiral general borgschulte"
+  },
+  {
+   "turn_index": 12,
+   "parser_turn_index": 7,
+   "word_start": 7461,
+   "word_end": 11974,
+   "word_count": 4513,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "chairman tuberville ranking member warren and distinguished members"
+  },
+  {
+   "turn_index": 13,
+   "parser_turn_index": 8,
+   "word_start": 11974,
+   "word_end": 11979,
+   "word_count": 5,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you general general miller"
+  },
+  {
+   "turn_index": 14,
+   "parser_turn_index": 9,
+   "word_start": 11979,
+   "word_end": 14794,
+   "word_count": 2815,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "chairman tuberville ranking member warren and distinguished members"
+  },
+  {
+   "turn_index": 15,
+   "parser_turn_index": 10,
+   "word_start": 14794,
+   "word_end": 14801,
+   "word_count": 7,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you general ms kelley ms kelley"
+  },
+  {
+   "turn_index": 16,
+   "parser_turn_index": 10,
+   "word_start": 14801,
+   "word_end": 15467,
+   "word_count": 666,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d003"
+   ],
+   "first_words": "chairman tuberville ranking member warren and distinguished members"
+  },
+  {
+   "turn_index": 17,
+   "parser_turn_index": 10,
+   "word_start": 15467,
+   "word_end": 17471,
+   "word_count": 2004,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "prepared statement by ms katharine kelley introduction chairman"
+  },
+  {
+   "turn_index": 18,
+   "parser_turn_index": 11,
+   "word_start": 17471,
+   "word_end": 17614,
+   "word_count": 143,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you ms kelley thank you all of"
+  },
+  {
+   "turn_index": 19,
+   "parser_turn_index": 12,
+   "word_start": 17614,
+   "word_end": 17652,
+   "word_count": 38,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes chairman there was no decision this is"
+  },
+  {
+   "turn_index": 20,
+   "parser_turn_index": 13,
+   "word_start": 17652,
+   "word_end": 17751,
+   "word_count": 99,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you secretary hegseth recently ordered a 60"
+  },
+  {
+   "turn_index": 21,
+   "parser_turn_index": 14,
+   "word_start": 17751,
+   "word_end": 17881,
+   "word_count": 130,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes chairman specifically we were looking into this"
+  },
+  {
+   "turn_index": 22,
+   "parser_turn_index": 15,
+   "word_start": 17881,
+   "word_end": 17882,
+   "word_count": 1,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "admiral"
+  },
+  {
+   "turn_index": 23,
+   "parser_turn_index": 16,
+   "word_start": 17882,
+   "word_end": 17956,
+   "word_count": 74,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator thanks for the question navy's taking a"
+  },
+  {
+   "turn_index": 24,
+   "parser_turn_index": 17,
+   "word_start": 17956,
+   "word_end": 17957,
+   "word_count": 1,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "general"
+  },
+  {
+   "turn_index": 25,
+   "parser_turn_index": 18,
+   "word_start": 17957,
+   "word_end": 18176,
+   "word_count": 219,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator tuberville thanks for asking this question for"
+  },
+  {
+   "turn_index": 26,
+   "parser_turn_index": 19,
+   "word_start": 18176,
+   "word_end": 18185,
+   "word_count": 9,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "can you carry somebody 50 yards on your"
+  },
+  {
+   "turn_index": 27,
+   "parser_turn_index": 20,
+   "word_start": 18185,
+   "word_end": 18189,
+   "word_count": 4,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i can yes sir"
+  },
+  {
+   "turn_index": 28,
+   "parser_turn_index": 21,
+   "word_start": 18189,
+   "word_end": 18197,
+   "word_count": 8,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i see your group behind you saying yes"
+  },
+  {
+   "turn_index": 29,
+   "parser_turn_index": 22,
+   "word_start": 18197,
+   "word_end": 18207,
+   "word_count": 10,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "if you come down to quantico sir i'll"
+  },
+  {
+   "turn_index": 30,
+   "parser_turn_index": 23,
+   "word_start": 18207,
+   "word_end": 18209,
+   "word_count": 2,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "general miller"
+  },
+  {
+   "turn_index": 31,
+   "parser_turn_index": 24,
+   "word_start": 18209,
+   "word_end": 18280,
+   "word_count": 71,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes sir we had already started doing this"
+  },
+  {
+   "turn_index": 32,
+   "parser_turn_index": 25,
+   "word_start": 18280,
+   "word_end": 18288,
+   "word_count": 8,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "were there a lot of adjustments to it"
+  },
+  {
+   "turn_index": 33,
+   "parser_turn_index": 26,
+   "word_start": 18288,
+   "word_end": 18302,
+   "word_count": 14,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "not at all none and ours are also"
+  },
+  {
+   "turn_index": 34,
+   "parser_turn_index": 27,
+   "word_start": 18302,
+   "word_end": 18304,
+   "word_count": 2,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ms kelley"
+  },
+  {
+   "turn_index": 35,
+   "parser_turn_index": 27,
+   "word_start": 18304,
+   "word_end": 18428,
+   "word_count": 124,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d005",
+    "h001"
+   ],
+   "first_words": "ms kelley yes chairman on the space force"
+  },
+  {
+   "turn_index": 36,
+   "parser_turn_index": 28,
+   "word_start": 18428,
+   "word_end": 18434,
+   "word_count": 6,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you senator warren senator warren"
+  },
+  {
+   "turn_index": 37,
+   "parser_turn_index": 28,
+   "word_start": 18434,
+   "word_end": 18685,
+   "word_count": 251,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d006"
+   ],
+   "first_words": "thank you mr chairman so every parent in"
+  },
+  {
+   "turn_index": 38,
+   "parser_turn_index": 29,
+   "word_start": 18685,
+   "word_end": 18690,
+   "word_count": 5,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thanks ranking member senator warren"
+  },
+  {
+   "turn_index": 39,
+   "parser_turn_index": 29,
+   "word_start": 18690,
+   "word_end": 18699,
+   "word_count": 9,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d007"
+   ],
+   "first_words": "i'll be writing these down so what's the"
+  },
+  {
+   "turn_index": 40,
+   "parser_turn_index": 30,
+   "word_start": 18699,
+   "word_end": 18742,
+   "word_count": 43,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes so i am not clear on that"
+  },
+  {
+   "turn_index": 41,
+   "parser_turn_index": 30,
+   "word_start": 18742,
+   "word_end": 18752,
+   "word_count": 10,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d008"
+   ],
+   "first_words": "no i'm sorry the cr has impacts on"
+  },
+  {
+   "turn_index": 42,
+   "parser_turn_index": 31,
+   "word_start": 18752,
+   "word_end": 18755,
+   "word_count": 3,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "right senator warren"
+  },
+  {
+   "turn_index": 43,
+   "parser_turn_index": 31,
+   "word_start": 18755,
+   "word_end": 18780,
+   "word_count": 25,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d009"
+   ],
+   "first_words": "it does not have an impact on your"
+  },
+  {
+   "turn_index": 44,
+   "parser_turn_index": 32,
+   "word_start": 18780,
+   "word_end": 18783,
+   "word_count": 3,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes senator warren"
+  },
+  {
+   "turn_index": 45,
+   "parser_turn_index": 32,
+   "word_start": 18783,
+   "word_end": 18793,
+   "word_count": 10,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d010"
+   ],
+   "first_words": "so when can i expect to see your"
+  },
+  {
+   "turn_index": 46,
+   "parser_turn_index": 33,
+   "word_start": 18793,
+   "word_end": 18814,
+   "word_count": 21,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i would have to followup with you senator"
+  },
+  {
+   "turn_index": 47,
+   "parser_turn_index": 34,
+   "word_start": 18814,
+   "word_end": 18825,
+   "word_count": 11,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d011"
+   ],
+   "first_words": "well i hope you're clear that you're already"
+  },
+  {
+   "turn_index": 48,
+   "parser_turn_index": 35,
+   "word_start": 18825,
+   "word_end": 18827,
+   "word_count": 2,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes senator"
+  },
+  {
+   "turn_index": 49,
+   "parser_turn_index": 36,
+   "word_start": 18827,
+   "word_end": 18836,
+   "word_count": 9,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d012"
+   ],
+   "first_words": "vice admiral cheeseman how about you what's the"
+  },
+  {
+   "turn_index": 50,
+   "parser_turn_index": 37,
+   "word_start": 18836,
+   "word_end": 18874,
+   "word_count": 38,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator similar answer we're working with our office"
+  },
+  {
+   "turn_index": 51,
+   "parser_turn_index": 38,
+   "word_start": 18874,
+   "word_end": 18921,
+   "word_count": 47,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d013"
+   ],
+   "first_words": "well i'd like to have an answer that"
+  },
+  {
+   "turn_index": 52,
+   "parser_turn_index": 39,
+   "word_start": 18921,
+   "word_end": 18960,
+   "word_count": 39,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator thank you very much for bringing this"
+  },
+  {
+   "turn_index": 53,
+   "parser_turn_index": 39,
+   "word_start": 18960,
+   "word_end": 18965,
+   "word_count": 5,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d014"
+   ],
+   "first_words": "good for you so when"
+  },
+  {
+   "turn_index": 54,
+   "parser_turn_index": 40,
+   "word_start": 18965,
+   "word_end": 19025,
+   "word_count": 60,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so i'll get back we have increased the"
+  },
+  {
+   "turn_index": 55,
+   "parser_turn_index": 41,
+   "word_start": 19025,
+   "word_end": 19054,
+   "word_count": 29,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d015"
+   ],
+   "first_words": "so you said many nice things and the"
+  },
+  {
+   "turn_index": 56,
+   "parser_turn_index": 42,
+   "word_start": 19054,
+   "word_end": 19069,
+   "word_count": 15,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "we'll take that senator i'll get you back"
+  },
+  {
+   "turn_index": 57,
+   "parser_turn_index": 42,
+   "word_start": 19069,
+   "word_end": 19080,
+   "word_count": 11,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d016"
+   ],
+   "first_words": "but i got to have this done okay"
+  },
+  {
+   "turn_index": 58,
+   "parser_turn_index": 43,
+   "word_start": 19080,
+   "word_end": 19090,
+   "word_count": 10,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am we've actually in increased our wages"
+  },
+  {
+   "turn_index": 59,
+   "parser_turn_index": 43,
+   "word_start": 19090,
+   "word_end": 19096,
+   "word_count": 6,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d017"
+   ],
+   "first_words": "also good how about your plan"
+  },
+  {
+   "turn_index": 60,
+   "parser_turn_index": 44,
+   "word_start": 19096,
+   "word_end": 19110,
+   "word_count": 14,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "we have a plan i can get it"
+  },
+  {
+   "turn_index": 61,
+   "parser_turn_index": 44,
+   "word_start": 19110,
+   "word_end": 19125,
+   "word_count": 15,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d018"
+   ],
+   "first_words": "oh you actually have it because we weren't"
+  },
+  {
+   "turn_index": 62,
+   "parser_turn_index": 45,
+   "word_start": 19125,
+   "word_end": 19147,
+   "word_count": 22,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i will initiate or i will send over"
+  },
+  {
+   "turn_index": 63,
+   "parser_turn_index": 45,
+   "word_start": 19147,
+   "word_end": 19152,
+   "word_count": 5,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d019"
+   ],
+   "first_words": "it's an updated compensation model"
+  },
+  {
+   "turn_index": 64,
+   "parser_turn_index": 46,
+   "word_start": 19152,
+   "word_end": 19156,
+   "word_count": 4,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am senator warren"
+  },
+  {
+   "turn_index": 65,
+   "parser_turn_index": 46,
+   "word_start": 19156,
+   "word_end": 19185,
+   "word_count": 29,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d020"
+   ],
+   "first_words": "is what you're required to do under the"
+  },
+  {
+   "turn_index": 66,
+   "parser_turn_index": 46,
+   "word_start": 19185,
+   "word_end": 19214,
+   "word_count": 29,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d021"
+   ],
+   "first_words": "senator we leverage the air force for our"
+  },
+  {
+   "turn_index": 67,
+   "parser_turn_index": 46,
+   "word_start": 19214,
+   "word_end": 19229,
+   "word_count": 15,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d022"
+   ],
+   "first_words": "you're pointing back in the other direction yours"
+  },
+  {
+   "turn_index": 68,
+   "parser_turn_index": 47,
+   "word_start": 19229,
+   "word_end": 19231,
+   "word_count": 2,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "no ma'am"
+  },
+  {
+   "turn_index": 69,
+   "parser_turn_index": 48,
+   "word_start": 19231,
+   "word_end": 19241,
+   "word_count": 10,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am i'm sorry yes we support her"
+  },
+  {
+   "turn_index": 70,
+   "parser_turn_index": 48,
+   "word_start": 19241,
+   "word_end": 19253,
+   "word_count": 12,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d023"
+   ],
+   "first_words": "i was taking you to the other end"
+  },
+  {
+   "turn_index": 71,
+   "parser_turn_index": 48,
+   "word_start": 19253,
+   "word_end": 19296,
+   "word_count": 43,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d024"
+   ],
+   "first_words": "the air force runs the child development centers"
+  },
+  {
+   "turn_index": 72,
+   "parser_turn_index": 48,
+   "word_start": 19296,
+   "word_end": 19487,
+   "word_count": 191,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d025"
+   ],
+   "first_words": "i just want to say on this look"
+  },
+  {
+   "turn_index": 73,
+   "parser_turn_index": 48,
+   "word_start": 19487,
+   "word_end": 19511,
+   "word_count": 24,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d026"
+   ],
+   "first_words": "senator i absolutely agree that lack of childcare"
+  },
+  {
+   "turn_index": 74,
+   "parser_turn_index": 48,
+   "word_start": 19511,
+   "word_end": 19513,
+   "word_count": 2,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d027"
+   ],
+   "first_words": "go ahead"
+  },
+  {
+   "turn_index": 75,
+   "parser_turn_index": 49,
+   "word_start": 19513,
+   "word_end": 19521,
+   "word_count": 8,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am it's a readiness issue senator warren"
+  },
+  {
+   "turn_index": 76,
+   "parser_turn_index": 49,
+   "word_start": 19521,
+   "word_end": 19525,
+   "word_count": 4,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d028"
+   ],
+   "first_words": "thank you general borgschulte"
+  },
+  {
+   "turn_index": 77,
+   "parser_turn_index": 50,
+   "word_start": 19525,
+   "word_end": 19544,
+   "word_count": 19,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator warren i agree a hundred percent we"
+  },
+  {
+   "turn_index": 78,
+   "parser_turn_index": 50,
+   "word_start": 19544,
+   "word_end": 19570,
+   "word_count": 26,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d029"
+   ],
+   "first_words": "i hope that's right but it really is"
+  },
+  {
+   "turn_index": 79,
+   "parser_turn_index": 51,
+   "word_start": 19570,
+   "word_end": 19618,
+   "word_count": 48,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator thanks for the question for our childcare"
+  },
+  {
+   "turn_index": 80,
+   "parser_turn_index": 51,
+   "word_start": 19618,
+   "word_end": 19637,
+   "word_count": 19,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d030"
+   ],
+   "first_words": "that is really terrific to hear thank you"
+  },
+  {
+   "turn_index": 81,
+   "parser_turn_index": 51,
+   "word_start": 19637,
+   "word_end": 19638,
+   "word_count": 1,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "eifler"
+  },
+  {
+   "turn_index": 82,
+   "parser_turn_index": 52,
+   "word_start": 19638,
+   "word_end": 19660,
+   "word_count": 22,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ranking member totally concur we have not"
+  },
+  {
+   "turn_index": 83,
+   "parser_turn_index": 53,
+   "word_start": 19660,
+   "word_end": 19678,
+   "word_count": 18,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d031"
+   ],
+   "first_words": "i appreciate that and now in the name"
+  },
+  {
+   "turn_index": 84,
+   "parser_turn_index": 53,
+   "word_start": 19678,
+   "word_end": 19700,
+   "word_count": 22,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d032"
+   ],
+   "first_words": "thank you very much so senator warren you"
+  },
+  {
+   "turn_index": 85,
+   "parser_turn_index": 53,
+   "word_start": 19700,
+   "word_end": 19703,
+   "word_count": 3,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d033"
+   ],
+   "first_words": "yes senator hirono"
+  },
+  {
+   "turn_index": 86,
+   "parser_turn_index": 53,
+   "word_start": 19703,
+   "word_end": 19730,
+   "word_count": 27,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d034"
+   ],
+   "first_words": "if we need to be unpleasant about it"
+  },
+  {
+   "turn_index": 87,
+   "parser_turn_index": 54,
+   "word_start": 19730,
+   "word_end": 19733,
+   "word_count": 3,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes senator hirono"
+  },
+  {
+   "turn_index": 88,
+   "parser_turn_index": 54,
+   "word_start": 19733,
+   "word_end": 20006,
+   "word_count": 273,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d035"
+   ],
+   "first_words": "oh thank you very much congratulations for doing"
+  },
+  {
+   "turn_index": 89,
+   "parser_turn_index": 55,
+   "word_start": 20006,
+   "word_end": 20020,
+   "word_count": 14,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator thanks for the question it keeps me"
+  },
+  {
+   "turn_index": 90,
+   "parser_turn_index": 55,
+   "word_start": 20020,
+   "word_end": 20024,
+   "word_count": 4,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d036"
+   ],
+   "first_words": "so it concerns you"
+  },
+  {
+   "turn_index": 91,
+   "parser_turn_index": 56,
+   "word_start": 20024,
+   "word_end": 20028,
+   "word_count": 4,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "that's right senator hirono"
+  },
+  {
+   "turn_index": 92,
+   "parser_turn_index": 56,
+   "word_start": 20028,
+   "word_end": 20034,
+   "word_count": 6,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d037"
+   ],
+   "first_words": "what are you doing about it"
+  },
+  {
+   "turn_index": 93,
+   "parser_turn_index": 57,
+   "word_start": 20034,
+   "word_end": 20211,
+   "word_count": 177,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am our survey data tells us the"
+  },
+  {
+   "turn_index": 94,
+   "parser_turn_index": 57,
+   "word_start": 20211,
+   "word_end": 20269,
+   "word_count": 58,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d038"
+   ],
+   "first_words": "i hope you achieve those goals and in"
+  },
+  {
+   "turn_index": 95,
+   "parser_turn_index": 58,
+   "word_start": 20269,
+   "word_end": 20273,
+   "word_count": 4,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator yes they are"
+  },
+  {
+   "turn_index": 96,
+   "parser_turn_index": 59,
+   "word_start": 20273,
+   "word_end": 20275,
+   "word_count": 2,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator absolutely"
+  },
+  {
+   "turn_index": 97,
+   "parser_turn_index": 60,
+   "word_start": 20275,
+   "word_end": 20278,
+   "word_count": 3,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes senator absolutely"
+  },
+  {
+   "turn_index": 98,
+   "parser_turn_index": 61,
+   "word_start": 20278,
+   "word_end": 20283,
+   "word_count": 5,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "absolutely yes ma'am senator hirono"
+  },
+  {
+   "turn_index": 99,
+   "parser_turn_index": 61,
+   "word_start": 20283,
+   "word_end": 20373,
+   "word_count": 90,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d039"
+   ],
+   "first_words": "so when we talk about the how important"
+  },
+  {
+   "turn_index": 100,
+   "parser_turn_index": 62,
+   "word_start": 20373,
+   "word_end": 20383,
+   "word_count": 10,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i'm not aware of that we do senator"
+  },
+  {
+   "turn_index": 101,
+   "parser_turn_index": 62,
+   "word_start": 20383,
+   "word_end": 20385,
+   "word_count": 2,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d040"
+   ],
+   "first_words": "pardon me"
+  },
+  {
+   "turn_index": 102,
+   "parser_turn_index": 63,
+   "word_start": 20385,
+   "word_end": 20394,
+   "word_count": 9,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i'm not aware that we do senator senator"
+  },
+  {
+   "turn_index": 103,
+   "parser_turn_index": 63,
+   "word_start": 20394,
+   "word_end": 20399,
+   "word_count": 5,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d041"
+   ],
+   "first_words": "did you ever have them"
+  },
+  {
+   "turn_index": 104,
+   "parser_turn_index": 64,
+   "word_start": 20399,
+   "word_end": 20403,
+   "word_count": 4,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i believe we did"
+  },
+  {
+   "turn_index": 105,
+   "parser_turn_index": 65,
+   "word_start": 20403,
+   "word_end": 20407,
+   "word_count": 4,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d042"
+   ],
+   "first_words": "well what about you"
+  },
+  {
+   "turn_index": 106,
+   "parser_turn_index": 66,
+   "word_start": 20407,
+   "word_end": 20436,
+   "word_count": 29,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator for the navy we folded our women's"
+  },
+  {
+   "turn_index": 107,
+   "parser_turn_index": 67,
+   "word_start": 20436,
+   "word_end": 20456,
+   "word_count": 20,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator i'm not aware of that particular initiative"
+  },
+  {
+   "turn_index": 108,
+   "parser_turn_index": 67,
+   "word_start": 20456,
+   "word_end": 20540,
+   "word_count": 84,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d043"
+   ],
+   "first_words": "well i'm told that all the services have"
+  },
+  {
+   "turn_index": 109,
+   "parser_turn_index": 68,
+   "word_start": 20540,
+   "word_end": 20551,
+   "word_count": 11,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "we all of our affinity clubs have been"
+  },
+  {
+   "turn_index": 110,
+   "parser_turn_index": 69,
+   "word_start": 20551,
+   "word_end": 20566,
+   "word_count": 15,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d044",
+    "h002"
+   ],
+   "first_words": "i wonder why i know why that is"
+  },
+  {
+   "turn_index": 111,
+   "parser_turn_index": 69,
+   "word_start": 20566,
+   "word_end": 20590,
+   "word_count": 24,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d045",
+    "h002"
+   ],
+   "first_words": "yes senator we connected with the air force"
+  },
+  {
+   "turn_index": 112,
+   "parser_turn_index": 69,
+   "word_start": 20590,
+   "word_end": 20616,
+   "word_count": 26,
+   "speaker": "Hirono",
+   "bioguide_id": "H001042",
+   "source": "review",
+   "span_ids": [
+    "d046",
+    "h002"
+   ],
+   "first_words": "yes and they've been stood down because they're"
+  },
+  {
+   "turn_index": 113,
+   "parser_turn_index": 70,
+   "word_start": 20616,
+   "word_end": 20622,
+   "word_count": 6,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you senator warren senator warren"
+  },
+  {
+   "turn_index": 114,
+   "parser_turn_index": 70,
+   "word_start": 20622,
+   "word_end": 20878,
+   "word_count": 256,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d048"
+   ],
+   "first_words": "thank you mr chairman so when congress passed"
+  },
+  {
+   "turn_index": 115,
+   "parser_turn_index": 71,
+   "word_start": 20878,
+   "word_end": 20883,
+   "word_count": 5,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ranking member senator warren"
+  },
+  {
+   "turn_index": 116,
+   "parser_turn_index": 71,
+   "word_start": 20883,
+   "word_end": 20886,
+   "word_count": 3,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d049"
+   ],
+   "first_words": "vice admiral cheeseman"
+  },
+  {
+   "turn_index": 117,
+   "parser_turn_index": 72,
+   "word_start": 20886,
+   "word_end": 20892,
+   "word_count": 6,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator yes ma'am absolutely senator warren"
+  },
+  {
+   "turn_index": 118,
+   "parser_turn_index": 72,
+   "word_start": 20892,
+   "word_end": 20895,
+   "word_count": 3,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d050"
+   ],
+   "first_words": "lieutenant general borgschulte"
+  },
+  {
+   "turn_index": 119,
+   "parser_turn_index": 73,
+   "word_start": 20895,
+   "word_end": 20906,
+   "word_count": 11,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am absolutely no armory should not be"
+  },
+  {
+   "turn_index": 120,
+   "parser_turn_index": 73,
+   "word_start": 20906,
+   "word_end": 20909,
+   "word_count": 3,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d051"
+   ],
+   "first_words": "lieutenant general miller"
+  },
+  {
+   "turn_index": 121,
+   "parser_turn_index": 74,
+   "word_start": 20909,
+   "word_end": 20911,
+   "word_count": 2,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am"
+  },
+  {
+   "turn_index": 122,
+   "parser_turn_index": 75,
+   "word_start": 20911,
+   "word_end": 20914,
+   "word_count": 3,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d053"
+   ],
+   "first_words": "kelley ms kelley"
+  },
+  {
+   "turn_index": 123,
+   "parser_turn_index": 75,
+   "word_start": 20914,
+   "word_end": 20919,
+   "word_count": 5,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d054"
+   ],
+   "first_words": "yes ma'am absolutely senator warren"
+  },
+  {
+   "turn_index": 124,
+   "parser_turn_index": 75,
+   "word_start": 20919,
+   "word_end": 21095,
+   "word_count": 176,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d055"
+   ],
+   "first_words": "well that is the reason that i have"
+  },
+  {
+   "turn_index": 125,
+   "parser_turn_index": 76,
+   "word_start": 21095,
+   "word_end": 21098,
+   "word_count": 3,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ranking member"
+  },
+  {
+   "turn_index": 126,
+   "parser_turn_index": 76,
+   "word_start": 21098,
+   "word_end": 21103,
+   "word_count": 5,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d056"
+   ],
+   "first_words": "senator warren vice admiral cheeseman"
+  },
+  {
+   "turn_index": 127,
+   "parser_turn_index": 77,
+   "word_start": 21103,
+   "word_end": 21110,
+   "word_count": 7,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am senator warren lieutenant general borgschulte"
+  },
+  {
+   "turn_index": 128,
+   "parser_turn_index": 78,
+   "word_start": 21110,
+   "word_end": 21117,
+   "word_count": 7,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am senator warren lieutenant general miller"
+  },
+  {
+   "turn_index": 129,
+   "parser_turn_index": 79,
+   "word_start": 21117,
+   "word_end": 21120,
+   "word_count": 3,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes senator warren"
+  },
+  {
+   "turn_index": 130,
+   "parser_turn_index": 80,
+   "word_start": 21120,
+   "word_end": 21121,
+   "word_count": 1,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d057"
+   ],
+   "first_words": "kelley"
+  },
+  {
+   "turn_index": 131,
+   "parser_turn_index": 80,
+   "word_start": 21121,
+   "word_end": 21126,
+   "word_count": 5,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d057"
+   ],
+   "first_words": "ms kelley yes ma'am absolutely"
+  },
+  {
+   "turn_index": 132,
+   "parser_turn_index": 80,
+   "word_start": 21126,
+   "word_end": 21280,
+   "word_count": 154,
+   "speaker": "Warren",
+   "bioguide_id": "W000817",
+   "source": "review",
+   "span_ids": [
+    "d057",
+    "d058"
+   ],
+   "first_words": "senator warren okay good we're in a good"
+  },
+  {
+   "turn_index": 133,
+   "parser_turn_index": 81,
+   "word_start": 21280,
+   "word_end": 21392,
+   "word_count": 112,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you senator warren let's talk about healthcare"
+  },
+  {
+   "turn_index": 134,
+   "parser_turn_index": 82,
+   "word_start": 21392,
+   "word_end": 21591,
+   "word_count": 199,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thanks mr chairman i think this as you"
+  },
+  {
+   "turn_index": 135,
+   "parser_turn_index": 83,
+   "word_start": 21591,
+   "word_end": 21602,
+   "word_count": 11,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "are you seeing a lot of interest in"
+  },
+  {
+   "turn_index": 136,
+   "parser_turn_index": 84,
+   "word_start": 21602,
+   "word_end": 21659,
+   "word_count": 57,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "we are it's just a competition it is"
+  },
+  {
+   "turn_index": 137,
+   "parser_turn_index": 85,
+   "word_start": 21659,
+   "word_end": 21662,
+   "word_count": 3,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you admiral"
+  },
+  {
+   "turn_index": 138,
+   "parser_turn_index": 86,
+   "word_start": 21662,
+   "word_end": 21792,
+   "word_count": 130,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator thanks for the question first thanks to"
+  },
+  {
+   "turn_index": 139,
+   "parser_turn_index": 87,
+   "word_start": 21792,
+   "word_end": 21796,
+   "word_count": 4,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you general borgschulte"
+  },
+  {
+   "turn_index": 140,
+   "parser_turn_index": 88,
+   "word_start": 21796,
+   "word_end": 21933,
+   "word_count": 137,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "sir in the department of the navy the"
+  },
+  {
+   "turn_index": 141,
+   "parser_turn_index": 89,
+   "word_start": 21933,
+   "word_end": 21935,
+   "word_count": 2,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "general miller"
+  },
+  {
+   "turn_index": 142,
+   "parser_turn_index": 90,
+   "word_start": 21935,
+   "word_end": 22069,
+   "word_count": 134,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes sir we also have the same struggles"
+  },
+  {
+   "turn_index": 143,
+   "parser_turn_index": 91,
+   "word_start": 22069,
+   "word_end": 22071,
+   "word_count": 2,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ms kelley"
+  },
+  {
+   "turn_index": 144,
+   "parser_turn_index": 91,
+   "word_start": 22071,
+   "word_end": 22159,
+   "word_count": 88,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d061",
+    "h003"
+   ],
+   "first_words": "ms kelley yes chairman much like the marines"
+  },
+  {
+   "turn_index": 145,
+   "parser_turn_index": 92,
+   "word_start": 22159,
+   "word_end": 22223,
+   "word_count": 64,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "this question if anybody can answer if you"
+  },
+  {
+   "turn_index": 146,
+   "parser_turn_index": 93,
+   "word_start": 22223,
+   "word_end": 22250,
+   "word_count": 27,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "sir from the navy i have not seen"
+  },
+  {
+   "turn_index": 147,
+   "parser_turn_index": 94,
+   "word_start": 22250,
+   "word_end": 22257,
+   "word_count": 7,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "okay thank you senator scott senator scott"
+  },
+  {
+   "turn_index": 148,
+   "parser_turn_index": 94,
+   "word_start": 22257,
+   "word_end": 22320,
+   "word_count": 63,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d062"
+   ],
+   "first_words": "thank you chairman first off thanks to each"
+  },
+  {
+   "turn_index": 149,
+   "parser_turn_index": 95,
+   "word_start": 22320,
+   "word_end": 22427,
+   "word_count": 107,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i'll start sir so our recruiting numbers in"
+  },
+  {
+   "turn_index": 150,
+   "parser_turn_index": 95,
+   "word_start": 22427,
+   "word_end": 22433,
+   "word_count": 6,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d063"
+   ],
+   "first_words": "but y'all didn't meet the goals"
+  },
+  {
+   "turn_index": 151,
+   "parser_turn_index": 96,
+   "word_start": 22433,
+   "word_end": 22441,
+   "word_count": 8,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes sir we did this year senator scott"
+  },
+  {
+   "turn_index": 152,
+   "parser_turn_index": 96,
+   "word_start": 22441,
+   "word_end": 22445,
+   "word_count": 4,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d064"
+   ],
+   "first_words": "but the prior years"
+  },
+  {
+   "turn_index": 153,
+   "parser_turn_index": 97,
+   "word_start": 22445,
+   "word_end": 22598,
+   "word_count": 153,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "no sir we did not so we looked"
+  },
+  {
+   "turn_index": 154,
+   "parser_turn_index": 97,
+   "word_start": 22598,
+   "word_end": 22630,
+   "word_count": 32,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d065"
+   ],
+   "first_words": "but the individuals that were responsible for recruiting"
+  },
+  {
+   "turn_index": 155,
+   "parser_turn_index": 98,
+   "word_start": 22630,
+   "word_end": 22697,
+   "word_count": 67,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "it's not i don't think it's in my"
+  },
+  {
+   "turn_index": 156,
+   "parser_turn_index": 98,
+   "word_start": 22697,
+   "word_end": 22714,
+   "word_count": 17,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d066"
+   ],
+   "first_words": "but nothing happened to anybody for not meeting"
+  },
+  {
+   "turn_index": 157,
+   "parser_turn_index": 99,
+   "word_start": 22714,
+   "word_end": 22729,
+   "word_count": 15,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well he's been a one star the whole"
+  },
+  {
+   "turn_index": 158,
+   "parser_turn_index": 100,
+   "word_start": 22729,
+   "word_end": 22909,
+   "word_count": 180,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well i mean he's been a onestar the"
+  },
+  {
+   "turn_index": 159,
+   "parser_turn_index": 101,
+   "word_start": 22909,
+   "word_end": 22916,
+   "word_count": 7,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d067"
+   ],
+   "first_words": "how's the navy how about the navy"
+  },
+  {
+   "turn_index": 160,
+   "parser_turn_index": 102,
+   "word_start": 22916,
+   "word_end": 22935,
+   "word_count": 19,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "sir thanks for the question and also thanks"
+  },
+  {
+   "turn_index": 161,
+   "parser_turn_index": 102,
+   "word_start": 22935,
+   "word_end": 22939,
+   "word_count": 4,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d068"
+   ],
+   "first_words": "you're meeting goals right"
+  },
+  {
+   "turn_index": 162,
+   "parser_turn_index": 103,
+   "word_start": 22939,
+   "word_end": 23125,
+   "word_count": 186,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "sir we're far exceeding our goals absolutely in"
+  },
+  {
+   "turn_index": 163,
+   "parser_turn_index": 103,
+   "word_start": 23125,
+   "word_end": 23129,
+   "word_count": 4,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d069"
+   ],
+   "first_words": "how about the army"
+  },
+  {
+   "turn_index": 164,
+   "parser_turn_index": 104,
+   "word_start": 23129,
+   "word_end": 23284,
+   "word_count": 155,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes thanks senator as you know probably a"
+  },
+  {
+   "turn_index": 165,
+   "parser_turn_index": 104,
+   "word_start": 23284,
+   "word_end": 23308,
+   "word_count": 24,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d070"
+   ],
+   "first_words": "but the ones in charge when we weren't"
+  },
+  {
+   "turn_index": 166,
+   "parser_turn_index": 105,
+   "word_start": 23308,
+   "word_end": 23312,
+   "word_count": 4,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "no they weren't senator"
+  },
+  {
+   "turn_index": 167,
+   "parser_turn_index": 106,
+   "word_start": 23312,
+   "word_end": 23323,
+   "word_count": 11,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d071"
+   ],
+   "first_words": "all right okay so so what's the slogan"
+  },
+  {
+   "turn_index": 168,
+   "parser_turn_index": 107,
+   "word_start": 23323,
+   "word_end": 23349,
+   "word_count": 26,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator scott good to see you we talked"
+  },
+  {
+   "turn_index": 169,
+   "parser_turn_index": 107,
+   "word_start": 23349,
+   "word_end": 23354,
+   "word_count": 5,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d072"
+   ],
+   "first_words": "do you have a slogan"
+  },
+  {
+   "turn_index": 170,
+   "parser_turn_index": 108,
+   "word_start": 23354,
+   "word_end": 23358,
+   "word_count": 4,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "a slogan senator scott"
+  },
+  {
+   "turn_index": 171,
+   "parser_turn_index": 108,
+   "word_start": 23358,
+   "word_end": 23362,
+   "word_count": 4,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d073"
+   ],
+   "first_words": "you have a slogan"
+  },
+  {
+   "turn_index": 172,
+   "parser_turn_index": 109,
+   "word_start": 23362,
+   "word_end": 23393,
+   "word_count": 31,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "the few the proud we have a lot"
+  },
+  {
+   "turn_index": 173,
+   "parser_turn_index": 109,
+   "word_start": 23393,
+   "word_end": 23399,
+   "word_count": 6,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d074"
+   ],
+   "first_words": "army do you guys have one"
+  },
+  {
+   "turn_index": 174,
+   "parser_turn_index": 110,
+   "word_start": 23399,
+   "word_end": 23406,
+   "word_count": 7,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes this we'll defend senator senator scott"
+  },
+  {
+   "turn_index": 175,
+   "parser_turn_index": 110,
+   "word_start": 23406,
+   "word_end": 23410,
+   "word_count": 4,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d075"
+   ],
+   "first_words": "how about the navy"
+  },
+  {
+   "turn_index": 176,
+   "parser_turn_index": 111,
+   "word_start": 23410,
+   "word_end": 23417,
+   "word_count": 7,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "sir forged by the sea senator scott"
+  },
+  {
+   "turn_index": 177,
+   "parser_turn_index": 111,
+   "word_start": 23417,
+   "word_end": 23419,
+   "word_count": 2,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d076"
+   ],
+   "first_words": "air force"
+  },
+  {
+   "turn_index": 178,
+   "parser_turn_index": 112,
+   "word_start": 23419,
+   "word_end": 23427,
+   "word_count": 8,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "fly fight and win aim high senator scott"
+  },
+  {
+   "turn_index": 179,
+   "parser_turn_index": 112,
+   "word_start": 23427,
+   "word_end": 23431,
+   "word_count": 4,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d077"
+   ],
+   "first_words": "space force ms kelley"
+  },
+  {
+   "turn_index": 180,
+   "parser_turn_index": 112,
+   "word_start": 23431,
+   "word_end": 23437,
+   "word_count": 6,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d078"
+   ],
+   "first_words": "semper supra always above senator scott"
+  },
+  {
+   "turn_index": 181,
+   "parser_turn_index": 112,
+   "word_start": 23437,
+   "word_end": 23512,
+   "word_count": 75,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d079"
+   ],
+   "first_words": "do you think that when people come in"
+  },
+  {
+   "turn_index": 182,
+   "parser_turn_index": 113,
+   "word_start": 23512,
+   "word_end": 23588,
+   "word_count": 76,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so senator i'll speak to it from a"
+  },
+  {
+   "turn_index": 183,
+   "parser_turn_index": 114,
+   "word_start": 23588,
+   "word_end": 23686,
+   "word_count": 98,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator i'll offer from the space force perspective"
+  },
+  {
+   "turn_index": 184,
+   "parser_turn_index": 114,
+   "word_start": 23686,
+   "word_end": 23690,
+   "word_count": 4,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d080"
+   ],
+   "first_words": "you think they do"
+  },
+  {
+   "turn_index": 185,
+   "parser_turn_index": 115,
+   "word_start": 23690,
+   "word_end": 23706,
+   "word_count": 16,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "our data right now shows us that we"
+  },
+  {
+   "turn_index": 186,
+   "parser_turn_index": 115,
+   "word_start": 23706,
+   "word_end": 23716,
+   "word_count": 10,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d081"
+   ],
+   "first_words": "that's right that's what i would say in"
+  },
+  {
+   "turn_index": 187,
+   "parser_turn_index": 116,
+   "word_start": 23716,
+   "word_end": 23722,
+   "word_count": 6,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes space force for sure sir"
+  },
+  {
+   "turn_index": 188,
+   "parser_turn_index": 117,
+   "word_start": 23722,
+   "word_end": 23808,
+   "word_count": 86,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d082"
+   ],
+   "first_words": "so have so the marines continued to be"
+  },
+  {
+   "turn_index": 189,
+   "parser_turn_index": 118,
+   "word_start": 23808,
+   "word_end": 23906,
+   "word_count": 98,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator from a navy perspective we did take"
+  },
+  {
+   "turn_index": 190,
+   "parser_turn_index": 119,
+   "word_start": 23906,
+   "word_end": 23994,
+   "word_count": 88,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator from the air force perspective we absolutely"
+  },
+  {
+   "turn_index": 191,
+   "parser_turn_index": 119,
+   "word_start": 23994,
+   "word_end": 24051,
+   "word_count": 57,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d083"
+   ],
+   "first_words": "senator if i may i would be remiss"
+  },
+  {
+   "turn_index": 192,
+   "parser_turn_index": 120,
+   "word_start": 24051,
+   "word_end": 24141,
+   "word_count": 90,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes senator the army took into a consideration"
+  },
+  {
+   "turn_index": 193,
+   "parser_turn_index": 120,
+   "word_start": 24141,
+   "word_end": 24150,
+   "word_count": 9,
+   "speaker": "Scott",
+   "bioguide_id": "S001217",
+   "source": "review",
+   "span_ids": [
+    "d084"
+   ],
+   "first_words": "thank you for what you do thank you"
+  },
+  {
+   "turn_index": 194,
+   "parser_turn_index": 121,
+   "word_start": 24150,
+   "word_end": 24157,
+   "word_count": 7,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thanks senator scott senator duckworth senator duckworth"
+  },
+  {
+   "turn_index": 195,
+   "parser_turn_index": 121,
+   "word_start": 24157,
+   "word_end": 24372,
+   "word_count": 215,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d085"
+   ],
+   "first_words": "thank you mr chairman thank you for keeping"
+  },
+  {
+   "turn_index": 196,
+   "parser_turn_index": 122,
+   "word_start": 24372,
+   "word_end": 24377,
+   "word_count": 5,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "oh no senator senator duckworth"
+  },
+  {
+   "turn_index": 197,
+   "parser_turn_index": 122,
+   "word_start": 24377,
+   "word_end": 24379,
+   "word_count": 2,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d086"
+   ],
+   "first_words": "thank you"
+  },
+  {
+   "turn_index": 198,
+   "parser_turn_index": 123,
+   "word_start": 24379,
+   "word_end": 24458,
+   "word_count": 79,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator i'm generally familiar with the issue you're"
+  },
+  {
+   "turn_index": 199,
+   "parser_turn_index": 124,
+   "word_start": 24458,
+   "word_end": 24478,
+   "word_count": 20,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am nice to see you i'm a"
+  },
+  {
+   "turn_index": 200,
+   "parser_turn_index": 124,
+   "word_start": 24478,
+   "word_end": 24487,
+   "word_count": 9,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d087"
+   ],
+   "first_words": "i could never make it in i'm an"
+  },
+  {
+   "turn_index": 201,
+   "parser_turn_index": 125,
+   "word_start": 24487,
+   "word_end": 24557,
+   "word_count": 70,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "but it matters to us in the sense"
+  },
+  {
+   "turn_index": 202,
+   "parser_turn_index": 125,
+   "word_start": 24557,
+   "word_end": 24561,
+   "word_count": 4,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d088"
+   ],
+   "first_words": "thank you general miller"
+  },
+  {
+   "turn_index": 203,
+   "parser_turn_index": 126,
+   "word_start": 24561,
+   "word_end": 24641,
+   "word_count": 80,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am i would concur you know i"
+  },
+  {
+   "turn_index": 204,
+   "parser_turn_index": 126,
+   "word_start": 24641,
+   "word_end": 24665,
+   "word_count": 24,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d089"
+   ],
+   "first_words": "but they need to be exposed to all"
+  },
+  {
+   "turn_index": 205,
+   "parser_turn_index": 127,
+   "word_start": 24665,
+   "word_end": 24682,
+   "word_count": 17,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i think they should definitely be they should"
+  },
+  {
+   "turn_index": 206,
+   "parser_turn_index": 127,
+   "word_start": 24682,
+   "word_end": 24688,
+   "word_count": 6,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d090"
+   ],
+   "first_words": "thank you ms kelley ms kelley"
+  },
+  {
+   "turn_index": 207,
+   "parser_turn_index": 127,
+   "word_start": 24688,
+   "word_end": 24697,
+   "word_count": 9,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d091"
+   ],
+   "first_words": "ma'am i agree with your point absolutely senator"
+  },
+  {
+   "turn_index": 208,
+   "parser_turn_index": 127,
+   "word_start": 24697,
+   "word_end": 24788,
+   "word_count": 91,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d092"
+   ],
+   "first_words": "thank you i do think that we owe"
+  },
+  {
+   "turn_index": 209,
+   "parser_turn_index": 128,
+   "word_start": 24788,
+   "word_end": 24790,
+   "word_count": 2,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes senator"
+  },
+  {
+   "turn_index": 210,
+   "parser_turn_index": 129,
+   "word_start": 24790,
+   "word_end": 24795,
+   "word_count": 5,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you senator yes ma'am"
+  },
+  {
+   "turn_index": 211,
+   "parser_turn_index": 130,
+   "word_start": 24795,
+   "word_end": 24804,
+   "word_count": 9,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator this is key to our warfighting effectiveness"
+  },
+  {
+   "turn_index": 212,
+   "parser_turn_index": 131,
+   "word_start": 24804,
+   "word_end": 24808,
+   "word_count": 4,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am ms kelley"
+  },
+  {
+   "turn_index": 213,
+   "parser_turn_index": 131,
+   "word_start": 24808,
+   "word_end": 24812,
+   "word_count": 4,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d095"
+   ],
+   "first_words": "agree ma'am senator duckworth"
+  },
+  {
+   "turn_index": 214,
+   "parser_turn_index": 131,
+   "word_start": 24812,
+   "word_end": 25017,
+   "word_count": 205,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d096"
+   ],
+   "first_words": "that is why we're the greatest fighting force"
+  },
+  {
+   "turn_index": 215,
+   "parser_turn_index": 132,
+   "word_start": 25017,
+   "word_end": 25262,
+   "word_count": 245,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thanks senator yes we can but i'm not"
+  },
+  {
+   "turn_index": 216,
+   "parser_turn_index": 133,
+   "word_start": 25262,
+   "word_end": 25458,
+   "word_count": 196,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator thanks for the question i believe in"
+  },
+  {
+   "turn_index": 217,
+   "parser_turn_index": 133,
+   "word_start": 25458,
+   "word_end": 25460,
+   "word_count": 2,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d097"
+   ],
+   "first_words": "general borgschulte"
+  },
+  {
+   "turn_index": 218,
+   "parser_turn_index": 134,
+   "word_start": 25460,
+   "word_end": 25629,
+   "word_count": 169,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator thanks very much the indo pacific theater"
+  },
+  {
+   "turn_index": 219,
+   "parser_turn_index": 134,
+   "word_start": 25629,
+   "word_end": 25632,
+   "word_count": 3,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d098"
+   ],
+   "first_words": "thank you general"
+  },
+  {
+   "turn_index": 220,
+   "parser_turn_index": 135,
+   "word_start": 25632,
+   "word_end": 25711,
+   "word_count": 79,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes we too are shifting to the pacific"
+  },
+  {
+   "turn_index": 221,
+   "parser_turn_index": 135,
+   "word_start": 25711,
+   "word_end": 25748,
+   "word_count": 37,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d099"
+   ],
+   "first_words": "if we're going up the people's republic of"
+  },
+  {
+   "turn_index": 222,
+   "parser_turn_index": 136,
+   "word_start": 25748,
+   "word_end": 25752,
+   "word_count": 4,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes ma'am ms kelley"
+  },
+  {
+   "turn_index": 223,
+   "parser_turn_index": 136,
+   "word_start": 25752,
+   "word_end": 25829,
+   "word_count": 77,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d101"
+   ],
+   "first_words": "senator i'd just like to add that from"
+  },
+  {
+   "turn_index": 224,
+   "parser_turn_index": 136,
+   "word_start": 25829,
+   "word_end": 25837,
+   "word_count": 8,
+   "speaker": "Duckworth",
+   "bioguide_id": "D000622",
+   "source": "review",
+   "span_ids": [
+    "d102"
+   ],
+   "first_words": "thank you you've been incredibly generous mr chairman"
+  },
+  {
+   "turn_index": 225,
+   "parser_turn_index": 137,
+   "word_start": 25837,
+   "word_end": 25937,
+   "word_count": 100,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you senator duckworth i just have one"
+  },
+  {
+   "turn_index": 226,
+   "parser_turn_index": 138,
+   "word_start": 25937,
+   "word_end": 26033,
+   "word_count": 96,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes senator actually they're working incredibly well we"
+  },
+  {
+   "turn_index": 227,
+   "parser_turn_index": 139,
+   "word_start": 26033,
+   "word_end": 26067,
+   "word_count": 34,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yep so we'll start down here general just"
+  },
+  {
+   "turn_index": 228,
+   "parser_turn_index": 140,
+   "word_start": 26067,
+   "word_end": 26168,
+   "word_count": 101,
+   "speaker": "Eifler",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes i think the support for the future"
+  },
+  {
+   "turn_index": 229,
+   "parser_turn_index": 141,
+   "word_start": 26168,
+   "word_end": 26169,
+   "word_count": 1,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "admiral"
+  },
+  {
+   "turn_index": 230,
+   "parser_turn_index": 142,
+   "word_start": 26169,
+   "word_end": 26331,
+   "word_count": 162,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator thanks for the question and allowing me"
+  },
+  {
+   "turn_index": 231,
+   "parser_turn_index": 143,
+   "word_start": 26331,
+   "word_end": 26334,
+   "word_count": 3,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you general"
+  },
+  {
+   "turn_index": 232,
+   "parser_turn_index": 144,
+   "word_start": 26334,
+   "word_end": 26459,
+   "word_count": 125,
+   "speaker": "Borgschulte",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes senator tuberville thanks very much for this"
+  },
+  {
+   "turn_index": 233,
+   "parser_turn_index": 145,
+   "word_start": 26459,
+   "word_end": 26463,
+   "word_count": 4,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ms kelley ms kelley"
+  },
+  {
+   "turn_index": 234,
+   "parser_turn_index": 145,
+   "word_start": 26463,
+   "word_end": 26529,
+   "word_count": 66,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d105"
+   ],
+   "first_words": "senator i would add for the space force"
+  },
+  {
+   "turn_index": 235,
+   "parser_turn_index": 146,
+   "word_start": 26529,
+   "word_end": 26554,
+   "word_count": 25,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you just go to general miller and say"
+  },
+  {
+   "turn_index": 236,
+   "parser_turn_index": 147,
+   "word_start": 26554,
+   "word_end": 26555,
+   "word_count": 1,
+   "speaker": "Miller",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes"
+  },
+  {
+   "turn_index": 237,
+   "parser_turn_index": 148,
+   "word_start": 26555,
+   "word_end": 26560,
+   "word_count": 5,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i would too ms kelley"
+  },
+  {
+   "turn_index": 238,
+   "parser_turn_index": 148,
+   "word_start": 26560,
+   "word_end": 26568,
+   "word_count": 8,
+   "speaker": "Kelley",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d106"
+   ],
+   "first_words": "people want to join the space force sir"
+  },
+  {
+   "turn_index": 239,
+   "parser_turn_index": 149,
+   "word_start": 26568,
+   "word_end": 26697,
+   "word_count": 129,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you i apologize for all the rigmarole"
+  },
+  {
+   "turn_index": 240,
+   "parser_turn_index": 150,
+   "word_start": 26697,
+   "word_end": 26703,
+   "word_count": 6,
+   "speaker": "Cheeseman",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i'm hearing it already yes sir"
+  },
+  {
+   "turn_index": 241,
+   "parser_turn_index": 151,
+   "word_start": 26703,
+   "word_end": 26839,
+   "word_count": 136,
+   "speaker": "Tuberville",
+   "bioguide_id": "T000278",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "but thanks for what you do and we"
+  }
+ ]
+}

@@ -1,0 +1,220 @@
+{
+ "hearing_id": "04cb3151-ca60-4ad9-bf7c-8f49ef567d54",
+ "chrg": "CHRG-119hhrg62173",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg62173.htm",
+ "print_sha256": "2e93d42ed82850207fe09fb5943d48f35c1f561ae52bfded83dd2fe86d75b2b4",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "4daa14e688b2fe716413a4c701074c15d8e9e770e4d3de8ec37543315b022873",
+ "n_ref_words": 19596,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 20907,
+ "words_both_opinion": 19596,
+ "words_agree": 19558,
+ "words_disagree": 38,
+ "words_no_llm_opinion": 710,
+ "words_no_parser_opinion": 1247,
+ "words_inserted_material": 64,
+ "agree_rate": 0.9981,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 2,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 5184,
+   "end_word": 5200,
+   "word_count": 16,
+   "start_line": 758,
+   "end_line": 763
+  },
+  {
+   "start_word": 5870,
+   "end_word": 5886,
+   "word_count": 16,
+   "start_line": 846,
+   "end_line": 851
+  },
+  {
+   "start_word": 6805,
+   "end_word": 6821,
+   "word_count": 16,
+   "start_line": 955,
+   "end_line": 960
+  },
+  {
+   "start_word": 7675,
+   "end_word": 7691,
+   "word_count": 16,
+   "start_line": 1053,
+   "end_line": 1058
+  }
+ ],
+ "n_body_words_mapped": 19583,
+ "n_compare_words_spans": 4,
+ "n_header_scan_spans": 3,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 5015,
+   "body_word_end": 5017,
+   "word_start": 4282,
+   "word_end": 4284,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 740,
+   "end_line": 740,
+   "parser_speaker": "Roy",
+   "parser_bioguide_id": "R000614",
+   "llm_speaker": "Walker",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "to enter into the record the National Federalism Commission's report and an illustrative call resolution.",
+    "span_text": "Mr. Roy. Without objection.",
+    "after": "Mr. Walker. Thank you. The H.C.R. 15, which is sponsored by House Budget Committee Chair"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 9839,
+   "body_word_end": 9858,
+   "word_start": 8970,
+   "word_end": 8989,
+   "n_ref_words_mapped": 19,
+   "word_count": 19,
+   "start_line": 1285,
+   "end_line": 1287,
+   "parser_speaker": "Raskin",
+   "parser_bioguide_id": "R000606",
+   "llm_speaker": "Walker",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "to be Article V limited conventions. There are several safeguards to deal with your question,",
+    "span_text": "Mr. Raskin. First, a majority of the applications back in 1979 \nand today are fiscal responsibility only. There's State \ndelegate legislation--",
+    "after": "Mr. Massie. Let me followup, Mr. Walker-- Mr. Walker. Yes, sir. Go. Mr. Massie. --on"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 12849,
+   "body_word_end": 12850,
+   "word_start": 11880,
+   "word_end": 11881,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1610,
+   "end_line": 1610,
+   "parser_speaker": "Neguse",
+   "parser_bioguide_id": "N000191",
+   "llm_speaker": "Walker",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "two witnesses. Mr. Walker. One last thing. Things have been out of control since 2002--",
+    "span_text": "Mr. Neguse. Sure.",
+    "after": "Mr. Walker. --and both parties have controlled the Congress since 2002, and both parties have"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 16747,
+   "body_word_end": 16763,
+   "word_start": 15602,
+   "word_end": 15618,
+   "n_ref_words_mapped": 16,
+   "word_count": 16,
+   "start_line": 2035,
+   "end_line": 2036,
+   "parser_speaker": "Roy",
+   "parser_bioguide_id": "R000614",
+   "llm_speaker": "Scanlon",
+   "llm_bioguide_id": "S001205",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Save.'' Mr. Roy. Without objection. Ms. Scanlon. OK. Thank you, and I would yield back.",
+    "span_text": "Mr. Roy. I thank the Ranking Member. I will now recognize \nthe gentleman from Texas for five minutes.",
+    "after": "Mr. Gill. Thank you, Chair Roy. Thanks for holding this hearing and especially for your"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Mr. Kurt Couchman. Mr. Couchman is a Senior Fellow in",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 4059,
+   "body_word_end": 4343,
+   "word_count": 284,
+   "word_start": 3336,
+   "word_end": 3620,
+   "n_ref_words_mapped": 284,
+   "start_line": 632,
+   "end_line": 665,
+   "parser_speaker": "Roy",
+   "parser_bioguide_id": "R000614",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "of the United States, public trustee for Social Security and Medicare, and is the Chair of the Independent Audit Advisory Committee for the United Nations.",
+    "span_text": "Mr. Kurt Couchman. Mr. Couchman is a Senior Fellow in \nfiscal policy at Americans for Prosperity, a nonprofit \norganization that advocates for economic opportunity, fiscal \nresponsibility, and limited government. His work focuses on \nsolutions to Federal and State budget and government \nchallenges. He previously worked for the Committee for a \nResponsible Federal Budget, as well as several other \nnonprofits, and is a House staffer.\n    Ms. Brittany Madni. Ms. Madni is the Executive Vice \nPresident of the Economic Policy Innovation Center, a nonprofit \norganization that advocates for policies that promote freedom \nand prosperity. Prior to joining EPIC, she served in a variety \nof roles with Members of the House and with the House Budget \nCommittee.\n    Mr. Brendan Duke. Mr. Duke is the Senior Director for \nFederal fiscal policy at the Center on Budget and Policy \nPriorities, a nonprofit organization that advocates policies \nthat expand economic opportunity and health security. He \npreviously served as a Senior Policy Advisor on the National \nEconomic Council in the Biden-Harris Administration.\n    We thank our witnesses for appearing today, and we'll begin \nby swearing you in. Would you please rise and raise your right \nhand.\n    Do you swear or affirm under penalty of perjury that the \ntestimony you are about to give is true and correct to the best \nof your knowledge, information, and belief, so help you God?\n    Let the record reflect that the witnesses have answered in \nthe affirmative.\n    Thank you. You're already seated.\n    Please know that your written testimony will be entered \ninto the record in its entirety. Accordingly, we ask that you \nsummarize your testimony in five minutes.\n    A reminder that you have your microphones on before you \nbegin. With that, Mr. Walker, you may begin.",
+    "after": ""
+   },
+   "span_id": "h001",
+   "shape": "header-scan flag"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Ms. Brittany Madni. Ms. Madni is the Executive Vice",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 4123,
+   "body_word_end": 4343,
+   "word_count": 220,
+   "word_start": 3400,
+   "word_end": 3620,
+   "n_ref_words_mapped": 220,
+   "start_line": 640,
+   "end_line": 665,
+   "parser_speaker": "Roy",
+   "parser_bioguide_id": "R000614",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "challenges. He previously worked for the Committee for a Responsible Federal Budget, as well as several other nonprofits, and is a House staffer.",
+    "span_text": "Ms. Brittany Madni. Ms. Madni is the Executive Vice \nPresident of the Economic Policy Innovation Center, a nonprofit \norganization that advocates for policies that promote freedom \nand prosperity. Prior to joining EPIC, she served in a variety \nof roles with Members of the House and with the House Budget \nCommittee.\n    Mr. Brendan Duke. Mr. Duke is the Senior Director for \nFederal fiscal policy at the Center on Budget and Policy \nPriorities, a nonprofit organization that advocates policies \nthat expand economic opportunity and health security. He \npreviously served as a Senior Policy Advisor on the National \nEconomic Council in the Biden-Harris Administration.\n    We thank our witnesses for appearing today, and we'll begin \nby swearing you in. Would you please rise and raise your right \nhand.\n    Do you swear or affirm under penalty of perjury that the \ntestimony you are about to give is true and correct to the best \nof your knowledge, information, and belief, so help you God?\n    Let the record reflect that the witnesses have answered in \nthe affirmative.\n    Thank you. You're already seated.\n    Please know that your written testimony will be entered \ninto the record in its entirety. Accordingly, we ask that you \nsummarize your testimony in five minutes.\n    A reminder that you have your microphones on before you \nbegin. With that, Mr. Walker, you may begin.",
+    "after": ""
+   },
+   "span_id": "h002",
+   "shape": "header-scan flag"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Mr. Brendan Duke. Mr. Duke is the Senior Director for",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 4173,
+   "body_word_end": 4343,
+   "word_count": 170,
+   "word_start": 3450,
+   "word_end": 3620,
+   "n_ref_words_mapped": 170,
+   "start_line": 646,
+   "end_line": 665,
+   "parser_speaker": "Roy",
+   "parser_bioguide_id": "R000614",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "and prosperity. Prior to joining EPIC, she served in a variety of roles with Members of the House and with the House Budget Committee.",
+    "span_text": "Mr. Brendan Duke. Mr. Duke is the Senior Director for \nFederal fiscal policy at the Center on Budget and Policy \nPriorities, a nonprofit organization that advocates policies \nthat expand economic opportunity and health security. He \npreviously served as a Senior Policy Advisor on the National \nEconomic Council in the Biden-Harris Administration.\n    We thank our witnesses for appearing today, and we'll begin \nby swearing you in. Would you please rise and raise your right \nhand.\n    Do you swear or affirm under penalty of perjury that the \ntestimony you are about to give is true and correct to the best \nof your knowledge, information, and belief, so help you God?\n    Let the record reflect that the witnesses have answered in \nthe affirmative.\n    Thank you. You're already seated.\n    Please know that your written testimony will be entered \ninto the record in its entirety. Accordingly, we ask that you \nsummarize your testimony in five minutes.\n    A reminder that you have your microphones on before you \nbegin. With that, Mr. Walker, you may begin.",
+    "after": ""
+   },
+   "span_id": "h003",
+   "shape": "header-scan flag"
+  }
+ ]
+}

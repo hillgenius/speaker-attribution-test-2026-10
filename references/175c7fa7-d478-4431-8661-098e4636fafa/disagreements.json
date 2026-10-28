@@ -1,0 +1,123 @@
+{
+ "hearing_id": "175c7fa7-d478-4431-8661-098e4636fafa",
+ "chrg": "CHRG-119hhrg62653",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg62653.htm",
+ "print_sha256": "b73e6c3b0a7ff4d0bf6eb9ab86b5e902ac02edd7f7700334680407f1751d7dcb",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "82fa5b44231039fd2371a4ec5c7b020d68058cf90f904dd77815df44f19d43f7",
+ "n_ref_words": 8756,
+ "roster_source": "committee_membership",
+ "total_body_words": 9439,
+ "words_both_opinion": 7570,
+ "words_agree": 7566,
+ "words_disagree": 4,
+ "words_no_llm_opinion": 163,
+ "words_no_parser_opinion": 404,
+ "words_inserted_material": 1465,
+ "agree_rate": 0.9995,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 163,
+   "end_word": 368,
+   "word_count": 205,
+   "start_line": 68,
+   "end_line": 114
+  },
+  {
+   "start_word": 918,
+   "end_word": 1423,
+   "word_count": 505,
+   "start_line": 185,
+   "end_line": 247
+  },
+  {
+   "start_word": 2204,
+   "end_word": 2937,
+   "word_count": 733,
+   "start_line": 338,
+   "end_line": 422
+  },
+  {
+   "start_word": 3950,
+   "end_word": 3972,
+   "word_count": 22,
+   "start_line": 535,
+   "end_line": 540
+  }
+ ],
+ "n_body_words_mapped": 8700,
+ "n_compare_words_spans": 3,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 5690,
+   "body_word_end": 5692,
+   "word_start": 5168,
+   "word_end": 5170,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 732,
+   "end_line": 732,
+   "parser_speaker": "Halpern",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Griffith",
+   "llm_bioguide_id": "G000568",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "to see you. Mr. Halpern. You too, sir. Mr. Griffith. Hope you are doing well.",
+    "span_text": "Mr. Halpern. Thank you.",
+    "after": "Mr. Griffith. Earlier this Congress, I introduced H.R. 6028, the Legislative Branch Agencies Clarification Act."
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 6714,
+   "body_word_end": 6715,
+   "word_start": 6127,
+   "word_end": 6128,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 850,
+   "end_line": 850,
+   "parser_speaker": "Torres",
+   "parser_bioguide_id": "T000474",
+   "llm_speaker": "Halpern",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "shift. Mrs. Torres. OK. That could be scaled up if needed. Mr. Halpern. Right. Right.",
+    "span_text": "Mrs. Torres. OK.",
+    "after": "Mr. Halpern. We can hire more people to do that. At some point we will"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 8555,
+   "body_word_end": 8556,
+   "word_start": 7907,
+   "word_end": 7908,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1051,
+   "end_line": 1051,
+   "parser_speaker": "Halpern",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Morelle",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Morelle. I apologize, I do have to leave. I do want to thank you again.",
+    "span_text": "Mr. Halpern. Absolutely.",
+    "after": "Mr. Morelle. I look forward to staying in touch. Thank you, Mr. Chair. Chairman Steil."
+   },
+   "span_id": "d003"
+  }
+ ]
+}

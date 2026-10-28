@@ -1,0 +1,80 @@
+{
+ "hearing_id": "c1540d0c-4eb4-45f4-9ca0-88d53aefbbcb",
+ "chrg": "CHRG-119hhrg62140",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg62140.htm",
+ "print_sha256": "f3fb555cbc2053266c4e536b123a8f37866c2fea3f11bfb0170df0a1e52e87d6",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "bf0531130231318e45e3b4f72bdea1069be8d86e8cf073bbd60e4f6f8eb24a88",
+ "n_ref_words": 12094,
+ "roster_source": "committee_membership",
+ "total_body_words": 13130,
+ "words_both_opinion": 12094,
+ "words_agree": 12090,
+ "words_disagree": 4,
+ "words_no_llm_opinion": 573,
+ "words_no_parser_opinion": 1021,
+ "words_inserted_material": 15,
+ "agree_rate": 0.9997,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 2854,
+   "end_word": 2869,
+   "word_count": 15,
+   "start_line": 422,
+   "end_line": 425
+  }
+ ],
+ "n_body_words_mapped": 12081,
+ "n_compare_words_spans": 2,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 7585,
+   "body_word_end": 7586,
+   "word_start": 6793,
+   "word_end": 6794,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 935,
+   "end_line": 935,
+   "parser_speaker": "Kessler",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Meeks",
+   "llm_bioguide_id": "M001137",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Meeks. So there's nothing planned additionally right now as it applies to China, not immediately?",
+    "span_text": "Mr. Kessler. Correct.",
+    "after": "Mr. Meeks. Thank you. I yield back. Mr. Huizenga. The gentleman's time has expired. With"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 9359,
+   "body_word_end": 9362,
+   "word_start": 8495,
+   "word_end": 8498,
+   "n_ref_words_mapped": 3,
+   "word_count": 3,
+   "start_line": 1141,
+   "end_line": 1141,
+   "parser_speaker": "Kessler",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Moylan",
+   "llm_bioguide_id": "M001219",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "you with your goals that you're requesting. Thank you for your time and your expertise.",
+    "span_text": "Mr. Kessler. Thank you, sir.",
+    "after": "Mr. Moylan. Thank you, Mr. Chairman. I yield back. Mr. Huizenga. The gentleman yields. We're"
+   },
+   "span_id": "d002"
+  }
+ ]
+}

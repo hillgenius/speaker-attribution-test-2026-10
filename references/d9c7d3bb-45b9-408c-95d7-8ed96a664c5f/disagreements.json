@@ -1,0 +1,144 @@
+{
+ "hearing_id": "d9c7d3bb-45b9-408c-95d7-8ed96a664c5f",
+ "chrg": "CHRG-119hhrg63129",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg63129.htm",
+ "print_sha256": "3c7f7666ad1389d0971a8ba5dfc4c796d23f9982d4261eb9269a1b4cdee8f40f",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "feea3cd01b79c5240328e4a29f783e067aab4a3fc0939722eab3875e72ae6c25",
+ "n_ref_words": 25915,
+ "roster_source": "committee_membership",
+ "total_body_words": 26934,
+ "words_both_opinion": 15430,
+ "words_agree": 15427,
+ "words_disagree": 3,
+ "words_no_llm_opinion": 594,
+ "words_no_parser_opinion": 914,
+ "words_inserted_material": 10590,
+ "agree_rate": 0.9998,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1593,
+   "end_word": 2250,
+   "word_count": 657,
+   "start_line": 263,
+   "end_line": 329
+  },
+  {
+   "start_word": 2847,
+   "end_word": 3260,
+   "word_count": 413,
+   "start_line": 394,
+   "end_line": 439
+  },
+  {
+   "start_word": 5272,
+   "end_word": 6375,
+   "word_count": 1103,
+   "start_line": 689,
+   "end_line": 847
+  },
+  {
+   "start_word": 7675,
+   "end_word": 9595,
+   "word_count": 1920,
+   "start_line": 989,
+   "end_line": 1201
+  },
+  {
+   "start_word": 10414,
+   "end_word": 12077,
+   "word_count": 1663,
+   "start_line": 1296,
+   "end_line": 1513
+  },
+  {
+   "start_word": 12913,
+   "end_word": 15854,
+   "word_count": 2941,
+   "start_line": 1609,
+   "end_line": 1943
+  },
+  {
+   "start_word": 16618,
+   "end_word": 18511,
+   "word_count": 1893,
+   "start_line": 2031,
+   "end_line": 2265
+  }
+ ],
+ "n_body_words_mapped": 25780,
+ "n_compare_words_spans": 3,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 26043,
+   "body_word_end": 26044,
+   "word_start": 25093,
+   "word_end": 25094,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3066,
+   "end_line": 3066,
+   "parser_speaker": "Vafa",
+   "parser_bioguide_id": null,
+   "llm_speaker": "McCaul",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "It's still---- Mr. McCaul [continuing]. Justice Department and State prosecutors that are not doing this.",
+    "span_text": "Ms. Vafa. Correct.",
+    "after": "Mr. McCaul. Because under the sentencing guidelines, it does provide for that. It is just"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 26161,
+   "body_word_end": 26162,
+   "word_start": 25203,
+   "word_end": 25204,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3079,
+   "end_line": 3079,
+   "parser_speaker": "Vafa",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Correa",
+   "llm_bioguide_id": "C001110",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "confusion. Whereas all of us---- Mr. Correa. It should be any sex with a minor----",
+    "span_text": "Ms. Vafa. Correct.",
+    "after": "Mr. Correa [continuing]. Irrespective of where there is an exchange, is a crime. Ms. Vafa."
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 26652,
+   "body_word_end": 26653,
+   "word_start": 25659,
+   "word_end": 25660,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3134,
+   "end_line": 3134,
+   "parser_speaker": "Thompson",
+   "parser_bioguide_id": null,
+   "llm_speaker": "McCaul",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "happening. Mr. McCaul. Well, school districts, like in Courtney's case, they turned a blind eye----",
+    "span_text": "Mr. Thompson. Absolutely.",
+    "after": "Mr. McCaul [continuing]. To her groomer, who was a student, by the way, and then"
+   },
+   "span_id": "d003"
+  }
+ ]
+}

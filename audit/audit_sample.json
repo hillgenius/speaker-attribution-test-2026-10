@@ -1,0 +1,1608 @@
+{
+ "seed": "6C8B84729D863158FC71E44D05EE63E8E1C61DDFE85298176AC892190F95E8B6A104075721B43AE69A2B76AC7530432E6D5DAFA27004E9E31D5721BCE44491DA",
+ "n": 200,
+ "agreeing_turns_total": 22790,
+ "hearings": 100,
+ "turns": [
+  {
+   "hearing_id": "0166a017-c75d-4228-a79c-2d5461a1a8d0",
+   "turn_index": 1,
+   "word_start": 1279,
+   "word_end": 2248,
+   "speaker": "Stansbury",
+   "word_count": 969
+  },
+  {
+   "hearing_id": "0166a017-c75d-4228-a79c-2d5461a1a8d0",
+   "turn_index": 4,
+   "word_start": 2567,
+   "word_end": 3310,
+   "speaker": "Walter",
+   "word_count": 743
+  },
+  {
+   "hearing_id": "0166a017-c75d-4228-a79c-2d5461a1a8d0",
+   "turn_index": 524,
+   "word_start": 22331,
+   "word_end": 23132,
+   "speaker": "Greene",
+   "word_count": 801
+  },
+  {
+   "hearing_id": "019bbd74-5f83-49d8-aa6a-c5a4342c1bf0",
+   "turn_index": 13,
+   "word_start": 6947,
+   "word_end": 8540,
+   "speaker": "Hern",
+   "word_count": 1593
+  },
+  {
+   "hearing_id": "019fd592-5b13-445f-b8b9-3515811e3a46",
+   "turn_index": 51,
+   "word_start": 5579,
+   "word_end": 6037,
+   "speaker": "SMITH",
+   "word_count": 458
+  },
+  {
+   "hearing_id": "0434e331-ab0e-45f8-9401-e9861622e837",
+   "turn_index": 6,
+   "word_start": 3896,
+   "word_end": 11860,
+   "speaker": "Marroni",
+   "word_count": 7964
+  },
+  {
+   "hearing_id": "0434e331-ab0e-45f8-9401-e9861622e837",
+   "turn_index": 8,
+   "word_start": 11884,
+   "word_end": 15891,
+   "speaker": "Suddaby",
+   "word_count": 4007
+  },
+  {
+   "hearing_id": "0434e331-ab0e-45f8-9401-e9861622e837",
+   "turn_index": 30,
+   "word_start": 19093,
+   "word_end": 19124,
+   "speaker": "Marroni",
+   "word_count": 31
+  },
+  {
+   "hearing_id": "04cb3151-ca60-4ad9-bf7c-8f49ef567d54",
+   "turn_index": 1,
+   "word_start": 1105,
+   "word_end": 2528,
+   "speaker": "Scanlon",
+   "word_count": 1423
+  },
+  {
+   "hearing_id": "04cb3151-ca60-4ad9-bf7c-8f49ef567d54",
+   "turn_index": 190,
+   "word_start": 15977,
+   "word_end": 16078,
+   "speaker": "Gill",
+   "word_count": 101
+  },
+  {
+   "hearing_id": "04cb3151-ca60-4ad9-bf7c-8f49ef567d54",
+   "turn_index": 208,
+   "word_start": 17405,
+   "word_end": 17668,
+   "speaker": "Kamlager-Dove",
+   "word_count": 263
+  },
+  {
+   "hearing_id": "04cb3151-ca60-4ad9-bf7c-8f49ef567d54",
+   "turn_index": 210,
+   "word_start": 17749,
+   "word_end": 17893,
+   "speaker": "Kamlager-Dove",
+   "word_count": 144
+  },
+  {
+   "hearing_id": "07c937b3-0e6a-4686-97b0-067a145db57e",
+   "turn_index": 0,
+   "word_start": 0,
+   "word_end": 1110,
+   "speaker": "Comer",
+   "word_count": 1110
+  },
+  {
+   "hearing_id": "07c937b3-0e6a-4686-97b0-067a145db57e",
+   "turn_index": 2,
+   "word_start": 1157,
+   "word_end": 2489,
+   "speaker": "Lynch",
+   "word_count": 1332
+  },
+  {
+   "hearing_id": "07c937b3-0e6a-4686-97b0-067a145db57e",
+   "turn_index": 11,
+   "word_start": 4548,
+   "word_end": 5161,
+   "speaker": "Hochul",
+   "word_count": 613
+  },
+  {
+   "hearing_id": "07c937b3-0e6a-4686-97b0-067a145db57e",
+   "turn_index": 378,
+   "word_start": 15753,
+   "word_end": 15984,
+   "speaker": "Pritzker",
+   "word_count": 231
+  },
+  {
+   "hearing_id": "07c937b3-0e6a-4686-97b0-067a145db57e",
+   "turn_index": 1007,
+   "word_start": 37705,
+   "word_end": 37971,
+   "speaker": "Pritzker",
+   "word_count": 266
+  },
+  {
+   "hearing_id": "07c937b3-0e6a-4686-97b0-067a145db57e",
+   "turn_index": 1082,
+   "word_start": 39554,
+   "word_end": 39567,
+   "speaker": "Comer",
+   "word_count": 13
+  },
+  {
+   "hearing_id": "07c937b3-0e6a-4686-97b0-067a145db57e",
+   "turn_index": 1577,
+   "word_start": 54397,
+   "word_end": 54847,
+   "speaker": "Boebert",
+   "word_count": 450
+  },
+  {
+   "hearing_id": "07c937b3-0e6a-4686-97b0-067a145db57e",
+   "turn_index": 1858,
+   "word_start": 61218,
+   "word_end": 61228,
+   "speaker": "Walz",
+   "word_count": 10
+  },
+  {
+   "hearing_id": "089b5158-7507-4903-aea1-2b380e529045",
+   "turn_index": 7,
+   "word_start": 2405,
+   "word_end": 3852,
+   "speaker": "Raskin",
+   "word_count": 1447
+  },
+  {
+   "hearing_id": "0b96aa2f-9412-475e-9725-03e567d84423",
+   "turn_index": 14,
+   "word_start": 3615,
+   "word_end": 4474,
+   "speaker": "Wallace",
+   "word_count": 859
+  },
+  {
+   "hearing_id": "11a9184b-b79a-4980-b127-d332c7e1e614",
+   "turn_index": 8,
+   "word_start": 1561,
+   "word_end": 2299,
+   "speaker": "Epstein",
+   "word_count": 738
+  },
+  {
+   "hearing_id": "175c7fa7-d478-4431-8661-098e4636fafa",
+   "turn_index": 56,
+   "word_start": 5928,
+   "word_end": 5954,
+   "speaker": "Steil",
+   "word_count": 26
+  },
+  {
+   "hearing_id": "19078a40-b89e-49b0-9cbc-96f61d70527d",
+   "turn_index": 17,
+   "word_start": 3343,
+   "word_end": 3469,
+   "speaker": "CURTIS",
+   "word_count": 126
+  },
+  {
+   "hearing_id": "1b0495e7-67e4-4ddb-a108-2725bf9ca9b5",
+   "turn_index": 23,
+   "word_start": 4902,
+   "word_end": 5795,
+   "speaker": "Falcinelli",
+   "word_count": 893
+  },
+  {
+   "hearing_id": "1b0495e7-67e4-4ddb-a108-2725bf9ca9b5",
+   "turn_index": 134,
+   "word_start": 16913,
+   "word_end": 17548,
+   "speaker": "Clarke",
+   "word_count": 635
+  },
+  {
+   "hearing_id": "1b0495e7-67e4-4ddb-a108-2725bf9ca9b5",
+   "turn_index": 165,
+   "word_start": 20453,
+   "word_end": 20987,
+   "speaker": "Veasey",
+   "word_count": 534
+  },
+  {
+   "hearing_id": "1ef51dba-b27e-44c2-96b9-61d6d31e77a3",
+   "turn_index": 14,
+   "word_start": 4365,
+   "word_end": 4454,
+   "speaker": "Marroni",
+   "word_count": 89
+  },
+  {
+   "hearing_id": "2d64ceea-0e71-4d02-9917-362d20f1ad4e",
+   "turn_index": 9,
+   "word_start": 3492,
+   "word_end": 4422,
+   "speaker": "Wilson Palow",
+   "word_count": 930
+  },
+  {
+   "hearing_id": "2d64ceea-0e71-4d02-9917-362d20f1ad4e",
+   "turn_index": 27,
+   "word_start": 6421,
+   "word_end": 6592,
+   "speaker": "Landau",
+   "word_count": 171
+  },
+  {
+   "hearing_id": "309e7db8-6d5a-48be-afd3-747529974421",
+   "turn_index": 5,
+   "word_start": 2810,
+   "word_end": 3469,
+   "speaker": "Ullmer",
+   "word_count": 659
+  },
+  {
+   "hearing_id": "309e7db8-6d5a-48be-afd3-747529974421",
+   "turn_index": 66,
+   "word_start": 6864,
+   "word_end": 7014,
+   "speaker": "Roig",
+   "word_count": 150
+  },
+  {
+   "hearing_id": "33e047e2-88a1-4631-b66a-284b384b26be",
+   "turn_index": 33,
+   "word_start": 7946,
+   "word_end": 8052,
+   "speaker": "Clarke",
+   "word_count": 106
+  },
+  {
+   "hearing_id": "33e047e2-88a1-4631-b66a-284b384b26be",
+   "turn_index": 168,
+   "word_start": 17488,
+   "word_end": 17728,
+   "speaker": "Mullin",
+   "word_count": 240
+  },
+  {
+   "hearing_id": "35b82cf0-ee4e-48e7-ab1a-9df74b7443e9",
+   "turn_index": 0,
+   "word_start": 0,
+   "word_end": 1024,
+   "speaker": "Sessions",
+   "word_count": 1024
+  },
+  {
+   "hearing_id": "35b82cf0-ee4e-48e7-ab1a-9df74b7443e9",
+   "turn_index": 6,
+   "word_start": 2646,
+   "word_end": 3138,
+   "speaker": "Mayo",
+   "word_count": 492
+  },
+  {
+   "hearing_id": "35b82cf0-ee4e-48e7-ab1a-9df74b7443e9",
+   "turn_index": 14,
+   "word_start": 3851,
+   "word_end": 3876,
+   "speaker": "Bagdoyan",
+   "word_count": 25
+  },
+  {
+   "hearing_id": "4108ac73-473a-4d43-9f82-34d64010e97e",
+   "turn_index": 2,
+   "word_start": 560,
+   "word_end": 1284,
+   "speaker": "Bera",
+   "word_count": 724
+  },
+  {
+   "hearing_id": "42560091-6df9-4d73-bbff-86597fefcb01",
+   "turn_index": 4,
+   "word_start": 2306,
+   "word_end": 2959,
+   "speaker": "Pou",
+   "word_count": 653
+  },
+  {
+   "hearing_id": "42560091-6df9-4d73-bbff-86597fefcb01",
+   "turn_index": 12,
+   "word_start": 6024,
+   "word_end": 9721,
+   "speaker": "Davis",
+   "word_count": 3697
+  },
+  {
+   "hearing_id": "4f3db56a-a33e-4a14-b039-f5268899c62d",
+   "turn_index": 20,
+   "word_start": 7125,
+   "word_end": 7158,
+   "speaker": "Miller",
+   "word_count": 33
+  },
+  {
+   "hearing_id": "4f3db56a-a33e-4a14-b039-f5268899c62d",
+   "turn_index": 191,
+   "word_start": 14663,
+   "word_end": 14834,
+   "speaker": "Kamlager-Dove",
+   "word_count": 171
+  },
+  {
+   "hearing_id": "4f3db56a-a33e-4a14-b039-f5268899c62d",
+   "turn_index": 256,
+   "word_start": 18304,
+   "word_end": 18400,
+   "speaker": "Miller",
+   "word_count": 96
+  },
+  {
+   "hearing_id": "4f3db56a-a33e-4a14-b039-f5268899c62d",
+   "turn_index": 337,
+   "word_start": 20866,
+   "word_end": 21101,
+   "speaker": "Hunt",
+   "word_count": 235
+  },
+  {
+   "hearing_id": "4f4bc2b7-26bb-4e54-aca3-f6a9a02da311",
+   "turn_index": 7,
+   "word_start": 2923,
+   "word_end": 3434,
+   "speaker": "Miller",
+   "word_count": 511
+  },
+  {
+   "hearing_id": "4f4bc2b7-26bb-4e54-aca3-f6a9a02da311",
+   "turn_index": 14,
+   "word_start": 5394,
+   "word_end": 6125,
+   "speaker": "Kessler",
+   "word_count": 731
+  },
+  {
+   "hearing_id": "4f4bc2b7-26bb-4e54-aca3-f6a9a02da311",
+   "turn_index": 152,
+   "word_start": 13164,
+   "word_end": 13332,
+   "speaker": "Perry",
+   "word_count": 168
+  },
+  {
+   "hearing_id": "4f4bc2b7-26bb-4e54-aca3-f6a9a02da311",
+   "turn_index": 248,
+   "word_start": 18096,
+   "word_end": 18282,
+   "speaker": "Garcia",
+   "word_count": 186
+  },
+  {
+   "hearing_id": "4f75efc5-a6d9-42bb-8fb3-2d1310e234c8",
+   "turn_index": 48,
+   "word_start": 8031,
+   "word_end": 8137,
+   "speaker": "DiVito",
+   "word_count": 106
+  },
+  {
+   "hearing_id": "50a03b14-321d-4618-8fae-cac1cbde657e",
+   "turn_index": 48,
+   "word_start": 5709,
+   "word_end": 5724,
+   "speaker": "Moore",
+   "word_count": 15
+  },
+  {
+   "hearing_id": "5135bd73-4a29-4605-bfba-a96eb5815809",
+   "turn_index": 3,
+   "word_start": 1103,
+   "word_end": 1739,
+   "speaker": "Mitre",
+   "word_count": 636
+  },
+  {
+   "hearing_id": "53ba377b-a199-444a-88ff-67b9011e6bec",
+   "turn_index": 65,
+   "word_start": 7122,
+   "word_end": 7382,
+   "speaker": "Vargas",
+   "word_count": 260
+  },
+  {
+   "hearing_id": "545a2f0f-3019-43be-8570-55c4732ce94a",
+   "turn_index": 0,
+   "word_start": 0,
+   "word_end": 6087,
+   "speaker": "Green",
+   "word_count": 6087
+  },
+  {
+   "hearing_id": "545a2f0f-3019-43be-8570-55c4732ce94a",
+   "turn_index": 13,
+   "word_start": 18460,
+   "word_end": 22713,
+   "speaker": "Stier",
+   "word_count": 4253
+  },
+  {
+   "hearing_id": "545a2f0f-3019-43be-8570-55c4732ce94a",
+   "turn_index": 88,
+   "word_start": 28693,
+   "word_end": 28811,
+   "speaker": "Luttrell",
+   "word_count": 118
+  },
+  {
+   "hearing_id": "545a2f0f-3019-43be-8570-55c4732ce94a",
+   "turn_index": 239,
+   "word_start": 40201,
+   "word_end": 40527,
+   "speaker": "Biggs",
+   "word_count": 326
+  },
+  {
+   "hearing_id": "587bd5b4-9825-4410-869b-254f46086c57",
+   "turn_index": 13,
+   "word_start": 6472,
+   "word_end": 7308,
+   "speaker": "Sivadge",
+   "word_count": 836
+  },
+  {
+   "hearing_id": "587bd5b4-9825-4410-869b-254f46086c57",
+   "turn_index": 19,
+   "word_start": 8326,
+   "word_end": 8392,
+   "speaker": "Roy",
+   "word_count": 66
+  },
+  {
+   "hearing_id": "587bd5b4-9825-4410-869b-254f46086c57",
+   "turn_index": 132,
+   "word_start": 12742,
+   "word_end": 12824,
+   "speaker": "Jordan",
+   "word_count": 82
+  },
+  {
+   "hearing_id": "587bd5b4-9825-4410-869b-254f46086c57",
+   "turn_index": 226,
+   "word_start": 15734,
+   "word_end": 15741,
+   "speaker": "Haim",
+   "word_count": 7
+  },
+  {
+   "hearing_id": "5c02b37c-6347-4578-b791-e3403264be1c",
+   "turn_index": 19,
+   "word_start": 17030,
+   "word_end": 17372,
+   "speaker": "Anderson",
+   "word_count": 342
+  },
+  {
+   "hearing_id": "5c02b37c-6347-4578-b791-e3403264be1c",
+   "turn_index": 21,
+   "word_start": 17425,
+   "word_end": 17664,
+   "speaker": "Anderson",
+   "word_count": 239
+  },
+  {
+   "hearing_id": "5edc1b21-8dbd-488f-a450-b73d3a659a77",
+   "turn_index": 481,
+   "word_start": 23933,
+   "word_end": 24613,
+   "speaker": "Goldman",
+   "word_count": 680
+  },
+  {
+   "hearing_id": "5edc1b21-8dbd-488f-a450-b73d3a659a77",
+   "turn_index": 875,
+   "word_start": 30379,
+   "word_end": 31233,
+   "speaker": "Magaziner",
+   "word_count": 854
+  },
+  {
+   "hearing_id": "6347225c-1e6f-498c-8e54-555d1d858558",
+   "turn_index": 5,
+   "word_start": 4364,
+   "word_end": 4765,
+   "speaker": "Gimenez",
+   "word_count": 401
+  },
+  {
+   "hearing_id": "6347225c-1e6f-498c-8e54-555d1d858558",
+   "turn_index": 26,
+   "word_start": 16227,
+   "word_end": 16446,
+   "speaker": "McIver",
+   "word_count": 219
+  },
+  {
+   "hearing_id": "68263fa0-1052-493c-9a1e-8f98445ef031",
+   "turn_index": 97,
+   "word_start": 6718,
+   "word_end": 6865,
+   "speaker": "Hooker",
+   "word_count": 147
+  },
+  {
+   "hearing_id": "68263fa0-1052-493c-9a1e-8f98445ef031",
+   "turn_index": 193,
+   "word_start": 12539,
+   "word_end": 12616,
+   "speaker": "Kamlager-Dove",
+   "word_count": 77
+  },
+  {
+   "hearing_id": "68263fa0-1052-493c-9a1e-8f98445ef031",
+   "turn_index": 357,
+   "word_start": 21116,
+   "word_end": 21301,
+   "speaker": "Perry",
+   "word_count": 185
+  },
+  {
+   "hearing_id": "6c8efcf3-92d5-40db-a056-c4fc6f50fbdc",
+   "turn_index": 0,
+   "word_start": 0,
+   "word_end": 1251,
+   "speaker": "Guest",
+   "word_count": 1251
+  },
+  {
+   "hearing_id": "6c8efcf3-92d5-40db-a056-c4fc6f50fbdc",
+   "turn_index": 5,
+   "word_start": 4156,
+   "word_end": 5201,
+   "speaker": "Kennedy",
+   "word_count": 1045
+  },
+  {
+   "hearing_id": "6c8efcf3-92d5-40db-a056-c4fc6f50fbdc",
+   "turn_index": 13,
+   "word_start": 10199,
+   "word_end": 13624,
+   "speaker": "Hendrix",
+   "word_count": 3425
+  },
+  {
+   "hearing_id": "6f1d0bcb-09e2-4ca9-b86b-c2a1b153df55",
+   "turn_index": 11,
+   "word_start": 2286,
+   "word_end": 7174,
+   "speaker": "Roth",
+   "word_count": 4888
+  },
+  {
+   "hearing_id": "6f9c800f-8379-4dc6-8c10-feaec2a296df",
+   "turn_index": 4,
+   "word_start": 1425,
+   "word_end": 1438,
+   "speaker": "Cruz",
+   "word_count": 13
+  },
+  {
+   "hearing_id": "6f9c800f-8379-4dc6-8c10-feaec2a296df",
+   "turn_index": 5,
+   "word_start": 1438,
+   "word_end": 16778,
+   "speaker": "Bradbury",
+   "word_count": 15340
+  },
+  {
+   "hearing_id": "6f9c800f-8379-4dc6-8c10-feaec2a296df",
+   "turn_index": 27,
+   "word_start": 17859,
+   "word_end": 17968,
+   "speaker": "Cantwell",
+   "word_count": 109
+  },
+  {
+   "hearing_id": "71551d49-214e-4fb6-9272-2ed636e9a4bc",
+   "turn_index": 2,
+   "word_start": 522,
+   "word_end": 1300,
+   "speaker": "Brown",
+   "word_count": 778
+  },
+  {
+   "hearing_id": "71551d49-214e-4fb6-9272-2ed636e9a4bc",
+   "turn_index": 11,
+   "word_start": 4068,
+   "word_end": 4973,
+   "speaker": "Rubenstein",
+   "word_count": 905
+  },
+  {
+   "hearing_id": "71551d49-214e-4fb6-9272-2ed636e9a4bc",
+   "turn_index": 75,
+   "word_start": 8128,
+   "word_end": 8133,
+   "speaker": "Crane",
+   "word_count": 5
+  },
+  {
+   "hearing_id": "71551d49-214e-4fb6-9272-2ed636e9a4bc",
+   "turn_index": 78,
+   "word_start": 8255,
+   "word_end": 8408,
+   "speaker": "Mandich",
+   "word_count": 153
+  },
+  {
+   "hearing_id": "73fe969e-6519-424d-ae63-31db0910b2ae",
+   "turn_index": 3,
+   "word_start": 1176,
+   "word_end": 4281,
+   "speaker": "Stanton",
+   "word_count": 3105
+  },
+  {
+   "hearing_id": "73fe969e-6519-424d-ae63-31db0910b2ae",
+   "turn_index": 67,
+   "word_start": 8037,
+   "word_end": 8285,
+   "speaker": "Stanton",
+   "word_count": 248
+  },
+  {
+   "hearing_id": "7dc7a723-830f-4044-8f88-5dcd6cecba05",
+   "turn_index": 16,
+   "word_start": 7252,
+   "word_end": 7434,
+   "speaker": "Plunkett",
+   "word_count": 182
+  },
+  {
+   "hearing_id": "7dc7a723-830f-4044-8f88-5dcd6cecba05",
+   "turn_index": 20,
+   "word_start": 7800,
+   "word_end": 7912,
+   "speaker": "Renfroe",
+   "word_count": 112
+  },
+  {
+   "hearing_id": "7dc7a723-830f-4044-8f88-5dcd6cecba05",
+   "turn_index": 90,
+   "word_start": 13479,
+   "word_end": 13646,
+   "speaker": "Plunkett",
+   "word_count": 167
+  },
+  {
+   "hearing_id": "7e08b94f-1186-4040-82d1-f506c8677eaa",
+   "turn_index": 27,
+   "word_start": 6960,
+   "word_end": 13564,
+   "speaker": "MILITO",
+   "word_count": 6604
+  },
+  {
+   "hearing_id": "7e08b94f-1186-4040-82d1-f506c8677eaa",
+   "turn_index": 29,
+   "word_start": 13574,
+   "word_end": 17859,
+   "speaker": "KAREIVA",
+   "word_count": 4285
+  },
+  {
+   "hearing_id": "7e08b94f-1186-4040-82d1-f506c8677eaa",
+   "turn_index": 31,
+   "word_start": 17869,
+   "word_end": 19535,
+   "speaker": "ROBERTS",
+   "word_count": 1666
+  },
+  {
+   "hearing_id": "7e08b94f-1186-4040-82d1-f506c8677eaa",
+   "turn_index": 60,
+   "word_start": 26973,
+   "word_end": 55670,
+   "speaker": "HAGEMAN",
+   "word_count": 28697
+  },
+  {
+   "hearing_id": "7e4a5623-d33e-413e-90d7-bc9da6e8e5f9",
+   "turn_index": 25,
+   "word_start": 6688,
+   "word_end": 6897,
+   "speaker": "Jaffer",
+   "word_count": 209
+  },
+  {
+   "hearing_id": "7e4a5623-d33e-413e-90d7-bc9da6e8e5f9",
+   "turn_index": 244,
+   "word_start": 22812,
+   "word_end": 22994,
+   "speaker": "Stehlin",
+   "word_count": 182
+  },
+  {
+   "hearing_id": "7e4a5623-d33e-413e-90d7-bc9da6e8e5f9",
+   "turn_index": 263,
+   "word_start": 24284,
+   "word_end": 24455,
+   "speaker": "Stroup",
+   "word_count": 171
+  },
+  {
+   "hearing_id": "7fb5c7b7-dc64-42ce-b08a-81f09f250359",
+   "turn_index": 345,
+   "word_start": 18391,
+   "word_end": 18398,
+   "speaker": "Bondi",
+   "word_count": 7
+  },
+  {
+   "hearing_id": "7fb5c7b7-dc64-42ce-b08a-81f09f250359",
+   "turn_index": 1056,
+   "word_start": 39157,
+   "word_end": 39577,
+   "speaker": "Britt",
+   "word_count": 420
+  },
+  {
+   "hearing_id": "80cb5195-bf64-49e3-854e-9cbe6136a435",
+   "turn_index": 30,
+   "word_start": 5868,
+   "word_end": 5961,
+   "speaker": "Harrington",
+   "word_count": 93
+  },
+  {
+   "hearing_id": "85ba478b-4586-485b-9620-e54a8f8892ee",
+   "turn_index": 5,
+   "word_start": 9603,
+   "word_end": 13699,
+   "speaker": "Jordan",
+   "word_count": 4096
+  },
+  {
+   "hearing_id": "85ba478b-4586-485b-9620-e54a8f8892ee",
+   "turn_index": 23,
+   "word_start": 18299,
+   "word_end": 18746,
+   "speaker": "Cantwell",
+   "word_count": 447
+  },
+  {
+   "hearing_id": "891a4790-03e3-4159-875f-db5d2f583761",
+   "turn_index": 35,
+   "word_start": 7362,
+   "word_end": 7446,
+   "speaker": "Hill",
+   "word_count": 84
+  },
+  {
+   "hearing_id": "89bec994-60bd-402c-b162-e2c8f9b69749",
+   "turn_index": 5,
+   "word_start": 801,
+   "word_end": 1298,
+   "speaker": "Trahan",
+   "word_count": 497
+  },
+  {
+   "hearing_id": "89bec994-60bd-402c-b162-e2c8f9b69749",
+   "turn_index": 96,
+   "word_start": 15783,
+   "word_end": 16109,
+   "speaker": "Bentz",
+   "word_count": 326
+  },
+  {
+   "hearing_id": "8cf6dd21-0ad9-4879-b4ee-b43c1c8ee387",
+   "turn_index": 6,
+   "word_start": 6027,
+   "word_end": 6044,
+   "speaker": "Cruz",
+   "word_count": 17
+  },
+  {
+   "hearing_id": "8cf6dd21-0ad9-4879-b4ee-b43c1c8ee387",
+   "turn_index": 125,
+   "word_start": 12507,
+   "word_end": 12606,
+   "speaker": "Kim",
+   "word_count": 99
+  },
+  {
+   "hearing_id": "94e5a956-caeb-41ee-ae41-769a81a3d2f6",
+   "turn_index": 1,
+   "word_start": 705,
+   "word_end": 1693,
+   "speaker": "Klobuchar",
+   "word_count": 988
+  },
+  {
+   "hearing_id": "96a52bac-e501-4e36-849c-affcadf5e123",
+   "turn_index": 1,
+   "word_start": 804,
+   "word_end": 1571,
+   "speaker": "VELAZQUEZ",
+   "word_count": 767
+  },
+  {
+   "hearing_id": "9acecb98-e151-4196-ae54-c9d7495318ba",
+   "turn_index": 15,
+   "word_start": 3979,
+   "word_end": 4192,
+   "speaker": "Tuberville",
+   "word_count": 213
+  },
+  {
+   "hearing_id": "9acecb98-e151-4196-ae54-c9d7495318ba",
+   "turn_index": 18,
+   "word_start": 4481,
+   "word_end": 4783,
+   "speaker": "Davids",
+   "word_count": 302
+  },
+  {
+   "hearing_id": "9acecb98-e151-4196-ae54-c9d7495318ba",
+   "turn_index": 184,
+   "word_start": 12634,
+   "word_end": 12941,
+   "speaker": "Tuberville",
+   "word_count": 307
+  },
+  {
+   "hearing_id": "9fa61a4d-f930-46d1-a712-f9864c855f0b",
+   "turn_index": 77,
+   "word_start": 11386,
+   "word_end": 11732,
+   "speaker": "Owens",
+   "word_count": 346
+  },
+  {
+   "hearing_id": "a5fcd356-06ce-4230-bdd0-4da2246f6da7",
+   "turn_index": 119,
+   "word_start": 14236,
+   "word_end": 14301,
+   "speaker": "Allen",
+   "word_count": 65
+  },
+  {
+   "hearing_id": "a677c410-f90f-4485-8e41-9e12422ca1c6",
+   "turn_index": 2,
+   "word_start": 1829,
+   "word_end": 4256,
+   "speaker": "Thompson",
+   "word_count": 2427
+  },
+  {
+   "hearing_id": "aa25833a-d512-46d0-ad95-705bc70d28e7",
+   "turn_index": 17,
+   "word_start": 6510,
+   "word_end": 7468,
+   "speaker": "Smith",
+   "word_count": 958
+  },
+  {
+   "hearing_id": "aa25833a-d512-46d0-ad95-705bc70d28e7",
+   "turn_index": 80,
+   "word_start": 13621,
+   "word_end": 13675,
+   "speaker": "Pratt",
+   "word_count": 54
+  },
+  {
+   "hearing_id": "aa25833a-d512-46d0-ad95-705bc70d28e7",
+   "turn_index": 143,
+   "word_start": 20116,
+   "word_end": 20325,
+   "speaker": "McGee",
+   "word_count": 209
+  },
+  {
+   "hearing_id": "aeb03595-9276-4d4d-8800-5a27710d95a8",
+   "turn_index": 28,
+   "word_start": 10870,
+   "word_end": 11185,
+   "speaker": "Khair",
+   "word_count": 315
+  },
+  {
+   "hearing_id": "aeb03595-9276-4d4d-8800-5a27710d95a8",
+   "turn_index": 52,
+   "word_start": 15304,
+   "word_end": 16035,
+   "speaker": "Khair",
+   "word_count": 731
+  },
+  {
+   "hearing_id": "b8cceb3f-4db9-470f-844f-9f9e2d11591a",
+   "turn_index": 0,
+   "word_start": 0,
+   "word_end": 710,
+   "speaker": "Hudson",
+   "word_count": 710
+  },
+  {
+   "hearing_id": "b8cceb3f-4db9-470f-844f-9f9e2d11591a",
+   "turn_index": 38,
+   "word_start": 7343,
+   "word_end": 7449,
+   "speaker": "Matsui",
+   "word_count": 106
+  },
+  {
+   "hearing_id": "b8cceb3f-4db9-470f-844f-9f9e2d11591a",
+   "turn_index": 164,
+   "word_start": 15670,
+   "word_end": 16022,
+   "speaker": "Dingell",
+   "word_count": 352
+  },
+  {
+   "hearing_id": "b8cceb3f-4db9-470f-844f-9f9e2d11591a",
+   "turn_index": 192,
+   "word_start": 18846,
+   "word_end": 18922,
+   "speaker": "Hale",
+   "word_count": 76
+  },
+  {
+   "hearing_id": "b8cceb3f-4db9-470f-844f-9f9e2d11591a",
+   "turn_index": 274,
+   "word_start": 25329,
+   "word_end": 25416,
+   "speaker": "Hale",
+   "word_count": 87
+  },
+  {
+   "hearing_id": "bdd88897-4d6c-4866-9bde-648694b5ac45",
+   "turn_index": 49,
+   "word_start": 2439,
+   "word_end": 2679,
+   "speaker": "Greene",
+   "word_count": 240
+  },
+  {
+   "hearing_id": "bdd88897-4d6c-4866-9bde-648694b5ac45",
+   "turn_index": 92,
+   "word_start": 6825,
+   "word_end": 6850,
+   "speaker": "Greene",
+   "word_count": 25
+  },
+  {
+   "hearing_id": "bdd88897-4d6c-4866-9bde-648694b5ac45",
+   "turn_index": 130,
+   "word_start": 7542,
+   "word_end": 8085,
+   "speaker": "Stansbury",
+   "word_count": 543
+  },
+  {
+   "hearing_id": "bdd88897-4d6c-4866-9bde-648694b5ac45",
+   "turn_index": 558,
+   "word_start": 18556,
+   "word_end": 18580,
+   "speaker": "Lehfeldt",
+   "word_count": 24
+  },
+  {
+   "hearing_id": "bdd88897-4d6c-4866-9bde-648694b5ac45",
+   "turn_index": 693,
+   "word_start": 23565,
+   "word_end": 23602,
+   "speaker": "Lehfeldt",
+   "word_count": 37
+  },
+  {
+   "hearing_id": "bf28e8ba-a686-4812-b4b7-fc5aac7e30b0",
+   "turn_index": 2,
+   "word_start": 1825,
+   "word_end": 3011,
+   "speaker": "McIver",
+   "word_count": 1186
+  },
+  {
+   "hearing_id": "bf28e8ba-a686-4812-b4b7-fc5aac7e30b0",
+   "turn_index": 3,
+   "word_start": 3011,
+   "word_end": 3700,
+   "speaker": "Gimenez",
+   "word_count": 689
+  },
+  {
+   "hearing_id": "bf28e8ba-a686-4812-b4b7-fc5aac7e30b0",
+   "turn_index": 12,
+   "word_start": 14316,
+   "word_end": 18039,
+   "speaker": "Robbins",
+   "word_count": 3723
+  },
+  {
+   "hearing_id": "bf28e8ba-a686-4812-b4b7-fc5aac7e30b0",
+   "turn_index": 38,
+   "word_start": 20271,
+   "word_end": 20369,
+   "speaker": "Crane",
+   "word_count": 98
+  },
+  {
+   "hearing_id": "bf28e8ba-a686-4812-b4b7-fc5aac7e30b0",
+   "turn_index": 46,
+   "word_start": 20580,
+   "word_end": 20906,
+   "speaker": "Walker",
+   "word_count": 326
+  },
+  {
+   "hearing_id": "bf28e8ba-a686-4812-b4b7-fc5aac7e30b0",
+   "turn_index": 153,
+   "word_start": 27844,
+   "word_end": 27881,
+   "speaker": "Feddersen",
+   "word_count": 37
+  },
+  {
+   "hearing_id": "c061606d-1bb9-4976-a9c1-195219514397",
+   "turn_index": 2,
+   "word_start": 1266,
+   "word_end": 1998,
+   "speaker": "Swalwell",
+   "word_count": 732
+  },
+  {
+   "hearing_id": "c061606d-1bb9-4976-a9c1-195219514397",
+   "turn_index": 14,
+   "word_start": 20969,
+   "word_end": 21141,
+   "speaker": "Gimenez",
+   "word_count": 172
+  },
+  {
+   "hearing_id": "c061606d-1bb9-4976-a9c1-195219514397",
+   "turn_index": 85,
+   "word_start": 26279,
+   "word_end": 26320,
+   "speaker": "Gimenez",
+   "word_count": 41
+  },
+  {
+   "hearing_id": "c4aa1592-ffc1-4986-bc18-3e419d3ad696",
+   "turn_index": 8,
+   "word_start": 1689,
+   "word_end": 4316,
+   "speaker": "Eifler",
+   "word_count": 2627
+  },
+  {
+   "hearing_id": "c4df1ddc-8c98-48ba-8f60-8cb998dafb5f",
+   "turn_index": 155,
+   "word_start": 14901,
+   "word_end": 15024,
+   "speaker": "Williams of Texas",
+   "word_count": 123
+  },
+  {
+   "hearing_id": "c7d8da94-a1a4-46dc-8775-6069f9d1028b",
+   "turn_index": 76,
+   "word_start": 10092,
+   "word_end": 10334,
+   "speaker": "Kaplan",
+   "word_count": 242
+  },
+  {
+   "hearing_id": "c7d8da94-a1a4-46dc-8775-6069f9d1028b",
+   "turn_index": 79,
+   "word_start": 10413,
+   "word_end": 10980,
+   "speaker": "Bonamici",
+   "word_count": 567
+  },
+  {
+   "hearing_id": "cc7a2eb9-309e-40db-b7a4-609de2049183",
+   "turn_index": 0,
+   "word_start": 0,
+   "word_end": 714,
+   "speaker": "Rogers",
+   "word_count": 714
+  },
+  {
+   "hearing_id": "cc7a2eb9-309e-40db-b7a4-609de2049183",
+   "turn_index": 19,
+   "word_start": 5197,
+   "word_end": 5350,
+   "speaker": "Cavoli",
+   "word_count": 153
+  },
+  {
+   "hearing_id": "cc7a2eb9-309e-40db-b7a4-609de2049183",
+   "turn_index": 144,
+   "word_start": 12805,
+   "word_end": 12897,
+   "speaker": "Keating",
+   "word_count": 92
+  },
+  {
+   "hearing_id": "cc7a2eb9-309e-40db-b7a4-609de2049183",
+   "turn_index": 318,
+   "word_start": 21525,
+   "word_end": 21678,
+   "speaker": "Moylan",
+   "word_count": 153
+  },
+  {
+   "hearing_id": "cc7a2eb9-309e-40db-b7a4-609de2049183",
+   "turn_index": 369,
+   "word_start": 25445,
+   "word_end": 25511,
+   "speaker": "Elfreth",
+   "word_count": 66
+  },
+  {
+   "hearing_id": "cc7a2eb9-309e-40db-b7a4-609de2049183",
+   "turn_index": 378,
+   "word_start": 25962,
+   "word_end": 26007,
+   "speaker": "Cavoli",
+   "word_count": 45
+  },
+  {
+   "hearing_id": "d9b85ec5-ecfb-413a-bf63-3bbdd28ab134",
+   "turn_index": 12,
+   "word_start": 4707,
+   "word_end": 5527,
+   "speaker": "Scott",
+   "word_count": 820
+  },
+  {
+   "hearing_id": "d9c7d3bb-45b9-408c-95d7-8ed96a664c5f",
+   "turn_index": 8,
+   "word_start": 5740,
+   "word_end": 8914,
+   "speaker": "Litvak",
+   "word_count": 3174
+  },
+  {
+   "hearing_id": "d9cc7bfd-1433-4abc-82cb-3bbe6ecd5032",
+   "turn_index": 89,
+   "word_start": 12776,
+   "word_end": 12937,
+   "speaker": "Hawley",
+   "word_count": 161
+  },
+  {
+   "hearing_id": "db504437-b8af-4f36-9653-667cc8203019",
+   "turn_index": 232,
+   "word_start": 17159,
+   "word_end": 17288,
+   "speaker": "Neguse",
+   "word_count": 129
+  },
+  {
+   "hearing_id": "db504437-b8af-4f36-9653-667cc8203019",
+   "turn_index": 256,
+   "word_start": 18789,
+   "word_end": 19195,
+   "speaker": "Goitein",
+   "word_count": 406
+  },
+  {
+   "hearing_id": "db80447a-a932-405c-867f-5174c06b2ba2",
+   "turn_index": 9,
+   "word_start": 6460,
+   "word_end": 10182,
+   "speaker": "Benedict",
+   "word_count": 3722
+  },
+  {
+   "hearing_id": "db80447a-a932-405c-867f-5174c06b2ba2",
+   "turn_index": 86,
+   "word_start": 13421,
+   "word_end": 13676,
+   "speaker": "Biggs",
+   "word_count": 255
+  },
+  {
+   "hearing_id": "dd65f47b-0a34-4bf3-a5bd-44467817efab",
+   "turn_index": 9,
+   "word_start": 6078,
+   "word_end": 6905,
+   "speaker": "Brinson Bell",
+   "word_count": 827
+  },
+  {
+   "hearing_id": "dfeb9a9e-0d28-4801-abfd-6d9007e8c932",
+   "turn_index": 10,
+   "word_start": 2219,
+   "word_end": 2303,
+   "speaker": "Hill",
+   "word_count": 84
+  },
+  {
+   "hearing_id": "dfeb9a9e-0d28-4801-abfd-6d9007e8c932",
+   "turn_index": 168,
+   "word_start": 11777,
+   "word_end": 11867,
+   "speaker": "Lawler",
+   "word_count": 90
+  },
+  {
+   "hearing_id": "dfeb9a9e-0d28-4801-abfd-6d9007e8c932",
+   "turn_index": 415,
+   "word_start": 24434,
+   "word_end": 24604,
+   "speaker": "Gonzalez",
+   "word_count": 170
+  },
+  {
+   "hearing_id": "e0398fa2-b7e2-4e78-8876-40e221459f15",
+   "turn_index": 30,
+   "word_start": 4945,
+   "word_end": 5032,
+   "speaker": "Reindel",
+   "word_count": 87
+  },
+  {
+   "hearing_id": "e0398fa2-b7e2-4e78-8876-40e221459f15",
+   "turn_index": 38,
+   "word_start": 5446,
+   "word_end": 5765,
+   "speaker": "Williams",
+   "word_count": 319
+  },
+  {
+   "hearing_id": "e224bb5e-0e07-400b-a70d-7d8259852d9b",
+   "turn_index": 3,
+   "word_start": 746,
+   "word_end": 846,
+   "speaker": "Ezell",
+   "word_count": 100
+  },
+  {
+   "hearing_id": "e224bb5e-0e07-400b-a70d-7d8259852d9b",
+   "turn_index": 13,
+   "word_start": 6882,
+   "word_end": 7140,
+   "speaker": "Lunday",
+   "word_count": 258
+  },
+  {
+   "hearing_id": "e3fc830e-ffd4-4b03-ba6b-aca20e199dba",
+   "turn_index": 32,
+   "word_start": 3588,
+   "word_end": 3618,
+   "speaker": "Reed",
+   "word_count": 30
+  },
+  {
+   "hearing_id": "e3fc830e-ffd4-4b03-ba6b-aca20e199dba",
+   "turn_index": 83,
+   "word_start": 6170,
+   "word_end": 6272,
+   "speaker": "Reed",
+   "word_count": 102
+  },
+  {
+   "hearing_id": "e528ceda-d33b-4e05-b5bf-6a239da442b7",
+   "turn_index": 7,
+   "word_start": 3606,
+   "word_end": 4279,
+   "speaker": "Baird",
+   "word_count": 673
+  },
+  {
+   "hearing_id": "e66f3f71-9705-47d7-b0cd-6f83719cd041",
+   "turn_index": 0,
+   "word_start": 0,
+   "word_end": 378,
+   "speaker": "Davidson",
+   "word_count": 378
+  },
+  {
+   "hearing_id": "e66f3f71-9705-47d7-b0cd-6f83719cd041",
+   "turn_index": 4,
+   "word_start": 1005,
+   "word_end": 1544,
+   "speaker": "Samford",
+   "word_count": 539
+  },
+  {
+   "hearing_id": "e66f3f71-9705-47d7-b0cd-6f83719cd041",
+   "turn_index": 73,
+   "word_start": 8434,
+   "word_end": 8590,
+   "speaker": "Kim",
+   "word_count": 156
+  },
+  {
+   "hearing_id": "eaa5b73d-3b9e-423f-9270-b92227f73cb2",
+   "turn_index": 20,
+   "word_start": 5169,
+   "word_end": 5784,
+   "speaker": "Potter",
+   "word_count": 615
+  },
+  {
+   "hearing_id": "eaa5b73d-3b9e-423f-9270-b92227f73cb2",
+   "turn_index": 160,
+   "word_start": 14715,
+   "word_end": 14769,
+   "speaker": "Jordan",
+   "word_count": 54
+  },
+  {
+   "hearing_id": "eaa5b73d-3b9e-423f-9270-b92227f73cb2",
+   "turn_index": 186,
+   "word_start": 15398,
+   "word_end": 16156,
+   "speaker": "Moskowitz",
+   "word_count": 758
+  },
+  {
+   "hearing_id": "eaa5b73d-3b9e-423f-9270-b92227f73cb2",
+   "turn_index": 227,
+   "word_start": 18283,
+   "word_end": 18754,
+   "speaker": "Onder",
+   "word_count": 471
+  },
+  {
+   "hearing_id": "eb6690eb-f02f-41f8-90cd-f57e4a3ca878",
+   "turn_index": 139,
+   "word_start": 14681,
+   "word_end": 14714,
+   "speaker": "Bonham",
+   "word_count": 33
+  },
+  {
+   "hearing_id": "eb6690eb-f02f-41f8-90cd-f57e4a3ca878",
+   "turn_index": 155,
+   "word_start": 15167,
+   "word_end": 15611,
+   "speaker": "Khawar",
+   "word_count": 444
+  },
+  {
+   "hearing_id": "ee4b056f-efc8-491d-a4f2-e18a1bc1f909",
+   "turn_index": 281,
+   "word_start": 9183,
+   "word_end": 9337,
+   "speaker": "Lynch",
+   "word_count": 154
+  },
+  {
+   "hearing_id": "ee4b056f-efc8-491d-a4f2-e18a1bc1f909",
+   "turn_index": 313,
+   "word_start": 11157,
+   "word_end": 11416,
+   "speaker": "Shah",
+   "word_count": 259
+  },
+  {
+   "hearing_id": "ee4b056f-efc8-491d-a4f2-e18a1bc1f909",
+   "turn_index": 387,
+   "word_start": 17060,
+   "word_end": 17254,
+   "speaker": "Randall",
+   "word_count": 194
+  },
+  {
+   "hearing_id": "ee4b056f-efc8-491d-a4f2-e18a1bc1f909",
+   "turn_index": 394,
+   "word_start": 18301,
+   "word_end": 18401,
+   "speaker": "Miller",
+   "word_count": 100
+  },
+  {
+   "hearing_id": "ee4b056f-efc8-491d-a4f2-e18a1bc1f909",
+   "turn_index": 474,
+   "word_start": 25390,
+   "word_end": 25589,
+   "speaker": "Mace",
+   "word_count": 199
+  },
+  {
+   "hearing_id": "ee4b056f-efc8-491d-a4f2-e18a1bc1f909",
+   "turn_index": 527,
+   "word_start": 28193,
+   "word_end": 28622,
+   "speaker": "Simon",
+   "word_count": 429
+  },
+  {
+   "hearing_id": "ee4b056f-efc8-491d-a4f2-e18a1bc1f909",
+   "turn_index": 576,
+   "word_start": 32877,
+   "word_end": 32938,
+   "speaker": "Frost",
+   "word_count": 61
+  },
+  {
+   "hearing_id": "f0ae851c-7dfc-4789-ad97-3529d2c4a336",
+   "turn_index": 1,
+   "word_start": 1062,
+   "word_end": 1862,
+   "speaker": "Keating",
+   "word_count": 800
+  },
+  {
+   "hearing_id": "f0ae851c-7dfc-4789-ad97-3529d2c4a336",
+   "turn_index": 142,
+   "word_start": 11252,
+   "word_end": 11258,
+   "speaker": "Self",
+   "word_count": 6
+  },
+  {
+   "hearing_id": "f4580398-2c2d-4620-bfb7-ac3861a250b4",
+   "turn_index": 0,
+   "word_start": 0,
+   "word_end": 770,
+   "speaker": "Sullivan",
+   "word_count": 770
+  },
+  {
+   "hearing_id": "f4580398-2c2d-4620-bfb7-ac3861a250b4",
+   "turn_index": 11,
+   "word_start": 1875,
+   "word_end": 6035,
+   "speaker": "Mingus",
+   "word_count": 4160
+  },
+  {
+   "hearing_id": "f4580398-2c2d-4620-bfb7-ac3861a250b4",
+   "turn_index": 13,
+   "word_start": 6039,
+   "word_end": 10638,
+   "speaker": "Kilby",
+   "word_count": 4599
+  },
+  {
+   "hearing_id": "f4580398-2c2d-4620-bfb7-ac3861a250b4",
+   "turn_index": 15,
+   "word_start": 10642,
+   "word_end": 17517,
+   "speaker": "Mahoney",
+   "word_count": 6875
+  },
+  {
+   "hearing_id": "f4580398-2c2d-4620-bfb7-ac3861a250b4",
+   "turn_index": 17,
+   "word_start": 17527,
+   "word_end": 21400,
+   "speaker": "Guetlein",
+   "word_count": 3873
+  },
+  {
+   "hearing_id": "f4580398-2c2d-4620-bfb7-ac3861a250b4",
+   "turn_index": 56,
+   "word_start": 28815,
+   "word_end": 28882,
+   "speaker": "Mingus",
+   "word_count": 67
+  },
+  {
+   "hearing_id": "f4580398-2c2d-4620-bfb7-ac3861a250b4",
+   "turn_index": 83,
+   "word_start": 30242,
+   "word_end": 30305,
+   "speaker": "Kaine",
+   "word_count": 63
+  },
+  {
+   "hearing_id": "f4580398-2c2d-4620-bfb7-ac3861a250b4",
+   "turn_index": 136,
+   "word_start": 34713,
+   "word_end": 34935,
+   "speaker": "Mahoney",
+   "word_count": 222
+  },
+  {
+   "hearing_id": "f4580398-2c2d-4620-bfb7-ac3861a250b4",
+   "turn_index": 205,
+   "word_start": 41729,
+   "word_end": 41772,
+   "speaker": "Sullivan",
+   "word_count": 43
+  },
+  {
+   "hearing_id": "f5cb5c54-d820-48ce-9c92-54e972eb58c4",
+   "turn_index": 1,
+   "word_start": 828,
+   "word_end": 1784,
+   "speaker": "Nadler",
+   "word_count": 956
+  },
+  {
+   "hearing_id": "f5cb5c54-d820-48ce-9c92-54e972eb58c4",
+   "turn_index": 197,
+   "word_start": 16248,
+   "word_end": 16558,
+   "speaker": "Johnson",
+   "word_count": 310
+  },
+  {
+   "hearing_id": "f919a746-0bb4-47b9-88d6-6b491a45f83a",
+   "turn_index": 9,
+   "word_start": 3547,
+   "word_end": 4399,
+   "speaker": "Villasenor",
+   "word_count": 852
+  },
+  {
+   "hearing_id": "f919a746-0bb4-47b9-88d6-6b491a45f83a",
+   "turn_index": 11,
+   "word_start": 4403,
+   "word_end": 5140,
+   "speaker": "Mohr",
+   "word_count": 737
+  },
+  {
+   "hearing_id": "f919a746-0bb4-47b9-88d6-6b491a45f83a",
+   "turn_index": 13,
+   "word_start": 5144,
+   "word_end": 6009,
+   "speaker": "Toner",
+   "word_count": 865
+  },
+  {
+   "hearing_id": "fc8f7d63-2778-46de-892f-3aaf6e8cfac1",
+   "turn_index": 3,
+   "word_start": 172,
+   "word_end": 780,
+   "speaker": "WILLIAMS",
+   "word_count": 608
+  },
+  {
+   "hearing_id": "fc8f7d63-2778-46de-892f-3aaf6e8cfac1",
+   "turn_index": 35,
+   "word_start": 7832,
+   "word_end": 7978,
+   "speaker": "HOANG",
+   "word_count": 146
+  },
+  {
+   "hearing_id": "fd978be7-2b4e-4783-a991-7afdce7b0ab1",
+   "turn_index": 75,
+   "word_start": 10871,
+   "word_end": 11334,
+   "speaker": "Barr",
+   "word_count": 463
+  },
+  {
+   "hearing_id": "feb81902-26a6-4e9d-8c1e-548d885b5a76",
+   "turn_index": 73,
+   "word_start": 9828,
+   "word_end": 10653,
+   "speaker": "Moskowitz",
+   "word_count": 825
+  },
+  {
+   "hearing_id": "feb81902-26a6-4e9d-8c1e-548d885b5a76",
+   "turn_index": 105,
+   "word_start": 13033,
+   "word_end": 13571,
+   "speaker": "Schmidt",
+   "word_count": 538
+  }
+ ]
+}

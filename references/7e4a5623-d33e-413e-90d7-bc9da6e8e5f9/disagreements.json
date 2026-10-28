@@ -1,0 +1,393 @@
+{
+ "hearing_id": "7e4a5623-d33e-413e-90d7-bc9da6e8e5f9",
+ "chrg": "CHRG-119hhrg60348",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60348.htm",
+ "print_sha256": "c44c151acc41396b71cdc43b31cde471a89e3968fb2302e7f85f684cb17cb043",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "e030a7197923c9d3dd971148369d76ca1fc4a42cac8c660d21fea40365bc1e18",
+ "n_ref_words": 26264,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 28040,
+ "words_both_opinion": 26228,
+ "words_agree": 25775,
+ "words_disagree": 453,
+ "words_no_llm_opinion": 920,
+ "words_no_parser_opinion": 1653,
+ "words_inserted_material": 128,
+ "agree_rate": 0.9827,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 11,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1545,
+   "end_word": 1561,
+   "word_count": 16,
+   "start_line": 395,
+   "end_line": 399
+  },
+  {
+   "start_word": 2179,
+   "end_word": 2195,
+   "word_count": 16,
+   "start_line": 474,
+   "end_line": 478
+  },
+  {
+   "start_word": 2782,
+   "end_word": 2798,
+   "word_count": 16,
+   "start_line": 550,
+   "end_line": 554
+  },
+  {
+   "start_word": 3641,
+   "end_word": 3657,
+   "word_count": 16,
+   "start_line": 655,
+   "end_line": 659
+  },
+  {
+   "start_word": 4587,
+   "end_word": 4603,
+   "word_count": 16,
+   "start_line": 782,
+   "end_line": 786
+  },
+  {
+   "start_word": 5381,
+   "end_word": 5397,
+   "word_count": 16,
+   "start_line": 883,
+   "end_line": 887
+  },
+  {
+   "start_word": 6338,
+   "end_word": 6354,
+   "word_count": 16,
+   "start_line": 991,
+   "end_line": 995
+  },
+  {
+   "start_word": 7330,
+   "end_word": 7346,
+   "word_count": 16,
+   "start_line": 1113,
+   "end_line": 1117
+  }
+ ],
+ "n_body_words_mapped": 26230,
+ "n_compare_words_spans": 14,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 2207,
+   "body_word_end": 2229,
+   "word_start": 1247,
+   "word_end": 1269,
+   "n_ref_words_mapped": 22,
+   "word_count": 22,
+   "start_line": 479,
+   "end_line": 482,
+   "parser_speaker": "Hudson",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Matsui",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "IN TIFF FORMAT] Ms. Matsui. And with that, I yield the balance of my time.",
+    "span_text": "Mr. Hudson. Thank you.\n    I now recognize the chairman of the full committee, the \ngentleman from Kentucky, for 5 minutes for his opening \nstatement.",
+    "after": "OPENING STATEMENT OF HON. BRETT GUTHRIE, A REP- RESENTATIVE IN CONGRESS FROM THE COMMONWEALTH OF"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 2809,
+   "body_word_end": 2841,
+   "word_start": 1813,
+   "word_end": 1845,
+   "n_ref_words_mapped": 32,
+   "word_count": 32,
+   "start_line": 556,
+   "end_line": 560,
+   "parser_speaker": "Hudson",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Guthrie",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "AVAILABLE IN TIFF FORMAT] Mr. Guthrie. And with that, Mr. Chairman, I will yield back.",
+    "span_text": "Mr. Hudson. The gentleman yields back.\n    I will now recognize the gentleman from New Jersey, the \nranking member, for 5 minutes for your opening statement.\n\n    OPENING STATEMENT OF HON. FRANK PALLONE, Jr., A REP-",
+    "after": "RESENTATIVE IN CONGRESS FROM THE STATE OF NEW JER- SEY Mr. Pallone. Thank you, Mr."
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 3666,
+   "body_word_end": 3812,
+   "word_start": 2640,
+   "word_end": 2786,
+   "n_ref_words_mapped": 146,
+   "word_count": 146,
+   "start_line": 660,
+   "end_line": 679,
+   "parser_speaker": "Hudson",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Pallone",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "[GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT] Mr. Pallone. Thank you, Mr. Chairman. I yield back.",
+    "span_text": "Mr. Hudson. Thank you.\n    We have now concluded with Member opening statements. The \nChair reminds Members that, pursuant to the committee rules, \nall Members' opening statements will be made part of the \nrecord.\n    We would like to thank our witnesses for being here today \nto testify before this subcommittee. Our witnesses will have 5 \nminutes to provide an opening statement, which will be followed \nby a round of questions from the members.\n    The witnesses here before us today are Tom Stroup, \npresident of the Satellite Industry Association; David Stehlin, \nchief executive officer, Telecommunications Industry \nAssociation; Jamil `` Ja-far`''--or ``Jaff-er.'' Jaffer, I \napologize--founder and executive director, National Security \nInstitute; and Laura Galante, former intelligence community \ncyber executive and Director, Cyber Threat and Intelligence \nIntegration Center, Office of the Director of National \nIntelligence.\n    Mr. Stroup, you are recognized for 5 minutes for your \nopening statement.",
+    "after": "STATEMENTS OF TOM STROUP, PRESIDENT, SATELLITE IN- DUSTRY ASSOCIATION; DAVID STEHLIN, CHIEF EXECUTIVE OFFICER, TELECOMMUNICATIONS"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 12528,
+   "body_word_end": 12573,
+   "word_start": 11242,
+   "word_end": 11287,
+   "n_ref_words_mapped": 45,
+   "word_count": 45,
+   "start_line": 1683,
+   "end_line": 1687,
+   "parser_speaker": "Stehlin",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Soto",
+   "llm_bioguide_id": "S001200",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Dade College, the Secretary of Commerce in Florida to help push this across your State.",
+    "span_text": "Mr. Soto Well, we are thrilled about that. I realize, as we \nare doing U.S. manufacturing, there are still going to be some \ninputs from abroad, whether it is metals or other things. How \nare tariffs affecting our ability to bring back and manufacture \ntelecom equipment?",
+    "after": "Mr. Stehlin. Tariffs will only raise prices. At the end of the day, that is"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 19557,
+   "body_word_end": 19573,
+   "word_start": 18091,
+   "word_end": 18107,
+   "n_ref_words_mapped": 16,
+   "word_count": 16,
+   "start_line": 2448,
+   "end_line": 2451,
+   "parser_speaker": "Fry",
+   "parser_bioguide_id": "F000478",
+   "llm_speaker": "Carter of Georgia",
+   "llm_bioguide_id": "C001103",
+   "shape": "different person",
+   "excerpt": {
+    "before": "something about this.'' Thank you all for being here. Very, very important. I yield back.",
+    "span_text": "Mr. Fry. The gentleman yields.\n    The Chair now recognizes the gentleman from New Jersey, Mr. \nMenendez.\n    Mr. Menendez.Thank you, Mr. Chairman. With international",
+    "after": "cybersecurity threats on the rise, we are facing increasing threats to our critical infrastructure and"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 19573,
+   "body_word_end": 19684,
+   "word_start": 18107,
+   "word_end": 18218,
+   "n_ref_words_mapped": 111,
+   "word_count": 111,
+   "start_line": 2451,
+   "end_line": 2465,
+   "parser_speaker": "Fry",
+   "parser_bioguide_id": "F000478",
+   "llm_speaker": "Menendez",
+   "llm_bioguide_id": "M001226",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Fry. The gentleman yields. The Chair now recognizes the gentleman from New Jersey, Mr. Menendez.",
+    "span_text": "Mr. Menendez.Thank you, Mr. Chairman. With international \ncybersecurity threats on the rise, we are facing increasing \nthreats to our critical infrastructure and our economy.\n    This past fall, the U.S. experienced a devastating Chinese \nstate-sponsored attack on our telecommunications networks, \nstealing sensitive geolocation data and targeting both \nDemocratic and Republican elected officials.\n    We have heard throughout this hearing about bipartisan \nsupport for defending our country against cyber threats, as we \nshould, but the Trump administration has been weakening our \ncountry's cybersecurity defense system by slashing our cyber \nworkforce and recklessly transmitting sensitive information, \nmaking it easier for our foreign adversaries to access \nAmericans'--Americans'--most sensitive personal data.\n    Ms. Galante, just yes or no, will the Trump administration",
+    "after": "dismantling the Cyber Safety Review Board weaken collaborative security and intelligence work? Ms. Galante. Yes."
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 19684,
+   "body_word_end": 19703,
+   "word_start": 18218,
+   "word_end": 18237,
+   "n_ref_words_mapped": 19,
+   "word_count": 19,
+   "start_line": 2465,
+   "end_line": 2467,
+   "parser_speaker": "Fry",
+   "parser_bioguide_id": "F000478",
+   "llm_speaker": "Galante",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "sensitive information, making it easier for our foreign adversaries to access Americans'--Americans'--most sensitive personal data.",
+    "span_text": "Ms. Galante, just yes or no, will the Trump administration \ndismantling the Cyber Safety Review Board weaken collaborative \nsecurity and intelligence work?",
+    "after": "Ms. Galante. Yes. Mr. Menendez. Ms. Galante, is a public-private security ecosystem necessary for a"
+   },
+   "span_id": "d007"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 20257,
+   "body_word_end": 20258,
+   "word_start": 18757,
+   "word_end": 18758,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 2534,
+   "end_line": 2534,
+   "parser_speaker": "Galante",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Menendez",
+   "llm_bioguide_id": "M001226",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "you would agree that AI has increased the sophistication of cyber attacks against target-rich datasets.",
+    "span_text": "Ms. Galante. Yes.",
+    "after": "Mr. Menendez. And can you just briefly explain. Empowering AI, there are two components, as"
+   },
+   "span_id": "d008"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 20574,
+   "body_word_end": 20588,
+   "word_start": 19062,
+   "word_end": 19076,
+   "n_ref_words_mapped": 14,
+   "word_count": 14,
+   "start_line": 2569,
+   "end_line": 2571,
+   "parser_speaker": "Fry",
+   "parser_bioguide_id": "F000478",
+   "llm_speaker": "Menendez",
+   "llm_bioguide_id": "M001226",
+   "shape": "different person",
+   "excerpt": {
+    "before": "us. This administration is failing us on this critical issue. Thank you, and I yield.",
+    "span_text": "Mr. Fry. The gentleman yields.\n    The Chair now recognizes the real chair, Mr. Guthrie from \nKentucky.",
+    "after": "Mr. Guthrie. Not the real chair. The other chair. So, hey, thanks a lot. I"
+   },
+   "span_id": "d009"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 22457,
+   "body_word_end": 22458,
+   "word_start": 20883,
+   "word_end": 20884,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 2766,
+   "end_line": 2766,
+   "parser_speaker": "Landsman",
+   "parser_bioguide_id": "L000601",
+   "llm_speaker": "Stehlin",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "The more landing points, the more cables we have, definitely the more ships you need.",
+    "span_text": "Mr. Landsman. Yes.",
+    "after": "Mr. Stehlin. And there is no doubt about it. Mr. Landsman. OK. So is there"
+   },
+   "span_id": "d010"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 22512,
+   "body_word_end": 22513,
+   "word_start": 20930,
+   "word_end": 20931,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 2774,
+   "end_line": 2774,
+   "parser_speaker": "Landsman",
+   "parser_bioguide_id": "L000601",
+   "llm_speaker": "Stehlin",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "there anything missing in terms of---- Mr. Stehlin. Yes. I would reiterate the permitting process----",
+    "span_text": "Mr. Landsman. Yes.",
+    "after": "Mr. Stehlin [continuing]. Needs to be sped up. And, again, I think NTIA ought to"
+   },
+   "span_id": "d011"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 22597,
+   "body_word_end": 22613,
+   "word_start": 21004,
+   "word_end": 21020,
+   "n_ref_words_mapped": 16,
+   "word_count": 16,
+   "start_line": 2784,
+   "end_line": 2786,
+   "parser_speaker": "Fry",
+   "parser_bioguide_id": "F000478",
+   "llm_speaker": "Landsman",
+   "llm_bioguide_id": "L000601",
+   "shape": "different person",
+   "excerpt": {
+    "before": "is--I will look into that. I appreciate that. That makes sense. And I yield back.",
+    "span_text": "Mr. Fry. The gentleman yields.\n    The Chair now recognizes the gentleman from Ohio--or Ohio--\nIdaho, Mr. Fulcher.",
+    "after": "Mr. Fulcher. Thank you, Mr. Chairman. Mr. Stehlin, I represent the great State of Idaho,"
+   },
+   "span_id": "d012"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 23494,
+   "body_word_end": 23508,
+   "word_start": 21875,
+   "word_end": 21889,
+   "n_ref_words_mapped": 14,
+   "word_count": 14,
+   "start_line": 2879,
+   "end_line": 2881,
+   "parser_speaker": "Fry",
+   "parser_bioguide_id": "F000478",
+   "llm_speaker": "Fulcher",
+   "llm_bioguide_id": "F000469",
+   "shape": "different person",
+   "excerpt": {
+    "before": "you got repeat questions, you understand why. But, Mr. Chairman, with that, I yield back.",
+    "span_text": "Mr. Fry. The gentleman yields.\n    The Chair now recognizes the gentlelady from New York, Ms. \nClarke.",
+    "after": "Ms. Clarke. Thank you very much, Mr. Chairman. Good afternoon, everyone. And I thank our"
+   },
+   "span_id": "d013"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 25084,
+   "body_word_end": 25099,
+   "word_start": 23408,
+   "word_end": 23423,
+   "n_ref_words_mapped": 15,
+   "word_count": 15,
+   "start_line": 3066,
+   "end_line": 3068,
+   "parser_speaker": "Fry",
+   "parser_bioguide_id": "F000478",
+   "llm_speaker": "Kean",
+   "llm_bioguide_id": "K000398",
+   "shape": "different person",
+   "excerpt": {
+    "before": "really important. Mr. Kean. OK. Thank you all for your testimony, and I yield back.",
+    "span_text": "Mr. Fry. The gentleman yields.\n    The Chair now recognizes the gentlelady from Virginia, Ms. \nMcClellan. Perfect timing.",
+    "after": "Ms. McClellan. Thank you, Mr. Chairman and Ranking Member Matsui, and I apologize for my"
+   },
+   "span_id": "d014"
+  }
+ ]
+}

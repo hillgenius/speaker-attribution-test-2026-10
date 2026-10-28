@@ -1,0 +1,124 @@
+{
+ "hearing_id": "73fe969e-6519-424d-ae63-31db0910b2ae",
+ "chrg": "CHRG-119shrg61611",
+ "chamber": "senate",
+ "print_file": "CHRG-119shrg61611.htm",
+ "print_sha256": "3a3711ce2bbdc1dce726afaad858784c4cc1915e28a21410a0e9675cd2683f50",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "c1b606f29794f866a97551214f6639014ba5f4708ab0b8287b903bb03a1c0490",
+ "n_ref_words": 9188,
+ "roster_source": "committee_membership",
+ "total_body_words": 9806,
+ "words_both_opinion": 6783,
+ "words_agree": 6771,
+ "words_disagree": 12,
+ "words_no_llm_opinion": 359,
+ "words_no_parser_opinion": 605,
+ "words_inserted_material": 2417,
+ "agree_rate": 0.9982,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 2270,
+   "end_word": 4687,
+   "word_count": 2417,
+   "start_line": 377,
+   "end_line": 647
+  }
+ ],
+ "n_body_words_mapped": 9169,
+ "n_compare_words_spans": 4,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 7034,
+   "body_word_end": 7038,
+   "word_start": 6530,
+   "word_end": 6534,
+   "n_ref_words_mapped": 4,
+   "word_count": 4,
+   "start_line": 913,
+   "end_line": 913,
+   "parser_speaker": "Stanton",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Rounds",
+   "llm_bioguide_id": "R000605",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "a hundred? Lieutenant General Stanton. Yes, Senator, we can. Senator Rounds. Could you do 150?",
+    "span_text": "Lieutenant General Stanton. Yes, Senator, we can.",
+    "after": "Senator Rounds. Could you do 200? Lieutenant General Stanton. Yes, Senator. Senator Rounds. So for"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 7047,
+   "body_word_end": 7049,
+   "word_start": 6538,
+   "word_end": 6540,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 915,
+   "end_line": 915,
+   "parser_speaker": "Stanton",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Rounds",
+   "llm_bioguide_id": "R000605",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "do 150? Lieutenant General Stanton. Yes, Senator, we can. Senator Rounds. Could you do 200?",
+    "span_text": "Lieutenant General Stanton. Yes, Senator.",
+    "after": "Senator Rounds. So for young men and women out there, this is not like a"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 7631,
+   "body_word_end": 7635,
+   "word_start": 7099,
+   "word_end": 7103,
+   "n_ref_words_mapped": 4,
+   "word_count": 4,
+   "start_line": 978,
+   "end_line": 979,
+   "parser_speaker": "Rounds",
+   "parser_bioguide_id": "R000605",
+   "llm_speaker": "Stanton",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "and so we need individuals that can adjust dynamically to the change in the technology.",
+    "span_text": "Senator Rounds. Thank you.\n    Senator Rosen?",
+    "after": "Senator Rosen. I am just going to build--we are just going to have a good"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 8365,
+   "body_word_end": 8367,
+   "word_start": 7808,
+   "word_end": 7810,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1057,
+   "end_line": 1057,
+   "parser_speaker": "Stanton",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Rounds",
+   "llm_bioguide_id": "R000605",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "I agree. I think you were referring specifically to the 3.1 to 3.45 gigahertz portion----",
+    "span_text": "Lieutenant General Stanton. Yes, Senator.",
+    "after": "Senator Rounds. --which always seems to be under attack. Nonetheless, it is--just the physics of"
+   },
+   "span_id": "d004"
+  }
+ ]
+}

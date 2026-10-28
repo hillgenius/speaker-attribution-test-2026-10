@@ -1,0 +1,108 @@
+{
+ "hearing_id": "aa25833a-d512-46d0-ad95-705bc70d28e7",
+ "chrg": "CHRG-119hhrg64043",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg64043.htm",
+ "print_sha256": "6348cc1feceba172e85f5af6c78c324445f442a016feef27e7a617d976f40678",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "7977db0e76d648a86b0cfd7207e4b620a00c8354c66febc919480ed493b13bdb",
+ "n_ref_words": 31448,
+ "roster_source": "committee_membership",
+ "total_body_words": 32655,
+ "words_both_opinion": 31437,
+ "words_agree": 30056,
+ "words_disagree": 1381,
+ "words_no_llm_opinion": 662,
+ "words_no_parser_opinion": 1125,
+ "words_inserted_material": 93,
+ "agree_rate": 0.9561,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 5692,
+   "end_word": 5708,
+   "word_count": 16,
+   "start_line": 792,
+   "end_line": 796
+  },
+  {
+   "start_word": 6628,
+   "end_word": 6657,
+   "word_count": 29,
+   "start_line": 906,
+   "end_line": 915
+  },
+  {
+   "start_word": 7259,
+   "end_word": 7275,
+   "word_count": 16,
+   "start_line": 987,
+   "end_line": 991
+  },
+  {
+   "start_word": 24432,
+   "end_word": 24448,
+   "word_count": 16,
+   "start_line": 2815,
+   "end_line": 2819
+  },
+  {
+   "start_word": 26065,
+   "end_word": 26081,
+   "word_count": 16,
+   "start_line": 3015,
+   "end_line": 3019
+  }
+ ],
+ "n_body_words_mapped": 31408,
+ "n_compare_words_spans": 2,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 4306,
+   "body_word_end": 5685,
+   "word_start": 3603,
+   "word_end": 4980,
+   "n_ref_words_mapped": 1377,
+   "word_count": 1379,
+   "start_line": 631,
+   "end_line": 790,
+   "parser_speaker": "Smith",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Anagbe",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "bishop in 2014. So Bishop Anagbe, the floor is yours. STATEMENT OF BISHOP WILFRED ANAGBE",
+    "span_text": "Bishop Anagbe. Thank you very much, Mr. Chairman, Congress \nMember Meeks, the Most Reverend Wilfred Anagbe Bishop of the \nCatholic Diocese of Makurdi, Benue, Nigeria before the House \nCommittee on Foreign Affairs, African Subcommittee, November \n20, 2025.\n    President Trump's redesignation of Nigeria as a Country of \nParticular Concern, CPC, is a serious, well-founded wake-up \ncall.\n    I am here this evening talking because I have the privilege \nof witnessing, the privilege of experiencing, and I am not \ntalking as a privilege of opinion.\n    Mr. Chairman, Ranking Members, distinguished members of the \nsubcommittee, thank you for inviting me back to testify on the \nescalating crisis of Christian persecution and genocide in \nNigeria. Six months ago, precisely on 13th March 2025, when I \nlast appeared before this committee, I warned that the \nsituation was dire and demanded urgent attention. Tragically, \nthe past half-year has proven those warnings understated the \ncontinued attacks on vulnerable Christian villages by the \nFulani ethnic militia and their counterparts, both in the \nMiddle Belt of Nigeria and elsewhere in the country.\n    Since my testimony in March 2025, credible reports from \norganizations monitoring religious freedom including Open Doors \nand our own Justice Development and Peace Commission in Makurdi \nDiocese, have documented continuing attacks on Christian \nvillages especially in the Middle Belt States of Benue and \nPlateau perpetrated by Fulani militia. Thousands more have been \ndisplaced, some abducted or subjected with entire villages \nrazed and churches destroyed.\n    My own village of Aondona in Gwer West Local Government \nArea, was attacked and several of my relatives killed on May \n22, 2025. An entire convent of Reverend Sisters of the \nClaretians was displaced along with the local Catholic parish. \nWithin the days following that attack, nearby villages like \nNaka also witnessed attacks. In fact, on the 24th May 2025, one \nof my priests, Father Solomon Atongo, was shot and left to die \nin the pool of his blood, while those traveling with him were \nabducted. Though he survived the attack, he is unable to walk \nfreely because he has a broken bone.\n    A few weeks before, on Palm Sunday, April 13, 2025 with the \nattack occurring late that night into the early hours of April \n14, Fulani militants launched a coordinated assault on \nChristian communities in Plateau State, Nigeria, primarily \ntargeting the village of Zikke in the Bassa Local Government \nArea, near Jos. This incident was part of a broader wave of \nviolence in the region during Holy Week targeting Christians as \nthey prepared to celebrate one of the most holy and important \nfeasts in our Church.\n    In my own diocese of Makurdi, you are all familiar with the \nmassacres of Saturday, 13th June in Yelwata, where 278 persons, \nmen, women, and children were killed in a manner too gory to \ndescribe here by people shouting Allahu akbar while \nslaughtering their victims. It took the prayer of the Holy \nFather, the Pope Leo XIV, on Sunday, June 14th, for the \nGovernment in Nigeria to even acknowledge this evil. Even so, \nthe Federal Government still seeks to downplay the numbers and \nhas yet to properly care for the survivors, even as I speak.\n    Abductions of clergy and laity remain rampant; priests and \npastors are prime targets for elimination. On 17th November \n2025, another priest from Kaduna diocese was kidnapped while \nhis brother was shot dead and others taken into captivity. On \nthe same day, a school was attacked in Kebbi State with many \nkidnapped and the vice principal of the school was killed. \nReports are also rife of the capture of a Brigadier General of \nthe Nigerian Army with some Army officers and soldiers by the \nIslamists.\n    This is the daily experience of many Christians in Nigeria. \nViolence is spreading southward, displacing millions and \ndestroying farmland, creating a humanitarian crisis compounded \nby food insecurity. Attacks by Fulani militants, Boko Haram, \nand Islamic State of West Africa\n    Province, ISWAP, have intensified not only in the Middle \nBelt and northern states but spreading southward and targeting \nChristian communities with impunity. We hoped the CPC \ndesignation by President Trump at the end of October might \nstabilize the situation but instead, it is deteriorating into \none of the most lethal periods for Nigerian Christians in \nrecent memory.\n    Like it is now commonly acknowledged, Nigeria remains the \ndeadliest place on earth to be a Christian. More believers are \nkilled there annually than in the rest of the world combined. \nYet perpetrators face little accountability, and the Nigerian \nGovernment's response since the CPC\n    designation is to unleash vain glory speakers and willing \ntools to spin the narrative and make false equivalencies about \nMuslim deaths. But I will like to ask the question here, who is \nkilling the Muslims up north? Is there any Christian militia \ndisplacing millions and occupying lands in Nigeria?\n    The Government of Nigeria's silence and refusal to engage \nin the face of continued killings and displacements has \ndeepened feelings of abandonment among the people. The national \nleadership appears disengaged, treating the Christian genocide \nreports as a non-issue instead of considering it a national \nemergency. This lack of political will undermines trust in \ngovernment institutions and fuels perceptions of complicity or \nindifference.\n    Mr. Chairman, Honorable members, allow me to briefly \nmention another point so close to my heart: the humanitarian \nand social impact of this genocide.\n    In the Middle Belt alone, millions of internally displaced \npersons remain in camps, unable to return to their ancestral \nlands. This threatens cultural continuity, religious and \neconomic survival. The psychological trauma of survivors of \nthese attacks is immense with little access to counseling or \nrehabilitation. Widows, orphans, and survivors face ongoing \nthreats. Girls and women endure sexual violence as a weapon. So \nmany others resort to unsafe coping mechanisms for daily \nsustenance.\n    Destroying families guarantees that no more Christians will \nbe born from so many traumatized women. This is one of the \nelements of genocide, securing the disappearance of a group by \nlonger-term measures other than murder. Without quick \nintervention, Christianity risks elimination in parts of \nnorthern and Middle Belt\n    Nigeria within a very short time.\n    Let me put it on record here that on behalf of millions of \nChristians in Nigeria and in the diaspora, we want to thank \nPresident Donald J. Trump for his bold leadership in \ndesignating Nigeria a CPC. I commend you Mr. Chris Smith and \nthis subcommittee's ongoing leadership and the recent U.S. \ndesignation of Nigeria as a Country of Particular Concern. This \nis a vital step, but must be backed by serious action:\n    Using the Magnitsky Act for targeted sanctions on Nigerian \ngovernment officials and others tolerating or condoning Islamic \nviolence in the country.\n    Tie security and other development or humanitarian aid to \nmeasurable protection improvements; expand humanitarian support \nfor IDPs.\n    The IDPs must be returned to their ancestral homes and \nlands with security guarantees by the Nigerian Government. They \nmust also be supported to rebuild their economic\n    livelihoods and enjoy basic services such as education and \nsanitation.\n    Support bills like the Nigeria Religious Freedom \nAccountability Act to hold perpetrators accountable. This point \ncannot be overemphasized because it is impunity that fuels the \nviolence we suffer. Irrespective of who and who are being \nkilled, the first question is, are there killings in Nigeria \nand the Government should stop it.\n    International advocacy: work with allies to press Nigeria \nat the U.N. and ensure discriminatory laws and blasphemy laws \nare eradicated or expunged from the constitution.\n    Closing Call to Action. The CPC designation has brought \nimmense joy, hope, and spiritual resilience to communities\n    under siege in Nigeria. The Christian faith-based \norganizations remain among the few sources of relief and \nencouragement, filling the vacuum left by government inaction. \nHowever, the Church alone cannot stop the killings; it requires \ncoordinated political, military, and\n    humanitarian intervention.\n    Mr. Chairman and Members, the blood of Nigerian Christians \ncries out to you people. We cannot afford to wait any longer. \nRenew hearings, pass binding legislation, and use every tool of \nU.S. influence to demand change. America remains the only \ncountry in the world with an International Religious Freedom \nAct. America has a unique role in defending religious freedom \nglobally. Please enact concrete actions according to the CPC \ndesignation. We all know that inaction emboldens the extremists \neven more.\n    Thank you for listening, I welcome your questions. Thank",
+    "after": "you very much and God bless. [The prepared statement of Bishop Anagbe follows:] [GRAPHIC(S) NOT"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 5762,
+   "body_word_end": 5764,
+   "word_start": 5041,
+   "word_end": 5043,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 801,
+   "end_line": 801,
+   "parser_speaker": "Smith",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Anagbe",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "on your trip and I hope you make your plane. Thank you so very much.",
+    "span_text": "Bishop Anagbe. Thank you.",
+    "after": "Mr. Smith. It is now a great honor to introduce our two witnesses from the"
+   },
+   "span_id": "d002"
+  }
+ ]
+}

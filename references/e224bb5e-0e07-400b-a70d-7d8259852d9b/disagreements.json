@@ -1,0 +1,233 @@
+{
+ "hearing_id": "e224bb5e-0e07-400b-a70d-7d8259852d9b",
+ "chrg": "CHRG-119hhrg61600",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg61600.htm",
+ "print_sha256": "04ee019b5da61ac6a630e0a25cd3c1fe79ea6fedec7fd29b3f831efaff7972b0",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "374345efd6316160968e4ecc7d767ea3e7276a777a299e34b692066f5109592d",
+ "n_ref_words": 19726,
+ "roster_source": "committee_membership",
+ "total_body_words": 27040,
+ "words_both_opinion": 15981,
+ "words_agree": 15870,
+ "words_disagree": 111,
+ "words_no_llm_opinion": 2964,
+ "words_no_parser_opinion": 7286,
+ "words_inserted_material": 3677,
+ "agree_rate": 0.9931,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 5,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 3913,
+   "end_word": 4700,
+   "word_count": 787,
+   "start_line": 623,
+   "end_line": 699
+  },
+  {
+   "start_word": 5590,
+   "end_word": 6252,
+   "word_count": 662,
+   "start_line": 808,
+   "end_line": 876
+  },
+  {
+   "start_word": 6615,
+   "end_word": 6867,
+   "word_count": 252,
+   "start_line": 919,
+   "end_line": 943
+  },
+  {
+   "start_word": 7872,
+   "end_word": 9848,
+   "word_count": 1976,
+   "start_line": 1065,
+   "end_line": 1266
+  }
+ ],
+ "n_body_words_mapped": 19616,
+ "n_compare_words_spans": 8,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 3832,
+   "body_word_end": 3836,
+   "word_start": 846,
+   "word_end": 850,
+   "n_ref_words_mapped": 4,
+   "word_count": 4,
+   "start_line": 609,
+   "end_line": 609,
+   "parser_speaker": "Ezell",
+   "parser_bioguide_id": "E000235",
+   "llm_speaker": "Bredariol",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "really thank you. I also want to recognize Commander Nicole Bredariol-- Nicole, where are you?",
+    "span_text": "Commander Bredariol. Back here, Mr. Chairman.",
+    "after": "Mr. Ezell. Okay. The subcommittee's Coast Guard Fellow. During her 2 years serving on the"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 14942,
+   "body_word_end": 14971,
+   "word_start": 11745,
+   "word_end": 11774,
+   "n_ref_words_mapped": 29,
+   "word_count": 29,
+   "start_line": 1836,
+   "end_line": 1839,
+   "parser_speaker": "Lunday",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Strickland",
+   "llm_bioguide_id": "S001159",
+   "shape": "different person",
+   "excerpt": {
+    "before": "from cyber threats to that infrastructure that could threaten the movement and facilitation of commerce----",
+    "span_text": "Ms. Strickland [interrupting]. I want to get back to the \nquestion though. Are you going to allow privatization of the \nsearch and rescue function instead of having the Coast Guard do \nit?",
+    "after": "Admiral Lunday. Congresswoman, I have no plans to step away from our search and rescue"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 17447,
+   "body_word_end": 17466,
+   "word_start": 14190,
+   "word_end": 14209,
+   "n_ref_words_mapped": 19,
+   "word_count": 19,
+   "start_line": 2118,
+   "end_line": 2121,
+   "parser_speaker": "Ezell",
+   "parser_bioguide_id": "E000235",
+   "llm_speaker": "Patronis",
+   "llm_bioguide_id": "P000622",
+   "shape": "different person",
+   "excerpt": {
+    "before": "and women you lead, provide. Thank you for your service. And, Mr. Chairman, I yield.",
+    "span_text": "Mr. Ezell. The gentleman yields.\n    The Chair now recognizes Mr. Larsen for his 5 minutes of \nquestions.\n    I'm sorry. Mr. Garamendi.",
+    "after": "Mr. Garamendi. I appreciate being called the ranking member of the committee. I am sure"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 17883,
+   "body_word_end": 17887,
+   "word_start": 14614,
+   "word_end": 14618,
+   "n_ref_words_mapped": 4,
+   "word_count": 4,
+   "start_line": 2169,
+   "end_line": 2169,
+   "parser_speaker": "Lunday",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Garamendi",
+   "llm_bioguide_id": "G000559",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "construct for other military Service Secretaries that provides that civilian, political level leadership and accountability----",
+    "span_text": "Mr. Garamendi [interrupting]. Excuse me. Excuse me.",
+    "after": "Admiral Lunday. Yes, sir. Mr. Garamendi. So, that is going to take a law. Has"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 18160,
+   "body_word_end": 18176,
+   "word_start": 14873,
+   "word_end": 14889,
+   "n_ref_words_mapped": 16,
+   "word_count": 16,
+   "start_line": 2204,
+   "end_line": 2206,
+   "parser_speaker": "Ezell",
+   "parser_bioguide_id": "E000235",
+   "llm_speaker": "Garamendi",
+   "llm_bioguide_id": "G000559",
+   "shape": "different person",
+   "excerpt": {
+    "before": "made available immediately, not over the next decade. With that, Mr. Chairman, I yield back.",
+    "span_text": "Mr. Ezell. The gentleman yields.\n    The Chair now recognizes Mr. Van Drew for his 5 minutes of \nquestions.",
+    "after": "Dr. Van Drew. Thank you, Mr. Chairman. Admiral, or really Acting Commandant, I wish you"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 19209,
+   "body_word_end": 19223,
+   "word_start": 15882,
+   "word_end": 15896,
+   "n_ref_words_mapped": 14,
+   "word_count": 14,
+   "start_line": 2316,
+   "end_line": 2317,
+   "parser_speaker": "Ezell",
+   "parser_bioguide_id": "E000235",
+   "llm_speaker": "Van Drew",
+   "llm_bioguide_id": "V000133",
+   "shape": "different person",
+   "excerpt": {
+    "before": "breaking new ground here. We're going to do good stuff. I yield back to you.",
+    "span_text": "Mr. Ezell. The gentleman yields.\n    The Chair now recognizes Ms. King-Hinds for your 5 minutes.",
+    "after": "Ms. King-Hinds. Thank you, Mr. Chairman. Congratulations, Admiral Lunday. The Coast Guard has had an"
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 20144,
+   "body_word_end": 20146,
+   "word_start": 16791,
+   "word_end": 16793,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 2421,
+   "end_line": 2421,
+   "parser_speaker": "Lunday",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Ezell",
+   "llm_bioguide_id": "E000235",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "year, which is the current scheduled delivery, is in doubt. Mr. Ezell. It's in doubt?",
+    "span_text": "Admiral Lunday. Yes, sir.",
+    "after": "Mr. Ezell. Very good. Thank you. Given these delays, what's your plan to maintain the"
+   },
+   "span_id": "d007"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 21411,
+   "body_word_end": 21434,
+   "word_start": 18019,
+   "word_end": 18042,
+   "n_ref_words_mapped": 23,
+   "word_count": 23,
+   "start_line": 2574,
+   "end_line": 2576,
+   "parser_speaker": "Ezell",
+   "parser_bioguide_id": "E000235",
+   "llm_speaker": "Carbajal",
+   "llm_bioguide_id": "C001112",
+   "shape": "different person",
+   "excerpt": {
+    "before": "that memo, yes, sir. Mr. Carbajal. Thank you very much. Mr. Chair, I yield back.",
+    "span_text": "Mr. Ezell. The gentleman yields.\n    The Chair now recognizes Mr. Mast for his 5 minutes of \nquestioning or additional time if you need it, sir.",
+    "after": "Mr. Mast. Well, thank you, Mr. Chairman. I appreciate that. Admiral, congratulations, absolutely. That will"
+   },
+   "span_id": "d008"
+  }
+ ]
+}

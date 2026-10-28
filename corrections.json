@@ -1,0 +1,104 @@
+{
+ "rules": [
+  {
+   "id": "member_identity",
+   "text": "The member database's surname-matching field was empty for Mark E. Green (G000590), Sylvester Turner (T000489) and Marjorie Taylor Greene (G000596), so the roster could resolve 'Green' and 'Turner' only to Al Green and Michael Turner. Filled in every hearing's roster cache, and the two references that froze the wrong ids corrected: 60649 Green G000553 -> G000590 and Turner T000463 -> T000489, 60692 Turner T000463 -> T000489."
+  },
+  {
+   "id": "split_label",
+   "text": "One speaker labeled two ways in the reference (RUBIO/Rubio, MAST/Mast, 'Kim of California'/Kim, 'VAN DUYNE' unresolved), which split the cluster vote. Labels unified."
+  },
+  {
+   "id": "print_error",
+   "text": "59601 prints 'Mr. Murray.' for the witness Nicholas McMurray. Relabeled McMurray; no outcome changed (the cluster stays ambiguous)."
+  }
+ ],
+ "applied_to": "all 100 hearings, the same way",
+ "changed_clusters": [
+  {
+   "chrg": "CHRG-119hhrg60649",
+   "hearing_id": "545a2f0f-3019-43be-8570-55c4732ce94a",
+   "cluster_id": "SPEAKER_16",
+   "reference_speaker": "Green",
+   "shipped_label": "Chairman Mark Green (R-TN)",
+   "words": 2908,
+   "locked_outcome": "wrong",
+   "reported_outcome": "correct",
+   "why": "member_identity"
+  },
+  {
+   "chrg": "CHRG-119hhrg60649",
+   "hearing_id": "545a2f0f-3019-43be-8570-55c4732ce94a",
+   "cluster_id": "SPEAKER_24",
+   "reference_speaker": "Turner",
+   "shipped_label": "Rep. Sylvester Turner (D-TX)",
+   "words": 499,
+   "locked_outcome": "wrong",
+   "reported_outcome": "correct",
+   "why": "member_identity"
+  },
+  {
+   "chrg": "CHRG-119hhrg60692",
+   "hearing_id": "6347225c-1e6f-498c-8e54-555d1d858558",
+   "cluster_id": "SPEAKER_06",
+   "reference_speaker": "Turner",
+   "shipped_label": "Rep. Sylvester Turner (D-TX)",
+   "words": 418,
+   "locked_outcome": "wrong",
+   "reported_outcome": "correct",
+   "why": "member_identity"
+  },
+  {
+   "chrg": "CHRG-119hhrg61366",
+   "hearing_id": "019fd592-5b13-445f-b8b9-3515811e3a46",
+   "cluster_id": "SPEAKER_03",
+   "reference_speaker": "Rubio",
+   "shipped_label": "The Honorable Marco Rubio",
+   "words": 12650,
+   "locked_outcome": "ambiguous",
+   "reported_outcome": "correct",
+   "why": "split_label"
+  },
+  {
+   "chrg": "CHRG-119hhrg61418",
+   "hearing_id": "fd978be7-2b4e-4783-a991-7afdce7b0ab1",
+   "cluster_id": "SPEAKER_06",
+   "reference_speaker": "Kim",
+   "shipped_label": "Chairman Young Kim (R-CA)",
+   "words": 1395,
+   "locked_outcome": "ambiguous",
+   "reported_outcome": "correct",
+   "why": "split_label"
+  },
+  {
+   "chrg": "CHRG-119hhrg64242",
+   "hearing_id": "fc8f7d63-2778-46de-892f-3aaf6e8cfac1",
+   "cluster_id": "SPEAKER_15",
+   "reference_speaker": "Van Duyne",
+   "shipped_label": "Rep. Beth Van Duyne (R-TX)",
+   "words": 312,
+   "locked_outcome": "wrong",
+   "reported_outcome": "correct",
+   "why": "split_label"
+  }
+ ],
+ "locked_run": {
+  "by_word": {
+   "n_correct": 1620934,
+   "n_wrong": 14116,
+   "n_blank": 0,
+   "n_answered": 1635050,
+   "precision": 0.9913666248738571,
+   "recall": 0.9913666248738571
+  },
+  "by_cluster": {
+   "n_correct": 1663,
+   "n_wrong": 25,
+   "n_blank": 0,
+   "n_answered": 1688,
+   "precision": 0.9851895734597157,
+   "recall": 0.9851895734597157
+  },
+  "n_ambiguous_discarded": 10
+ }
+}

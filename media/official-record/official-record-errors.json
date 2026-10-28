@@ -1,0 +1,1024 @@
+{
+  "title": "Errors in the official record that Tiro 1 identified",
+  "published": "2026-10-28",
+  "publisher": "HillGenius",
+  "about": "Five passages in printed congressional hearing records (GPO prints on govinfo) where the print credits the words to the wrong person, and Tiro 1 named the person who spoke. Each item gives the exact print bytes (SHA-256), the wrong header lines and a verbatim excerpt with line numbers, quote-level evidence from the print itself, an evidence-strength rating, and the video with timestamps. Items 2-5 can be checked from the print text alone. Item 1 needs the video.",
+  "found_in": "Items 1-4 were found in HillGenius's September 2026 backlog run of hearings outside the public test. Item 5 was found in the October 2026 public test of 100 hearings.",
+  "line_numbering": "Line numbers are 1-based lines of the htm bytes at print_text_url (https://api.govinfo.gov/packages/<CHRG>/htm, which needs a free api.data.gov key). print_sha256 is the hash of those bytes; two fetches gave identical bytes. The same text is at govinfo_html_url, but www.govinfo.gov rewrites email addresses on each fetch, so that copy's bytes and hash can differ. Its line numbers are the same: every wrong header line here sits at the same line number in the govinfo_html_url copy (checked October 27, 2026).",
+  "related": {
+    "tiro_1": "https://www.hillgenius.com/tiro-1#official-record",
+    "report_section": "https://www.hillgenius.com/methodology/speaker-attribution/report#official-record",
+    "report_markdown": "https://www.hillgenius.com/methodology/speaker-attribution.md"
+  },
+  "items": [
+    {
+      "n": 1,
+      "chrg": "CHRG-119shrg62893",
+      "title": "To consider the nomination of Mr. Stephen A. Feinberg to be Deputy Secretary of Defense",
+      "committee": "Senate Committee on Armed Services",
+      "date": "2025-02-25",
+      "print_designation": "S. Hrg. 119-295",
+      "found_in": "HillGenius's September 2026 backlog run. Not one of the 100 test hearings.",
+      "govinfo_package_url": "https://www.govinfo.gov/app/details/CHRG-119shrg62893",
+      "govinfo_html_url": "https://www.govinfo.gov/content/pkg/CHRG-119shrg62893/html/CHRG-119shrg62893.htm",
+      "print_text_url": "https://api.govinfo.gov/packages/CHRG-119shrg62893/htm",
+      "print_sha256": "0a47b07e6d93f1cc1a6f987fcace3dbebf94386927d58e6733ccbb8187ba554c",
+      "print_bytes": 532309,
+      "print_says": "Chairman Wicker.",
+      "actually_spoke": "Sen. Ted Budd (R-NC)",
+      "wrong_header_lines": [
+        {
+          "line_no": 2240,
+          "text": "    Chairman Wicker. Thank you, Senator Kelly. I recognize "
+        },
+        {
+          "line_no": 2255,
+          "text": "    Chairman Wicker. They also helped us in the cold war. But "
+        },
+        {
+          "line_no": 2288,
+          "text": "    Chairman Wicker. Thank you for that, and again, thank you "
+        },
+        {
+          "line_no": 2313,
+          "text": "    Chairman Wicker. Thanks for that. Another issue. You know "
+        },
+        {
+          "line_no": 2319,
+          "text": "    Chairman Wicker. Thank you. So if confirmed, do you commit "
+        },
+        {
+          "line_no": 2323,
+          "text": "    Chairman Wicker. Thank you for that. That is an important "
+        },
+        {
+          "line_no": 2328,
+          "text": "    Chairman Wicker. Thank you again. Senator Slotkin."
+        }
+      ],
+      "wrong_header_note": "Tiro 1 labels the same voice Budd from 8083.1 s to 8373.4 s, which covers all seven 'Chairman Wicker.' headers from line 2240 to line 2328 ('Thank you again. Senator Slotkin.'). The video check covers line 2240 only.",
+      "excerpt": [
+        {
+          "line_no": 2234,
+          "text": "same time, in the same week, we blew up an 80-year alliance. "
+        },
+        {
+          "line_no": 2235,
+          "text": "Some of my Republican colleagues have a hard time even stating "
+        },
+        {
+          "line_no": 2236,
+          "text": "the obvious, that Russia did, in fact, invade Ukraine 3 years "
+        },
+        {
+          "line_no": 2237,
+          "text": "ago. Mr. Feinberg, I know you pay attention to the news, and I "
+        },
+        {
+          "line_no": 2238,
+          "text": "imagine if I asked you this question 3 years ago I am pretty "
+        },
+        {
+          "line_no": 2239,
+          "text": "sure I know what the answer would be. Thank you."
+        },
+        {
+          "line_no": 2240,
+          "text": "    Chairman Wicker. Thank you, Senator Kelly. I recognize "
+        },
+        {
+          "line_no": 2241,
+          "text": "myself."
+        },
+        {
+          "line_no": 2242,
+          "text": "    Mr. Feinberg, thank you for being here. Thank you to your "
+        },
+        {
+          "line_no": 2243,
+          "text": "family, those who are watching, your father, and for your "
+        },
+        {
+          "line_no": 2244,
+          "text": "family's years of service. I appreciate their introduction."
+        },
+        {
+          "line_no": 2245,
+          "text": "    I was disappointed to hear earlier that some of my "
+        },
+        {
+          "line_no": 2246,
+          "text": "colleagues characterized your background in the private sector "
+        },
+        {
+          "line_no": 2247,
+          "text": "as negative. I think that is disappointing. I have got a "
+        }
+      ],
+      "text_evidence": [
+        {
+          "line_no": [
+            2240,
+            2241
+          ],
+          "quote": "Chairman Wicker. Thank you, Senator Kelly. I recognize \nmyself.",
+          "why": "The header this example is about. The speaker recognizes himself right after Kelly's turn."
+        },
+        {
+          "line_no": [
+            721,
+            722
+          ],
+          "quote": "Chairman Wicker. Thank you for that commitment to the speed \nof urgency. Senator Reed.",
+          "why": "Wicker had already taken his own questioning turn early in the hearing and handed off to Reed. It is consistent with someone else holding the gavel at line 2240, but it does not prove it: a chair can take a second turn."
+        },
+        {
+          "line_no": 117,
+          "quote": "Mullin, Budd, Schmitt,",
+          "why": "Budd is listed as present."
+        },
+        {
+          "line_no": 6946,
+          "quote": "Questions Submitted by Senator Ted Budd",
+          "why": "Budd submitted questions for the record, yet no spoken turn in the print is headed 'Senator Budd.' (see print_checks). This fits a turn that was printed under another name, but it does not say which turn."
+        },
+        {
+          "line_no": 2513,
+          "quote": "Senator Sheehy. [Presiding.]",
+          "why": "The print shows the gavel changing hands during this hearing, so senators other than Wicker presided at times. The print never marks Budd as presiding."
+        }
+      ],
+      "print_checks": [
+        {
+          "check": "turn headers 'Senator Budd.'",
+          "regex": "^\\s{4}Senator Budd\\.",
+          "count": 0,
+          "line_nos": []
+        },
+        {
+          "check": "lines containing 'Budd'",
+          "regex": "Budd",
+          "count": 5,
+          "line_nos": [
+            117,
+            6946,
+            6948,
+            6962,
+            6976
+          ]
+        },
+        {
+          "check": "lines marked [Presiding.]",
+          "regex": "\\[Presiding\\.\\]",
+          "count": 2,
+          "line_nos": [
+            2513,
+            2619
+          ]
+        }
+      ],
+      "evidence_strength": "video needed",
+      "evidence_strength_note": "The print text alone does not settle this one. It is consistent with Budd but never names him as the speaker; the video does. Budd is on camera at the MR. BUDD nameplate speaking this passage.",
+      "how_we_know": "On the Senate's own video, the senator who says 'Thank you, Senator Kelly. I recognize myself' and goes on to question Feinberg is Ted Budd, on camera behind the MR. BUDD nameplate.",
+      "video": {
+        "url": "https://www.senate.gov/isvp/?auto_play=false&comm=armed&poster=https://www.armed-services.senate.gov/assets/images/video-poster.png&filename=armedA022525",
+        "source": "Senate ISVP archive (filename armedA022525), 1280x720",
+        "timestamp": "2:14:39",
+        "url_at_timestamp": null,
+        "timestamp_note": "The Senate player has no start-time link. Open the video and seek to 2:14:39.",
+        "clip_start_s": 8079.0,
+        "clip_end_s": 8109.0,
+        "poster_time_s": 8091.0,
+        "poster_shows": "Sen. Ted Budd speaking at his seat behind a 'MR. BUDD' nameplate.",
+        "timeline": [
+          "8079-8083 s: Sen. Kelly at the 'MR. KELLY' nameplate finishes ('...I'm pretty sure I know what the answer would be. Thank you.').",
+          "8083.5-8085 s: brief cutaway to the witness table while a new voice says 'Thank you, Senator Kelly. I recognize myself.'",
+          "8085.5-8109 s: Budd on camera at the 'MR. BUDD' nameplate, continuing 'Mr. Feinberg, thank you for being here...' (print lines 2242-2247)."
+        ]
+      },
+      "tiro_1": {
+        "label": "Senator Ted Budd (R-NC)",
+        "start_s": 8083.1,
+        "end_s": 8171.1,
+        "source": "The production transcript Tiro 1 produced in September 2026. The hearing has not been reprocessed since."
+      },
+      "files": {
+        "clip": "https://www.hillgenius.com/media/official-record/budd-wicker-clip.mp4",
+        "clip_note": "30 s cut from the video above, source seconds 8079 to 8109, H.264 1280x720. No edits other than trimming.",
+        "poster": "https://www.hillgenius.com/media/official-record/budd-wicker-poster.jpg",
+        "print_still": "https://www.hillgenius.com/media/official-record/budd-wicker-print.png",
+        "print_still_lines_shown": [
+          2232,
+          2249
+        ],
+        "print_still_note": "The govinfo text of lines 2232-2249 rendered as an image. The text is unaltered; only the speaker label \"Chairman Wicker.\" is highlighted."
+      }
+    },
+    {
+      "n": 2,
+      "chrg": "CHRG-119shrg63037",
+      "title": "To consider the nominations of: Dr. Troy E. Meink to be Secretary of the Air Force, Mr. Michael P. Duffey to be Under Secretary of Defense for Acquisition and Sustainment, Mr. Emil G. Michael to be Under Secretary of Defense for Research and Engineering, and Mr. Keith M. Bass to be Assistant Secretary of Defense for Health Affairs",
+      "committee": "Senate Committee on Armed Services",
+      "date": "2025-03-27",
+      "print_designation": "S. Hrg. 119-321",
+      "found_in": "HillGenius's September 2026 backlog run. Not one of the 100 test hearings.",
+      "govinfo_package_url": "https://www.govinfo.gov/app/details/CHRG-119shrg63037",
+      "govinfo_html_url": "https://www.govinfo.gov/content/pkg/CHRG-119shrg63037/html/CHRG-119shrg63037.htm",
+      "print_text_url": "https://api.govinfo.gov/packages/CHRG-119shrg63037/htm",
+      "print_sha256": "c2fd642b227a23774f9a4fb19d2cc42b3131d93ed4a574d59ec2c230b4346ffa",
+      "print_bytes": 1022140,
+      "print_says": "Senator Kelly.",
+      "actually_spoke": "Sen. Gary C. Peters (D-MI)",
+      "wrong_header_lines": [
+        {
+          "line_no": 2799,
+          "text": "    Senator Kelly. Thank you, Mr. Chairman."
+        },
+        {
+          "line_no": 2844,
+          "text": "    Senator Kelly. Great, great."
+        },
+        {
+          "line_no": 2881,
+          "text": "    Senator Kelly. Thank you, Dr. Meink. Look forward to "
+        }
+      ],
+      "wrong_header_note": "All three 'Senator Kelly.' headers between Wicker recognizing Peters (line 2798) and thanking him (line 2884) belong to Peters. Tiro 1 labels Peters for 8367.1-8484.4, 8546.0-8596.8 and 8666.0-8671.7 s.",
+      "excerpt": [
+        {
+          "line_no": 2796,
+          "text": "    Senator Sullivan. Thank you. Thank you, Mr. Chairman."
+        },
+        {
+          "line_no": 2797,
+          "text": "    Chairman Wicker. Thank you, Senator Sullivan. Senator "
+        },
+        {
+          "line_no": 2798,
+          "text": "Peters."
+        },
+        {
+          "line_no": 2799,
+          "text": "    Senator Kelly. Thank you, Mr. Chairman."
+        },
+        {
+          "line_no": 2800,
+          "text": "    Dr. Meink, congratulations on your nomination to serve as "
+        },
+        {
+          "line_no": 2801,
+          "text": "the Secretary of Air Force. Just want to say, I was happy we "
+        },
+        {
+          "line_no": 2802,
+          "text": "had a chance to meet at length in my office, and learn about a "
+        },
+        {
+          "line_no": 2803,
+          "text": "number of your priorities going forward."
+        },
+        {
+          "line_no": 2804,
+          "text": "    As you know, Selfridge Air National Guard Base in Michigan "
+        },
+        {
+          "line_no": 2805,
+          "text": "was selected as the home of a dozen new KC-46 tankers, to "
+        },
+        {
+          "line_no": 2806,
+          "text": "followup on Senator Sullivan's conversation. I, certainly, am "
+        },
+        {
+          "line_no": 2807,
+          "text": "grateful as you mentioned in the office, your commitment to "
+        },
+        {
+          "line_no": 2808,
+          "text": "honor that decision to place those KC-46s in Michigan. I look "
+        },
+        {
+          "line_no": 2809,
+          "text": "forward to officially welcoming you to visit Selfridge so you "
+        },
+        {
+          "line_no": 2810,
+          "text": "can see firsthand the incredible facility that is there."
+        }
+      ],
+      "text_evidence": [
+        {
+          "line_no": [
+            2797,
+            2798
+          ],
+          "quote": "Chairman Wicker. Thank you, Senator Sullivan. Senator \nPeters.",
+          "why": "The chair recognizes Peters on the line just before the header."
+        },
+        {
+          "line_no": 2799,
+          "quote": "Senator Kelly. Thank you, Mr. Chairman.",
+          "why": "The header this example is about."
+        },
+        {
+          "line_no": 2804,
+          "quote": "Selfridge Air National Guard Base in Michigan",
+          "why": "The speaker talks about a base in his home state, Michigan."
+        },
+        {
+          "line_no": 2808,
+          "quote": "place those KC-46s in Michigan",
+          "why": "Michigan again."
+        },
+        {
+          "line_no": 62,
+          "quote": "GARY C. PETERS, Michigan",
+          "why": "In the print's committee roster, Peters represents Michigan."
+        },
+        {
+          "line_no": 65,
+          "quote": "MARK KELLY, Arizona",
+          "why": "Kelly represents Arizona."
+        },
+        {
+          "line_no": [
+            2605,
+            2606
+          ],
+          "quote": "Thank you very much, Senator Schmitt. \nSenator Kelly.",
+          "why": "Kelly had already been recognized for his own turn earlier."
+        },
+        {
+          "line_no": 2693,
+          "quote": "Senator Kelly. Thank you. Thank you, Mr. Chairman.",
+          "why": "Kelly's own turn ends here, about 100 lines before line 2799."
+        },
+        {
+          "line_no": 2884,
+          "quote": "Chairman Wicker. Thank you, Senator Peters.",
+          "why": "The chair thanks Peters right after the passage ends."
+        }
+      ],
+      "print_checks": [
+        {
+          "check": "turn headers 'Senator Peters.'",
+          "regex": "^\\s{4}Senator Peters\\.",
+          "count": 0,
+          "line_nos": []
+        },
+        {
+          "check": "lines containing 'Peters'",
+          "regex": "Peters",
+          "count": 3,
+          "line_nos": [
+            186,
+            2798,
+            2884
+          ]
+        },
+        {
+          "check": "turn headers 'Senator Kelly.'",
+          "regex": "^\\s{4}Senator Kelly\\.",
+          "count": 7,
+          "line_nos": [
+            2607,
+            2669,
+            2687,
+            2693,
+            2799,
+            2844,
+            2881
+          ]
+        }
+      ],
+      "evidence_strength": "print text alone settles it",
+      "evidence_strength_note": "The chair recognizes Peters on the line before the header and thanks Peters when the passage ends. In between, the speaker talks about his home-state base in Michigan, and the roster lists Peters for Michigan and Kelly for Arizona. Kelly's own turn was earlier, and no turn in the print is headed 'Senator Peters.'",
+      "how_we_know": "The print itself has the chair calling on Peters and then thanking Peters, with a Michigan base in between. The video shows Peters at the MR. PETERS nameplate.",
+      "video": {
+        "url": "https://www.senate.gov/isvp/?auto_play=false&comm=armed&poster=https://www.armed-services.senate.gov/assets/images/video-poster.png&filename=armedA032725&stt=0",
+        "source": "Senate ISVP archive (filename armedA032725), 1280x720",
+        "timestamp": "2:19:21",
+        "url_at_timestamp": null,
+        "timestamp_note": "The Senate player has no start-time link. Open the video and seek to 2:19:21.",
+        "clip_start_s": 8361.0,
+        "clip_end_s": 8393.0,
+        "poster_time_s": 8382.0,
+        "poster_shows": "Sen. Gary Peters speaking at his seat behind a 'MR. PETERS' nameplate.",
+        "timeline": [
+          "8361-8366 s: Sen. Sullivan at the 'MR. SULLIVAN' nameplate wraps up; Wicker says 'Thank you, Senator Sullivan. Senator Peters.' (about 8364 s).",
+          "8367-8372 s: wide shot of the nominee table as Peters begins 'Thank you, Mr. Chairman. Dr. Meink, congratulations...'.",
+          "8373-8393 s: Peters on camera at the 'MR. PETERS' nameplate, through 'As you know, Selfridge Air National Guard Base in Michigan...' (print lines 2800-2805)."
+        ]
+      },
+      "tiro_1": {
+        "label": "Senator Gary C. Peters (D-MI)",
+        "start_s": 8367.1,
+        "end_s": 8484.4,
+        "source": "The production transcript Tiro 1 produced in September 2026. The hearing has not been reprocessed since."
+      },
+      "files": {
+        "clip": "https://www.hillgenius.com/media/official-record/peters-kelly-clip.mp4",
+        "clip_note": "32 s cut from the video above, source seconds 8361 to 8393, H.264 1280x720. No edits other than trimming.",
+        "poster": "https://www.hillgenius.com/media/official-record/peters-kelly-poster.jpg",
+        "print_still": "https://www.hillgenius.com/media/official-record/peters-kelly-print.png",
+        "print_still_lines_shown": [
+          2794,
+          2811
+        ],
+        "print_still_note": "The govinfo text of lines 2794-2811 rendered as an image. The text is unaltered; only the speaker label \"Senator Kelly.\" is highlighted."
+      }
+    },
+    {
+      "n": 3,
+      "chrg": "CHRG-119hhrg61179",
+      "title": "Committee on Transportation and Infrastructure Member Day",
+      "committee": "House Committee on Transportation and Infrastructure",
+      "date": "2025-05-14",
+      "print_designation": "(119-20)",
+      "found_in": "HillGenius's September 2026 backlog run. Not one of the 100 test hearings.",
+      "govinfo_package_url": "https://www.govinfo.gov/app/details/CHRG-119hhrg61179",
+      "govinfo_html_url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61179/html/CHRG-119hhrg61179.htm",
+      "print_text_url": "https://api.govinfo.gov/packages/CHRG-119hhrg61179/htm",
+      "print_sha256": "5b97184efc23e1643f1ab913d0778be0777a2c6d1eabcd5e37f017a2334252d0",
+      "print_bytes": 348169,
+      "print_says": "Mr. Fitzpatrick.",
+      "actually_spoke": "Rep. Scott Fitzgerald (R-WI)",
+      "wrong_header_lines": [
+        {
+          "line_no": 4210,
+          "text": "    Mr. Fitzpatrick. Thank you, Chairman, Ranking Member, "
+        }
+      ],
+      "wrong_header_note": "One header: Fitzgerald's whole oral statement runs under 'Mr. Fitzpatrick.' (lines 4210-4234).",
+      "excerpt": [
+        {
+          "line_no": 4201,
+          "text": "    Mr. Fong. Thank you very much."
+        },
+        {
+          "line_no": 4202,
+          "text": "    Do any Members on the dais have any questions?"
+        },
+        {
+          "line_no": 4203,
+          "text": "    Seeing none, thank you for your testimony. The Chair now "
+        },
+        {
+          "line_no": 4204,
+          "text": "recognizes Representative Fitzgerald."
+        },
+        {
+          "line_no": 4205,
+          "text": "    You have 5 minutes for your testimony."
+        },
+        {
+          "line_no": 4206,
+          "text": ""
+        },
+        {
+          "line_no": 4207,
+          "text": "    TESTIMONY OF HON. SCOTT FITZGERALD, A REPRESENTATIVE IN "
+        },
+        {
+          "line_no": 4208,
+          "text": "              CONGRESS FROM THE STATE OF WISCONSIN"
+        },
+        {
+          "line_no": 4209,
+          "text": ""
+        },
+        {
+          "line_no": 4210,
+          "text": "    Mr. Fitzpatrick. Thank you, Chairman, Ranking Member, "
+        },
+        {
+          "line_no": 4211,
+          "text": "members of the committee, for allowing me to testify today "
+        },
+        {
+          "line_no": 4212,
+          "text": "about bicyclist and pedestrian safety."
+        },
+        {
+          "line_no": 4213,
+          "text": "    On August 25, 2022, Sarah Debbink Langenkamp, wife, proud "
+        },
+        {
+          "line_no": 4214,
+          "text": "mother of two boys, and 17-year U.S. Foreign Service officer, "
+        }
+      ],
+      "text_evidence": [
+        {
+          "line_no": [
+            4203,
+            4204
+          ],
+          "quote": "The Chair now \nrecognizes Representative Fitzgerald.",
+          "why": "The chair recognizes Fitzgerald."
+        },
+        {
+          "line_no": [
+            4207,
+            4208
+          ],
+          "quote": "TESTIMONY OF HON. SCOTT FITZGERALD, A REPRESENTATIVE IN \n              CONGRESS FROM THE STATE OF WISCONSIN",
+          "why": "The print's own section heading names Fitzgerald."
+        },
+        {
+          "line_no": 4210,
+          "quote": "Mr. Fitzpatrick. Thank you, Chairman, Ranking Member, ",
+          "why": "The header this example is about."
+        },
+        {
+          "line_no": 4235,
+          "quote": "[Mr. Fitzgerald's prepared statement follows:]",
+          "why": "Right after the oral statement, the print introduces Fitzgerald's prepared statement."
+        },
+        {
+          "line_no": [
+            4241,
+            4242
+          ],
+          "quote": "testify today about bicyclist and \npedestrian safety.",
+          "why": "The prepared statement opens on the same topic, bicyclist and pedestrian safety, as the oral statement at lines 4211-4212."
+        },
+        {
+          "line_no": 175,
+          "quote": "Hon. Scott Fitzgerald, a Representative in Congress from the ",
+          "why": "The table of contents lists Fitzgerald's oral statement."
+        }
+      ],
+      "print_checks": [
+        {
+          "check": "lines containing 'Fitzpatrick'",
+          "regex": "Fitzpatrick",
+          "count": 1,
+          "line_nos": [
+            4210
+          ]
+        },
+        {
+          "check": "lines containing 'Fitzgerald'",
+          "regex": "Fitzgerald",
+          "count": 4,
+          "line_nos": [
+            175,
+            4204,
+            4235,
+            4238
+          ]
+        }
+      ],
+      "evidence_strength": "print text alone settles it",
+      "evidence_strength_note": "The chair recognizes Fitzgerald, and the section heading and the prepared statement that follows are both Fitzgerald's. 'Fitzpatrick' appears nowhere in the print except this one header.",
+      "how_we_know": "The print recognizes Fitzgerald, titles the testimony as his and follows it with his prepared statement. The video shows him behind the 'Rep. Fitzgerald' card.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ZCDkyKLenIY",
+        "source": "Committee YouTube video, 1280x720",
+        "timestamp": "2:16:58",
+        "url_at_timestamp": "https://www.youtube.com/watch?v=ZCDkyKLenIY&t=8218s",
+        "timestamp_note": null,
+        "clip_start_s": 8218.0,
+        "clip_end_s": 8250.0,
+        "poster_time_s": 8242.0,
+        "poster_shows": "Rep. Scott Fitzgerald reading his statement at the witness table behind a 'Rep. Fitzgerald / WI-05' card.",
+        "timeline": [
+          "8218-8221 s: Rep. Kaptur at the 'Rep. Kaptur' card finishes her statement.",
+          "8221-8232 s: wide shot of the room; the chair says 'The chair now recognizes Representative Fitzgerald. You have five minutes for your testimony.'",
+          "8233-8250 s: Fitzgerald on camera behind the 'Rep. Fitzgerald / WI-05' card: 'Thank you, Chairman, Ranking Member, members of the committee, for allowing me to testify today about bicyclist and pedestrian safety...'."
+        ]
+      },
+      "tiro_1": {
+        "label": "Rep. Scott Fitzgerald (R-WI)",
+        "start_s": 8231.4,
+        "end_s": 8327.5,
+        "source": "The production transcript Tiro 1 produced in September 2026. The hearing has not been reprocessed since."
+      },
+      "files": {
+        "clip": "https://www.hillgenius.com/media/official-record/fitzgerald-fitzpatrick-clip.mp4",
+        "clip_note": "32 s cut from the video above, source seconds 8218 to 8250, H.264 1280x720. No edits other than trimming.",
+        "poster": "https://www.hillgenius.com/media/official-record/fitzgerald-fitzpatrick-poster.jpg",
+        "print_still": "https://www.hillgenius.com/media/official-record/fitzgerald-fitzpatrick-print.png",
+        "print_still_lines_shown": [
+          4201,
+          4217
+        ],
+        "print_still_note": "The govinfo text of lines 4201-4217 rendered as an image. The text is unaltered; only the speaker label \"Mr. Fitzpatrick.\" is highlighted."
+      }
+    },
+    {
+      "n": 4,
+      "chrg": "CHRG-119hhrg58952",
+      "title": "Oversight Hearing on: Restoring Multiple Use to Revitalize America’s Public Lands and Rural Communities",
+      "committee": "House Committee on Natural Resources, Subcommittee on Federal Lands",
+      "date": "2025-02-11",
+      "print_designation": "Serial No. 119-6",
+      "found_in": "HillGenius's September 2026 backlog run. Not one of the 100 test hearings.",
+      "govinfo_package_url": "https://www.govinfo.gov/app/details/CHRG-119hhrg58952",
+      "govinfo_html_url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg58952/html/CHRG-119hhrg58952.htm",
+      "print_text_url": "https://api.govinfo.gov/packages/CHRG-119hhrg58952/htm",
+      "print_sha256": "1921387c66d6c88d9885735df1e2cfacdfce7486abf35583f34778b7160d47d1",
+      "print_bytes": 223035,
+      "print_says": "Mr. McCormick.",
+      "actually_spoke": "Rep. Tom McClintock (R-CA)",
+      "wrong_header_lines": [
+        {
+          "line_no": 2578,
+          "text": "    Mr. McCormick. Thank you, Mr. Chairman. You know, listening "
+        },
+        {
+          "line_no": 2595,
+          "text": "    Mr. McCormick. Yes, we saw that in the Sierra Nevada. We "
+        },
+        {
+          "line_no": 2620,
+          "text": "    Mr. McCormick. Mr. Canterbury, we not only auctioned off "
+        },
+        {
+          "line_no": 2631,
+          "text": "    Mr. McCormick. Right."
+        },
+        {
+          "line_no": 2636,
+          "text": "    Mr. McCormick. Yes. One of the other sad things, I toured "
+        }
+      ],
+      "wrong_header_note": "McClintock's whole questioning turn, from the chair's recognition (lines 2576-2577) to 'The gentleman from California yields' (line 2652), is headed 'Mr. McCormick.' five times. Tiro 1 labels McClintock for 2949.0-2990.3, 3013.5-3088.2, 3130.6-3150.9 and 3202.4-3261.4 s.",
+      "excerpt": [
+        {
+          "line_no": 2573,
+          "text": "    Mr. Tiffany. Thank you, Mr. Neiman. Now we will take "
+        },
+        {
+          "line_no": 2574,
+          "text": "members questions."
+        },
+        {
+          "line_no": 2575,
+          "text": "    Members, you will have 5 minutes for your questioning, and "
+        },
+        {
+          "line_no": 2576,
+          "text": "we will start out with the gentleman from California, Mr. "
+        },
+        {
+          "line_no": 2577,
+          "text": "McClintock."
+        },
+        {
+          "line_no": 2578,
+          "text": "    Mr. McCormick. Thank you, Mr. Chairman. You know, listening "
+        },
+        {
+          "line_no": 2579,
+          "text": "to the Ranking Member and the Democratic witness talk about the "
+        },
+        {
+          "line_no": 2580,
+          "text": "need for more money, I am struck by the fact that throughout "
+        },
+        {
+          "line_no": 2581,
+          "text": "the 20th century we not only maintained healthy and fire-"
+        },
+        {
+          "line_no": 2582,
+          "text": "resilient forests, we made money doing it. Federal timber "
+        },
+        {
+          "line_no": 2583,
+          "text": "auctions, Federal grazing contracts actually generated an "
+        },
+        {
+          "line_no": 2584,
+          "text": "enormous flow of capital. Twenty-five percent of that funding "
+        }
+      ],
+      "text_evidence": [
+        {
+          "line_no": [
+            2576,
+            2577
+          ],
+          "quote": "we will start out with the gentleman from California, Mr. \nMcClintock.",
+          "why": "The chair recognizes McClintock on the lines just before the header."
+        },
+        {
+          "line_no": 2578,
+          "quote": "Mr. McCormick. Thank you, Mr. Chairman. You know, listening ",
+          "why": "The header this example is about."
+        },
+        {
+          "line_no": 656,
+          "quote": "Present: Representatives Tiffany, McClintock, Fulcher, ",
+          "why": "McClintock is listed as present. No McCormick appears in the attendance list (see print_checks)."
+        },
+        {
+          "line_no": 65,
+          "quote": "Tom McClintock, CA",
+          "why": "The subcommittee roster lists McClintock as a California member."
+        },
+        {
+          "line_no": 2599,
+          "quote": "sawmills operating in California",
+          "why": "The speaker talks about his own state, California."
+        },
+        {
+          "line_no": 2652,
+          "quote": "Mr. Tiffany. The gentleman from California yields",
+          "why": "The chair closes the turn by naming 'the gentleman from California'."
+        }
+      ],
+      "print_checks": [
+        {
+          "check": "lines containing 'McCormick'",
+          "regex": "McCormick",
+          "count": 5,
+          "line_nos": [
+            2578,
+            2595,
+            2620,
+            2631,
+            2636
+          ]
+        },
+        {
+          "check": "lines containing 'McClintock'",
+          "regex": "McClintock",
+          "count": 4,
+          "line_nos": [
+            65,
+            107,
+            656,
+            2577
+          ]
+        }
+      ],
+      "evidence_strength": "print text alone settles it",
+      "evidence_strength_note": "The chair recognizes 'the gentleman from California, Mr. McClintock' and closes with 'The gentleman from California yields'. McClintock (CA) is present and on the roster. 'McCormick' appears only as these five turn headers, and he is not on the attendance list.",
+      "how_we_know": "The chair calls on 'the gentleman from California, Mr. McClintock', no McCormick attended, and the video shows McClintock behind his nameplate.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=U2Rria4Vw64",
+        "source": "Committee YouTube video, 1280x720",
+        "timestamp": "48:58",
+        "url_at_timestamp": "https://www.youtube.com/watch?v=U2Rria4Vw64&t=2938s",
+        "timestamp_note": null,
+        "clip_start_s": 2938.0,
+        "clip_end_s": 2972.0,
+        "poster_time_s": 2962.0,
+        "poster_shows": "Rep. Tom McClintock speaking from the dais behind a 'MR. McCLINTOCK' nameplate.",
+        "timeline": [
+          "2938-2949 s: Chairman Tiffany at the 'MR. TIFFANY / CHAIRMAN' nameplate: '...We will start out with the gentleman from California, Mr. McClintock.'",
+          "2949-2955 s: wide shot of the hearing room as McClintock begins 'Thank you, Mr. Chairman. You know, listening to the ranking member...'.",
+          "2956-2972 s: McClintock on camera behind the 'MR. McCLINTOCK' nameplate (print lines 2578-2584)."
+        ]
+      },
+      "tiro_1": {
+        "label": "Rep. Tom McClintock (R-CA)",
+        "start_s": 2949.0,
+        "end_s": 2990.3,
+        "source": "The production transcript Tiro 1 produced in September 2026. The hearing has not been reprocessed since."
+      },
+      "files": {
+        "clip": "https://www.hillgenius.com/media/official-record/mcclintock-mccormick-clip.mp4",
+        "clip_note": "34 s cut from the video above, source seconds 2938 to 2972, H.264 1280x720. No edits other than trimming.",
+        "poster": "https://www.hillgenius.com/media/official-record/mcclintock-mccormick-poster.jpg",
+        "print_still": "https://www.hillgenius.com/media/official-record/mcclintock-mccormick-print.png",
+        "print_still_lines_shown": [
+          2573,
+          2588
+        ],
+        "print_still_note": "The govinfo text of lines 2573-2588 rendered as an image. The text is unaltered; only the speaker label \"Mr. McCormick.\" is highlighted."
+      }
+    },
+    {
+      "n": 5,
+      "chrg": "CHRG-119hhrg61126",
+      "title": "Bankruptcy Law: Overview and Legislative Reforms",
+      "committee": "House Committee on the Judiciary, Subcommittee on the Administrative State, Regulatory Reform, and Antitrust",
+      "date": "2025-07-15",
+      "print_designation": "Serial No. 119-29",
+      "found_in": "This public test (October 2026). The test reference already credits Judge Black: review settled the header from the print's own text before any transcript was scored.",
+      "govinfo_package_url": "https://www.govinfo.gov/app/details/CHRG-119hhrg61126",
+      "govinfo_html_url": "https://www.govinfo.gov/content/pkg/CHRG-119hhrg61126/html/CHRG-119hhrg61126.htm",
+      "print_text_url": "https://api.govinfo.gov/packages/CHRG-119hhrg61126/htm",
+      "print_sha256": "5da70e3b72009e6b73e4903155b8cf196d33a5c35107c3c5c880a5954f7b2575",
+      "print_bytes": 119483,
+      "print_says": "Mr. Baird.",
+      "actually_spoke": "Hon. Paul M. Black, U.S. Bankruptcy Judge, W.D. Va.",
+      "wrong_header_lines": [
+        {
+          "line_no": 755,
+          "text": "    Mr. Baird. Chair Fitzgerald, Ranking Member Nadler, and the "
+        },
+        {
+          "line_no": 1261,
+          "text": "    Mr. Baird. No, I really haven't in my court. I've had some "
+        }
+      ],
+      "wrong_header_note": "Two passages. Black's opening statement (lines 755-851) and his answer to the chair's question at line 1254 (line 1261) are both headed 'Mr. Baird.'. Tiro 1 labels Black for 2782.241-3077.826 s and 4534.0-4598.402 s.",
+      "excerpt": [
+        {
+          "line_no": 746,
+          "text": "improve our bankruptcy laws. Thank you very much."
+        },
+        {
+          "line_no": 747,
+          "text": "    [The prepared statement of Mr. Baird follows:]"
+        },
+        {
+          "line_no": 748,
+          "text": "    [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]"
+        },
+        {
+          "line_no": 749,
+          "text": "    "
+        },
+        {
+          "line_no": 750,
+          "text": "    Mr. Fitzgerald. Thank you, Professor Baird. Judge Black, "
+        },
+        {
+          "line_no": 751,
+          "text": "you may begin."
+        },
+        {
+          "line_no": 752,
+          "text": ""
+        },
+        {
+          "line_no": 753,
+          "text": "              STATEMENT OF THE HON. PAUL M. BLACK"
+        },
+        {
+          "line_no": 754,
+          "text": ""
+        },
+        {
+          "line_no": 755,
+          "text": "    Mr. Baird. Chair Fitzgerald, Ranking Member Nadler, and the "
+        },
+        {
+          "line_no": 756,
+          "text": "Members of the Subcommittee, I'm Paul Black, United States "
+        },
+        {
+          "line_no": 757,
+          "text": "Bankruptcy Judge for the Western District of Virginia. I want "
+        },
+        {
+          "line_no": 758,
+          "text": "to thank you for the opportunity to speak today."
+        }
+      ],
+      "text_evidence": [
+        {
+          "line_no": [
+            750,
+            751
+          ],
+          "quote": "Mr. Fitzgerald. Thank you, Professor Baird. Judge Black, \nyou may begin.",
+          "why": "The chair thanks Baird for his finished statement and calls on Judge Black."
+        },
+        {
+          "line_no": 753,
+          "quote": "STATEMENT OF THE HON. PAUL M. BLACK",
+          "why": "The print's own section heading names Black."
+        },
+        {
+          "line_no": 755,
+          "quote": "Mr. Baird. Chair Fitzgerald, Ranking Member Nadler, and the ",
+          "why": "The header this example is about."
+        },
+        {
+          "line_no": [
+            756,
+            757
+          ],
+          "quote": "I'm Paul Black, United States \nBankruptcy Judge for the Western District of Virginia.",
+          "why": "The speaker introduces himself as Paul Black."
+        },
+        {
+          "line_no": 673,
+          "quote": "I'm Douglas Baird",
+          "why": "Baird's own opening statement, earlier in the print, has him introduce himself as Douglas Baird."
+        },
+        {
+          "line_no": 852,
+          "quote": "[The prepared statement of Mr. Black follows:]",
+          "why": "Black's prepared statement follows this passage."
+        },
+        {
+          "line_no": 855,
+          "quote": "Mr. Fitzgerald. Thank you, Judge Black. Judge Harner.",
+          "why": "The chair thanks Judge Black when the statement ends."
+        },
+        {
+          "line_no": 1254,
+          "quote": "Mr. Fitzgerald. Thank you. Judge Black, there have been ",
+          "why": "Second instance: the chair puts a question to Judge Black..."
+        },
+        {
+          "line_no": 1261,
+          "quote": "Mr. Baird. No, I really haven't in my court.",
+          "why": "...and the answer is headed 'Mr. Baird.'. Baird is a law professor and has no court."
+        },
+        {
+          "line_no": 1265,
+          "quote": "Western District of Virginia",
+          "why": "The answer refers to Black's own district."
+        }
+      ],
+      "print_checks": [
+        {
+          "check": "turn headers 'Mr. Black.'",
+          "regex": "^\\s{4}Mr\\. Black\\.",
+          "count": 12,
+          "line_nos": [
+            1373,
+            1465,
+            1483,
+            1491,
+            1634,
+            1880,
+            1906,
+            1923,
+            1931,
+            1937,
+            2090,
+            2170
+          ]
+        },
+        {
+          "check": "turn headers 'Mr. Baird.'",
+          "regex": "^\\s{4}Mr\\. Baird\\.",
+          "count": 11,
+          "line_nos": [
+            669,
+            672,
+            755,
+            1206,
+            1261,
+            1467,
+            1493,
+            1610,
+            1631,
+            1720,
+            2092
+          ]
+        }
+      ],
+      "evidence_strength": "print text alone settles it",
+      "evidence_strength_note": "The chair calls on Judge Black, and the section heading names Black. The speaker says \"I'm Paul Black,\" his prepared statement follows, and the chair thanks Judge Black. Baird introduced himself as Douglas Baird in his own earlier statement.",
+      "how_we_know": "The print calls on Judge Black, heads the section with his name and has the speaker say \"I'm Paul Black\". The video shows him behind the 'JUDGE BLACK' card.",
+      "video": {
+        "url": "https://www.youtube.com/watch?v=vxEmQ-Ezi_M",
+        "source": "Committee YouTube video, 1280x720",
+        "timestamp": "46:11",
+        "url_at_timestamp": "https://www.youtube.com/watch?v=vxEmQ-Ezi_M&t=2771s",
+        "timestamp_note": null,
+        "clip_start_s": 2771.0,
+        "clip_end_s": 2803.0,
+        "poster_time_s": 2794.0,
+        "poster_shows": "Judge Paul Black at the witness table behind a 'JUDGE BLACK' card.",
+        "timeline": [
+          "2771-2775 s: Professor Baird at the 'PROFESSOR BAIRD' card finishes ('...will improve our bankruptcy laws. Thank you very much.').",
+          "2776-2783 s: Chairman Fitzgerald at the 'MR. FITZGERALD / CHAIRMAN' nameplate: 'Thank you, Professor Baird. Judge Black, you may begin.'",
+          "2785-2803 s: Black on camera behind the 'JUDGE BLACK' card: 'Chairman Fitzgerald, Ranking Member Nadler, members of the subcommittee, I'm Paul Black, United States Bankruptcy Judge for the Western District of Virginia...'."
+        ],
+        "second_passage": {
+          "print_lines": [
+            1254,
+            1261
+          ],
+          "timestamp": "1:15:25",
+          "url_at_timestamp": "https://www.youtube.com/watch?v=vxEmQ-Ezi_M&t=4525s",
+          "video_start_s": 4525.0,
+          "video_end_s": 4560.0,
+          "frame_time_s": 4540.0,
+          "frame_shows": "Judge Black behind the 'JUDGE BLACK' card answering 'No, I really haven't in my court...' (from about 4533.6 s)."
+        }
+      },
+      "tiro_1": {
+        "label": "The Honorable Paul M. Black",
+        "start_s": 2782.241,
+        "end_s": 3077.826,
+        "source": "The transcript Tiro 1 produced in this public test, scored as delivered.",
+        "transcript_page": "https://www.hillgenius.com/methodology/speaker-attribution/hearings/CHRG-119hhrg61126"
+      },
+      "files": {
+        "clip": "https://www.hillgenius.com/media/official-record/black-baird-clip.mp4",
+        "clip_note": "32 s cut from the video above, source seconds 2771 to 2803, H.264 1280x720. No edits other than trimming.",
+        "poster": "https://www.hillgenius.com/media/official-record/black-baird-poster.jpg",
+        "print_still": "https://www.hillgenius.com/media/official-record/black-baird-print.png",
+        "print_still_lines_shown": [
+          746,
+          761
+        ],
+        "print_still_note": "The govinfo text of lines 746-761 rendered as an image. The text is unaltered; only the speaker label \"Mr. Baird.\" is highlighted.",
+        "second_passage_frame": "https://www.hillgenius.com/media/official-record/black-baird-frame2.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+ "hearing_id": "c93a959b-b7f8-4d12-91dc-9b878ff5bbb9",
+ "chrg": "CHRG-119hhrg61301",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg61301.htm",
+ "print_sha256": "514794df6f86f5cf5262ed3563eaacd8a2aff54dc1c77a77229a27e918a64952",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "d068213c473adaa451fd0609bb93608eb8d1a18aebaa606e1ba2aff7e500ad3d",
+ "n_ref_words": 40105,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 41527,
+ "words_both_opinion": 19222,
+ "words_agree": 19212,
+ "words_disagree": 10,
+ "words_no_llm_opinion": 644,
+ "words_no_parser_opinion": 4384,
+ "words_inserted_material": 17921,
+ "agree_rate": 0.9995,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1324,
+   "end_word": 1959,
+   "word_count": 635,
+   "start_line": 247,
+   "end_line": 315
+  },
+  {
+   "start_word": 2847,
+   "end_word": 3638,
+   "word_count": 791,
+   "start_line": 411,
+   "end_line": 497
+  },
+  {
+   "start_word": 4327,
+   "end_word": 4948,
+   "word_count": 621,
+   "start_line": 571,
+   "end_line": 639
+  },
+  {
+   "start_word": 6145,
+   "end_word": 9315,
+   "word_count": 3170,
+   "start_line": 778,
+   "end_line": 1146
+  },
+  {
+   "start_word": 10154,
+   "end_word": 13632,
+   "word_count": 3478,
+   "start_line": 1247,
+   "end_line": 1665
+  },
+  {
+   "start_word": 14636,
+   "end_word": 17245,
+   "word_count": 2609,
+   "start_line": 1770,
+   "end_line": 2011
+  },
+  {
+   "start_word": 18068,
+   "end_word": 24685,
+   "word_count": 6617,
+   "start_line": 2109,
+   "end_line": 2860
+  }
+ ],
+ "n_body_words_mapped": 36727,
+ "n_compare_words_spans": 6,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 25922,
+   "body_word_end": 25924,
+   "word_start": 24989,
+   "word_end": 24991,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 2990,
+   "end_line": 2990,
+   "parser_speaker": "Blair",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Correa",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "we've been talking about for years now. Now, Mr. Blair, you talked about the narcos.",
+    "span_text": "Mr. Blair. Yes, sir.",
+    "after": "Mr. Correa. You're absolutely right. Very powerful. In Mexico, people are scared to death to"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 29992,
+   "body_word_end": 29994,
+   "word_start": 28971,
+   "word_end": 28973,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3433,
+   "end_line": 3433,
+   "parser_speaker": "Reichlin-Melnick",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Ramirez",
+   "llm_bioguide_id": "R000617",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "clear again, yes or no, did detaining migrants of Guantanamo Bay improve our border security?",
+    "span_text": "Mr. Reichlin-Melnick. Absolutely not.",
+    "after": "Mrs. Ramirez. Yes or no, to your knowledge, did they send only criminals to Guantanamo?"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 30940,
+   "body_word_end": 30942,
+   "word_start": 29863,
+   "word_end": 29865,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 3538,
+   "end_line": 3538,
+   "parser_speaker": "Blair",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Crane",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "in office was more effective at stopping illegal immigration than 4 years of Joe Biden?",
+    "span_text": "Mr. Blair. Yes, sir.",
+    "after": "Mr. Crane. Thank you. Ms. Ries, my question is briefly explain what liberal States stand"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 37903,
+   "body_word_end": 37904,
+   "word_start": 36648,
+   "word_end": 36649,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 4311,
+   "end_line": 4311,
+   "parser_speaker": "Reichlin-Melnick",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Knott",
+   "llm_bioguide_id": "K000405",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Reichlin-Melnick. It would maintain population, certainly. Mr. Knott. Yes. That's counted in the electoral college?",
+    "span_text": "Mr. Reichlin-Melnick. Yes.",
+    "after": "Mr. Knott. That's counted in the House of Representatives representation, correct? Mr. Reichlin-Melnick. Yes. Well,"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 39607,
+   "body_word_end": 39609,
+   "word_start": 38283,
+   "word_end": 38285,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 4493,
+   "end_line": 4493,
+   "parser_speaker": "Blair",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Knott",
+   "llm_bioguide_id": "K000405",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "it would have welcomed roughly 2 million in before it was an automatic closure, correct?",
+    "span_text": "Mr. Blair. Yes, sir.",
+    "after": "Mr. Knott. In regards to the exact language, it legalized, codified catch-and-release, correct? Mr. Blair."
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 39740,
+   "body_word_end": 39741,
+   "word_start": 38403,
+   "word_end": 38404,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 4509,
+   "end_line": 4509,
+   "parser_speaker": "Reichlin-Melnick",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Correa",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "questions-and-answers. Have U.S. citizens illegal permanent residents been caught up in President's Trump immigration raids?",
+    "span_text": "Mr. Reichlin-Melnick. Yes.",
+    "after": "Mr. Correa. Have veterans who have served honorably and have been discharged honorably, have they"
+   },
+   "span_id": "d006"
+  }
+ ]
+}

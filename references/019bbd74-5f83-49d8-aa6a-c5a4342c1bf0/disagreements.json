@@ -1,0 +1,129 @@
+{
+ "hearing_id": "019bbd74-5f83-49d8-aa6a-c5a4342c1bf0",
+ "chrg": "CHRG-119hhrg64056",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg64056.htm",
+ "print_sha256": "234c1c6e7b38e950413fb2c27b0a26d4dc979eff60aed30ddee133d2e04d6641",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "bcf2e0067fa1c76866462eecb4385ce98b92507549a7aeb513ca7c9b9a334fe0",
+ "n_ref_words": 12897,
+ "roster_source": "committee_membership",
+ "total_body_words": 16306,
+ "words_both_opinion": 8106,
+ "words_agree": 8064,
+ "words_disagree": 42,
+ "words_no_llm_opinion": 263,
+ "words_no_parser_opinion": 2903,
+ "words_inserted_material": 5297,
+ "agree_rate": 0.9948,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 2,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 263,
+   "end_word": 697,
+   "word_count": 434,
+   "start_line": 89,
+   "end_line": 170
+  },
+  {
+   "start_word": 1151,
+   "end_word": 1594,
+   "word_count": 443,
+   "start_line": 225,
+   "end_line": 274
+  },
+  {
+   "start_word": 1993,
+   "end_word": 2417,
+   "word_count": 424,
+   "start_line": 319,
+   "end_line": 378
+  },
+  {
+   "start_word": 3587,
+   "end_word": 4487,
+   "word_count": 900,
+   "start_line": 490,
+   "end_line": 589
+  },
+  {
+   "start_word": 6879,
+   "end_word": 7740,
+   "word_count": 861,
+   "start_line": 861,
+   "end_line": 962
+  },
+  {
+   "start_word": 8563,
+   "end_word": 9381,
+   "word_count": 818,
+   "start_line": 1067,
+   "end_line": 1165
+  },
+  {
+   "start_word": 10016,
+   "end_word": 10635,
+   "word_count": 619,
+   "start_line": 1245,
+   "end_line": 1312
+  },
+  {
+   "start_word": 11482,
+   "end_word": 12280,
+   "word_count": 798,
+   "start_line": 1407,
+   "end_line": 1501
+  }
+ ],
+ "n_body_words_mapped": 12831,
+ "n_compare_words_spans": 2,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 4487,
+   "body_word_end": 4520,
+   "word_start": 3737,
+   "word_end": 3770,
+   "n_ref_words_mapped": 33,
+   "word_count": 33,
+   "start_line": 589,
+   "end_line": 592,
+   "parser_speaker": "Walberg",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Fine",
+   "llm_bioguide_id": "F000484",
+   "shape": "different person",
+   "excerpt": {
+    "before": "to work with you and every Member to bring it across the finish line. ______",
+    "span_text": "Chairman Walberg. I thank the gentleman for sharing those \nideas and case history with us as well.\n    Are there any other Members who wish to be recognized?\n    I recognize Representative Hayes for her 5 minutes.",
+    "after": "STATEMENT OF THE HON. JAHANA HAYES, A REPRESENTATIVE IN CONGRESS FROM THE STATE OF CONNECTICUT"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 9381,
+   "body_word_end": 9390,
+   "word_start": 8540,
+   "word_end": 8549,
+   "n_ref_words_mapped": 9,
+   "word_count": 9,
+   "start_line": 1165,
+   "end_line": 1166,
+   "parser_speaker": "Walberg",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Hern",
+   "llm_bioguide_id": "H001082",
+   "shape": "different person",
+   "excerpt": {
+    "before": "to thrive. Thank you for the opportunity to testify today, and I yield back. ______",
+    "span_text": "Chairman Walberg. Thank you for taking the opportunity. We \nappreciate it.",
+    "after": "Mr. Hern. You bet. Chairman Walberg. Now I recognize the gentleman from Kansas, Representative Mann."
+   },
+   "span_id": "d002"
+  }
+ ]
+}

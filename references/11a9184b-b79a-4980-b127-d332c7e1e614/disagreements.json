@@ -1,0 +1,72 @@
+{
+ "hearing_id": "11a9184b-b79a-4980-b127-d332c7e1e614",
+ "chrg": "CHRG-119shrg61881",
+ "chamber": "senate",
+ "print_file": "CHRG-119shrg61881.htm",
+ "print_sha256": "bbfe7ac2a533c3ebaefd40fcc28ba6f7e78aade34c19f9bafc0241276f9da4c9",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "f1455a781c3989c2d545deafcc69e2d3a1356c8f26f0ce00d2a2fc28d7e68a76",
+ "n_ref_words": 9573,
+ "roster_source": "committee_membership",
+ "total_body_words": 10263,
+ "words_both_opinion": 9573,
+ "words_agree": 9569,
+ "words_disagree": 4,
+ "words_no_llm_opinion": 332,
+ "words_no_parser_opinion": 690,
+ "words_inserted_material": 0,
+ "agree_rate": 0.9996,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [],
+ "n_body_words_mapped": 9561,
+ "n_compare_words_spans": 2,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 7042,
+   "body_word_end": 7044,
+   "word_start": 6464,
+   "word_end": 6466,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 966,
+   "end_line": 966,
+   "parser_speaker": "Grassley",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Kennedy",
+   "llm_bioguide_id": "K000393",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "that he and I talked about. So I'm going to listen to him carefully here.",
+    "span_text": "Chairman Grassley. Senator Whitehouse.",
+    "after": "Senator Whitehouse. Well, Senator Kennedy has predicted my line of questioning. I know that we're"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 10025,
+   "body_word_end": 10027,
+   "word_start": 9414,
+   "word_end": 9416,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1293,
+   "end_line": 1293,
+   "parser_speaker": "Grassley",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Cornyn",
+   "llm_bioguide_id": "C001056",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "resolve their disputes fairly, through some sort of alternative dispute resolution. Thank you, Mr. Chairman.",
+    "span_text": "Chairman Grassley. Senator Durbin.",
+    "after": "Senator Durbin. Mr. Chairman, I just want to add to the record the fact--while you"
+   },
+   "span_id": "d002"
+  }
+ ]
+}

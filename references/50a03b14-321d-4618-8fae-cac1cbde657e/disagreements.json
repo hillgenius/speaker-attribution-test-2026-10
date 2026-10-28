@@ -1,0 +1,123 @@
+{
+ "hearing_id": "50a03b14-321d-4618-8fae-cac1cbde657e",
+ "chrg": "CHRG-119hhrg61503",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg61503.htm",
+ "print_sha256": "9c9167429689a4c26c23ad0387d7f913efe5e0242f7d8b783eccbebd7f21f255",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "d1244fd8c59725593cc3a9405098c7093d34910de4343923378a57098ecffa2a",
+ "n_ref_words": 18208,
+ "roster_source": "committee_membership",
+ "total_body_words": 19400,
+ "words_both_opinion": 17984,
+ "words_agree": 17965,
+ "words_disagree": 19,
+ "words_no_llm_opinion": 607,
+ "words_no_parser_opinion": 1135,
+ "words_inserted_material": 64,
+ "agree_rate": 0.9989,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 2310,
+   "end_word": 2326,
+   "word_count": 16,
+   "start_line": 408,
+   "end_line": 412
+  },
+  {
+   "start_word": 3032,
+   "end_word": 3048,
+   "word_count": 16,
+   "start_line": 504,
+   "end_line": 508
+  },
+  {
+   "start_word": 11083,
+   "end_word": 11099,
+   "word_count": 16,
+   "start_line": 1340,
+   "end_line": 1344
+  },
+  {
+   "start_word": 12130,
+   "end_word": 12146,
+   "word_count": 16,
+   "start_line": 1455,
+   "end_line": 1459
+  }
+ ],
+ "n_body_words_mapped": 17935,
+ "n_compare_words_spans": 3,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 8072,
+   "body_word_end": 8087,
+   "word_start": 7205,
+   "word_end": 7220,
+   "n_ref_words_mapped": 15,
+   "word_count": 15,
+   "start_line": 1013,
+   "end_line": 1014,
+   "parser_speaker": "Davidson",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Hill",
+   "llm_bioguide_id": "H001072",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Chairman Hill. Thank you. That would be helpful. Chairman Hill. I yield back, Mr. Chairman.",
+    "span_text": "Chairman Davidson. Thank you, Mr. Hill. I now recognize the \nvice chairman, Mr. Huizenga, for 5 minutes.",
+    "after": "Mr. Huizenga. Thank you, Mr. Chairman. Let us go back and unpack the six sorts"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 8943,
+   "body_word_end": 8945,
+   "word_start": 8023,
+   "word_end": 8025,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1106,
+   "end_line": 1106,
+   "parser_speaker": "Frankston",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Huizenga",
+   "llm_bioguide_id": "H001058",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "not personally part of the CFIUS---- Mr. Huizenga. But CFIUS is part of that review.",
+    "span_text": "Mr. Frankston. Yes, sir.",
+    "after": "Mr. Huizenga. Okay. I will maybe reserve my question about where we are currently on"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 18767,
+   "body_word_end": 18769,
+   "word_start": 17624,
+   "word_end": 17626,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 2087,
+   "end_line": 2087,
+   "parser_speaker": "Moore",
+   "parser_bioguide_id": "M001236",
+   "llm_speaker": "Follin",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "has been helpful, so just glad to contribute and help where we can. Thank you.",
+    "span_text": "Mr. Moore. Mr. Faxon?",
+    "after": "Mr. Faxon. I would second that. It is a pleasure to be here. It is"
+   },
+   "span_id": "d003"
+  }
+ ]
+}

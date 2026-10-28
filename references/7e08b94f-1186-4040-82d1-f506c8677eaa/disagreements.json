@@ -1,0 +1,262 @@
+{
+ "hearing_id": "7e08b94f-1186-4040-82d1-f506c8677eaa",
+ "chrg": "CHRG-119hhrg59876",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg59876.txt",
+ "print_sha256": "9944867f63b82d200ba34d013f8e4fddfaa97fba42c271962bdc73e1ab34142e",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "73bb03482d6b4545c1cef9013fb51c312a904c40095dd9b55e5bf080c0632480",
+ "n_ref_words": 70977,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 87544,
+ "words_both_opinion": 22324,
+ "words_agree": 22284,
+ "words_disagree": 40,
+ "words_no_llm_opinion": 7237,
+ "words_no_parser_opinion": 49977,
+ "words_inserted_material": 15039,
+ "agree_rate": 0.9982,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 3,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 482,
+   "end_word": 979,
+   "word_count": 497,
+   "start_line": 142,
+   "end_line": 254
+  },
+  {
+   "start_word": 15738,
+   "end_word": 21580,
+   "word_count": 5842,
+   "start_line": 1681,
+   "end_line": 2130
+  },
+  {
+   "start_word": 22355,
+   "end_word": 25923,
+   "word_count": 3568,
+   "start_line": 2203,
+   "end_line": 2480
+  },
+  {
+   "start_word": 26787,
+   "end_word": 27642,
+   "word_count": 855,
+   "start_line": 2571,
+   "end_line": 2636
+  },
+  {
+   "start_word": 28342,
+   "end_word": 32619,
+   "word_count": 4277,
+   "start_line": 2711,
+   "end_line": 3032
+  }
+ ],
+ "n_body_words_mapped": 36564,
+ "n_compare_words_spans": 9,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 10599,
+   "body_word_end": 10611,
+   "word_start": 2784,
+   "word_end": 2796,
+   "n_ref_words_mapped": 12,
+   "word_count": 12,
+   "start_line": 1137,
+   "end_line": 1138,
+   "parser_speaker": "HAGEMAN",
+   "parser_bioguide_id": "H001096",
+   "llm_speaker": "Westerman",
+   "llm_bioguide_id": "W000821",
+   "shape": "different person",
+   "excerpt": {
+    "before": "am looking forward to discussing it in further detail today. Madam Chair, I yield back.",
+    "span_text": "Ms. HAGEMAN. Thank you. I now recognize Ranking Member\nHuffman for his opening statement.",
+    "after": "STATEMENT OF THE HON. JARED HUFFMAN, A REPRESENTATIVE IN CONGRESS FROM THE STATE OF CALIFORNIA"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 63991,
+   "body_word_end": 64002,
+   "word_start": 55670,
+   "word_end": 55681,
+   "n_ref_words_mapped": 11,
+   "word_count": 11,
+   "start_line": 5904,
+   "end_line": 5905,
+   "parser_speaker": "HAGEMAN",
+   "parser_bioguide_id": "H001096",
+   "llm_speaker": "Westerman",
+   "llm_bioguide_id": "W000821",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Sincerely, Brad Koehn, General Manager, Turlock Irrigation District Jimi Netniss, General Manager, Modesto Irrigation District",
+    "span_text": "Ms. HAGEMAN. The Chair now recognizes Mr. Huffman for 5\nminutes of questioning.",
+    "after": "Mr. HUFFMAN. Thank you, Madam Chair. I appreciate Chair Westerman\u2019s football metaphor. And to throw"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 65458,
+   "body_word_end": 65459,
+   "word_start": 57476,
+   "word_end": 57476,
+   "n_ref_words_mapped": 0,
+   "word_count": 1,
+   "start_line": 6037,
+   "end_line": 6037,
+   "parser_speaker": "HAGEMAN",
+   "parser_bioguide_id": "H001096",
+   "llm_speaker": "LAMALFA",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "drones over a wolf where the wolf gets used to the drone, they just lay",
+    "span_text": "down underneath it until the drone goes away. There were then,",
+    "after": "you know, 30 yards of houses just looking at you. They are mocking people, basically."
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 70952,
+   "body_word_end": 70963,
+   "word_start": 62478,
+   "word_end": 62489,
+   "n_ref_words_mapped": 11,
+   "word_count": 11,
+   "start_line": 6670,
+   "end_line": 6671,
+   "parser_speaker": "HAGEMAN",
+   "parser_bioguide_id": "H001096",
+   "llm_speaker": "Hoyle",
+   "llm_bioguide_id": "H001094",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Micah Six Eight Mission Yaak Valley Forest Council Michigan Wolf Coalition Yellowstone to Uintas Connection",
+    "span_text": "Ms. HAGEMAN. The Chair now recognizes Mr. Soto for 5 minutes\nof questioning.",
+    "after": "Mr. SOTO. Thank you so much, Madam Chair. You know, I heard some of our"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 71670,
+   "body_word_end": 71671,
+   "word_start": 63188,
+   "word_end": 63189,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 6733,
+   "end_line": 6733,
+   "parser_speaker": "KAREIVA",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Soto",
+   "llm_bioguide_id": "S001200",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "to be able to recreational fish or get to see those otters or scuba dive.",
+    "span_text": "Dr. KAREIVA. Yes.",
+    "after": "Mr. SOTO. What have you been seeing lately as a result of this? Dr. KAREIVA."
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 72423,
+   "body_word_end": 72424,
+   "word_start": 63915,
+   "word_end": 63916,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 6803,
+   "end_line": 6803,
+   "parser_speaker": "EZELL",
+   "parser_bioguide_id": "E000235",
+   "llm_speaker": "Hageman",
+   "llm_bioguide_id": "H001096",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Chair for a moment? Mr. EZELL. Absolutely. Ms. HAGEMAN. For the remainder of your time?",
+    "span_text": "Mr. EZELL. Absolutely.",
+    "after": "Ms. HAGEMAN. Mr. Milito, you indicated that you had additional information you would like to"
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 76764,
+   "body_word_end": 76765,
+   "word_start": 68135,
+   "word_end": 68136,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 7192,
+   "end_line": 7192,
+   "parser_speaker": "KAREIVA",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Gosar",
+   "llm_bioguide_id": "G000565",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "wolf. Am I right that 90 percent of the breeding populations are down in Mexico?",
+    "span_text": "Dr. KAREIVA. Yes.",
+    "after": "Dr. GOSAR. Yes. And we are expanding, the Mexican wolf is expanding in Arizona, and"
+   },
+   "span_id": "d007"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 76994,
+   "body_word_end": 76995,
+   "word_start": 68358,
+   "word_end": 68359,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 7212,
+   "end_line": 7212,
+   "parser_speaker": "KAREIVA",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Gosar",
+   "llm_bioguide_id": "G000565",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "in their benefit for keeping these. Last but not least, your last name again? Kareiva?",
+    "span_text": "Dr. KAREIVA. Kareiva.",
+    "after": "Dr. GOSAR. Kareiva. When the wolves were introduced into Yellowstone, there were some native populations,"
+   },
+   "span_id": "d008"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 77029,
+   "body_word_end": 77030,
+   "word_start": 68384,
+   "word_end": 68385,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 7220,
+   "end_line": 7220,
+   "parser_speaker": "KAREIVA",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Gosar",
+   "llm_bioguide_id": "G000565",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "already there? Dr. KAREIVA. When they were introduced where? Dr. GOSAR. Introduced in western Wyoming.",
+    "span_text": "Dr. KAREIVA. Yes.",
+    "after": "Dr. GOSAR. Yes. So they were put out because these were not an Indigenous species,"
+   },
+   "span_id": "d009"
+  }
+ ]
+}

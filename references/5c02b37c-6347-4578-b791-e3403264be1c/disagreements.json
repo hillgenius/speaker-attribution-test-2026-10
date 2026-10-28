@@ -1,0 +1,408 @@
+{
+ "hearing_id": "5c02b37c-6347-4578-b791-e3403264be1c",
+ "chrg": "CHRG-119hhrg59733",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg59733.htm",
+ "print_sha256": "1c7a4da4f02d8586c828b59dab9ecc2b437b7f9a5f230252b9f369fb0284dfef",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "53f449005a9c9834ef27c7771df0af6542c85535e51206551d0eff905096f054",
+ "n_ref_words": 27838,
+ "roster_source": "committee_membership",
+ "total_body_words": 30669,
+ "words_both_opinion": 16463,
+ "words_agree": 16212,
+ "words_disagree": 251,
+ "words_no_llm_opinion": 2267,
+ "words_no_parser_opinion": 2760,
+ "words_inserted_material": 11347,
+ "agree_rate": 0.9848,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 8,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 2962,
+   "end_word": 3556,
+   "word_count": 594,
+   "start_line": 512,
+   "end_line": 575
+  },
+  {
+   "start_word": 4287,
+   "end_word": 4971,
+   "word_count": 684,
+   "start_line": 663,
+   "end_line": 732
+  },
+  {
+   "start_word": 5869,
+   "end_word": 6687,
+   "word_count": 818,
+   "start_line": 839,
+   "end_line": 929
+  },
+  {
+   "start_word": 7681,
+   "end_word": 8897,
+   "word_count": 1216,
+   "start_line": 1049,
+   "end_line": 1168
+  },
+  {
+   "start_word": 9826,
+   "end_word": 12102,
+   "word_count": 2276,
+   "start_line": 1281,
+   "end_line": 1523
+  },
+  {
+   "start_word": 12685,
+   "end_word": 15543,
+   "word_count": 2858,
+   "start_line": 1594,
+   "end_line": 1920
+  },
+  {
+   "start_word": 16557,
+   "end_word": 19458,
+   "word_count": 2901,
+   "start_line": 2034,
+   "end_line": 2300
+  }
+ ],
+ "n_body_words_mapped": 27665,
+ "n_compare_words_spans": 15,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 4971,
+   "body_word_end": 4993,
+   "word_start": 2648,
+   "word_end": 2670,
+   "n_ref_words_mapped": 22,
+   "word_count": 22,
+   "start_line": 732,
+   "end_line": 734,
+   "parser_speaker": "Ezell",
+   "parser_bioguide_id": "E000235",
+   "llm_speaker": "Carbajal",
+   "llm_bioguide_id": "C001112",
+   "shape": "different person",
+   "excerpt": {
+    "before": "U.S. to a global competitor in shipping and shipbuilding. Thank you, and I yield back.",
+    "span_text": "Mr. Ezell. I will now recognize Mr. Larsen, the ranking \nmember of the full committee, Mr. Larsen, for 5 minutes for an \nopening statement.",
+    "after": "OPENING STATEMENT OF HON. RICK LARSEN OF WASHINGTON, RANKING MEMBER, COMMITTEE ON TRANSPORTATION AND INFRASTRUCTURE"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 21106,
+   "body_word_end": 21176,
+   "word_start": 18520,
+   "word_end": 18590,
+   "n_ref_words_mapped": 70,
+   "word_count": 70,
+   "start_line": 2468,
+   "end_line": 2475,
+   "parser_speaker": "Schoeneman",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Larsen of Washington",
+   "llm_bioguide_id": "L000560",
+   "shape": "different person",
+   "excerpt": {
+    "before": "if this continues for a while, I expect that is going to happen again. So----",
+    "span_text": "Mr. Larsen of Washington [interrupting]. Thanks. I don't \nwant to misquote. I certainly think I am paraphrasing \naccurately our former colleague Roger Wicker, who is the Senate \nchair of the Senate Armed Services Committee, yesterday when he \noutlined the fact that USAID he believed was a good counter to \nthe Belt and Road Initiative of China, China's Belt and Road \nInitiative. And now that tool has potentially if not already \nbeen taken away to counter China.",
+    "after": "Mr. Schoeneman. Absolutely. I mean, the bottom line is wherever we walk away, China walks"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 22835,
+   "body_word_end": 22899,
+   "word_start": 20211,
+   "word_end": 20275,
+   "n_ref_words_mapped": 64,
+   "word_count": 64,
+   "start_line": 2657,
+   "end_line": 2665,
+   "parser_speaker": "Anderson",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Carbajal",
+   "llm_bioguide_id": "C001112",
+   "shape": "different person",
+   "excerpt": {
+    "before": "the workforce, the men and women who wear those hardhats, the steel-toed shoes, the welders----",
+    "span_text": "Mr. Carbajal [interrupting]. Thank you, Mr. Anderson. I \nappreciate your pivot, but didn't quite answer the issue. Thank \nyou very much.\n    Mr. Schoeneman, as we discuss maritime infrastructure, we \nhave to include the Jones Act. Without it, domestic commerce \nwould be controlled by foreign interests, shipyards would \ndisappear, and mariner jobs would follow.\n    Can you discuss the importance of the Jones Act and the \nimpact of waivers?",
+    "after": "Mr. Schoeneman. One hundred percent. I mean, the bottom line is--and I believe Chairman Ezell"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 23437,
+   "body_word_end": 23438,
+   "word_start": 20803,
+   "word_end": 20804,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 2721,
+   "end_line": 2721,
+   "parser_speaker": "Rella",
+   "parser_bioguide_id": null,
+   "llm_speaker": "McDowell",
+   "llm_bioguide_id": "M001240",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "also innovation and technology, right? So advancing with the latest and greatest in metal fabrication----",
+    "span_text": "Mr. McDowell [interposing]. Sure.",
+    "after": "Mr. Rella [continuing]. And shipbuilding. Mr. McDowell. What are ways that Congress can work to"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 24037,
+   "body_word_end": 24049,
+   "word_start": 21380,
+   "word_end": 21392,
+   "n_ref_words_mapped": 12,
+   "word_count": 12,
+   "start_line": 2789,
+   "end_line": 2790,
+   "parser_speaker": "Ezell",
+   "parser_bioguide_id": "E000235",
+   "llm_speaker": "McDowell",
+   "llm_bioguide_id": "M001240",
+   "shape": "different person",
+   "excerpt": {
+    "before": "technology. Thank you. Sorry I went over. Mr. McDowell. No worries. Thank you, sir. Chairman.",
+    "span_text": "Mr. Ezell. The gentleman yields. The Chair now recognizes \nMr. Pappas for 5 minutes.",
+    "after": "Mr. Pappas. Thank you, Mr. Chairman, and congratulations on taking the helm of this subcommittee."
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 24943,
+   "body_word_end": 24956,
+   "word_start": 22278,
+   "word_end": 22291,
+   "n_ref_words_mapped": 13,
+   "word_count": 13,
+   "start_line": 2878,
+   "end_line": 2879,
+   "parser_speaker": "Ezell",
+   "parser_bioguide_id": "E000235",
+   "llm_speaker": "Pappas",
+   "llm_bioguide_id": "P000614",
+   "shape": "different person",
+   "excerpt": {
+    "before": "U.S. maritime. Thank you for all of your comments, and I yield back my time.",
+    "span_text": "Mr. Ezell. The gentleman yields. The Chair now recognizes \nMr. Van Drew for 5 minutes.",
+    "after": "Dr. Van Drew. Thank you, Mr. Chair. Congratulations. Look forward to working with you, as"
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 25266,
+   "body_word_end": 25286,
+   "word_start": 22590,
+   "word_end": 22610,
+   "n_ref_words_mapped": 20,
+   "word_count": 20,
+   "start_line": 2912,
+   "end_line": 2914,
+   "parser_speaker": "Reynolds",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Van Drew",
+   "llm_bioguide_id": "V000133",
+   "shape": "different person",
+   "excerpt": {
+    "before": "we do have to be careful? Mr. Reynolds. Of course. Yes. Yes, sir. You know----",
+    "span_text": "Dr. Van Drew [interrupting]. How about cybersecurity \nprotocols, are they adequate to protect these vessels from \nemerging cyber threats, which, again, is another concern?",
+    "after": "Mr. Reynolds. Yes, sir. Actually, AUVSI is a trusted partner in cybersecurity, particularly with the"
+   },
+   "span_id": "d007"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 25832,
+   "body_word_end": 25843,
+   "word_start": 23141,
+   "word_end": 23152,
+   "n_ref_words_mapped": 11,
+   "word_count": 11,
+   "start_line": 2970,
+   "end_line": 2971,
+   "parser_speaker": "Van Drew",
+   "parser_bioguide_id": "V000133",
+   "llm_speaker": "Reynolds",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "been behind for the last 4 years. Hopefully, now we are going to move forward.",
+    "span_text": "Mr. Reynolds, I thank you for your answers, and I yield \nback, Chairman.",
+    "after": "Mr. Ezell. Thank you. The gentleman yields. The Chair now recognizes Ms. Scholten for 5"
+   },
+   "span_id": "d008"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 27661,
+   "body_word_end": 27688,
+   "word_start": 24930,
+   "word_end": 24957,
+   "n_ref_words_mapped": 27,
+   "word_count": 27,
+   "start_line": 3161,
+   "end_line": 3164,
+   "parser_speaker": "Mast",
+   "parser_bioguide_id": "M001199",
+   "llm_speaker": "Rella",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "got to get them young before they have a chance to screw up too much.",
+    "span_text": "Mr. Mast. That is certainly--that is part of the \ncredentialing, right? You are not going to get the hazmat \ncredentialing if you haven't lived----\n    Mr. Rella [interposing]. Right.",
+    "after": "Mr. Mast [continuing]. The proper lifestyle in that way. What about--let's go to one other"
+   },
+   "span_id": "d009"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 27888,
+   "body_word_end": 27894,
+   "word_start": 25148,
+   "word_end": 25154,
+   "n_ref_words_mapped": 6,
+   "word_count": 6,
+   "start_line": 3184,
+   "end_line": 3185,
+   "parser_speaker": "Rella",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Mast",
+   "llm_bioguide_id": "M001199",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Rella. So you just make sure there is apples-for-apples sort of match to that where----",
+    "span_text": "Mr. Mast [interrupting]. You feel the training is \ncomparable?",
+    "after": "Mr. Rella. Honestly, I can't comment on that. I can't really comment on that. But"
+   },
+   "span_id": "d010"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 28589,
+   "body_word_end": 28590,
+   "word_start": 25825,
+   "word_end": 25826,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3257,
+   "end_line": 3257,
+   "parser_speaker": "Strickland",
+   "parser_bioguide_id": "S001159",
+   "llm_speaker": "Schoeneman",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Nobody wants to get started in an industry that people think is dying, you know.",
+    "span_text": "Ms. Strickland. Right.",
+    "after": "Mr. Schoeneman. And, I mean, Joe talked about it. Like, when you have serious construction"
+   },
+   "span_id": "d011"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 28981,
+   "body_word_end": 28982,
+   "word_start": 26205,
+   "word_end": 26206,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3297,
+   "end_line": 3297,
+   "parser_speaker": "Strickland",
+   "parser_bioguide_id": "S001159",
+   "llm_speaker": "Reynolds",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Yes. Mr. Reynolds. And there--and unmanned systems can go where we already don't send people.",
+    "span_text": "Ms. Strickland. Yes.",
+    "after": "Mr. Reynolds. And they can provide some of the--it is trite--but I will just say"
+   },
+   "span_id": "d012"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 29359,
+   "body_word_end": 29360,
+   "word_start": 26575,
+   "word_end": 26576,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3336,
+   "end_line": 3336,
+   "parser_speaker": "Strickland",
+   "parser_bioguide_id": "S001159",
+   "llm_speaker": "Rella",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "our training programs. They put up a maritime training center right next to the shipyard.",
+    "span_text": "Ms. Strickland. Right.",
+    "after": "Mr. Rella. So having incentive--maybe Federal-State partnerships in the maritime where there are some incentives"
+   },
+   "span_id": "d013"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 29447,
+   "body_word_end": 29448,
+   "word_start": 26659,
+   "word_end": 26660,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3346,
+   "end_line": 3346,
+   "parser_speaker": "Strickland",
+   "parser_bioguide_id": "S001159",
+   "llm_speaker": "Rella",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "procedures, and they had to qualify to that. And then we made the hire decision.",
+    "span_text": "Ms. Strickland. Right.",
+    "after": "Mr. Rella. So--and it was all free of charge to the potential employee. Ms. Strickland."
+   },
+   "span_id": "d014"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 29464,
+   "body_word_end": 29465,
+   "word_start": 26672,
+   "word_end": 26673,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3349,
+   "end_line": 3349,
+   "parser_speaker": "Strickland",
+   "parser_bioguide_id": "S001159",
+   "llm_speaker": "Rella",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Strickland. Right. Mr. Rella. So--and it was all free of charge to the potential employee.",
+    "span_text": "Ms. Strickland. Yes.",
+    "after": "Mr. Rella. So those sorts of things are really how you can build a workforce"
+   },
+   "span_id": "d015"
+  }
+ ]
+}

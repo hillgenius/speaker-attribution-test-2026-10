@@ -1,0 +1,255 @@
+{
+ "hearing_id": "891a4790-03e3-4159-875f-db5d2f583761",
+ "chrg": "CHRG-119hhrg59942",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg59942.htm",
+ "print_sha256": "ea0dc31af933d11fe6f4640847f62f412d2d865c3e7d7897c2931887f91692df",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "ee2bee85dd50fc665e6cbc59879b93c27de4519ffcceefbcf455cd50a01a3251",
+ "n_ref_words": 12641,
+ "roster_source": "committee_membership",
+ "total_body_words": 13731,
+ "words_both_opinion": 12351,
+ "words_agree": 10756,
+ "words_disagree": 1595,
+ "words_no_llm_opinion": 666,
+ "words_no_parser_opinion": 1026,
+ "words_inserted_material": 64,
+ "agree_rate": 0.8709,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 8,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 3349,
+   "end_word": 3365,
+   "word_count": 16,
+   "start_line": 568,
+   "end_line": 572
+  },
+  {
+   "start_word": 4223,
+   "end_word": 4239,
+   "word_count": 16,
+   "start_line": 676,
+   "end_line": 680
+  },
+  {
+   "start_word": 5210,
+   "end_word": 5226,
+   "word_count": 16,
+   "start_line": 791,
+   "end_line": 795
+  },
+  {
+   "start_word": 5990,
+   "end_word": 6006,
+   "word_count": 16,
+   "start_line": 888,
+   "end_line": 892
+  }
+ ],
+ "n_body_words_mapped": 12303,
+ "n_compare_words_spans": 9,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 1966,
+   "body_word_end": 1985,
+   "word_start": 1242,
+   "word_end": 1261,
+   "n_ref_words_mapped": 19,
+   "word_count": 19,
+   "start_line": 403,
+   "end_line": 405,
+   "parser_speaker": "Lucas",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Vargas",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "I look forward to the discussion, and I yield back the balance of my time.",
+    "span_text": "Chairman Lucas. The gentleman yields back.\n    The chair now recognizes the chairman of the full \ncommittee, Mr. Hill, for 1 minute.",
+    "after": "STATEMENT OF HON. FRENCH HILL, CHAIRMAN OF THE COMMITTEE ON FINANCIAL SERVICES, A U.S. REPRESENTATIVE"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 2226,
+   "body_word_end": 2246,
+   "word_start": 1480,
+   "word_end": 1500,
+   "n_ref_words_mapped": 20,
+   "word_count": 20,
+   "start_line": 435,
+   "end_line": 437,
+   "parser_speaker": "Lucas",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Hill",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "how they are utilized for monetary policy. I thank the Chairman, and I yield back.",
+    "span_text": "Chairman Lucas. The gentleman yields back.\n    The chair now recognizes the ranking member of the full \ncommittee, Ms. Waters, for 1 minute.",
+    "after": "HON. MAXINE WATERS, RANKING MEMBER OF THE COMMITTEE ON FINANCIAL SERVICES, A U.S. REPRESENTATIVE FROM"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 3398,
+   "body_word_end": 4212,
+   "word_start": 2585,
+   "word_end": 3398,
+   "n_ref_words_mapped": 812,
+   "word_count": 814,
+   "start_line": 579,
+   "end_line": 673,
+   "parser_speaker": "Lucas",
+   "parser_bioguide_id": null,
+   "llm_speaker": "O'Malia",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "your oral remarks, please. STATEMENT OF HON. SCOTT O'MALIA, CEO, INTERNATIONAL SWAPS & DERIVATIVES ASSOCIATION",
+    "span_text": "Hon. O'Malia. Chairman Lucas, Ranking Member Vargas, \nmembers of this Task Force, thank you very much for the \nopportunity to testify today.\n    The U.S. Treasury market is the deepest, most liquid in the \nworld, as has been stated. The most important changes are \ncoming to it in the form of mandatory requirements to centrally \nclear Treasury securities. International Swaps & Derivatives \nAssociation (ISDA) supports these measures. We also support \nseveral important regulatory initiatives that will be \nfundamental to their success.\n    These initiatives include, first, changes to the \nsupplemental leverage ratio. This should be modified to ensure \nbanks have the balance sheet capacity to provide intermediation \nand client-clearing services in the U.S. Treasury market, \nincluding during periods of stress.\n    Second, the Basel III endgame and surcharge for globally \nsystemic banks or the G-SIB must be revised to remove any \nunnecessary and disproportionate tax on clearing.\n    Third, margining and capital treatment of client-clearing \nexposures must be revised to reflect the actual risk of \nclients' overall portfolio.\n    Fourth and finally, it is important that policymakers, \nmarket infrastructure providers, and market participants \ncontinue to work together to address the various operational, \nlegal, and regulatory issues related to implementing the \nclearing mandate.\n    Let me briefly describe each of these initiatives. First, \nthe SLR. At the height of the global pandemic in April 2020, \nconcerns about bank intermediation capacity prompted the \nFederal Reserve to temporarily exclude U.S. Treasuries from the \nSLR calculation. That is because the SLR serves as a nonrisk-\nsensitive constraint on banks. It can impede their ability to \nact as intermediaries, particularly in times of stress. Last \nyear, I sent a letter to the U.S. banking agencies requesting \nthat this exemption be introduced on a permanent basis.\n    The SLR is not part of the Basel endgame package; so, we \nwould need a separate consultation to amend it. We were pleased \nto hear that Federal Chairman Powell acknowledged this in his \nFebruary testimony before this committee that changes are \nnecessary, as well as comments by Secretary Bessent and Reserve \nGovernor Bowman drawing attention to this issue as well.\n    A second capital issue is the impact of the U.S. Basel III \nendgame rules and the surcharge on G-SIBs. It has long been \nclear that these measures, as currently proposed, are \ninappropriately calibrated. Nowhere is this more evident than \nwhen it comes to clearing. Analysis by ISDA and SIFMA has shown \nthat the Basel proposals and the G-SIB surcharge would increase \ncapital on the U.S. G-SIB client-clearing business by more than \n80 percent.\n    This punitive tax is completely at odds with the policy \nobjectives to promote the use of central clearing. It is not \naligned with risk and would bring economic viability of the \nclient-clearing business into question precisely at the wrong \ntime.\n    A third issue is the efficient clearing of U.S. Treasuries \nby clients that requires the amount of margin posted to reflect \nthe actual risk of client exposures across their entire \nportfolio. Capital requirements must also reflect this actual \nrisk.\n    To achieve this, margin offsets across Treasury securities \nand futures transactions need to be extended to the client \npositions as well, as they are currently for clearing members. \nThe offsetting risks--they need to be recognized when banks \ndetermine their exposure to clients under the U.S. capital \nframework. Without such recognition, bank capital requirements \nwill overstate the risk in a client's portfolio.\n    Fourth, ISDA and its members support the Treasury clearing \nand believe that it is critical that markets are able to \nimplement the clearing mandates in a safe and efficient manner. \nThe committee's continued review of the implementation \ntimelines can help do that.\n    Good progress is being made in many areas. ISDA, for \nexample, has published an analysis of various clearing models, \nconducted multiple education seminars and conferences, and is \ncollaborating with others, including SIFMA, to develop \nappropriate client documentation, but clearing models and \nclearinghouse offerings are still under development and will \nrequire regulatory approvals to test--and test once they are \nfinalized. Then thousands of counterparties around the world \nwill need to agree to these new terms.\n    In closing, let me reiterate our view that has given us--\ngiven the pivotal role that U.S. Treasuries play in the \nderivatives and financial markets, we need to ensure that \ncapital and margin rules support Treasury market liquidity, \nappropriately reflect risk, and facilitate clearing. We urge \npolicymakers to address necessary corrections and bank capital \nregulations to ensure the effective implementation of the \nclearing mandate.\n    Working to deliver the required legal and operational \nsolutions is already underway, but there is plenty more to do \nin terms of addressing these issues. ISDA and our members are \ncommitted to doing our part to making sure that the market \ncontinues to function smoothly and effectively.\n    I would like to thank the Financial Services Committee and \nthis Task Force for their attention to this critically",
+    "after": "important matter. Thank you very much. [The prepared statement of Hon. O'Malia follows:] [GRAPHIC(S) NOT"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 6162,
+   "body_word_end": 6420,
+   "word_start": 5262,
+   "word_end": 5520,
+   "n_ref_words_mapped": 258,
+   "word_count": 258,
+   "start_line": 910,
+   "end_line": 936,
+   "parser_speaker": "Lucas",
+   "parser_bioguide_id": null,
+   "llm_speaker": "O'Malia",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "rule in time for the deadlines next year? I will give you a nice question.",
+    "span_text": "Hon. O'Malia. Thank you, Mr. Chairman. We are pretty \nconfident that Mr. Atkins is going to be able to hit the ground \nrunning as an experienced SEC commissioner from a previous role \nand colleagues around him to support him. The SEC is very \nfocused on this rule and will and should be able to address \nthis in a very reasonable and immediate way.\n    There are a couple of SEC changes that we would recommend. \nThere are some issues around inter-affiliate rules and some \naccounting rules to really make this effective. There is some \nmore information in my testimony that could articulate that. We \nneed them as a partner in terms of the implementation to make \nsure that they approve the various rule books for the \nDepository Trust Compan (DTCC), Chicago Mercantile Exchange \n(CME), and Intercontinental Exchange (ICE), which are the \ncompeting clearinghouses. They need to make sure that the rest \nof the rules are there to facilitate clearing and encourage it. \nThey have been very good up until now.\n    The goal of all of this is to make sure we have deep and \nliquid markets. We also need to make sure that we have the \ndelivery of cost-effective clearing, and that also includes \ncross-product netting solutions and operational changes that \nneed to be implemented.\n    Then, on the industry side, working with them to make sure \nwe have the appropriate timetables to implement the operational \nchanges to integrate clearing and custody and the legal \nagreements to support the various clearing regimes that are \ngoing to be made available.",
+    "after": "Chairman Lucas. Turning to you, Dr. Liang, I continue to urge the regulators to permanently"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 7953,
+   "body_word_end": 7980,
+   "word_start": 7027,
+   "word_end": 7054,
+   "n_ref_words_mapped": 27,
+   "word_count": 27,
+   "start_line": 1092,
+   "end_line": 1095,
+   "parser_speaker": "Lucas",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Vargas",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "O'Malia. I apologize. Again, I thank the Chair, and I yield back my 10 seconds.",
+    "span_text": "Chairman Lucas. The gentleman yields back.\n    The chair now recognizes the gentleman from Arkansas, Mr. \nHill, who is also chairman of the full committee, for 5 \nminutes. Mr. Chairman.",
+    "after": "Chairman Hill. Thank you, Chairman Lucas, and thanks for this great panel. I think we"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 9986,
+   "body_word_end": 10052,
+   "word_start": 9009,
+   "word_end": 9075,
+   "n_ref_words_mapped": 66,
+   "word_count": 66,
+   "start_line": 1309,
+   "end_line": 1315,
+   "parser_speaker": "Flood",
+   "parser_bioguide_id": "F000474",
+   "llm_speaker": "O'Malia",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "robust clearance settlement infrastructure around the U.S. Treasury market. Mr. Flood. Thank you. Mr. O'Malia?",
+    "span_text": "Hon. O'Malia. I would agree with that statement. The \nsupplemental leverage ratio could be a big relief in terms of \nenabling U.S. banks and those who are aligned with U.S. \ninterests in supporting the Treasury market to fully support \nthat and make sure it is liquid. Beyond that, I would hope that \nwe have as much transparency into the activities of foreign \ngovernments trading these products.",
+    "after": "Mr. Flood. Dr. Forbes? Dr. Forbes. I talk about this with some more numbers in"
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 10341,
+   "body_word_end": 10393,
+   "word_start": 9354,
+   "word_end": 9406,
+   "n_ref_words_mapped": 52,
+   "word_count": 52,
+   "start_line": 1347,
+   "end_line": 1351,
+   "parser_speaker": "Flood",
+   "parser_bioguide_id": "F000474",
+   "llm_speaker": "O'Malia",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "Again, there are a lot of different factors to balance out. Mr. Flood. Mr. O'Malia?",
+    "span_text": "Hon. O'Malia. I think some of the concern I would have \naround this, if the U.S. cannot move its debt, it is going to \nhave to reprice it to a higher level to sell it, encouraging \nmore participants to come into the market, and that is only \ngoing to make our problem worse.",
+    "after": "Mr. Flood. Last question. Do you feel that we are prepared for a scenario where"
+   },
+   "span_id": "d007"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 10640,
+   "body_word_end": 10641,
+   "word_start": 9637,
+   "word_end": 9638,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1380,
+   "end_line": 1380,
+   "parser_speaker": "Liang",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Casten",
+   "llm_bioguide_id": "C001117",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "former colleague of yours, Brett Newman, who is now back at the University of Chicago.",
+    "span_text": "Dr. Liang. Yes.",
+    "after": "Mr. Casten. We were having a good time catching up as old friends, and then"
+   },
+   "span_id": "d008"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 12467,
+   "body_word_end": 12805,
+   "word_start": 11417,
+   "word_end": 11754,
+   "n_ref_words_mapped": 336,
+   "word_count": 338,
+   "start_line": 1564,
+   "end_line": 1595,
+   "parser_speaker": "Lucas",
+   "parser_bioguide_id": null,
+   "llm_speaker": "O'Malia",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "Commodity Futures Trading Commission (CFTC) and the SEC before proposing a rule like Basel III?",
+    "span_text": "Hon. O'Malia. The answer is, yes. I think we had an \ninstance with the Basel III end game proposal coming out, and \nthe left hand did not quite know what the right hand was doing. \nI think the clearing mandate, which is a safer form of \nmanagement for the Treasury market, came through. In the \nmeantime, the end game proposal has significantly higher \ncapital charges for client clearing, up to 80 percent. So, \nthose two policies are not aligned at all.\n    We think that the SLR, which is not part of the end game, \nshould be included in this to make sure that we have deep \nliquid markets. ISDA and SIFMA put forward a very thorough \nanalysis of the trading book rules that identified a whole host \nof different elements that were gold plated that we think \nshould be risk--go back to kind of a risk metric and risk-\nappropriate level, which we can provide to this Task Force, \nbecause it is a very thorough analysis of how high the numbers \nwere, and if you bring them down to a more risk-appropriate \nlevel, you will get a better outcome.\n    Clearing is one example of that, but we have an area where \nsecurities financing transactions, where the U.S. is all alone \nin proposing an 18-percent increase. We think that is too high, \nthat would affect this market, and it is an imbalance with \nEuropean partners that did not take the same proposal and put \nit into their rule. That is another area as an example that we \nthink should be modified as well.\n    Now, we are encouraged, both--the last proposals we were \nhearing about did seem to recognize this coming out of the Fed, \nbut we have an opportunity to reset the deck here, and we would \nhope that they go back to a very risk-appropriate solution, \ninclude some of these other items, including the SLR reforms \nand the cross-product netting reforms, which are very important \nto make sure we have an efficient clearing market.",
+    "after": "Chairman Lucas. Before I turn to my colleague, I would just simply note, I have"
+   },
+   "span_id": "d009"
+  }
+ ]
+}

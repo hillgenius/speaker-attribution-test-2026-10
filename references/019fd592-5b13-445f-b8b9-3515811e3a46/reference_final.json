@@ -1,0 +1,8473 @@
+{
+ "hearing_id": "019fd592-5b13-445f-b8b9-3515811e3a46",
+ "chrg": "CHRG-119hhrg61366",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg61366.txt",
+ "print_sha256": "5b8139d85f9ae4a4950afad9ec2e42dd26b8e95d4bb67105563eed8693b78a90",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "864474de838f6d57f0339a6330c150cc1bd11460890e692a0f79ed4d2534e458",
+ "n_ref_words": 36976,
+ "review_log_sha256": "e9e64f474f2a5f4202090ca4f0eca826cf38f22cab1a420c38c2a98bb51dc6a4",
+ "spans_reviewed": 305,
+ "decisions": {
+  "llm": 286,
+  "parser": 2,
+  "split": 17
+ },
+ "words_relabeled": 17251,
+ "header_scan_reviewed": [],
+ "turns": [
+  {
+   "turn_index": 0,
+   "parser_turn_index": 0,
+   "word_start": 0,
+   "word_end": 33,
+   "word_count": 33,
+   "speaker": "All",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i pledge allegiance to the flag of the"
+  },
+  {
+   "turn_index": 1,
+   "parser_turn_index": 0,
+   "word_start": 33,
+   "word_end": 134,
+   "word_count": 101,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d001"
+   ],
+   "first_words": "please remain standing we are going to do"
+  },
+  {
+   "turn_index": 2,
+   "parser_turn_index": 1,
+   "word_start": 134,
+   "word_end": 237,
+   "word_count": 103,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "this is a sad day gerry connolly wasn't"
+  },
+  {
+   "turn_index": 3,
+   "parser_turn_index": 1,
+   "word_start": 237,
+   "word_end": 251,
+   "word_count": 14,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d002"
+   ],
+   "first_words": "thank you ranking member meeks representative burchett do"
+  },
+  {
+   "turn_index": 4,
+   "parser_turn_index": 2,
+   "word_start": 251,
+   "word_end": 343,
+   "word_count": 92,
+   "speaker": "BURCHETT",
+   "bioguide_id": "B001309",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "dear lord thank you so much for the"
+  },
+  {
+   "turn_index": 5,
+   "parser_turn_index": 2,
+   "word_start": 343,
+   "word_end": 346,
+   "word_count": 3,
+   "speaker": "All",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d003"
+   ],
+   "first_words": "amen chairman mast"
+  },
+  {
+   "turn_index": 6,
+   "parser_turn_index": 2,
+   "word_start": 346,
+   "word_end": 894,
+   "word_count": 548,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d004"
+   ],
+   "first_words": "please be seated the purpose of this hearing"
+  },
+  {
+   "turn_index": 7,
+   "parser_turn_index": 2,
+   "word_start": 894,
+   "word_end": 900,
+   "word_count": 6,
+   "speaker": "BURCHETT",
+   "bioguide_id": "B001309",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "opening statement that he may have"
+  },
+  {
+   "turn_index": 8,
+   "parser_turn_index": 3,
+   "word_start": 900,
+   "word_end": 1640,
+   "word_count": 740,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman secretary rubio i am"
+  },
+  {
+   "turn_index": 9,
+   "parser_turn_index": 3,
+   "word_start": 1640,
+   "word_end": 1763,
+   "word_count": 123,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d005"
+   ],
+   "first_words": "i thank the ranking member for his opening"
+  },
+  {
+   "turn_index": 10,
+   "parser_turn_index": 3,
+   "word_start": 1763,
+   "word_end": 3094,
+   "word_count": 1331,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d006"
+   ],
+   "first_words": "thank you i appreciate the opportunity to speak"
+  },
+  {
+   "turn_index": 11,
+   "parser_turn_index": 3,
+   "word_start": 3094,
+   "word_end": 3165,
+   "word_count": 71,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "chairman mast thank you mr secretary and i"
+  },
+  {
+   "turn_index": 12,
+   "parser_turn_index": 4,
+   "word_start": 3165,
+   "word_end": 3529,
+   "word_count": 364,
+   "speaker": "MCCAUL",
+   "bioguide_id": "M001157",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman let me express my"
+  },
+  {
+   "turn_index": 13,
+   "parser_turn_index": 4,
+   "word_start": 3529,
+   "word_end": 3651,
+   "word_count": 122,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d007"
+   ],
+   "first_words": "well i think the key to reorganization and"
+  },
+  {
+   "turn_index": 14,
+   "parser_turn_index": 4,
+   "word_start": 3651,
+   "word_end": 3652,
+   "word_count": 1,
+   "speaker": "MCCAUL",
+   "bioguide_id": "M001157",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "including"
+  },
+  {
+   "turn_index": 15,
+   "parser_turn_index": 4,
+   "word_start": 3652,
+   "word_end": 3869,
+   "word_count": 217,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d007"
+   ],
+   "first_words": "from many on the minority and some of"
+  },
+  {
+   "turn_index": 16,
+   "parser_turn_index": 4,
+   "word_start": 3869,
+   "word_end": 3870,
+   "word_count": 1,
+   "speaker": "MCCAUL",
+   "bioguide_id": "M001157",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "do"
+  },
+  {
+   "turn_index": 17,
+   "parser_turn_index": 5,
+   "word_start": 3870,
+   "word_end": 3982,
+   "word_count": 112,
+   "speaker": "MCCAUL",
+   "bioguide_id": "M001157",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well that is a very noble effort with"
+  },
+  {
+   "turn_index": 18,
+   "parser_turn_index": 5,
+   "word_start": 3982,
+   "word_end": 4296,
+   "word_count": 314,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d008"
+   ],
+   "first_words": "well as you are aware i am sure"
+  },
+  {
+   "turn_index": 19,
+   "parser_turn_index": 5,
+   "word_start": 4296,
+   "word_end": 4303,
+   "word_count": 7,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d009"
+   ],
+   "first_words": "the chair now recognizes ranking member meeks"
+  },
+  {
+   "turn_index": 20,
+   "parser_turn_index": 6,
+   "word_start": 4303,
+   "word_end": 4378,
+   "word_count": 75,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you i am trying to figure something"
+  },
+  {
+   "turn_index": 21,
+   "parser_turn_index": 6,
+   "word_start": 4378,
+   "word_end": 4381,
+   "word_count": 3,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d010"
+   ],
+   "first_words": "how much what"
+  },
+  {
+   "turn_index": 22,
+   "parser_turn_index": 7,
+   "word_start": 4381,
+   "word_end": 4386,
+   "word_count": 5,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "how much time secretary rubio"
+  },
+  {
+   "turn_index": 23,
+   "parser_turn_index": 7,
+   "word_start": 4386,
+   "word_end": 4389,
+   "word_count": 3,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d011"
+   ],
+   "first_words": "do i spend"
+  },
+  {
+   "turn_index": 24,
+   "parser_turn_index": 7,
+   "word_start": 4389,
+   "word_end": 4395,
+   "word_count": 6,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr meeks at the state department"
+  },
+  {
+   "turn_index": 25,
+   "parser_turn_index": 7,
+   "word_start": 4395,
+   "word_end": 4416,
+   "word_count": 21,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d011"
+   ],
+   "first_words": "secretary rubio almost every day if i am"
+  },
+  {
+   "turn_index": 26,
+   "parser_turn_index": 8,
+   "word_start": 4416,
+   "word_end": 4502,
+   "word_count": 86,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i agree i understand but now you have"
+  },
+  {
+   "turn_index": 27,
+   "parser_turn_index": 8,
+   "word_start": 4502,
+   "word_end": 4545,
+   "word_count": 43,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d013"
+   ],
+   "first_words": "well now you know why i can't offer"
+  },
+  {
+   "turn_index": 28,
+   "parser_turn_index": 9,
+   "word_start": 4545,
+   "word_end": 4550,
+   "word_count": 5,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "but the jobs secretary rubio"
+  },
+  {
+   "turn_index": 29,
+   "parser_turn_index": 9,
+   "word_start": 4550,
+   "word_end": 4560,
+   "word_count": 10,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d014"
+   ],
+   "first_words": "do you want my answer or do you"
+  },
+  {
+   "turn_index": 30,
+   "parser_turn_index": 10,
+   "word_start": 4560,
+   "word_end": 4595,
+   "word_count": 35,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well i just want to know this did"
+  },
+  {
+   "turn_index": 31,
+   "parser_turn_index": 10,
+   "word_start": 4595,
+   "word_end": 4599,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d015"
+   ],
+   "first_words": "no i did not"
+  },
+  {
+   "turn_index": 32,
+   "parser_turn_index": 10,
+   "word_start": 4599,
+   "word_end": 4603,
+   "word_count": 4,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr meeks usaid administrator"
+  },
+  {
+   "turn_index": 33,
+   "parser_turn_index": 10,
+   "word_start": 4603,
+   "word_end": 4613,
+   "word_count": 10,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d015"
+   ],
+   "first_words": "secretary rubio no i did not apply for"
+  },
+  {
+   "turn_index": 34,
+   "parser_turn_index": 11,
+   "word_start": 4613,
+   "word_end": 4620,
+   "word_count": 7,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "did not apply for them secretary rubio"
+  },
+  {
+   "turn_index": 35,
+   "parser_turn_index": 11,
+   "word_start": 4620,
+   "word_end": 4679,
+   "word_count": 59,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d016"
+   ],
+   "first_words": "i was asked to serve in those roles"
+  },
+  {
+   "turn_index": 36,
+   "parser_turn_index": 12,
+   "word_start": 4679,
+   "word_end": 4774,
+   "word_count": 95,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well then why not get rid of all"
+  },
+  {
+   "turn_index": 37,
+   "parser_turn_index": 12,
+   "word_start": 4774,
+   "word_end": 4796,
+   "word_count": 22,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d017"
+   ],
+   "first_words": "well you would have to pass a law"
+  },
+  {
+   "turn_index": 38,
+   "parser_turn_index": 13,
+   "word_start": 4796,
+   "word_end": 4829,
+   "word_count": 33,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well look that hasn't stopped you in the"
+  },
+  {
+   "turn_index": 39,
+   "parser_turn_index": 13,
+   "word_start": 4829,
+   "word_end": 4832,
+   "word_count": 3,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d018"
+   ],
+   "first_words": "yes it has"
+  },
+  {
+   "turn_index": 40,
+   "parser_turn_index": 14,
+   "word_start": 4832,
+   "word_end": 4996,
+   "word_count": 164,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i would agree it should be the congress'"
+  },
+  {
+   "turn_index": 41,
+   "parser_turn_index": 14,
+   "word_start": 4996,
+   "word_end": 5067,
+   "word_count": 71,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d019"
+   ],
+   "first_words": "well we have complied with every part of"
+  },
+  {
+   "turn_index": 42,
+   "parser_turn_index": 15,
+   "word_start": 5067,
+   "word_end": 5078,
+   "word_count": 11,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i have not secretary rubio just in the"
+  },
+  {
+   "turn_index": 43,
+   "parser_turn_index": 16,
+   "word_start": 5078,
+   "word_end": 5083,
+   "word_count": 5,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i have not secretary rubio"
+  },
+  {
+   "turn_index": 44,
+   "parser_turn_index": 16,
+   "word_start": 5083,
+   "word_end": 5102,
+   "word_count": 19,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d020"
+   ],
+   "first_words": "well you know 16 letters i have been"
+  },
+  {
+   "turn_index": 45,
+   "parser_turn_index": 17,
+   "word_start": 5102,
+   "word_end": 5116,
+   "word_count": 14,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i am going to yield my last 40"
+  },
+  {
+   "turn_index": 46,
+   "parser_turn_index": 18,
+   "word_start": 5116,
+   "word_end": 5251,
+   "word_count": 135,
+   "speaker": "JOHNSON",
+   "bioguide_id": "J000310",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman secretary rubio thank you"
+  },
+  {
+   "turn_index": 47,
+   "parser_turn_index": 18,
+   "word_start": 5251,
+   "word_end": 5563,
+   "word_count": 312,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d021"
+   ],
+   "first_words": "i don't i mean the examples you have"
+  },
+  {
+   "turn_index": 48,
+   "parser_turn_index": 18,
+   "word_start": 5563,
+   "word_end": 5564,
+   "word_count": 1,
+   "speaker": "JOHNSON",
+   "bioguide_id": "J000310",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "corruption"
+  },
+  {
+   "turn_index": 49,
+   "parser_turn_index": 19,
+   "word_start": 5564,
+   "word_end": 5571,
+   "word_count": 7,
+   "speaker": "JOHNSON",
+   "bioguide_id": "J000310",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so is the answer to chairman mast"
+  },
+  {
+   "turn_index": 50,
+   "parser_turn_index": 19,
+   "word_start": 5571,
+   "word_end": 5579,
+   "word_count": 8,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d022"
+   ],
+   "first_words": "the chair recognizes representative smith from new jersey"
+  },
+  {
+   "turn_index": 51,
+   "parser_turn_index": 20,
+   "word_start": 5579,
+   "word_end": 6037,
+   "word_count": 458,
+   "speaker": "SMITH",
+   "bioguide_id": "S000522",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you very much mr chairman first of"
+  },
+  {
+   "turn_index": 52,
+   "parser_turn_index": 20,
+   "word_start": 6037,
+   "word_end": 6456,
+   "word_count": 419,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d023"
+   ],
+   "first_words": "thank you and i appreciate that and obviously"
+  },
+  {
+   "turn_index": 53,
+   "parser_turn_index": 21,
+   "word_start": 6456,
+   "word_end": 6585,
+   "word_count": 129,
+   "speaker": "SMITH",
+   "bioguide_id": "S000522",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "finally i am almost out of time yesterday"
+  },
+  {
+   "turn_index": 54,
+   "parser_turn_index": 21,
+   "word_start": 6585,
+   "word_end": 6591,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d024"
+   ],
+   "first_words": "the chair now recognizes representative sherman"
+  },
+  {
+   "turn_index": 55,
+   "parser_turn_index": 22,
+   "word_start": 6591,
+   "word_end": 6836,
+   "word_count": 245,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "we all miss gerry connolly and i do"
+  },
+  {
+   "turn_index": 56,
+   "parser_turn_index": 22,
+   "word_start": 6836,
+   "word_end": 6859,
+   "word_count": 23,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d025"
+   ],
+   "first_words": "well first i will tell you that there"
+  },
+  {
+   "turn_index": 57,
+   "parser_turn_index": 23,
+   "word_start": 6859,
+   "word_end": 6868,
+   "word_count": 9,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "can you i have got limited time secretary"
+  },
+  {
+   "turn_index": 58,
+   "parser_turn_index": 23,
+   "word_start": 6868,
+   "word_end": 6879,
+   "word_count": 11,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d026"
+   ],
+   "first_words": "i can so here is the thing i"
+  },
+  {
+   "turn_index": 59,
+   "parser_turn_index": 24,
+   "word_start": 6879,
+   "word_end": 6895,
+   "word_count": 16,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "either give me a yes give me a"
+  },
+  {
+   "turn_index": 60,
+   "parser_turn_index": 24,
+   "word_start": 6895,
+   "word_end": 6911,
+   "word_count": 16,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d027"
+   ],
+   "first_words": "well i am going to give you my"
+  },
+  {
+   "turn_index": 61,
+   "parser_turn_index": 25,
+   "word_start": 6911,
+   "word_end": 6925,
+   "word_count": 14,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i want a yes or a no secretary"
+  },
+  {
+   "turn_index": 62,
+   "parser_turn_index": 26,
+   "word_start": 6925,
+   "word_end": 6936,
+   "word_count": 11,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "reclaiming my time secretary rubio well reclaim your"
+  },
+  {
+   "turn_index": 63,
+   "parser_turn_index": 26,
+   "word_start": 6936,
+   "word_end": 6952,
+   "word_count": 16,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d028"
+   ],
+   "first_words": "is not a game show i get to"
+  },
+  {
+   "turn_index": 64,
+   "parser_turn_index": 27,
+   "word_start": 6952,
+   "word_end": 6961,
+   "word_count": 9,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr secretary i am reclaiming my time secretary"
+  },
+  {
+   "turn_index": 65,
+   "parser_turn_index": 27,
+   "word_start": 6961,
+   "word_end": 6967,
+   "word_count": 6,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d030"
+   ],
+   "first_words": "i don't know what that means"
+  },
+  {
+   "turn_index": 66,
+   "parser_turn_index": 28,
+   "word_start": 6967,
+   "word_end": 6971,
+   "word_count": 4,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "the filibustering secretary rubio"
+  },
+  {
+   "turn_index": 67,
+   "parser_turn_index": 28,
+   "word_start": 6971,
+   "word_end": 6974,
+   "word_count": 3,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d031"
+   ],
+   "first_words": "but never mind"
+  },
+  {
+   "turn_index": 68,
+   "parser_turn_index": 28,
+   "word_start": 6974,
+   "word_end": 6983,
+   "word_count": 9,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr sherman takes place in the senate not"
+  },
+  {
+   "turn_index": 69,
+   "parser_turn_index": 28,
+   "word_start": 6983,
+   "word_end": 6996,
+   "word_count": 13,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d031"
+   ],
+   "first_words": "secretary rubio i am not filibustering i am"
+  },
+  {
+   "turn_index": 70,
+   "parser_turn_index": 29,
+   "word_start": 6996,
+   "word_end": 7038,
+   "word_count": 42,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you are trying let's go on to the"
+  },
+  {
+   "turn_index": 71,
+   "parser_turn_index": 29,
+   "word_start": 7038,
+   "word_end": 7042,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d032"
+   ],
+   "first_words": "no it is not"
+  },
+  {
+   "turn_index": 72,
+   "parser_turn_index": 30,
+   "word_start": 7042,
+   "word_end": 7065,
+   "word_count": 23,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well can you give me a yes or"
+  },
+  {
+   "turn_index": 73,
+   "parser_turn_index": 30,
+   "word_start": 7065,
+   "word_end": 7077,
+   "word_count": 12,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d033"
+   ],
+   "first_words": "we believe that iran should not be allowed"
+  },
+  {
+   "turn_index": 74,
+   "parser_turn_index": 31,
+   "word_start": 7077,
+   "word_end": 7085,
+   "word_count": 8,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you believe that it oh i secretary rubio"
+  },
+  {
+   "turn_index": 75,
+   "parser_turn_index": 31,
+   "word_start": 7085,
+   "word_end": 7108,
+   "word_count": 23,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d034"
+   ],
+   "first_words": "we believe that an acceptable deal with iran"
+  },
+  {
+   "turn_index": 76,
+   "parser_turn_index": 32,
+   "word_start": 7108,
+   "word_end": 7137,
+   "word_count": 29,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i know why we don't want i asked"
+  },
+  {
+   "turn_index": 77,
+   "parser_turn_index": 32,
+   "word_start": 7137,
+   "word_end": 7155,
+   "word_count": 18,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d035"
+   ],
+   "first_words": "oh you have nothing to worry about us"
+  },
+  {
+   "turn_index": 78,
+   "parser_turn_index": 33,
+   "word_start": 7155,
+   "word_end": 7169,
+   "word_count": 14,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "sir your refusal to give me an answer"
+  },
+  {
+   "turn_index": 79,
+   "parser_turn_index": 33,
+   "word_start": 7169,
+   "word_end": 7179,
+   "word_count": 10,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d036"
+   ],
+   "first_words": "no it well i would like to answer"
+  },
+  {
+   "turn_index": 80,
+   "parser_turn_index": 34,
+   "word_start": 7179,
+   "word_end": 7433,
+   "word_count": 254,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "reclaiming my time mr chair you told us"
+  },
+  {
+   "turn_index": 81,
+   "parser_turn_index": 34,
+   "word_start": 7433,
+   "word_end": 7442,
+   "word_count": 9,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d037"
+   ],
+   "first_words": "i am sorry the question is has anyone"
+  },
+  {
+   "turn_index": 82,
+   "parser_turn_index": 35,
+   "word_start": 7442,
+   "word_end": 7456,
+   "word_count": 14,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "has anyone in the world died because of"
+  },
+  {
+   "turn_index": 83,
+   "parser_turn_index": 35,
+   "word_start": 7456,
+   "word_end": 7457,
+   "word_count": 1,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d038"
+   ],
+   "first_words": "listen"
+  },
+  {
+   "turn_index": 84,
+   "parser_turn_index": 36,
+   "word_start": 7457,
+   "word_end": 7474,
+   "word_count": 17,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes or no reclaiming my time if you"
+  },
+  {
+   "turn_index": 85,
+   "parser_turn_index": 36,
+   "word_start": 7474,
+   "word_end": 7481,
+   "word_count": 7,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d039"
+   ],
+   "first_words": "no one has died because of usaid"
+  },
+  {
+   "turn_index": 86,
+   "parser_turn_index": 37,
+   "word_start": 7481,
+   "word_end": 7489,
+   "word_count": 8,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "but the people who have died secretary rubio"
+  },
+  {
+   "turn_index": 87,
+   "parser_turn_index": 37,
+   "word_start": 7489,
+   "word_end": 7493,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d040"
+   ],
+   "first_words": "that is a lie"
+  },
+  {
+   "turn_index": 88,
+   "parser_turn_index": 37,
+   "word_start": 7493,
+   "word_end": 7527,
+   "word_count": 34,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr sherman as a result of cutting off"
+  },
+  {
+   "turn_index": 89,
+   "parser_turn_index": 37,
+   "word_start": 7527,
+   "word_end": 7532,
+   "word_count": 5,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d040"
+   ],
+   "first_words": "secretary rubio that is false"
+  },
+  {
+   "turn_index": 90,
+   "parser_turn_index": 37,
+   "word_start": 7532,
+   "word_end": 7543,
+   "word_count": 11,
+   "speaker": "SHERMAN",
+   "bioguide_id": "S000344",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr sherman and his co conspirators i yield"
+  },
+  {
+   "turn_index": 91,
+   "parser_turn_index": 37,
+   "word_start": 7543,
+   "word_end": 7552,
+   "word_count": 9,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d041"
+   ],
+   "first_words": "the chair now recognizes representative wilson from south"
+  },
+  {
+   "turn_index": 92,
+   "parser_turn_index": 38,
+   "word_start": 7552,
+   "word_end": 7776,
+   "word_count": 224,
+   "speaker": "WILSON",
+   "bioguide_id": "W000795",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you chairman brian mast for your leadership"
+  },
+  {
+   "turn_index": 93,
+   "parser_turn_index": 38,
+   "word_start": 7776,
+   "word_end": 7894,
+   "word_count": 118,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d042"
+   ],
+   "first_words": "yes well as you know the sanctions in"
+  },
+  {
+   "turn_index": 94,
+   "parser_turn_index": 39,
+   "word_start": 7894,
+   "word_end": 8032,
+   "word_count": 138,
+   "speaker": "WILSON",
+   "bioguide_id": "W000795",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well again thank you for your leadership and"
+  },
+  {
+   "turn_index": 95,
+   "parser_turn_index": 39,
+   "word_start": 8032,
+   "word_end": 8034,
+   "word_count": 2,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d043"
+   ],
+   "first_words": "so ordered"
+  },
+  {
+   "turn_index": 96,
+   "parser_turn_index": 40,
+   "word_start": 8034,
+   "word_end": 8089,
+   "word_count": 55,
+   "speaker": "WILSON",
+   "bioguide_id": "W000795",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "additionally for 200 consecutive days freedom loving georgians"
+  },
+  {
+   "turn_index": 97,
+   "parser_turn_index": 40,
+   "word_start": 8089,
+   "word_end": 8240,
+   "word_count": 151,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d044"
+   ],
+   "first_words": "well as any going back to what i"
+  },
+  {
+   "turn_index": 98,
+   "parser_turn_index": 41,
+   "word_start": 8240,
+   "word_end": 8342,
+   "word_count": 102,
+   "speaker": "WILSON",
+   "bioguide_id": "W000795",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and it is so refreshing to get your"
+  },
+  {
+   "turn_index": 99,
+   "parser_turn_index": 41,
+   "word_start": 8342,
+   "word_end": 8361,
+   "word_count": 19,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d045"
+   ],
+   "first_words": "well we first have made clear the linchpin"
+  },
+  {
+   "turn_index": 100,
+   "parser_turn_index": 41,
+   "word_start": 8361,
+   "word_end": 8362,
+   "word_count": 1,
+   "speaker": "WILSON",
+   "bioguide_id": "W000795",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "population"
+  },
+  {
+   "turn_index": 101,
+   "parser_turn_index": 41,
+   "word_start": 8362,
+   "word_end": 8510,
+   "word_count": 148,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d045"
+   ],
+   "first_words": "has in that part of the country and"
+  },
+  {
+   "turn_index": 102,
+   "parser_turn_index": 41,
+   "word_start": 8510,
+   "word_end": 8511,
+   "word_count": 1,
+   "speaker": "WILSON",
+   "bioguide_id": "W000795",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "addressed"
+  },
+  {
+   "turn_index": 103,
+   "parser_turn_index": 42,
+   "word_start": 8511,
+   "word_end": 8520,
+   "word_count": 9,
+   "speaker": "WILSON",
+   "bioguide_id": "W000795",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "congratulations on your success i yield back chairman"
+  },
+  {
+   "turn_index": 104,
+   "parser_turn_index": 42,
+   "word_start": 8520,
+   "word_end": 8526,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d046"
+   ],
+   "first_words": "the chair now recognizes representative keating"
+  },
+  {
+   "turn_index": 105,
+   "parser_turn_index": 43,
+   "word_start": 8526,
+   "word_end": 8811,
+   "word_count": 285,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman i will miss my"
+  },
+  {
+   "turn_index": 106,
+   "parser_turn_index": 43,
+   "word_start": 8811,
+   "word_end": 8815,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d047"
+   ],
+   "first_words": "yes russia invaded ukraine"
+  },
+  {
+   "turn_index": 107,
+   "parser_turn_index": 44,
+   "word_start": 8815,
+   "word_end": 8826,
+   "word_count": 11,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so they are the aggressor in this war"
+  },
+  {
+   "turn_index": 108,
+   "parser_turn_index": 44,
+   "word_start": 8826,
+   "word_end": 8830,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d048"
+   ],
+   "first_words": "they invaded them yes"
+  },
+  {
+   "turn_index": 109,
+   "parser_turn_index": 45,
+   "word_start": 8830,
+   "word_end": 8879,
+   "word_count": 49,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well thank you sir because it is important"
+  },
+  {
+   "turn_index": 110,
+   "parser_turn_index": 45,
+   "word_start": 8879,
+   "word_end": 8906,
+   "word_count": 27,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d049"
+   ],
+   "first_words": "well i think you can look at instances"
+  },
+  {
+   "turn_index": 111,
+   "parser_turn_index": 46,
+   "word_start": 8906,
+   "word_end": 8913,
+   "word_count": 7,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "is he a war criminal secretary rubio"
+  },
+  {
+   "turn_index": 112,
+   "parser_turn_index": 46,
+   "word_start": 8913,
+   "word_end": 8923,
+   "word_count": 10,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d050"
+   ],
+   "first_words": "we can't end the war without talking to"
+  },
+  {
+   "turn_index": 113,
+   "parser_turn_index": 47,
+   "word_start": 8923,
+   "word_end": 8935,
+   "word_count": 12,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "no it is pretty simple is he a"
+  },
+  {
+   "turn_index": 114,
+   "parser_turn_index": 47,
+   "word_start": 8935,
+   "word_end": 8938,
+   "word_count": 3,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d051"
+   ],
+   "first_words": "well that is"
+  },
+  {
+   "turn_index": 115,
+   "parser_turn_index": 48,
+   "word_start": 8938,
+   "word_end": 8957,
+   "word_count": 19,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "this man we are negotiating with vladimir putin"
+  },
+  {
+   "turn_index": 116,
+   "parser_turn_index": 48,
+   "word_start": 8957,
+   "word_end": 8978,
+   "word_count": 21,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d052"
+   ],
+   "first_words": "but why i am trying to answer your"
+  },
+  {
+   "turn_index": 117,
+   "parser_turn_index": 49,
+   "word_start": 8978,
+   "word_end": 8985,
+   "word_count": 7,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well to answer go ahead secretary rubio"
+  },
+  {
+   "turn_index": 118,
+   "parser_turn_index": 49,
+   "word_start": 8985,
+   "word_end": 8988,
+   "word_count": 3,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d053"
+   ],
+   "first_words": "it is not"
+  },
+  {
+   "turn_index": 119,
+   "parser_turn_index": 50,
+   "word_start": 8988,
+   "word_end": 8996,
+   "word_count": 8,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you are equivocating secretary rubio a simple answer"
+  },
+  {
+   "turn_index": 120,
+   "parser_turn_index": 51,
+   "word_start": 8996,
+   "word_end": 9006,
+   "word_count": 10,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you are equivocating sir just answer the question"
+  },
+  {
+   "turn_index": 121,
+   "parser_turn_index": 51,
+   "word_start": 9006,
+   "word_end": 9051,
+   "word_count": 45,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d054"
+   ],
+   "first_words": "i am answering your question and the answer"
+  },
+  {
+   "turn_index": 122,
+   "parser_turn_index": 52,
+   "word_start": 9051,
+   "word_end": 9068,
+   "word_count": 17,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so you won't answer the question secretary rubio"
+  },
+  {
+   "turn_index": 123,
+   "parser_turn_index": 53,
+   "word_start": 9068,
+   "word_end": 9190,
+   "word_count": 122,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "reclaiming my time sir let me go on"
+  },
+  {
+   "turn_index": 124,
+   "parser_turn_index": 53,
+   "word_start": 9190,
+   "word_end": 9197,
+   "word_count": 7,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d055"
+   ],
+   "first_words": "you are putting words in my mouth"
+  },
+  {
+   "turn_index": 125,
+   "parser_turn_index": 53,
+   "word_start": 9197,
+   "word_end": 9207,
+   "word_count": 10,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating that my i am reclaiming my"
+  },
+  {
+   "turn_index": 126,
+   "parser_turn_index": 53,
+   "word_start": 9207,
+   "word_end": 9216,
+   "word_count": 9,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d055"
+   ],
+   "first_words": "secretary rubio you are putting words in my"
+  },
+  {
+   "turn_index": 127,
+   "parser_turn_index": 54,
+   "word_start": 9216,
+   "word_end": 9227,
+   "word_count": 11,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and you know what you said to secretary"
+  },
+  {
+   "turn_index": 128,
+   "parser_turn_index": 54,
+   "word_start": 9227,
+   "word_end": 9233,
+   "word_count": 6,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d056"
+   ],
+   "first_words": "that is not what i said"
+  },
+  {
+   "turn_index": 129,
+   "parser_turn_index": 54,
+   "word_start": 9233,
+   "word_end": 9250,
+   "word_count": 17,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating at the end of his answer"
+  },
+  {
+   "turn_index": 130,
+   "parser_turn_index": 54,
+   "word_start": 9250,
+   "word_end": 9256,
+   "word_count": 6,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d056"
+   ],
+   "first_words": "secretary rubio i am not equivocating"
+  },
+  {
+   "turn_index": 131,
+   "parser_turn_index": 54,
+   "word_start": 9256,
+   "word_end": 9260,
+   "word_count": 4,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating you said"
+  },
+  {
+   "turn_index": 132,
+   "parser_turn_index": 54,
+   "word_start": 9260,
+   "word_end": 9268,
+   "word_count": 8,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d056"
+   ],
+   "first_words": "secretary rubio you just don't let me answer"
+  },
+  {
+   "turn_index": 133,
+   "parser_turn_index": 55,
+   "word_start": 9268,
+   "word_end": 9286,
+   "word_count": 18,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "it sure sounds like it to me then"
+  },
+  {
+   "turn_index": 134,
+   "parser_turn_index": 55,
+   "word_start": 9286,
+   "word_end": 9295,
+   "word_count": 9,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d057"
+   ],
+   "first_words": "secretary rubio you never gave me a first"
+  },
+  {
+   "turn_index": 135,
+   "parser_turn_index": 55,
+   "word_start": 9295,
+   "word_end": 9300,
+   "word_count": 5,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating a war criminal"
+  },
+  {
+   "turn_index": 136,
+   "parser_turn_index": 55,
+   "word_start": 9300,
+   "word_end": 9311,
+   "word_count": 11,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d057"
+   ],
+   "first_words": "secretary rubio i already told you war crimes"
+  },
+  {
+   "turn_index": 137,
+   "parser_turn_index": 56,
+   "word_start": 9311,
+   "word_end": 9319,
+   "word_count": 8,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "no you didn't tell me if he is"
+  },
+  {
+   "turn_index": 138,
+   "parser_turn_index": 56,
+   "word_start": 9319,
+   "word_end": 9327,
+   "word_count": 8,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d058"
+   ],
+   "first_words": "secretary rubio well i can't even mr keating"
+  },
+  {
+   "turn_index": 139,
+   "parser_turn_index": 56,
+   "word_start": 9327,
+   "word_end": 9332,
+   "word_count": 5,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "a war criminal secretary rubio"
+  },
+  {
+   "turn_index": 140,
+   "parser_turn_index": 56,
+   "word_start": 9332,
+   "word_end": 9344,
+   "word_count": 12,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d059"
+   ],
+   "first_words": "mr chairman am i allowed to answer questions"
+  },
+  {
+   "turn_index": 141,
+   "parser_turn_index": 57,
+   "word_start": 9344,
+   "word_end": 9354,
+   "word_count": 10,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i am reclaiming my time sir and listen"
+  },
+  {
+   "turn_index": 142,
+   "parser_turn_index": 57,
+   "word_start": 9354,
+   "word_end": 9358,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d060"
+   ],
+   "first_words": "well you are reclaiming"
+  },
+  {
+   "turn_index": 143,
+   "parser_turn_index": 57,
+   "word_start": 9358,
+   "word_end": 9422,
+   "word_count": 64,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating i am using your own words"
+  },
+  {
+   "turn_index": 144,
+   "parser_turn_index": 57,
+   "word_start": 9422,
+   "word_end": 9432,
+   "word_count": 10,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d061"
+   ],
+   "first_words": "i answered your question you just don't like"
+  },
+  {
+   "turn_index": 145,
+   "parser_turn_index": 58,
+   "word_start": 9432,
+   "word_end": 9442,
+   "word_count": 10,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you did not answer the question about putin's"
+  },
+  {
+   "turn_index": 146,
+   "parser_turn_index": 58,
+   "word_start": 9442,
+   "word_end": 9445,
+   "word_count": 3,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d062"
+   ],
+   "first_words": "well you keep"
+  },
+  {
+   "turn_index": 147,
+   "parser_turn_index": 58,
+   "word_start": 9445,
+   "word_end": 9450,
+   "word_count": 5,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating war criminal conduct"
+  },
+  {
+   "turn_index": 148,
+   "parser_turn_index": 58,
+   "word_start": 9450,
+   "word_end": 9455,
+   "word_count": 5,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d062"
+   ],
+   "first_words": "secretary rubio reclaiming your time"
+  },
+  {
+   "turn_index": 149,
+   "parser_turn_index": 58,
+   "word_start": 9455,
+   "word_end": 9459,
+   "word_count": 4,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating in ukraine"
+  },
+  {
+   "turn_index": 150,
+   "parser_turn_index": 58,
+   "word_start": 9459,
+   "word_end": 9479,
+   "word_count": 20,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d062"
+   ],
+   "first_words": "secretary rubio you ask me a question and"
+  },
+  {
+   "turn_index": 151,
+   "parser_turn_index": 59,
+   "word_start": 9479,
+   "word_end": 9495,
+   "word_count": 16,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you answered it listen let me forward with"
+  },
+  {
+   "turn_index": 152,
+   "parser_turn_index": 59,
+   "word_start": 9495,
+   "word_end": 9504,
+   "word_count": 9,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d063"
+   ],
+   "first_words": "are you going to reclaim time on those"
+  },
+  {
+   "turn_index": 153,
+   "parser_turn_index": 59,
+   "word_start": 9504,
+   "word_end": 9560,
+   "word_count": 56,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating going to be pretty clear to"
+  },
+  {
+   "turn_index": 154,
+   "parser_turn_index": 59,
+   "word_start": 9560,
+   "word_end": 9578,
+   "word_count": 18,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d064"
+   ],
+   "first_words": "the gentleman's time has expired secretary rubio if"
+  },
+  {
+   "turn_index": 155,
+   "parser_turn_index": 59,
+   "word_start": 9578,
+   "word_end": 9699,
+   "word_count": 121,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d065"
+   ],
+   "first_words": "can i reclaim my time for a few"
+  },
+  {
+   "turn_index": 156,
+   "parser_turn_index": 60,
+   "word_start": 9699,
+   "word_end": 9708,
+   "word_count": 9,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "history secretary rubio my own kids on some"
+  },
+  {
+   "turn_index": 157,
+   "parser_turn_index": 61,
+   "word_start": 9708,
+   "word_end": 9711,
+   "word_count": 3,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "chairman secretary rubio"
+  },
+  {
+   "turn_index": 158,
+   "parser_turn_index": 61,
+   "word_start": 9711,
+   "word_end": 9715,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d066"
+   ],
+   "first_words": "so these are all"
+  },
+  {
+   "turn_index": 159,
+   "parser_turn_index": 62,
+   "word_start": 9715,
+   "word_end": 9723,
+   "word_count": 8,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i am reclaiming my time now chairman mast"
+  },
+  {
+   "turn_index": 160,
+   "parser_turn_index": 62,
+   "word_start": 9723,
+   "word_end": 9731,
+   "word_count": 8,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d067"
+   ],
+   "first_words": "you have no time you are not recognized"
+  },
+  {
+   "turn_index": 161,
+   "parser_turn_index": 62,
+   "word_start": 9731,
+   "word_end": 9736,
+   "word_count": 5,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating because you have"
+  },
+  {
+   "turn_index": 162,
+   "parser_turn_index": 62,
+   "word_start": 9736,
+   "word_end": 9740,
+   "word_count": 4,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d067"
+   ],
+   "first_words": "chairman mast mr keating"
+  },
+  {
+   "turn_index": 163,
+   "parser_turn_index": 62,
+   "word_start": 9740,
+   "word_end": 9750,
+   "word_count": 10,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating given him time and i ask"
+  },
+  {
+   "turn_index": 164,
+   "parser_turn_index": 62,
+   "word_start": 9750,
+   "word_end": 9758,
+   "word_count": 8,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d067"
+   ],
+   "first_words": "chairman mast you are not recognized mr keating"
+  },
+  {
+   "turn_index": 165,
+   "parser_turn_index": 63,
+   "word_start": 9758,
+   "word_end": 9766,
+   "word_count": 8,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr chairman chairman mast you are not recognized"
+  },
+  {
+   "turn_index": 166,
+   "parser_turn_index": 64,
+   "word_start": 9766,
+   "word_end": 9789,
+   "word_count": 23,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i am asking for unanimous consent to put"
+  },
+  {
+   "turn_index": 167,
+   "parser_turn_index": 65,
+   "word_start": 9789,
+   "word_end": 9824,
+   "word_count": 35,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i am asking unanimous consent to put in"
+  },
+  {
+   "turn_index": 168,
+   "parser_turn_index": 65,
+   "word_start": 9824,
+   "word_end": 9831,
+   "word_count": 7,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d068"
+   ],
+   "first_words": "you are not recognized in this moment"
+  },
+  {
+   "turn_index": 169,
+   "parser_turn_index": 65,
+   "word_start": 9831,
+   "word_end": 9846,
+   "word_count": 15,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating anyone that asks unanimous consent to"
+  },
+  {
+   "turn_index": 170,
+   "parser_turn_index": 65,
+   "word_start": 9846,
+   "word_end": 9850,
+   "word_count": 4,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d068"
+   ],
+   "first_words": "chairman mast mr keating"
+  },
+  {
+   "turn_index": 171,
+   "parser_turn_index": 65,
+   "word_start": 9850,
+   "word_end": 9857,
+   "word_count": 7,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating you are not allowing them"
+  },
+  {
+   "turn_index": 172,
+   "parser_turn_index": 65,
+   "word_start": 9857,
+   "word_end": 9882,
+   "word_count": 25,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d068"
+   ],
+   "first_words": "chairman mast you are not recognized right now"
+  },
+  {
+   "turn_index": 173,
+   "parser_turn_index": 65,
+   "word_start": 9882,
+   "word_end": 9907,
+   "word_count": 25,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d069"
+   ],
+   "first_words": "the last point is our goal is to"
+  },
+  {
+   "turn_index": 174,
+   "parser_turn_index": 66,
+   "word_start": 9907,
+   "word_end": 9914,
+   "word_count": 7,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "point of order mr chairman secretary rubio"
+  },
+  {
+   "turn_index": 175,
+   "parser_turn_index": 66,
+   "word_start": 9914,
+   "word_end": 9924,
+   "word_count": 10,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d070"
+   ],
+   "first_words": "in order to be we have to end"
+  },
+  {
+   "turn_index": 176,
+   "parser_turn_index": 67,
+   "word_start": 9924,
+   "word_end": 9950,
+   "word_count": 26,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "my time is answered his time answering my"
+  },
+  {
+   "turn_index": 177,
+   "parser_turn_index": 67,
+   "word_start": 9950,
+   "word_end": 9954,
+   "word_count": 4,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d071"
+   ],
+   "first_words": "mr secretary please continue"
+  },
+  {
+   "turn_index": 178,
+   "parser_turn_index": 68,
+   "word_start": 9954,
+   "word_end": 9979,
+   "word_count": 25,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "when you won't even let a person enter"
+  },
+  {
+   "turn_index": 179,
+   "parser_turn_index": 68,
+   "word_start": 9979,
+   "word_end": 9983,
+   "word_count": 4,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d072"
+   ],
+   "first_words": "mr keating you should"
+  },
+  {
+   "turn_index": 180,
+   "parser_turn_index": 68,
+   "word_start": 9983,
+   "word_end": 9990,
+   "word_count": 7,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating because of the conduct of"
+  },
+  {
+   "turn_index": 181,
+   "parser_turn_index": 68,
+   "word_start": 9990,
+   "word_end": 9996,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d072"
+   ],
+   "first_words": "chairman mast keep a better eye"
+  },
+  {
+   "turn_index": 182,
+   "parser_turn_index": 68,
+   "word_start": 9996,
+   "word_end": 10001,
+   "word_count": 5,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating this administration after"
+  },
+  {
+   "turn_index": 183,
+   "parser_turn_index": 68,
+   "word_start": 10001,
+   "word_end": 10011,
+   "word_count": 10,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d072"
+   ],
+   "first_words": "chairman mast on the clock right in front"
+  },
+  {
+   "turn_index": 184,
+   "parser_turn_index": 68,
+   "word_start": 10011,
+   "word_end": 10018,
+   "word_count": 7,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating 30 years of service sir"
+  },
+  {
+   "turn_index": 185,
+   "parser_turn_index": 68,
+   "word_start": 10018,
+   "word_end": 10039,
+   "word_count": 21,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d072"
+   ],
+   "first_words": "chairman mast you should keep a better eye"
+  },
+  {
+   "turn_index": 186,
+   "parser_turn_index": 68,
+   "word_start": 10039,
+   "word_end": 10101,
+   "word_count": 62,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d073"
+   ],
+   "first_words": "our goal is to end this war so"
+  },
+  {
+   "turn_index": 187,
+   "parser_turn_index": 68,
+   "word_start": 10101,
+   "word_end": 10115,
+   "word_count": 14,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d074"
+   ],
+   "first_words": "thank you secretary did you have something you"
+  },
+  {
+   "turn_index": 188,
+   "parser_turn_index": 69,
+   "word_start": 10115,
+   "word_end": 10121,
+   "word_count": 6,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman chairman mast"
+  },
+  {
+   "turn_index": 189,
+   "parser_turn_index": 69,
+   "word_start": 10121,
+   "word_end": 10126,
+   "word_count": 5,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d075"
+   ],
+   "first_words": "now would be your opportunity"
+  },
+  {
+   "turn_index": 190,
+   "parser_turn_index": 70,
+   "word_start": 10126,
+   "word_end": 10162,
+   "word_count": 36,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you sir i want to submit for"
+  },
+  {
+   "turn_index": 191,
+   "parser_turn_index": 71,
+   "word_start": 10162,
+   "word_end": 10171,
+   "word_count": 9,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "it is an op ed that says chairman"
+  },
+  {
+   "turn_index": 192,
+   "parser_turn_index": 71,
+   "word_start": 10171,
+   "word_end": 10177,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d076"
+   ],
+   "first_words": "so ordered representative issa is recognized"
+  },
+  {
+   "turn_index": 193,
+   "parser_turn_index": 71,
+   "word_start": 10177,
+   "word_end": 10183,
+   "word_count": 6,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating and she details how"
+  },
+  {
+   "turn_index": 194,
+   "parser_turn_index": 71,
+   "word_start": 10183,
+   "word_end": 10187,
+   "word_count": 4,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d076"
+   ],
+   "first_words": "chairman mast so ordered"
+  },
+  {
+   "turn_index": 195,
+   "parser_turn_index": 71,
+   "word_start": 10187,
+   "word_end": 10195,
+   "word_count": 8,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr keating peace at any cost is peace"
+  },
+  {
+   "turn_index": 196,
+   "parser_turn_index": 71,
+   "word_start": 10195,
+   "word_end": 10205,
+   "word_count": 10,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d076"
+   ],
+   "first_words": "chairman mast i said yes for an answer"
+  },
+  {
+   "turn_index": 197,
+   "parser_turn_index": 72,
+   "word_start": 10205,
+   "word_end": 10210,
+   "word_count": 5,
+   "speaker": "KEATING",
+   "bioguide_id": "K000375",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you sir chairman mast"
+  },
+  {
+   "turn_index": 198,
+   "parser_turn_index": 72,
+   "word_start": 10210,
+   "word_end": 10214,
+   "word_count": 4,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d077"
+   ],
+   "first_words": "representative issa is recognized"
+  },
+  {
+   "turn_index": 199,
+   "parser_turn_index": 73,
+   "word_start": 10214,
+   "word_end": 10245,
+   "word_count": 31,
+   "speaker": "ISSA",
+   "bioguide_id": "I000056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr chairman i would like to ask unanimous"
+  },
+  {
+   "turn_index": 200,
+   "parser_turn_index": 74,
+   "word_start": 10245,
+   "word_end": 10411,
+   "word_count": 166,
+   "speaker": "ISSA",
+   "bioguide_id": "I000056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr secretary good to see you"
+  },
+  {
+   "turn_index": 201,
+   "parser_turn_index": 74,
+   "word_start": 10411,
+   "word_end": 10434,
+   "word_count": 23,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d078"
+   ],
+   "first_words": "they have the largest i believe the largest"
+  },
+  {
+   "turn_index": 202,
+   "parser_turn_index": 75,
+   "word_start": 10434,
+   "word_end": 10442,
+   "word_count": 8,
+   "speaker": "ISSA",
+   "bioguide_id": "I000056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and he is the undeniable leader secretary rubio"
+  },
+  {
+   "turn_index": 203,
+   "parser_turn_index": 75,
+   "word_start": 10442,
+   "word_end": 10443,
+   "word_count": 1,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d079"
+   ],
+   "first_words": "correct"
+  },
+  {
+   "turn_index": 204,
+   "parser_turn_index": 76,
+   "word_start": 10443,
+   "word_end": 10472,
+   "word_count": 29,
+   "speaker": "ISSA",
+   "bioguide_id": "I000056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "is one of the things that every secretary"
+  },
+  {
+   "turn_index": 205,
+   "parser_turn_index": 76,
+   "word_start": 10472,
+   "word_end": 10551,
+   "word_count": 79,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d080"
+   ],
+   "first_words": "well it is one of the reasons why"
+  },
+  {
+   "turn_index": 206,
+   "parser_turn_index": 77,
+   "word_start": 10551,
+   "word_end": 10600,
+   "word_count": 49,
+   "speaker": "ISSA",
+   "bioguide_id": "I000056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and wasn't it true during the entire cold"
+  },
+  {
+   "turn_index": 207,
+   "parser_turn_index": 77,
+   "word_start": 10600,
+   "word_end": 10628,
+   "word_count": 28,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d081"
+   ],
+   "first_words": "if there had not been communications between the"
+  },
+  {
+   "turn_index": 208,
+   "parser_turn_index": 78,
+   "word_start": 10628,
+   "word_end": 10710,
+   "word_count": 82,
+   "speaker": "ISSA",
+   "bioguide_id": "I000056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "now on that list behind me there is"
+  },
+  {
+   "turn_index": 209,
+   "parser_turn_index": 78,
+   "word_start": 10710,
+   "word_end": 10912,
+   "word_count": 202,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d082"
+   ],
+   "first_words": "well we absolutely it is our priority in"
+  },
+  {
+   "turn_index": 210,
+   "parser_turn_index": 79,
+   "word_start": 10912,
+   "word_end": 11022,
+   "word_count": 110,
+   "speaker": "ISSA",
+   "bioguide_id": "I000056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr secretary as you recall during the first"
+  },
+  {
+   "turn_index": 211,
+   "parser_turn_index": 79,
+   "word_start": 11022,
+   "word_end": 11162,
+   "word_count": 140,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d083"
+   ],
+   "first_words": "well first of all belt and road is"
+  },
+  {
+   "turn_index": 212,
+   "parser_turn_index": 80,
+   "word_start": 11162,
+   "word_end": 11171,
+   "word_count": 9,
+   "speaker": "ISSA",
+   "bioguide_id": "I000056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr secretary i yield back chairman"
+  },
+  {
+   "turn_index": 213,
+   "parser_turn_index": 80,
+   "word_start": 11171,
+   "word_end": 11177,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d084"
+   ],
+   "first_words": "the chair now recognizes representative bera"
+  },
+  {
+   "turn_index": 214,
+   "parser_turn_index": 81,
+   "word_start": 11177,
+   "word_end": 11205,
+   "word_count": 28,
+   "speaker": "BERA",
+   "bioguide_id": "B001287",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr chairman i would like to ask unanimous"
+  },
+  {
+   "turn_index": 215,
+   "parser_turn_index": 82,
+   "word_start": 11205,
+   "word_end": 11363,
+   "word_count": 158,
+   "speaker": "BERA",
+   "bioguide_id": "B001287",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr secretary i did not get the chance"
+  },
+  {
+   "turn_index": 216,
+   "parser_turn_index": 82,
+   "word_start": 11363,
+   "word_end": 11372,
+   "word_count": 9,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d085"
+   ],
+   "first_words": "yes we are still going to do foreign"
+  },
+  {
+   "turn_index": 217,
+   "parser_turn_index": 83,
+   "word_start": 11372,
+   "word_end": 11756,
+   "word_count": 384,
+   "speaker": "BERA",
+   "bioguide_id": "B001287",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "right so that is incredibly important as a"
+  },
+  {
+   "turn_index": 218,
+   "parser_turn_index": 83,
+   "word_start": 11756,
+   "word_end": 11805,
+   "word_count": 49,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d086"
+   ],
+   "first_words": "yes in fact that is why we are"
+  },
+  {
+   "turn_index": 219,
+   "parser_turn_index": 84,
+   "word_start": 11805,
+   "word_end": 11841,
+   "word_count": 36,
+   "speaker": "BERA",
+   "bioguide_id": "B001287",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and you will continue to work with this"
+  },
+  {
+   "turn_index": 220,
+   "parser_turn_index": 84,
+   "word_start": 11841,
+   "word_end": 11876,
+   "word_count": 35,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d087"
+   ],
+   "first_words": "that is my hope to be able to"
+  },
+  {
+   "turn_index": 221,
+   "parser_turn_index": 85,
+   "word_start": 11876,
+   "word_end": 11897,
+   "word_count": 21,
+   "speaker": "Bera",
+   "bioguide_id": "B001287",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "right let's save lives with that let me"
+  },
+  {
+   "turn_index": 222,
+   "parser_turn_index": 86,
+   "word_start": 11897,
+   "word_end": 11983,
+   "word_count": 86,
+   "speaker": "DEAN",
+   "bioguide_id": "D000631",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i thank you representative bera and god bless"
+  },
+  {
+   "turn_index": 223,
+   "parser_turn_index": 86,
+   "word_start": 11983,
+   "word_end": 11993,
+   "word_count": 10,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d088"
+   ],
+   "first_words": "whatever anybody would do i would try to"
+  },
+  {
+   "turn_index": 224,
+   "parser_turn_index": 87,
+   "word_start": 11993,
+   "word_end": 12000,
+   "word_count": 7,
+   "speaker": "DEAN",
+   "bioguide_id": "D000631",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i agree i would too secretary rubio"
+  },
+  {
+   "turn_index": 225,
+   "parser_turn_index": 87,
+   "word_start": 12000,
+   "word_end": 12012,
+   "word_count": 12,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d089"
+   ],
+   "first_words": "and that is what we do more than"
+  },
+  {
+   "turn_index": 226,
+   "parser_turn_index": 88,
+   "word_start": 12012,
+   "word_end": 12129,
+   "word_count": 117,
+   "speaker": "DEAN",
+   "bioguide_id": "D000631",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "anybody would do that we would go out"
+  },
+  {
+   "turn_index": 227,
+   "parser_turn_index": 88,
+   "word_start": 12129,
+   "word_end": 12135,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d090"
+   ],
+   "first_words": "we will give you 5 seconds"
+  },
+  {
+   "turn_index": 228,
+   "parser_turn_index": 89,
+   "word_start": 12135,
+   "word_end": 12138,
+   "word_count": 3,
+   "speaker": "DEAN",
+   "bioguide_id": "D000631",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "five chairman mast"
+  },
+  {
+   "turn_index": 229,
+   "parser_turn_index": 89,
+   "word_start": 12138,
+   "word_end": 12139,
+   "word_count": 1,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d091"
+   ],
+   "first_words": "additional"
+  },
+  {
+   "turn_index": 230,
+   "parser_turn_index": 90,
+   "word_start": 12139,
+   "word_end": 12264,
+   "word_count": 125,
+   "speaker": "DEAN",
+   "bioguide_id": "D000631",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "innocent children are dying mr secretary pope leo"
+  },
+  {
+   "turn_index": 231,
+   "parser_turn_index": 90,
+   "word_start": 12264,
+   "word_end": 12277,
+   "word_count": 13,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d092"
+   ],
+   "first_words": "the gentlelady's time is expired the chair now"
+  },
+  {
+   "turn_index": 232,
+   "parser_turn_index": 91,
+   "word_start": 12277,
+   "word_end": 12298,
+   "word_count": 21,
+   "speaker": "DEAN",
+   "bioguide_id": "D000631",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "maybe the secretary could answer mr chairman could"
+  },
+  {
+   "turn_index": 233,
+   "parser_turn_index": 91,
+   "word_start": 12298,
+   "word_end": 12319,
+   "word_count": 21,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d093"
+   ],
+   "first_words": "i don't think you have a question out"
+  },
+  {
+   "turn_index": 234,
+   "parser_turn_index": 92,
+   "word_start": 12319,
+   "word_end": 12357,
+   "word_count": 38,
+   "speaker": "BURCHETT",
+   "bioguide_id": "B001309",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chair mr secretary how do"
+  },
+  {
+   "turn_index": 235,
+   "parser_turn_index": 92,
+   "word_start": 12357,
+   "word_end": 12445,
+   "word_count": 88,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d094"
+   ],
+   "first_words": "i am going to get to your question"
+  },
+  {
+   "turn_index": 236,
+   "parser_turn_index": 93,
+   "word_start": 12445,
+   "word_end": 12450,
+   "word_count": 5,
+   "speaker": "DEAN",
+   "bioguide_id": "D000631",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i thank you secretary rubio"
+  },
+  {
+   "turn_index": 237,
+   "parser_turn_index": 93,
+   "word_start": 12450,
+   "word_end": 12759,
+   "word_count": 309,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d095"
+   ],
+   "first_words": "as far as your question about entrenched foreign"
+  },
+  {
+   "turn_index": 238,
+   "parser_turn_index": 94,
+   "word_start": 12759,
+   "word_end": 12797,
+   "word_count": 38,
+   "speaker": "BURCHETT",
+   "bioguide_id": "B001309",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you could have just said put the best"
+  },
+  {
+   "turn_index": 239,
+   "parser_turn_index": 94,
+   "word_start": 12797,
+   "word_end": 12923,
+   "word_count": 126,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d096"
+   ],
+   "first_words": "well i believe that classification is now once"
+  },
+  {
+   "turn_index": 240,
+   "parser_turn_index": 95,
+   "word_start": 12923,
+   "word_end": 12950,
+   "word_count": 27,
+   "speaker": "BURCHETT",
+   "bioguide_id": "B001309",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "can we ensure that america won't be attacked"
+  },
+  {
+   "turn_index": 241,
+   "parser_turn_index": 95,
+   "word_start": 12950,
+   "word_end": 13054,
+   "word_count": 104,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d097"
+   ],
+   "first_words": "well that is what we need to ensure"
+  },
+  {
+   "turn_index": 242,
+   "parser_turn_index": 96,
+   "word_start": 13054,
+   "word_end": 13156,
+   "word_count": 102,
+   "speaker": "BURCHETT",
+   "bioguide_id": "B001309",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you also i have been working on"
+  },
+  {
+   "turn_index": 243,
+   "parser_turn_index": 96,
+   "word_start": 13156,
+   "word_end": 13204,
+   "word_count": 48,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d098"
+   ],
+   "first_words": "well i haven't seen the bill i certainly"
+  },
+  {
+   "turn_index": 244,
+   "parser_turn_index": 97,
+   "word_start": 13204,
+   "word_end": 13286,
+   "word_count": 82,
+   "speaker": "BURCHETT",
+   "bioguide_id": "B001309",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "we were told that it possibly is and"
+  },
+  {
+   "turn_index": 245,
+   "parser_turn_index": 97,
+   "word_start": 13286,
+   "word_end": 13391,
+   "word_count": 105,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d099"
+   ],
+   "first_words": "well ultimately that will require a decision and"
+  },
+  {
+   "turn_index": 246,
+   "parser_turn_index": 98,
+   "word_start": 13391,
+   "word_end": 13468,
+   "word_count": 77,
+   "speaker": "BURCHETT",
+   "bioguide_id": "B001309",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "sure i would remind you and this body"
+  },
+  {
+   "turn_index": 247,
+   "parser_turn_index": 98,
+   "word_start": 13468,
+   "word_end": 13480,
+   "word_count": 12,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d100"
+   ],
+   "first_words": "the gentleman's time is expired the chair now"
+  },
+  {
+   "turn_index": 248,
+   "parser_turn_index": 98,
+   "word_start": 13480,
+   "word_end": 13481,
+   "word_count": 1,
+   "speaker": "BURCHETT",
+   "bioguide_id": "B001309",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "texas"
+  },
+  {
+   "turn_index": 249,
+   "parser_turn_index": 99,
+   "word_start": 13481,
+   "word_end": 13971,
+   "word_count": 490,
+   "speaker": "CASTRO",
+   "bioguide_id": "C001091",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you chairman and thank you secretary thank"
+  },
+  {
+   "turn_index": 250,
+   "parser_turn_index": 99,
+   "word_start": 13971,
+   "word_end": 14137,
+   "word_count": 166,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d101"
+   ],
+   "first_words": "well 350 000 people have not been sent"
+  },
+  {
+   "turn_index": 251,
+   "parser_turn_index": 100,
+   "word_start": 14137,
+   "word_end": 14166,
+   "word_count": 29,
+   "speaker": "CASTRO",
+   "bioguide_id": "C001091",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i guess because look we are both part"
+  },
+  {
+   "turn_index": 252,
+   "parser_turn_index": 100,
+   "word_start": 14166,
+   "word_end": 14186,
+   "word_count": 20,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d102"
+   ],
+   "first_words": "of course not the majority are not but"
+  },
+  {
+   "turn_index": 253,
+   "parser_turn_index": 101,
+   "word_start": 14186,
+   "word_end": 14224,
+   "word_count": 38,
+   "speaker": "CASTRO",
+   "bioguide_id": "C001091",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well yes but so because there is a"
+  },
+  {
+   "turn_index": 254,
+   "parser_turn_index": 101,
+   "word_start": 14224,
+   "word_end": 14229,
+   "word_count": 5,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d103"
+   ],
+   "first_words": "no they have the right"
+  },
+  {
+   "turn_index": 255,
+   "parser_turn_index": 102,
+   "word_start": 14229,
+   "word_end": 14240,
+   "word_count": 11,
+   "speaker": "CASTRO",
+   "bioguide_id": "C001091",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "no review no nothing for any of their"
+  },
+  {
+   "turn_index": 256,
+   "parser_turn_index": 102,
+   "word_start": 14240,
+   "word_end": 14263,
+   "word_count": 23,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d104"
+   ],
+   "first_words": "well again it is not my department we"
+  },
+  {
+   "turn_index": 257,
+   "parser_turn_index": 103,
+   "word_start": 14263,
+   "word_end": 14295,
+   "word_count": 32,
+   "speaker": "CASTRO",
+   "bioguide_id": "C001091",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well but she said she consulted with you"
+  },
+  {
+   "turn_index": 258,
+   "parser_turn_index": 103,
+   "word_start": 14295,
+   "word_end": 14319,
+   "word_count": 24,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d105"
+   ],
+   "first_words": "yes but the problem is the previous administration"
+  },
+  {
+   "turn_index": 259,
+   "parser_turn_index": 104,
+   "word_start": 14319,
+   "word_end": 14335,
+   "word_count": 16,
+   "speaker": "CASTRO",
+   "bioguide_id": "C001091",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "they did things that have been done in"
+  },
+  {
+   "turn_index": 260,
+   "parser_turn_index": 104,
+   "word_start": 14335,
+   "word_end": 14389,
+   "word_count": 54,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d106"
+   ],
+   "first_words": "but never in this mass migration event look"
+  },
+  {
+   "turn_index": 261,
+   "parser_turn_index": 105,
+   "word_start": 14389,
+   "word_end": 14399,
+   "word_count": 10,
+   "speaker": "CASTRO",
+   "bioguide_id": "C001091",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i have to yield remaining time to congresswoman"
+  },
+  {
+   "turn_index": 262,
+   "parser_turn_index": 106,
+   "word_start": 14399,
+   "word_end": 14517,
+   "word_count": 118,
+   "speaker": "KAMLAGER-DOVE",
+   "bioguide_id": "K000400",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you for that representative castro i have"
+  },
+  {
+   "turn_index": 263,
+   "parser_turn_index": 106,
+   "word_start": 14517,
+   "word_end": 14520,
+   "word_count": 3,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d107"
+   ],
+   "first_words": "one hundred percent"
+  },
+  {
+   "turn_index": 264,
+   "parser_turn_index": 107,
+   "word_start": 14520,
+   "word_end": 14524,
+   "word_count": 4,
+   "speaker": "KAMLAGER-DOVE",
+   "bioguide_id": "K000400",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you chairman mast"
+  },
+  {
+   "turn_index": 265,
+   "parser_turn_index": 107,
+   "word_start": 14524,
+   "word_end": 14530,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d108"
+   ],
+   "first_words": "the chair now recognizes representative perry"
+  },
+  {
+   "turn_index": 266,
+   "parser_turn_index": 108,
+   "word_start": 14530,
+   "word_end": 14683,
+   "word_count": 153,
+   "speaker": "Perry",
+   "bioguide_id": "P000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman mr secretary great to"
+  },
+  {
+   "turn_index": 267,
+   "parser_turn_index": 108,
+   "word_start": 14683,
+   "word_end": 14692,
+   "word_count": 9,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d109"
+   ],
+   "first_words": "we are not working with them anymore i"
+  },
+  {
+   "turn_index": 268,
+   "parser_turn_index": 109,
+   "word_start": 14692,
+   "word_end": 14706,
+   "word_count": 14,
+   "speaker": "Perry",
+   "bioguide_id": "P000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "are they going to continue to receive funding"
+  },
+  {
+   "turn_index": 269,
+   "parser_turn_index": 109,
+   "word_start": 14706,
+   "word_end": 14740,
+   "word_count": 34,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d110"
+   ],
+   "first_words": "no i mean we are done with that"
+  },
+  {
+   "turn_index": 270,
+   "parser_turn_index": 110,
+   "word_start": 14740,
+   "word_end": 14790,
+   "word_count": 50,
+   "speaker": "Perry",
+   "bioguide_id": "P000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and what is the administration doing vis a"
+  },
+  {
+   "turn_index": 271,
+   "parser_turn_index": 110,
+   "word_start": 14790,
+   "word_end": 14953,
+   "word_count": 163,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d111"
+   ],
+   "first_words": "well we have made very clear we are"
+  },
+  {
+   "turn_index": 272,
+   "parser_turn_index": 111,
+   "word_start": 14953,
+   "word_end": 15066,
+   "word_count": 113,
+   "speaker": "Perry",
+   "bioguide_id": "P000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "appreciate your answer and your dedication to that"
+  },
+  {
+   "turn_index": 273,
+   "parser_turn_index": 111,
+   "word_start": 15066,
+   "word_end": 15449,
+   "word_count": 383,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d112"
+   ],
+   "first_words": "yes well i think the first starts with"
+  },
+  {
+   "turn_index": 274,
+   "parser_turn_index": 111,
+   "word_start": 15449,
+   "word_end": 15450,
+   "word_count": 1,
+   "speaker": "Perry",
+   "bioguide_id": "P000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "on"
+  },
+  {
+   "turn_index": 275,
+   "parser_turn_index": 112,
+   "word_start": 15450,
+   "word_end": 15539,
+   "word_count": 89,
+   "speaker": "Perry",
+   "bioguide_id": "P000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "appreciate that and finally mr secretary the president's"
+  },
+  {
+   "turn_index": 276,
+   "parser_turn_index": 112,
+   "word_start": 15539,
+   "word_end": 15691,
+   "word_count": 152,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d113"
+   ],
+   "first_words": "first of all 85 percent of recipients under"
+  },
+  {
+   "turn_index": 277,
+   "parser_turn_index": 113,
+   "word_start": 15691,
+   "word_end": 15695,
+   "word_count": 4,
+   "speaker": "Perry",
+   "bioguide_id": "P000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you chairman mast"
+  },
+  {
+   "turn_index": 278,
+   "parser_turn_index": 113,
+   "word_start": 15695,
+   "word_end": 15700,
+   "word_count": 5,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d114"
+   ],
+   "first_words": "the chair recognizes representative titus"
+  },
+  {
+   "turn_index": 279,
+   "parser_turn_index": 114,
+   "word_start": 15700,
+   "word_end": 16018,
+   "word_count": 318,
+   "speaker": "Titus",
+   "bioguide_id": "T000468",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman thank you mr secretary"
+  },
+  {
+   "turn_index": 280,
+   "parser_turn_index": 114,
+   "word_start": 16018,
+   "word_end": 16146,
+   "word_count": 128,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d115"
+   ],
+   "first_words": "no consular affairs may actually be expanded and"
+  },
+  {
+   "turn_index": 281,
+   "parser_turn_index": 115,
+   "word_start": 16146,
+   "word_end": 16161,
+   "word_count": 15,
+   "speaker": "Titus",
+   "bioguide_id": "T000468",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "how are you going to do that with"
+  },
+  {
+   "turn_index": 282,
+   "parser_turn_index": 115,
+   "word_start": 16161,
+   "word_end": 16180,
+   "word_count": 19,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d116"
+   ],
+   "first_words": "there is no 84 percent i think you"
+  },
+  {
+   "turn_index": 283,
+   "parser_turn_index": 116,
+   "word_start": 16180,
+   "word_end": 16192,
+   "word_count": 12,
+   "speaker": "Titus",
+   "bioguide_id": "T000468",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i know that is part of it but"
+  },
+  {
+   "turn_index": 284,
+   "parser_turn_index": 116,
+   "word_start": 16192,
+   "word_end": 16338,
+   "word_count": 146,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d117"
+   ],
+   "first_words": "yes but when it comes to the state"
+  },
+  {
+   "turn_index": 285,
+   "parser_turn_index": 117,
+   "word_start": 16338,
+   "word_end": 16395,
+   "word_count": 57,
+   "speaker": "Titus",
+   "bioguide_id": "T000468",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well i am glad to hear you say"
+  },
+  {
+   "turn_index": 286,
+   "parser_turn_index": 117,
+   "word_start": 16395,
+   "word_end": 16424,
+   "word_count": 29,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d118"
+   ],
+   "first_words": "there is no proposal at this time to"
+  },
+  {
+   "turn_index": 287,
+   "parser_turn_index": 118,
+   "word_start": 16424,
+   "word_end": 16431,
+   "word_count": 7,
+   "speaker": "Titus",
+   "bioguide_id": "T000468",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so that is not happening secretary rubio"
+  },
+  {
+   "turn_index": 288,
+   "parser_turn_index": 118,
+   "word_start": 16431,
+   "word_end": 16440,
+   "word_count": 9,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d119"
+   ],
+   "first_words": "none are proposed and i think i would"
+  },
+  {
+   "turn_index": 289,
+   "parser_turn_index": 119,
+   "word_start": 16440,
+   "word_end": 16549,
+   "word_count": 109,
+   "speaker": "Titus",
+   "bioguide_id": "T000468",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well ok let's check that out and see"
+  },
+  {
+   "turn_index": 290,
+   "parser_turn_index": 119,
+   "word_start": 16549,
+   "word_end": 16625,
+   "word_count": 76,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d120"
+   ],
+   "first_words": "that is primarily a dhs responsibility for the"
+  },
+  {
+   "turn_index": 291,
+   "parser_turn_index": 120,
+   "word_start": 16625,
+   "word_end": 16648,
+   "word_count": 23,
+   "speaker": "Titus",
+   "bioguide_id": "T000468",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i suspect these people are vetted as much"
+  },
+  {
+   "turn_index": 292,
+   "parser_turn_index": 120,
+   "word_start": 16648,
+   "word_end": 16712,
+   "word_count": 64,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d121"
+   ],
+   "first_words": "well some of them they include dependents and"
+  },
+  {
+   "turn_index": 293,
+   "parser_turn_index": 121,
+   "word_start": 16712,
+   "word_end": 16737,
+   "word_count": 25,
+   "speaker": "Titus",
+   "bioguide_id": "T000468",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so but we are going to continue with"
+  },
+  {
+   "turn_index": 294,
+   "parser_turn_index": 121,
+   "word_start": 16737,
+   "word_end": 16762,
+   "word_count": 25,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d122"
+   ],
+   "first_words": "well we are going to comply with the"
+  },
+  {
+   "turn_index": 295,
+   "parser_turn_index": 122,
+   "word_start": 16762,
+   "word_end": 16821,
+   "word_count": 59,
+   "speaker": "Titus",
+   "bioguide_id": "T000468",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well i didn't say that i know we"
+  },
+  {
+   "turn_index": 296,
+   "parser_turn_index": 122,
+   "word_start": 16821,
+   "word_end": 16831,
+   "word_count": 10,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d123"
+   ],
+   "first_words": "the chair now recognizes representative jackson mr jackson"
+  },
+  {
+   "turn_index": 297,
+   "parser_turn_index": 122,
+   "word_start": 16831,
+   "word_end": 17202,
+   "word_count": 371,
+   "speaker": "Jackson of Texas",
+   "bioguide_id": "J000304",
+   "source": "review",
+   "span_ids": [
+    "d124"
+   ],
+   "first_words": "thank you mr chairman and thank you chairman"
+  },
+  {
+   "turn_index": 298,
+   "parser_turn_index": 122,
+   "word_start": 17202,
+   "word_end": 17267,
+   "word_count": 65,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d125"
+   ],
+   "first_words": "yes on your first two questions and an"
+  },
+  {
+   "turn_index": 299,
+   "parser_turn_index": 122,
+   "word_start": 17267,
+   "word_end": 17291,
+   "word_count": 24,
+   "speaker": "Jackson of Texas",
+   "bioguide_id": "J000304",
+   "source": "review",
+   "span_ids": [
+    "d126"
+   ],
+   "first_words": "thank you sir i appreciate that and with"
+  },
+  {
+   "turn_index": 300,
+   "parser_turn_index": 123,
+   "word_start": 17291,
+   "word_end": 17373,
+   "word_count": 82,
+   "speaker": "Mackenzie",
+   "bioguide_id": "M001230",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr secretary in your opening remarks"
+  },
+  {
+   "turn_index": 301,
+   "parser_turn_index": 123,
+   "word_start": 17373,
+   "word_end": 17899,
+   "word_count": 526,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d127"
+   ],
+   "first_words": "yes well first of all let me say"
+  },
+  {
+   "turn_index": 302,
+   "parser_turn_index": 124,
+   "word_start": 17899,
+   "word_end": 17907,
+   "word_count": 8,
+   "speaker": "Mackenzie",
+   "bioguide_id": "M001230",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you and i yield back chairman mast"
+  },
+  {
+   "turn_index": 303,
+   "parser_turn_index": 124,
+   "word_start": 17907,
+   "word_end": 17912,
+   "word_count": 5,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d128"
+   ],
+   "first_words": "the chair recognizes representative lieu"
+  },
+  {
+   "turn_index": 304,
+   "parser_turn_index": 125,
+   "word_start": 17912,
+   "word_end": 17959,
+   "word_count": 47,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chair secretary rubio thank you"
+  },
+  {
+   "turn_index": 305,
+   "parser_turn_index": 125,
+   "word_start": 17959,
+   "word_end": 17961,
+   "word_count": 2,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d129"
+   ],
+   "first_words": "of course"
+  },
+  {
+   "turn_index": 306,
+   "parser_turn_index": 126,
+   "word_start": 17961,
+   "word_end": 18002,
+   "word_count": 41,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ok and in our system of government it"
+  },
+  {
+   "turn_index": 307,
+   "parser_turn_index": 126,
+   "word_start": 18002,
+   "word_end": 18010,
+   "word_count": 8,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d130"
+   ],
+   "first_words": "within the context of separation of powers yes"
+  },
+  {
+   "turn_index": 308,
+   "parser_turn_index": 127,
+   "word_start": 18010,
+   "word_end": 18112,
+   "word_count": 102,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ok and the reason that due process is"
+  },
+  {
+   "turn_index": 309,
+   "parser_turn_index": 127,
+   "word_start": 18112,
+   "word_end": 18131,
+   "word_count": 19,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d131"
+   ],
+   "first_words": "well i don't believe he was wrongfully deported"
+  },
+  {
+   "turn_index": 310,
+   "parser_turn_index": 128,
+   "word_start": 18131,
+   "word_end": 18155,
+   "word_count": 24,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "that is not my question do you believe"
+  },
+  {
+   "turn_index": 311,
+   "parser_turn_index": 128,
+   "word_start": 18155,
+   "word_end": 18209,
+   "word_count": 54,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d132"
+   ],
+   "first_words": "within the context of separation of powers though"
+  },
+  {
+   "turn_index": 312,
+   "parser_turn_index": 129,
+   "word_start": 18209,
+   "word_end": 18230,
+   "word_count": 21,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i am just asking you do you believe"
+  },
+  {
+   "turn_index": 313,
+   "parser_turn_index": 129,
+   "word_start": 18230,
+   "word_end": 18236,
+   "word_count": 6,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d133"
+   ],
+   "first_words": "i believe we are following it"
+  },
+  {
+   "turn_index": 314,
+   "parser_turn_index": 130,
+   "word_start": 18236,
+   "word_end": 18267,
+   "word_count": 31,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ok so my next question is what steps"
+  },
+  {
+   "turn_index": 315,
+   "parser_turn_index": 130,
+   "word_start": 18267,
+   "word_end": 18298,
+   "word_count": 31,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d134"
+   ],
+   "first_words": "the conduct of our foreign policy is an"
+  },
+  {
+   "turn_index": 316,
+   "parser_turn_index": 131,
+   "word_start": 18298,
+   "word_end": 18319,
+   "word_count": 21,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well let me ask you this have you"
+  },
+  {
+   "turn_index": 317,
+   "parser_turn_index": 131,
+   "word_start": 18319,
+   "word_end": 18388,
+   "word_count": 69,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d135"
+   ],
+   "first_words": "we have taken steps but i am not"
+  },
+  {
+   "turn_index": 318,
+   "parser_turn_index": 132,
+   "word_start": 18388,
+   "word_end": 18401,
+   "word_count": 13,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so you have taken steps to facilitate mr"
+  },
+  {
+   "turn_index": 319,
+   "parser_turn_index": 132,
+   "word_start": 18401,
+   "word_end": 18412,
+   "word_count": 11,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d136"
+   ],
+   "first_words": "we have made those assertions in court and"
+  },
+  {
+   "turn_index": 320,
+   "parser_turn_index": 133,
+   "word_start": 18412,
+   "word_end": 18535,
+   "word_count": 123,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i thank you i appreciate that i would"
+  },
+  {
+   "turn_index": 321,
+   "parser_turn_index": 133,
+   "word_start": 18535,
+   "word_end": 18546,
+   "word_count": 11,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d137"
+   ],
+   "first_words": "yes that is why we are trying to"
+  },
+  {
+   "turn_index": 322,
+   "parser_turn_index": 134,
+   "word_start": 18546,
+   "word_end": 18608,
+   "word_count": 62,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "all right on april 30 2018 you tweeted"
+  },
+  {
+   "turn_index": 323,
+   "parser_turn_index": 134,
+   "word_start": 18608,
+   "word_end": 18618,
+   "word_count": 10,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d138"
+   ],
+   "first_words": "we have supported them more than anyone in"
+  },
+  {
+   "turn_index": 324,
+   "parser_turn_index": 135,
+   "word_start": 18618,
+   "word_end": 18765,
+   "word_count": 147,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "unfortunately it appears secretary of defense pete hegseth"
+  },
+  {
+   "turn_index": 325,
+   "parser_turn_index": 135,
+   "word_start": 18765,
+   "word_end": 18786,
+   "word_count": 21,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d139"
+   ],
+   "first_words": "i can't comment on that because i don't"
+  },
+  {
+   "turn_index": 326,
+   "parser_turn_index": 136,
+   "word_start": 18786,
+   "word_end": 18803,
+   "word_count": 17,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so your understanding is he never told you"
+  },
+  {
+   "turn_index": 327,
+   "parser_turn_index": 136,
+   "word_start": 18803,
+   "word_end": 18819,
+   "word_count": 16,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d140"
+   ],
+   "first_words": "i just know we are providing them assistance"
+  },
+  {
+   "turn_index": 328,
+   "parser_turn_index": 137,
+   "word_start": 18819,
+   "word_end": 18895,
+   "word_count": 76,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "in 2016 you stated the following from his"
+  },
+  {
+   "turn_index": 329,
+   "parser_turn_index": 137,
+   "word_start": 18895,
+   "word_end": 18943,
+   "word_count": 48,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d141"
+   ],
+   "first_words": "i would agree that in my role as"
+  },
+  {
+   "turn_index": 330,
+   "parser_turn_index": 138,
+   "word_start": 18943,
+   "word_end": 19027,
+   "word_count": 84,
+   "speaker": "Lieu",
+   "bioguide_id": "L000582",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you and trying to end the war"
+  },
+  {
+   "turn_index": 331,
+   "parser_turn_index": 138,
+   "word_start": 19027,
+   "word_end": 19033,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d142"
+   ],
+   "first_words": "the chair now recognizes representative kim"
+  },
+  {
+   "turn_index": 332,
+   "parser_turn_index": 139,
+   "word_start": 19033,
+   "word_end": 19258,
+   "word_count": 225,
+   "speaker": "Kim",
+   "bioguide_id": "K000397",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you chairman secretary rubio thank you so"
+  },
+  {
+   "turn_index": 333,
+   "parser_turn_index": 139,
+   "word_start": 19258,
+   "word_end": 19520,
+   "word_count": 262,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d143"
+   ],
+   "first_words": "well you have asked one of the questions"
+  },
+  {
+   "turn_index": 334,
+   "parser_turn_index": 140,
+   "word_start": 19520,
+   "word_end": 19627,
+   "word_count": 107,
+   "speaker": "Kim",
+   "bioguide_id": "K000397",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you secretary rubio i want to talk"
+  },
+  {
+   "turn_index": 335,
+   "parser_turn_index": 140,
+   "word_start": 19627,
+   "word_end": 19757,
+   "word_count": 130,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d144"
+   ],
+   "first_words": "yes and obviously that is going through the"
+  },
+  {
+   "turn_index": 336,
+   "parser_turn_index": 141,
+   "word_start": 19757,
+   "word_end": 19796,
+   "word_count": 39,
+   "speaker": "Kim",
+   "bioguide_id": "K000397",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and make sure that the advocating for north"
+  },
+  {
+   "turn_index": 337,
+   "parser_turn_index": 142,
+   "word_start": 19796,
+   "word_end": 19867,
+   "word_count": 71,
+   "speaker": "Moylan",
+   "bioguide_id": "M001219",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr secretary just got about a"
+  },
+  {
+   "turn_index": 338,
+   "parser_turn_index": 142,
+   "word_start": 19867,
+   "word_end": 19966,
+   "word_count": 99,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d145"
+   ],
+   "first_words": "we have a unit that deals with subnational"
+  },
+  {
+   "turn_index": 339,
+   "parser_turn_index": 143,
+   "word_start": 19966,
+   "word_end": 19977,
+   "word_count": 11,
+   "speaker": "Moylan",
+   "bioguide_id": "M001219",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chair i yield back thank"
+  },
+  {
+   "turn_index": 340,
+   "parser_turn_index": 143,
+   "word_start": 19977,
+   "word_end": 19982,
+   "word_count": 5,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d146"
+   ],
+   "first_words": "the chair recognizes representative jacobs"
+  },
+  {
+   "turn_index": 341,
+   "parser_turn_index": 144,
+   "word_start": 19982,
+   "word_end": 20054,
+   "word_count": 72,
+   "speaker": "Jacobs",
+   "bioguide_id": "J000305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman mr secretary i want"
+  },
+  {
+   "turn_index": 342,
+   "parser_turn_index": 144,
+   "word_start": 20054,
+   "word_end": 20070,
+   "word_count": 16,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d147"
+   ],
+   "first_words": "we are very concerned about what both sides"
+  },
+  {
+   "turn_index": 343,
+   "parser_turn_index": 145,
+   "word_start": 20070,
+   "word_end": 20308,
+   "word_count": 238,
+   "speaker": "Jacobs",
+   "bioguide_id": "J000305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "correct i agree with that you also said"
+  },
+  {
+   "turn_index": 344,
+   "parser_turn_index": 145,
+   "word_start": 20308,
+   "word_end": 20330,
+   "word_count": 22,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d148"
+   ],
+   "first_words": "i think no matter who is president they"
+  },
+  {
+   "turn_index": 345,
+   "parser_turn_index": 146,
+   "word_start": 20330,
+   "word_end": 20359,
+   "word_count": 29,
+   "speaker": "Jacobs",
+   "bioguide_id": "J000305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "that is not my question we can have"
+  },
+  {
+   "turn_index": 346,
+   "parser_turn_index": 146,
+   "word_start": 20359,
+   "word_end": 20461,
+   "word_count": 102,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d149"
+   ],
+   "first_words": "you are making claims about corruption and i"
+  },
+  {
+   "turn_index": 347,
+   "parser_turn_index": 147,
+   "word_start": 20461,
+   "word_end": 20534,
+   "word_count": 73,
+   "speaker": "Jacobs",
+   "bioguide_id": "J000305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "secretary rubio i don't disagree with you i"
+  },
+  {
+   "turn_index": 348,
+   "parser_turn_index": 147,
+   "word_start": 20534,
+   "word_end": 20586,
+   "word_count": 52,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d150"
+   ],
+   "first_words": "no you are making claims the president's family"
+  },
+  {
+   "turn_index": 349,
+   "parser_turn_index": 148,
+   "word_start": 20586,
+   "word_end": 20721,
+   "word_count": 135,
+   "speaker": "Jacobs",
+   "bioguide_id": "J000305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "secretary rubio that is just silly president trump"
+  },
+  {
+   "turn_index": 350,
+   "parser_turn_index": 148,
+   "word_start": 20721,
+   "word_end": 20782,
+   "word_count": 61,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d151"
+   ],
+   "first_words": "i don't accept the premise of your question"
+  },
+  {
+   "turn_index": 351,
+   "parser_turn_index": 149,
+   "word_start": 20782,
+   "word_end": 20870,
+   "word_count": 88,
+   "speaker": "Jacobs",
+   "bioguide_id": "J000305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr secretary this is a clear conflict of"
+  },
+  {
+   "turn_index": 352,
+   "parser_turn_index": 149,
+   "word_start": 20870,
+   "word_end": 20879,
+   "word_count": 9,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d152"
+   ],
+   "first_words": "that is an accusation you make about good"
+  },
+  {
+   "turn_index": 353,
+   "parser_turn_index": 150,
+   "word_start": 20879,
+   "word_end": 20896,
+   "word_count": 17,
+   "speaker": "Jacobs",
+   "bioguide_id": "J000305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "with that i am going to yield the"
+  },
+  {
+   "turn_index": 354,
+   "parser_turn_index": 150,
+   "word_start": 20896,
+   "word_end": 20922,
+   "word_count": 26,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d153"
+   ],
+   "first_words": "we have to conduct the foreign policy while"
+  },
+  {
+   "turn_index": 355,
+   "parser_turn_index": 151,
+   "word_start": 20922,
+   "word_end": 20933,
+   "word_count": 11,
+   "speaker": "Olszewski",
+   "bioguide_id": "O000176",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "reclaiming my time mr chairman thank you mr"
+  },
+  {
+   "turn_index": 356,
+   "parser_turn_index": 151,
+   "word_start": 20933,
+   "word_end": 20942,
+   "word_count": 9,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d154"
+   ],
+   "first_words": "we have to deal with uae we have"
+  },
+  {
+   "turn_index": 357,
+   "parser_turn_index": 152,
+   "word_start": 20942,
+   "word_end": 21007,
+   "word_count": 65,
+   "speaker": "Olszewski",
+   "bioguide_id": "O000176",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "a softball for you yes or no since"
+  },
+  {
+   "turn_index": 358,
+   "parser_turn_index": 152,
+   "word_start": 21007,
+   "word_end": 21015,
+   "word_count": 8,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d155"
+   ],
+   "first_words": "that offer has never been made to me"
+  },
+  {
+   "turn_index": 359,
+   "parser_turn_index": 153,
+   "word_start": 21015,
+   "word_end": 21024,
+   "word_count": 9,
+   "speaker": "Olszewski",
+   "bioguide_id": "O000176",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes so you would reject that offer secretary"
+  },
+  {
+   "turn_index": 360,
+   "parser_turn_index": 153,
+   "word_start": 21024,
+   "word_end": 21030,
+   "word_count": 6,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d156"
+   ],
+   "first_words": "the offer of a rolls royce"
+  },
+  {
+   "turn_index": 361,
+   "parser_turn_index": 154,
+   "word_start": 21030,
+   "word_end": 21033,
+   "word_count": 3,
+   "speaker": "Olszewski",
+   "bioguide_id": "O000176",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes secretary rubio"
+  },
+  {
+   "turn_index": 362,
+   "parser_turn_index": 154,
+   "word_start": 21033,
+   "word_end": 21046,
+   "word_count": 13,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d157"
+   ],
+   "first_words": "i don't understand the purpose of that question"
+  },
+  {
+   "turn_index": 363,
+   "parser_turn_index": 155,
+   "word_start": 21046,
+   "word_end": 21058,
+   "word_count": 12,
+   "speaker": "Olszewski",
+   "bioguide_id": "O000176",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "the fact that you can't answer the question"
+  },
+  {
+   "turn_index": 364,
+   "parser_turn_index": 155,
+   "word_start": 21058,
+   "word_end": 21066,
+   "word_count": 8,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d158"
+   ],
+   "first_words": "i just answered i said it is silly"
+  },
+  {
+   "turn_index": 365,
+   "parser_turn_index": 156,
+   "word_start": 21066,
+   "word_end": 21075,
+   "word_count": 9,
+   "speaker": "Olszewski",
+   "bioguide_id": "O000176",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "because you would accept it or not secretary"
+  },
+  {
+   "turn_index": 366,
+   "parser_turn_index": 156,
+   "word_start": 21075,
+   "word_end": 21092,
+   "word_count": 17,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d159"
+   ],
+   "first_words": "of course not who would accept it no"
+  },
+  {
+   "turn_index": 367,
+   "parser_turn_index": 157,
+   "word_start": 21092,
+   "word_end": 21190,
+   "word_count": 98,
+   "speaker": "Olszewski",
+   "bioguide_id": "O000176",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well then i think you should maybe perhaps"
+  },
+  {
+   "turn_index": 368,
+   "parser_turn_index": 157,
+   "word_start": 21190,
+   "word_end": 21206,
+   "word_count": 16,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d160"
+   ],
+   "first_words": "the gentleman's time is expired the gentleman's time"
+  },
+  {
+   "turn_index": 369,
+   "parser_turn_index": 158,
+   "word_start": 21206,
+   "word_end": 21363,
+   "word_count": 157,
+   "speaker": "Huizenga",
+   "bioguide_id": "H001058",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman and secretary rubio good"
+  },
+  {
+   "turn_index": 370,
+   "parser_turn_index": 158,
+   "word_start": 21363,
+   "word_end": 21375,
+   "word_count": 12,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d161"
+   ],
+   "first_words": "absolutely if you pass legislation it is our"
+  },
+  {
+   "turn_index": 371,
+   "parser_turn_index": 159,
+   "word_start": 21375,
+   "word_end": 21489,
+   "word_count": 114,
+   "speaker": "Huizenga",
+   "bioguide_id": "H001058",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "right i want to move on in my"
+  },
+  {
+   "turn_index": 372,
+   "parser_turn_index": 159,
+   "word_start": 21489,
+   "word_end": 21624,
+   "word_count": 135,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d162"
+   ],
+   "first_words": "well i think the first thing is we"
+  },
+  {
+   "turn_index": 373,
+   "parser_turn_index": 160,
+   "word_start": 21624,
+   "word_end": 21758,
+   "word_count": 134,
+   "speaker": "Huizenga",
+   "bioguide_id": "H001058",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "that was going to be my followup to"
+  },
+  {
+   "turn_index": 374,
+   "parser_turn_index": 160,
+   "word_start": 21758,
+   "word_end": 21812,
+   "word_count": 54,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d163"
+   ],
+   "first_words": "well we have at the president's direction we"
+  },
+  {
+   "turn_index": 375,
+   "parser_turn_index": 161,
+   "word_start": 21812,
+   "word_end": 21841,
+   "word_count": 29,
+   "speaker": "Huizenga",
+   "bioguide_id": "H001058",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "great and we will followup with your team"
+  },
+  {
+   "turn_index": 376,
+   "parser_turn_index": 162,
+   "word_start": 21841,
+   "word_end": 21996,
+   "word_count": 155,
+   "speaker": "Zinke",
+   "bioguide_id": "Z000018",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman mr secretary great always"
+  },
+  {
+   "turn_index": 377,
+   "parser_turn_index": 162,
+   "word_start": 21996,
+   "word_end": 22132,
+   "word_count": 136,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d164"
+   ],
+   "first_words": "yes it is among one of our leading"
+  },
+  {
+   "turn_index": 378,
+   "parser_turn_index": 163,
+   "word_start": 22132,
+   "word_end": 22171,
+   "word_count": 39,
+   "speaker": "Zinke",
+   "bioguide_id": "Z000018",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i would agree and i would say our"
+  },
+  {
+   "turn_index": 379,
+   "parser_turn_index": 163,
+   "word_start": 22171,
+   "word_end": 22173,
+   "word_count": 2,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d165"
+   ],
+   "first_words": "thank you"
+  },
+  {
+   "turn_index": 380,
+   "parser_turn_index": 164,
+   "word_start": 22173,
+   "word_end": 22182,
+   "word_count": 9,
+   "speaker": "McCaul",
+   "bioguide_id": "M001157",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "the gentleman yields the chair recognizes ms cherfilus"
+  },
+  {
+   "turn_index": 381,
+   "parser_turn_index": 165,
+   "word_start": 22182,
+   "word_end": 22297,
+   "word_count": 115,
+   "speaker": "Cherfilus-McCormick",
+   "bioguide_id": "C001127",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman and thank you secretary"
+  },
+  {
+   "turn_index": 382,
+   "parser_turn_index": 165,
+   "word_start": 22297,
+   "word_end": 22418,
+   "word_count": 121,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d166"
+   ],
+   "first_words": "when it comes to jordan the remaining issues"
+  },
+  {
+   "turn_index": 383,
+   "parser_turn_index": 166,
+   "word_start": 22418,
+   "word_end": 22550,
+   "word_count": 132,
+   "speaker": "Cherfilus-McCormick",
+   "bioguide_id": "C001127",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you i wanted to shift over to"
+  },
+  {
+   "turn_index": 384,
+   "parser_turn_index": 166,
+   "word_start": 22550,
+   "word_end": 22626,
+   "word_count": 76,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d167"
+   ],
+   "first_words": "yes so we think that designating them was"
+  },
+  {
+   "turn_index": 385,
+   "parser_turn_index": 166,
+   "word_start": 22626,
+   "word_end": 22627,
+   "word_count": 1,
+   "speaker": "Cherfilus-McCormick",
+   "bioguide_id": "C001127",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "distribute"
+  },
+  {
+   "turn_index": 386,
+   "parser_turn_index": 166,
+   "word_start": 22627,
+   "word_end": 22900,
+   "word_count": 273,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d167"
+   ],
+   "first_words": "humanitarian aid are often charged for lack of"
+  },
+  {
+   "turn_index": 387,
+   "parser_turn_index": 166,
+   "word_start": 22900,
+   "word_end": 22901,
+   "word_count": 1,
+   "speaker": "Cherfilus-McCormick",
+   "bioguide_id": "C001127",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "solution"
+  },
+  {
+   "turn_index": 388,
+   "parser_turn_index": 167,
+   "word_start": 22901,
+   "word_end": 22941,
+   "word_count": 40,
+   "speaker": "Cherfilus-McCormick",
+   "bioguide_id": "C001127",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "that takes me to my next question also"
+  },
+  {
+   "turn_index": 389,
+   "parser_turn_index": 167,
+   "word_start": 22941,
+   "word_end": 23028,
+   "word_count": 87,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d168"
+   ],
+   "first_words": "yes we are going to continue to be"
+  },
+  {
+   "turn_index": 390,
+   "parser_turn_index": 168,
+   "word_start": 23028,
+   "word_end": 23094,
+   "word_count": 66,
+   "speaker": "Cherfilus-McCormick",
+   "bioguide_id": "C001127",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i have a lot of questions so i"
+  },
+  {
+   "turn_index": 391,
+   "parser_turn_index": 168,
+   "word_start": 23094,
+   "word_end": 23214,
+   "word_count": 120,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d169"
+   ],
+   "first_words": "well i think there is two limitations one"
+  },
+  {
+   "turn_index": 392,
+   "parser_turn_index": 169,
+   "word_start": 23214,
+   "word_end": 23335,
+   "word_count": 121,
+   "speaker": "Cherfilus-McCormick",
+   "bioguide_id": "C001127",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and my last since i have 1 minute"
+  },
+  {
+   "turn_index": 393,
+   "parser_turn_index": 169,
+   "word_start": 23335,
+   "word_end": 23362,
+   "word_count": 27,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d170"
+   ],
+   "first_words": "we want to increase commercial diplomacy i don't"
+  },
+  {
+   "turn_index": 394,
+   "parser_turn_index": 170,
+   "word_start": 23362,
+   "word_end": 23421,
+   "word_count": 59,
+   "speaker": "Cherfilus-McCormick",
+   "bioguide_id": "C001127",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and also increasing funding for financial institutions to"
+  },
+  {
+   "turn_index": 395,
+   "parser_turn_index": 170,
+   "word_start": 23421,
+   "word_end": 23489,
+   "word_count": 68,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d171"
+   ],
+   "first_words": "well i actually think those would lend themselves"
+  },
+  {
+   "turn_index": 396,
+   "parser_turn_index": 171,
+   "word_start": 23489,
+   "word_end": 23499,
+   "word_count": 10,
+   "speaker": "Cherfilus-McCormick",
+   "bioguide_id": "C001127",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so my understanding is that you guys chairman"
+  },
+  {
+   "turn_index": 397,
+   "parser_turn_index": 171,
+   "word_start": 23499,
+   "word_end": 23504,
+   "word_count": 5,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d172"
+   ],
+   "first_words": "the gentlelady's time is expired"
+  },
+  {
+   "turn_index": 398,
+   "parser_turn_index": 172,
+   "word_start": 23504,
+   "word_end": 23516,
+   "word_count": 12,
+   "speaker": "Cherfilus-McCormick",
+   "bioguide_id": "C001127",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you so much for your time i"
+  },
+  {
+   "turn_index": 399,
+   "parser_turn_index": 172,
+   "word_start": 23516,
+   "word_end": 23522,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d173"
+   ],
+   "first_words": "the chair now recognizes representative baird"
+  },
+  {
+   "turn_index": 400,
+   "parser_turn_index": 173,
+   "word_start": 23522,
+   "word_end": 23544,
+   "word_count": 22,
+   "speaker": "Baird",
+   "bioguide_id": "B001307",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman and mr secretary it"
+  },
+  {
+   "turn_index": 401,
+   "parser_turn_index": 173,
+   "word_start": 23544,
+   "word_end": 23547,
+   "word_count": 3,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d174"
+   ],
+   "first_words": "thank you sir"
+  },
+  {
+   "turn_index": 402,
+   "parser_turn_index": 174,
+   "word_start": 23547,
+   "word_end": 23647,
+   "word_count": 100,
+   "speaker": "Baird",
+   "bioguide_id": "B001307",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "but my question is going to focus on"
+  },
+  {
+   "turn_index": 403,
+   "parser_turn_index": 174,
+   "word_start": 23647,
+   "word_end": 23863,
+   "word_count": 216,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d175"
+   ],
+   "first_words": "well i think the one point that i"
+  },
+  {
+   "turn_index": 404,
+   "parser_turn_index": 175,
+   "word_start": 23863,
+   "word_end": 23944,
+   "word_count": 81,
+   "speaker": "Baird",
+   "bioguide_id": "B001307",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i couldn't agree with you more i think"
+  },
+  {
+   "turn_index": 405,
+   "parser_turn_index": 175,
+   "word_start": 23944,
+   "word_end": 24192,
+   "word_count": 248,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d176"
+   ],
+   "first_words": "yes so what we would look to for"
+  },
+  {
+   "turn_index": 406,
+   "parser_turn_index": 176,
+   "word_start": 24192,
+   "word_end": 24311,
+   "word_count": 119,
+   "speaker": "Baird",
+   "bioguide_id": "B001307",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "one last question it kind of continues on"
+  },
+  {
+   "turn_index": 407,
+   "parser_turn_index": 176,
+   "word_start": 24311,
+   "word_end": 24431,
+   "word_count": 120,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d177"
+   ],
+   "first_words": "well i think the answer to that is"
+  },
+  {
+   "turn_index": 408,
+   "parser_turn_index": 177,
+   "word_start": 24431,
+   "word_end": 24443,
+   "word_count": 12,
+   "speaker": "Baird",
+   "bioguide_id": "B001307",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you very much i couldn't agree with"
+  },
+  {
+   "turn_index": 409,
+   "parser_turn_index": 177,
+   "word_start": 24443,
+   "word_end": 24449,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d178"
+   ],
+   "first_words": "the chair now recognizes representative moscowitz"
+  },
+  {
+   "turn_index": 410,
+   "parser_turn_index": 178,
+   "word_start": 24449,
+   "word_end": 24528,
+   "word_count": 79,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman first let me extend"
+  },
+  {
+   "turn_index": 411,
+   "parser_turn_index": 178,
+   "word_start": 24528,
+   "word_end": 24533,
+   "word_count": 5,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d179"
+   ],
+   "first_words": "that vote never happened so"
+  },
+  {
+   "turn_index": 412,
+   "parser_turn_index": 179,
+   "word_start": 24533,
+   "word_end": 24656,
+   "word_count": 123,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i know i want to talk about iran"
+  },
+  {
+   "turn_index": 413,
+   "parser_turn_index": 179,
+   "word_start": 24656,
+   "word_end": 24737,
+   "word_count": 81,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d180"
+   ],
+   "first_words": "well here is the answer to that question"
+  },
+  {
+   "turn_index": 414,
+   "parser_turn_index": 180,
+   "word_start": 24737,
+   "word_end": 24831,
+   "word_count": 94,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "of course and that was the issues that"
+  },
+  {
+   "turn_index": 415,
+   "parser_turn_index": 180,
+   "word_start": 24831,
+   "word_end": 24844,
+   "word_count": 13,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d181"
+   ],
+   "first_words": "yes and he doesn't need that recommendation because"
+  },
+  {
+   "turn_index": 416,
+   "parser_turn_index": 181,
+   "word_start": 24844,
+   "word_end": 24871,
+   "word_count": 27,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ok is it the vice president's position in"
+  },
+  {
+   "turn_index": 417,
+   "parser_turn_index": 181,
+   "word_start": 24871,
+   "word_end": 24898,
+   "word_count": 27,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d182"
+   ],
+   "first_words": "well i am not going to describe our"
+  },
+  {
+   "turn_index": 418,
+   "parser_turn_index": 182,
+   "word_start": 24898,
+   "word_end": 24906,
+   "word_count": 8,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so that is his position then secretary rubio"
+  },
+  {
+   "turn_index": 419,
+   "parser_turn_index": 182,
+   "word_start": 24906,
+   "word_end": 24913,
+   "word_count": 7,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d183"
+   ],
+   "first_words": "the position that they shouldn't have enrichment"
+  },
+  {
+   "turn_index": 420,
+   "parser_turn_index": 183,
+   "word_start": 24913,
+   "word_end": 24921,
+   "word_count": 8,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes is that the vice president secretary rubio"
+  },
+  {
+   "turn_index": 421,
+   "parser_turn_index": 183,
+   "word_start": 24921,
+   "word_end": 24949,
+   "word_count": 28,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d184"
+   ],
+   "first_words": "yes if they have enrichment then they will"
+  },
+  {
+   "turn_index": 422,
+   "parser_turn_index": 184,
+   "word_start": 24949,
+   "word_end": 24975,
+   "word_count": 26,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "what about mr witkoff is it his position"
+  },
+  {
+   "turn_index": 423,
+   "parser_turn_index": 184,
+   "word_start": 24975,
+   "word_end": 25065,
+   "word_count": 90,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d185"
+   ],
+   "first_words": "he has said so in public interviews as"
+  },
+  {
+   "turn_index": 424,
+   "parser_turn_index": 185,
+   "word_start": 25065,
+   "word_end": 25086,
+   "word_count": 21,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so any deal with the trump administration is"
+  },
+  {
+   "turn_index": 425,
+   "parser_turn_index": 185,
+   "word_start": 25086,
+   "word_end": 25110,
+   "word_count": 24,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d186"
+   ],
+   "first_words": "the trump administration has been very clear that"
+  },
+  {
+   "turn_index": 426,
+   "parser_turn_index": 186,
+   "word_start": 25110,
+   "word_end": 25158,
+   "word_count": 48,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ok i want to shift for a second"
+  },
+  {
+   "turn_index": 427,
+   "parser_turn_index": 186,
+   "word_start": 25158,
+   "word_end": 25290,
+   "word_count": 132,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d187"
+   ],
+   "first_words": "well i am not aware of the leak"
+  },
+  {
+   "turn_index": 428,
+   "parser_turn_index": 187,
+   "word_start": 25290,
+   "word_end": 25394,
+   "word_count": 104,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well i mean they are giving polygraph tests"
+  },
+  {
+   "turn_index": 429,
+   "parser_turn_index": 187,
+   "word_start": 25394,
+   "word_end": 25418,
+   "word_count": 24,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d188"
+   ],
+   "first_words": "as far as i am aware we have"
+  },
+  {
+   "turn_index": 430,
+   "parser_turn_index": 188,
+   "word_start": 25418,
+   "word_end": 25468,
+   "word_count": 50,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ok so i just want to be clear"
+  },
+  {
+   "turn_index": 431,
+   "parser_turn_index": 188,
+   "word_start": 25468,
+   "word_end": 25538,
+   "word_count": 70,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d189"
+   ],
+   "first_words": "well i actually think the law requires it"
+  },
+  {
+   "turn_index": 432,
+   "parser_turn_index": 189,
+   "word_start": 25538,
+   "word_end": 25547,
+   "word_count": 9,
+   "speaker": "Moscowitz",
+   "bioguide_id": null,
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman i yield back chairman"
+  },
+  {
+   "turn_index": 433,
+   "parser_turn_index": 189,
+   "word_start": 25547,
+   "word_end": 25553,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d190"
+   ],
+   "first_words": "the chair now recognizes representative barr"
+  },
+  {
+   "turn_index": 434,
+   "parser_turn_index": 190,
+   "word_start": 25553,
+   "word_end": 25686,
+   "word_count": 133,
+   "speaker": "Barr",
+   "bioguide_id": "B001282",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "secretary rubio thank you for your leadership in"
+  },
+  {
+   "turn_index": 435,
+   "parser_turn_index": 190,
+   "word_start": 25686,
+   "word_end": 25721,
+   "word_count": 35,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d191"
+   ],
+   "first_words": "yes and i would further say that because"
+  },
+  {
+   "turn_index": 436,
+   "parser_turn_index": 191,
+   "word_start": 25721,
+   "word_end": 25850,
+   "word_count": 129,
+   "speaker": "Barr",
+   "bioguide_id": "B001282",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "in february as you well know president trump"
+  },
+  {
+   "turn_index": 437,
+   "parser_turn_index": 191,
+   "word_start": 25850,
+   "word_end": 25928,
+   "word_count": 78,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d192"
+   ],
+   "first_words": "yes again i haven't seen the bill but"
+  },
+  {
+   "turn_index": 438,
+   "parser_turn_index": 192,
+   "word_start": 25928,
+   "word_end": 26118,
+   "word_count": 190,
+   "speaker": "Barr",
+   "bioguide_id": "B001282",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes i am concerned that if we rely"
+  },
+  {
+   "turn_index": 439,
+   "parser_turn_index": 192,
+   "word_start": 26118,
+   "word_end": 26356,
+   "word_count": 238,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d193"
+   ],
+   "first_words": "because under the previous administration it was abundantly"
+  },
+  {
+   "turn_index": 440,
+   "parser_turn_index": 193,
+   "word_start": 26356,
+   "word_end": 26404,
+   "word_count": 48,
+   "speaker": "Barr",
+   "bioguide_id": "B001282",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well it is pretty clear that it wasn't"
+  },
+  {
+   "turn_index": 441,
+   "parser_turn_index": 193,
+   "word_start": 26404,
+   "word_end": 26413,
+   "word_count": 9,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d194"
+   ],
+   "first_words": "the chair recognizes representative jackson mr jackson of"
+  },
+  {
+   "turn_index": 442,
+   "parser_turn_index": 193,
+   "word_start": 26413,
+   "word_end": 26659,
+   "word_count": 246,
+   "speaker": "Jackson of Illinois",
+   "bioguide_id": "J000309",
+   "source": "review",
+   "span_ids": [
+    "d195"
+   ],
+   "first_words": "thank you so much and we acknowledge that"
+  },
+  {
+   "turn_index": 443,
+   "parser_turn_index": 193,
+   "word_start": 26659,
+   "word_end": 26682,
+   "word_count": 23,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d196"
+   ],
+   "first_words": "i think unity is our strength that we"
+  },
+  {
+   "turn_index": 444,
+   "parser_turn_index": 193,
+   "word_start": 26682,
+   "word_end": 26720,
+   "word_count": 38,
+   "speaker": "Jackson of Illinois",
+   "bioguide_id": "J000309",
+   "source": "review",
+   "span_ids": [
+    "d197"
+   ],
+   "first_words": "well those words you would think that they"
+  },
+  {
+   "turn_index": 445,
+   "parser_turn_index": 193,
+   "word_start": 26720,
+   "word_end": 26730,
+   "word_count": 10,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d198"
+   ],
+   "first_words": "we follow the law every day mr jackson"
+  },
+  {
+   "turn_index": 446,
+   "parser_turn_index": 193,
+   "word_start": 26730,
+   "word_end": 26870,
+   "word_count": 140,
+   "speaker": "Jackson of Illinois",
+   "bioguide_id": "J000309",
+   "source": "review",
+   "span_ids": [
+    "d199"
+   ],
+   "first_words": "ok well you wear so many hats it"
+  },
+  {
+   "turn_index": 447,
+   "parser_turn_index": 193,
+   "word_start": 26870,
+   "word_end": 26898,
+   "word_count": 28,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d200"
+   ],
+   "first_words": "i stand by hiring the best people to"
+  },
+  {
+   "turn_index": 448,
+   "parser_turn_index": 193,
+   "word_start": 26898,
+   "word_end": 26977,
+   "word_count": 79,
+   "speaker": "Jackson of Illinois",
+   "bioguide_id": "J000309",
+   "source": "review",
+   "span_ids": [
+    "d201"
+   ],
+   "first_words": "so you are going against the very law"
+  },
+  {
+   "turn_index": 449,
+   "parser_turn_index": 193,
+   "word_start": 26977,
+   "word_end": 26997,
+   "word_count": 20,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d202"
+   ],
+   "first_words": "the president is not a tyrant he was"
+  },
+  {
+   "turn_index": 450,
+   "parser_turn_index": 193,
+   "word_start": 26997,
+   "word_end": 27008,
+   "word_count": 11,
+   "speaker": "Jackson of Illinois",
+   "bioguide_id": "J000309",
+   "source": "review",
+   "span_ids": [
+    "d203"
+   ],
+   "first_words": "and i thank you so much for your"
+  },
+  {
+   "turn_index": 451,
+   "parser_turn_index": 193,
+   "word_start": 27008,
+   "word_end": 27017,
+   "word_count": 9,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d204"
+   ],
+   "first_words": "the president was elected as far as i"
+  },
+  {
+   "turn_index": 452,
+   "parser_turn_index": 194,
+   "word_start": 27017,
+   "word_end": 27023,
+   "word_count": 6,
+   "speaker": "McBride",
+   "bioguide_id": "M001238",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr jackson of illinois"
+  },
+  {
+   "turn_index": 453,
+   "parser_turn_index": 194,
+   "word_start": 27023,
+   "word_end": 27029,
+   "word_count": 6,
+   "speaker": "Jackson of Illinois",
+   "bioguide_id": "J000309",
+   "source": "review",
+   "span_ids": [
+    "d205"
+   ],
+   "first_words": "i have yielded my time sir"
+  },
+  {
+   "turn_index": 454,
+   "parser_turn_index": 195,
+   "word_start": 27029,
+   "word_end": 27272,
+   "word_count": 243,
+   "speaker": "McBride",
+   "bioguide_id": "M001238",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you representative jackson thank you mr secretary"
+  },
+  {
+   "turn_index": 455,
+   "parser_turn_index": 195,
+   "word_start": 27272,
+   "word_end": 27334,
+   "word_count": 62,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d206"
+   ],
+   "first_words": "china spends even now a fraction of what"
+  },
+  {
+   "turn_index": 456,
+   "parser_turn_index": 196,
+   "word_start": 27334,
+   "word_end": 27341,
+   "word_count": 7,
+   "speaker": "McBride",
+   "bioguide_id": "M001238",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "as you as a senator chairman mast"
+  },
+  {
+   "turn_index": 457,
+   "parser_turn_index": 196,
+   "word_start": 27341,
+   "word_end": 27349,
+   "word_count": 8,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d207"
+   ],
+   "first_words": "the time has expired mr jackson of illinois"
+  },
+  {
+   "turn_index": 458,
+   "parser_turn_index": 196,
+   "word_start": 27349,
+   "word_end": 27355,
+   "word_count": 6,
+   "speaker": "Jackson of Illinois",
+   "bioguide_id": "J000309",
+   "source": "review",
+   "span_ids": [
+    "d208"
+   ],
+   "first_words": "i yield back chairman chairman mast"
+  },
+  {
+   "turn_index": 459,
+   "parser_turn_index": 196,
+   "word_start": 27355,
+   "word_end": 27359,
+   "word_count": 4,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d209"
+   ],
+   "first_words": "representative davidson is recognized"
+  },
+  {
+   "turn_index": 460,
+   "parser_turn_index": 197,
+   "word_start": 27359,
+   "word_end": 27581,
+   "word_count": 222,
+   "speaker": "Davidson",
+   "bioguide_id": "D000626",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you chairman mr secretary thank you for"
+  },
+  {
+   "turn_index": 461,
+   "parser_turn_index": 197,
+   "word_start": 27581,
+   "word_end": 27782,
+   "word_count": 201,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d210"
+   ],
+   "first_words": "yes obviously all of our aid is going"
+  },
+  {
+   "turn_index": 462,
+   "parser_turn_index": 198,
+   "word_start": 27782,
+   "word_end": 27896,
+   "word_count": 114,
+   "speaker": "Davidson",
+   "bioguide_id": "D000626",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i introduced the define the mission act when"
+  },
+  {
+   "turn_index": 463,
+   "parser_turn_index": 198,
+   "word_start": 27896,
+   "word_end": 27902,
+   "word_count": 6,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d211"
+   ],
+   "first_words": "there are no military guarantees correct"
+  },
+  {
+   "turn_index": 464,
+   "parser_turn_index": 199,
+   "word_start": 27902,
+   "word_end": 27974,
+   "word_count": 72,
+   "speaker": "Davidson",
+   "bioguide_id": "D000626",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes thank you for that and i just"
+  },
+  {
+   "turn_index": 465,
+   "parser_turn_index": 199,
+   "word_start": 27974,
+   "word_end": 28144,
+   "word_count": 170,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d212"
+   ],
+   "first_words": "well the administration's view is twofold no 1"
+  },
+  {
+   "turn_index": 466,
+   "parser_turn_index": 200,
+   "word_start": 28144,
+   "word_end": 28294,
+   "word_count": 150,
+   "speaker": "Davidson",
+   "bioguide_id": "D000626",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "that is well said mr secretary thank you"
+  },
+  {
+   "turn_index": 467,
+   "parser_turn_index": 200,
+   "word_start": 28294,
+   "word_end": 28342,
+   "word_count": 48,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d213"
+   ],
+   "first_words": "well obviously china is trying to create an"
+  },
+  {
+   "turn_index": 468,
+   "parser_turn_index": 201,
+   "word_start": 28342,
+   "word_end": 28469,
+   "word_count": 127,
+   "speaker": "Davidson",
+   "bioguide_id": "D000626",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes well said i think the future of"
+  },
+  {
+   "turn_index": 469,
+   "parser_turn_index": 201,
+   "word_start": 28469,
+   "word_end": 28474,
+   "word_count": 5,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d214"
+   ],
+   "first_words": "the chair recognizes representative stanton"
+  },
+  {
+   "turn_index": 470,
+   "parser_turn_index": 202,
+   "word_start": 28474,
+   "word_end": 28707,
+   "word_count": 233,
+   "speaker": "Stanton",
+   "bioguide_id": "S001211",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you very much mr chairman before i"
+  },
+  {
+   "turn_index": 471,
+   "parser_turn_index": 202,
+   "word_start": 28707,
+   "word_end": 28708,
+   "word_count": 1,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d215"
+   ],
+   "first_words": "without"
+  },
+  {
+   "turn_index": 472,
+   "parser_turn_index": 202,
+   "word_start": 28708,
+   "word_end": 28709,
+   "word_count": 1,
+   "speaker": "Stanton",
+   "bioguide_id": "S001211",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "objection"
+  },
+  {
+   "turn_index": 473,
+   "parser_turn_index": 203,
+   "word_start": 28709,
+   "word_end": 29205,
+   "word_count": 496,
+   "speaker": "Stanton",
+   "bioguide_id": "S001211",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "secretary rubio in this op ed you wrote"
+  },
+  {
+   "turn_index": 474,
+   "parser_turn_index": 204,
+   "word_start": 29205,
+   "word_end": 29337,
+   "word_count": 132,
+   "speaker": "KAMLAGER-DOVE",
+   "bioguide_id": "K000400",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you representative stanton secretary in the few"
+  },
+  {
+   "turn_index": 475,
+   "parser_turn_index": 204,
+   "word_start": 29337,
+   "word_end": 29360,
+   "word_count": 23,
+   "speaker": "MAST",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d216"
+   ],
+   "first_words": "yields back and i think you left off"
+  },
+  {
+   "turn_index": 476,
+   "parser_turn_index": 205,
+   "word_start": 29360,
+   "word_end": 29485,
+   "word_count": 125,
+   "speaker": "LAWLER",
+   "bioguide_id": "L000599",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman mr secretary thank you"
+  },
+  {
+   "turn_index": 477,
+   "parser_turn_index": 205,
+   "word_start": 29485,
+   "word_end": 29490,
+   "word_count": 5,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d217"
+   ],
+   "first_words": "yes that is in process"
+  },
+  {
+   "turn_index": 478,
+   "parser_turn_index": 206,
+   "word_start": 29490,
+   "word_end": 29560,
+   "word_count": 70,
+   "speaker": "LAWLER",
+   "bioguide_id": "L000599",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you very much obviously the abraham accords"
+  },
+  {
+   "turn_index": 479,
+   "parser_turn_index": 206,
+   "word_start": 29560,
+   "word_end": 29745,
+   "word_count": 185,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d218"
+   ],
+   "first_words": "well i think it would be a major"
+  },
+  {
+   "turn_index": 480,
+   "parser_turn_index": 206,
+   "word_start": 29745,
+   "word_end": 29746,
+   "word_count": 1,
+   "speaker": "LAWLER",
+   "bioguide_id": "L000599",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "continue"
+  },
+  {
+   "turn_index": 481,
+   "parser_turn_index": 206,
+   "word_start": 29746,
+   "word_end": 29811,
+   "word_count": 65,
+   "speaker": "RUBIO",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d218"
+   ],
+   "first_words": "to strengthen the commitments that were made to"
+  },
+  {
+   "turn_index": 482,
+   "parser_turn_index": 206,
+   "word_start": 29811,
+   "word_end": 29812,
+   "word_count": 1,
+   "speaker": "LAWLER",
+   "bioguide_id": "L000599",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "to"
+  },
+  {
+   "turn_index": 483,
+   "parser_turn_index": 207,
+   "word_start": 29812,
+   "word_end": 29908,
+   "word_count": 96,
+   "speaker": "LAWLER",
+   "bioguide_id": "L000599",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "agreed you were a very strong voice against"
+  },
+  {
+   "turn_index": 484,
+   "parser_turn_index": 207,
+   "word_start": 29908,
+   "word_end": 29938,
+   "word_count": 30,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d219"
+   ],
+   "first_words": "well again like any legislation i would want"
+  },
+  {
+   "turn_index": 485,
+   "parser_turn_index": 208,
+   "word_start": 29938,
+   "word_end": 29990,
+   "word_count": 52,
+   "speaker": "LAWLER",
+   "bioguide_id": "L000599",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "appreciate it i know my colleague mr moscowitz"
+  },
+  {
+   "turn_index": 486,
+   "parser_turn_index": 208,
+   "word_start": 29990,
+   "word_end": 30217,
+   "word_count": 227,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d220"
+   ],
+   "first_words": "yes if i could respond iran while they"
+  },
+  {
+   "turn_index": 487,
+   "parser_turn_index": 209,
+   "word_start": 30217,
+   "word_end": 30312,
+   "word_count": 95,
+   "speaker": "LAWLER",
+   "bioguide_id": "L000599",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i want to thank you when it comes"
+  },
+  {
+   "turn_index": 488,
+   "parser_turn_index": 209,
+   "word_start": 30312,
+   "word_end": 30313,
+   "word_count": 1,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d221"
+   ],
+   "first_words": "absolutely"
+  },
+  {
+   "turn_index": 489,
+   "parser_turn_index": 210,
+   "word_start": 30313,
+   "word_end": 30325,
+   "word_count": 12,
+   "speaker": "LAWLER",
+   "bioguide_id": "L000599",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "very good thank you mr secretary thank you"
+  },
+  {
+   "turn_index": 490,
+   "parser_turn_index": 210,
+   "word_start": 30325,
+   "word_end": 30327,
+   "word_count": 2,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d222"
+   ],
+   "first_words": "representative costa"
+  },
+  {
+   "turn_index": 491,
+   "parser_turn_index": 211,
+   "word_start": 30327,
+   "word_end": 30419,
+   "word_count": 92,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you very much mr chairman for this"
+  },
+  {
+   "turn_index": 492,
+   "parser_turn_index": 211,
+   "word_start": 30419,
+   "word_end": 30432,
+   "word_count": 13,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d223"
+   ],
+   "first_words": "yes and it continues to be a strong"
+  },
+  {
+   "turn_index": 493,
+   "parser_turn_index": 212,
+   "word_start": 30432,
+   "word_end": 30496,
+   "word_count": 64,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes you said that you had not discussed"
+  },
+  {
+   "turn_index": 494,
+   "parser_turn_index": 212,
+   "word_start": 30496,
+   "word_end": 30545,
+   "word_count": 49,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d224"
+   ],
+   "first_words": "there was an article some of these are"
+  },
+  {
+   "turn_index": 495,
+   "parser_turn_index": 213,
+   "word_start": 30545,
+   "word_end": 30561,
+   "word_count": 16,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "if you could respond with a letter on"
+  },
+  {
+   "turn_index": 496,
+   "parser_turn_index": 213,
+   "word_start": 30561,
+   "word_end": 30583,
+   "word_count": 22,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d225"
+   ],
+   "first_words": "sure well i could tell you this if"
+  },
+  {
+   "turn_index": 497,
+   "parser_turn_index": 214,
+   "word_start": 30583,
+   "word_end": 30595,
+   "word_count": 12,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "the consulate general i know in portugal is"
+  },
+  {
+   "turn_index": 498,
+   "parser_turn_index": 214,
+   "word_start": 30595,
+   "word_end": 30598,
+   "word_count": 3,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d226"
+   ],
+   "first_words": "what is that"
+  },
+  {
+   "turn_index": 499,
+   "parser_turn_index": 215,
+   "word_start": 30598,
+   "word_end": 30610,
+   "word_count": 12,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "the consulate general post in portugal is our"
+  },
+  {
+   "turn_index": 500,
+   "parser_turn_index": 215,
+   "word_start": 30610,
+   "word_end": 30625,
+   "word_count": 15,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d227"
+   ],
+   "first_words": "i don't know where that is coming from"
+  },
+  {
+   "turn_index": 501,
+   "parser_turn_index": 216,
+   "word_start": 30625,
+   "word_end": 30685,
+   "word_count": 60,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ok well we will clear that up later"
+  },
+  {
+   "turn_index": 502,
+   "parser_turn_index": 216,
+   "word_start": 30685,
+   "word_end": 30771,
+   "word_count": 86,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d228"
+   ],
+   "first_words": "i think both well there is no doubt"
+  },
+  {
+   "turn_index": 503,
+   "parser_turn_index": 217,
+   "word_start": 30771,
+   "word_end": 30847,
+   "word_count": 76,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "no i understand i would even go further"
+  },
+  {
+   "turn_index": 504,
+   "parser_turn_index": 217,
+   "word_start": 30847,
+   "word_end": 30851,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d229"
+   ],
+   "first_words": "maximum pressure on iran"
+  },
+  {
+   "turn_index": 505,
+   "parser_turn_index": 218,
+   "word_start": 30851,
+   "word_end": 30854,
+   "word_count": 3,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "right secretary rubio"
+  },
+  {
+   "turn_index": 506,
+   "parser_turn_index": 218,
+   "word_start": 30854,
+   "word_end": 30864,
+   "word_count": 10,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d230"
+   ],
+   "first_words": "that is compelling them to not seek a"
+  },
+  {
+   "turn_index": 507,
+   "parser_turn_index": 219,
+   "word_start": 30864,
+   "word_end": 30865,
+   "word_count": 1,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "right"
+  },
+  {
+   "turn_index": 508,
+   "parser_turn_index": 219,
+   "word_start": 30865,
+   "word_end": 30873,
+   "word_count": 8,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d231"
+   ],
+   "first_words": "secretary rubio correct or the alternative is worse"
+  },
+  {
+   "turn_index": 509,
+   "parser_turn_index": 220,
+   "word_start": 30873,
+   "word_end": 30965,
+   "word_count": 92,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yes in the negotiations that the president is"
+  },
+  {
+   "turn_index": 510,
+   "parser_turn_index": 220,
+   "word_start": 30965,
+   "word_end": 31037,
+   "word_count": 72,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d232"
+   ],
+   "first_words": "well i think the president has made clear"
+  },
+  {
+   "turn_index": 511,
+   "parser_turn_index": 221,
+   "word_start": 31037,
+   "word_end": 31229,
+   "word_count": 192,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and i just want to make sure that"
+  },
+  {
+   "turn_index": 512,
+   "parser_turn_index": 221,
+   "word_start": 31229,
+   "word_end": 31333,
+   "word_count": 104,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d233"
+   ],
+   "first_words": "well we haven't made a determination on that"
+  },
+  {
+   "turn_index": 513,
+   "parser_turn_index": 222,
+   "word_start": 31333,
+   "word_end": 31345,
+   "word_count": 12,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and armenia is looking for our help and"
+  },
+  {
+   "turn_index": 514,
+   "parser_turn_index": 222,
+   "word_start": 31345,
+   "word_end": 31349,
+   "word_count": 4,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d234"
+   ],
+   "first_words": "representative kean is recognized"
+  },
+  {
+   "turn_index": 515,
+   "parser_turn_index": 223,
+   "word_start": 31349,
+   "word_end": 31357,
+   "word_count": 8,
+   "speaker": "COSTA",
+   "bioguide_id": "C001059",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i yield back the balance of my time"
+  },
+  {
+   "turn_index": 516,
+   "parser_turn_index": 224,
+   "word_start": 31357,
+   "word_end": 31533,
+   "word_count": 176,
+   "speaker": "KEAN",
+   "bioguide_id": "K000398",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman and mr secretary it"
+  },
+  {
+   "turn_index": 517,
+   "parser_turn_index": 224,
+   "word_start": 31533,
+   "word_end": 31843,
+   "word_count": 310,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d235"
+   ],
+   "first_words": "that is a great question that we would"
+  },
+  {
+   "turn_index": 518,
+   "parser_turn_index": 225,
+   "word_start": 31843,
+   "word_end": 31903,
+   "word_count": 60,
+   "speaker": "KEAN",
+   "bioguide_id": "K000398",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so recently companies have begun developing novel hiv"
+  },
+  {
+   "turn_index": 519,
+   "parser_turn_index": 225,
+   "word_start": 31903,
+   "word_end": 32115,
+   "word_count": 212,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d236"
+   ],
+   "first_words": "well i think at the statutory front in"
+  },
+  {
+   "turn_index": 520,
+   "parser_turn_index": 226,
+   "word_start": 32115,
+   "word_end": 32170,
+   "word_count": 55,
+   "speaker": "KEAN",
+   "bioguide_id": "K000398",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and then new jersey boasts an unrivaled biotech"
+  },
+  {
+   "turn_index": 521,
+   "parser_turn_index": 226,
+   "word_start": 32170,
+   "word_end": 32255,
+   "word_count": 85,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d237"
+   ],
+   "first_words": "that is great insight that is the kind"
+  },
+  {
+   "turn_index": 522,
+   "parser_turn_index": 227,
+   "word_start": 32255,
+   "word_end": 32280,
+   "word_count": 25,
+   "speaker": "KEAN",
+   "bioguide_id": "K000398",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and how does pepfar fit into your broader"
+  },
+  {
+   "turn_index": 523,
+   "parser_turn_index": 227,
+   "word_start": 32280,
+   "word_end": 32336,
+   "word_count": 56,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d238"
+   ],
+   "first_words": "it is a program we are proud of"
+  },
+  {
+   "turn_index": 524,
+   "parser_turn_index": 228,
+   "word_start": 32336,
+   "word_end": 32343,
+   "word_count": 7,
+   "speaker": "KEAN",
+   "bioguide_id": "K000398",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you i yield back chairman mast"
+  },
+  {
+   "turn_index": 525,
+   "parser_turn_index": 228,
+   "word_start": 32343,
+   "word_end": 32348,
+   "word_count": 5,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d239"
+   ],
+   "first_words": "the chair recognizes representative amo"
+  },
+  {
+   "turn_index": 526,
+   "parser_turn_index": 229,
+   "word_start": 32348,
+   "word_end": 32362,
+   "word_count": 14,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman secretary rubio do you"
+  },
+  {
+   "turn_index": 527,
+   "parser_turn_index": 229,
+   "word_start": 32362,
+   "word_end": 32376,
+   "word_count": 14,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d240"
+   ],
+   "first_words": "i am sorry my lasik is not as"
+  },
+  {
+   "turn_index": 528,
+   "parser_turn_index": 230,
+   "word_start": 32376,
+   "word_end": 32489,
+   "word_count": 113,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "that is all right i will explain this"
+  },
+  {
+   "turn_index": 529,
+   "parser_turn_index": 230,
+   "word_start": 32489,
+   "word_end": 32493,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d241"
+   ],
+   "first_words": "it can be yes"
+  },
+  {
+   "turn_index": 530,
+   "parser_turn_index": 231,
+   "word_start": 32493,
+   "word_end": 32556,
+   "word_count": 63,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well secretary rubio the world food program estimates"
+  },
+  {
+   "turn_index": 531,
+   "parser_turn_index": 231,
+   "word_start": 32556,
+   "word_end": 32577,
+   "word_count": 21,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d242"
+   ],
+   "first_words": "there was no state department delays to that"
+  },
+  {
+   "turn_index": 532,
+   "parser_turn_index": 232,
+   "word_start": 32577,
+   "word_end": 32605,
+   "word_count": 28,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "there were state department delays and it is"
+  },
+  {
+   "turn_index": 533,
+   "parser_turn_index": 232,
+   "word_start": 32605,
+   "word_end": 32611,
+   "word_count": 6,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d243"
+   ],
+   "first_words": "there were no state department delays"
+  },
+  {
+   "turn_index": 534,
+   "parser_turn_index": 233,
+   "word_start": 32611,
+   "word_end": 32765,
+   "word_count": 154,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "there are another 185 000 boxes of rutfs"
+  },
+  {
+   "turn_index": 535,
+   "parser_turn_index": 233,
+   "word_start": 32765,
+   "word_end": 32776,
+   "word_count": 11,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d244"
+   ],
+   "first_words": "well i would be interested to learn what"
+  },
+  {
+   "turn_index": 536,
+   "parser_turn_index": 234,
+   "word_start": 32776,
+   "word_end": 32795,
+   "word_count": 19,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well we have been talking about this for"
+  },
+  {
+   "turn_index": 537,
+   "parser_turn_index": 234,
+   "word_start": 32795,
+   "word_end": 32805,
+   "word_count": 10,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d245"
+   ],
+   "first_words": "there is no impediment on our end to"
+  },
+  {
+   "turn_index": 538,
+   "parser_turn_index": 235,
+   "word_start": 32805,
+   "word_end": 32817,
+   "word_count": 12,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "there are impediments i am speaking directly to"
+  },
+  {
+   "turn_index": 539,
+   "parser_turn_index": 235,
+   "word_start": 32817,
+   "word_end": 32831,
+   "word_count": 14,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d246"
+   ],
+   "first_words": "there are others sudan is a war zone"
+  },
+  {
+   "turn_index": 540,
+   "parser_turn_index": 236,
+   "word_start": 32831,
+   "word_end": 32839,
+   "word_count": 8,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "secretary i am reclaiming my time secretary rubio"
+  },
+  {
+   "turn_index": 541,
+   "parser_turn_index": 236,
+   "word_start": 32839,
+   "word_end": 32843,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d247"
+   ],
+   "first_words": "there are other impediments"
+  },
+  {
+   "turn_index": 542,
+   "parser_turn_index": 237,
+   "word_start": 32843,
+   "word_end": 32855,
+   "word_count": 12,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "this exists as a problem and you have"
+  },
+  {
+   "turn_index": 543,
+   "parser_turn_index": 237,
+   "word_start": 32855,
+   "word_end": 32862,
+   "word_count": 7,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d248"
+   ],
+   "first_words": "there is other impediments that is false"
+  },
+  {
+   "turn_index": 544,
+   "parser_turn_index": 238,
+   "word_start": 32862,
+   "word_end": 32905,
+   "word_count": 43,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and maybe it is the case that you"
+  },
+  {
+   "turn_index": 545,
+   "parser_turn_index": 238,
+   "word_start": 32905,
+   "word_end": 32907,
+   "word_count": 2,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d249"
+   ],
+   "first_words": "it is"
+  },
+  {
+   "turn_index": 546,
+   "parser_turn_index": 239,
+   "word_start": 32907,
+   "word_end": 32926,
+   "word_count": 19,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i understand a lot of footballs a football"
+  },
+  {
+   "turn_index": 547,
+   "parser_turn_index": 239,
+   "word_start": 32926,
+   "word_end": 32934,
+   "word_count": 8,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d250"
+   ],
+   "first_words": "we are all right we can handle it"
+  },
+  {
+   "turn_index": 548,
+   "parser_turn_index": 240,
+   "word_start": 32934,
+   "word_end": 32973,
+   "word_count": 39,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "but the issue here is we have children"
+  },
+  {
+   "turn_index": 549,
+   "parser_turn_index": 240,
+   "word_start": 32973,
+   "word_end": 32977,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d251"
+   ],
+   "first_words": "they are approved now"
+  },
+  {
+   "turn_index": 550,
+   "parser_turn_index": 241,
+   "word_start": 32977,
+   "word_end": 32997,
+   "word_count": 20,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "they are not moving i just told you"
+  },
+  {
+   "turn_index": 551,
+   "parser_turn_index": 241,
+   "word_start": 32997,
+   "word_end": 33015,
+   "word_count": 18,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d252"
+   ],
+   "first_words": "and you need to figure out why they"
+  },
+  {
+   "turn_index": 552,
+   "parser_turn_index": 242,
+   "word_start": 33015,
+   "word_end": 33029,
+   "word_count": 14,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "sir you need to figure out that is"
+  },
+  {
+   "turn_index": 553,
+   "parser_turn_index": 242,
+   "word_start": 33029,
+   "word_end": 33050,
+   "word_count": 21,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d253"
+   ],
+   "first_words": "no it is no impediment from the state"
+  },
+  {
+   "turn_index": 554,
+   "parser_turn_index": 243,
+   "word_start": 33050,
+   "word_end": 33074,
+   "word_count": 24,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well mr secretary it seems like you will"
+  },
+  {
+   "turn_index": 555,
+   "parser_turn_index": 243,
+   "word_start": 33074,
+   "word_end": 33118,
+   "word_count": 44,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d254"
+   ],
+   "first_words": "we do more of that than anybody in"
+  },
+  {
+   "turn_index": 556,
+   "parser_turn_index": 244,
+   "word_start": 33118,
+   "word_end": 33127,
+   "word_count": 9,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well that is a lot of talk secretary"
+  },
+  {
+   "turn_index": 557,
+   "parser_turn_index": 244,
+   "word_start": 33127,
+   "word_end": 33130,
+   "word_count": 3,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d255"
+   ],
+   "first_words": "those are numbers"
+  },
+  {
+   "turn_index": 558,
+   "parser_turn_index": 245,
+   "word_start": 33130,
+   "word_end": 33142,
+   "word_count": 12,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "seeing is believing and there is not to"
+  },
+  {
+   "turn_index": 559,
+   "parser_turn_index": 245,
+   "word_start": 33142,
+   "word_end": 33157,
+   "word_count": 15,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d256"
+   ],
+   "first_words": "those are numbers those are facts we do"
+  },
+  {
+   "turn_index": 560,
+   "parser_turn_index": 246,
+   "word_start": 33157,
+   "word_end": 33174,
+   "word_count": 17,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well i have got numbers i have got"
+  },
+  {
+   "turn_index": 561,
+   "parser_turn_index": 246,
+   "word_start": 33174,
+   "word_end": 33190,
+   "word_count": 16,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d257"
+   ],
+   "first_words": "yes but the state department doesn't move boxes"
+  },
+  {
+   "turn_index": 562,
+   "parser_turn_index": 247,
+   "word_start": 33190,
+   "word_end": 33220,
+   "word_count": 30,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so mr secretary i am going to do"
+  },
+  {
+   "turn_index": 563,
+   "parser_turn_index": 247,
+   "word_start": 33220,
+   "word_end": 33238,
+   "word_count": 18,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d258"
+   ],
+   "first_words": "well you ask questions you don't let anybody"
+  },
+  {
+   "turn_index": 564,
+   "parser_turn_index": 248,
+   "word_start": 33238,
+   "word_end": 33270,
+   "word_count": 32,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i have a question for you and you"
+  },
+  {
+   "turn_index": 565,
+   "parser_turn_index": 248,
+   "word_start": 33270,
+   "word_end": 33287,
+   "word_count": 17,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d259"
+   ],
+   "first_words": "my staff knows that this has been fixed"
+  },
+  {
+   "turn_index": 566,
+   "parser_turn_index": 249,
+   "word_start": 33287,
+   "word_end": 33319,
+   "word_count": 32,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well then you have not proven that to"
+  },
+  {
+   "turn_index": 567,
+   "parser_turn_index": 249,
+   "word_start": 33319,
+   "word_end": 33323,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d260"
+   ],
+   "first_words": "they are receiving it"
+  },
+  {
+   "turn_index": 568,
+   "parser_turn_index": 250,
+   "word_start": 33323,
+   "word_end": 33356,
+   "word_count": 33,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "look you staked your career in the senate"
+  },
+  {
+   "turn_index": 569,
+   "parser_turn_index": 250,
+   "word_start": 33356,
+   "word_end": 33361,
+   "word_count": 5,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d261"
+   ],
+   "first_words": "i already made a commitment"
+  },
+  {
+   "turn_index": 570,
+   "parser_turn_index": 251,
+   "word_start": 33361,
+   "word_end": 33368,
+   "word_count": 7,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you have made a commitment secretary rubio"
+  },
+  {
+   "turn_index": 571,
+   "parser_turn_index": 251,
+   "word_start": 33368,
+   "word_end": 33388,
+   "word_count": 20,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d262"
+   ],
+   "first_words": "we do more food aid than anybody in"
+  },
+  {
+   "turn_index": 572,
+   "parser_turn_index": 252,
+   "word_start": 33388,
+   "word_end": 33409,
+   "word_count": 21,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you are talking secretary i am reclaiming my"
+  },
+  {
+   "turn_index": 573,
+   "parser_turn_index": 252,
+   "word_start": 33409,
+   "word_end": 33438,
+   "word_count": 29,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d263"
+   ],
+   "first_words": "i am speaking in specifics we do more"
+  },
+  {
+   "turn_index": 574,
+   "parser_turn_index": 253,
+   "word_start": 33438,
+   "word_end": 33456,
+   "word_count": 18,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "again that is hyperbole sir because this has"
+  },
+  {
+   "turn_index": 575,
+   "parser_turn_index": 253,
+   "word_start": 33456,
+   "word_end": 33465,
+   "word_count": 9,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d264"
+   ],
+   "first_words": "who does more food aid than the united"
+  },
+  {
+   "turn_index": 576,
+   "parser_turn_index": 254,
+   "word_start": 33465,
+   "word_end": 33481,
+   "word_count": 16,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "sir why are you asking me questions my"
+  },
+  {
+   "turn_index": 577,
+   "parser_turn_index": 254,
+   "word_start": 33481,
+   "word_end": 33498,
+   "word_count": 17,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d265"
+   ],
+   "first_words": "well you are the one that is claiming"
+  },
+  {
+   "turn_index": 578,
+   "parser_turn_index": 255,
+   "word_start": 33498,
+   "word_end": 33656,
+   "word_count": 158,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "secretary i am reclaiming my time secretary i"
+  },
+  {
+   "turn_index": 579,
+   "parser_turn_index": 255,
+   "word_start": 33656,
+   "word_end": 33663,
+   "word_count": 7,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d266"
+   ],
+   "first_words": "no children are dying on my watch"
+  },
+  {
+   "turn_index": 580,
+   "parser_turn_index": 256,
+   "word_start": 33663,
+   "word_end": 33672,
+   "word_count": 9,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "will you pick up my call sir secretary"
+  },
+  {
+   "turn_index": 581,
+   "parser_turn_index": 256,
+   "word_start": 33672,
+   "word_end": 33676,
+   "word_count": 4,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d267"
+   ],
+   "first_words": "pick up your call"
+  },
+  {
+   "turn_index": 582,
+   "parser_turn_index": 257,
+   "word_start": 33676,
+   "word_end": 33688,
+   "word_count": 12,
+   "speaker": "AMO",
+   "bioguide_id": "A000380",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "when i call you to check in on"
+  },
+  {
+   "turn_index": 583,
+   "parser_turn_index": 257,
+   "word_start": 33688,
+   "word_end": 33705,
+   "word_count": 17,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d268"
+   ],
+   "first_words": "our progress is already being maintained we already"
+  },
+  {
+   "turn_index": 584,
+   "parser_turn_index": 257,
+   "word_start": 33705,
+   "word_end": 33716,
+   "word_count": 11,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d269"
+   ],
+   "first_words": "the gentleman's time is expired representative mills is"
+  },
+  {
+   "turn_index": 585,
+   "parser_turn_index": 257,
+   "word_start": 33716,
+   "word_end": 33745,
+   "word_count": 29,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d270"
+   ],
+   "first_words": "but he has made some strong accusations here"
+  },
+  {
+   "turn_index": 586,
+   "parser_turn_index": 257,
+   "word_start": 33745,
+   "word_end": 33751,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d271"
+   ],
+   "first_words": "very good representative mills is recognized"
+  },
+  {
+   "turn_index": 587,
+   "parser_turn_index": 258,
+   "word_start": 33751,
+   "word_end": 34406,
+   "word_count": 655,
+   "speaker": "MILLS",
+   "bioguide_id": "M001216",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman first i can tell"
+  },
+  {
+   "turn_index": 588,
+   "parser_turn_index": 258,
+   "word_start": 34406,
+   "word_end": 34658,
+   "word_count": 252,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d272"
+   ],
+   "first_words": "well anytime these negotiations are ongoing you want"
+  },
+  {
+   "turn_index": 589,
+   "parser_turn_index": 259,
+   "word_start": 34658,
+   "word_end": 34790,
+   "word_count": 132,
+   "speaker": "MILLS",
+   "bioguide_id": "M001216",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr secretary and obviously to stop"
+  },
+  {
+   "turn_index": 590,
+   "parser_turn_index": 259,
+   "word_start": 34790,
+   "word_end": 34805,
+   "word_count": 15,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d273"
+   ],
+   "first_words": "that is under review right now and it"
+  },
+  {
+   "turn_index": 591,
+   "parser_turn_index": 260,
+   "word_start": 34805,
+   "word_end": 34818,
+   "word_count": 13,
+   "speaker": "MILLS",
+   "bioguide_id": "M001216",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you so much mr secretary with that"
+  },
+  {
+   "turn_index": 592,
+   "parser_turn_index": 260,
+   "word_start": 34818,
+   "word_end": 34823,
+   "word_count": 5,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d274"
+   ],
+   "first_words": "the chair recognizes representative jayapal"
+  },
+  {
+   "turn_index": 593,
+   "parser_turn_index": 261,
+   "word_start": 34823,
+   "word_end": 34939,
+   "word_count": 116,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you so much mr chairman thank you"
+  },
+  {
+   "turn_index": 594,
+   "parser_turn_index": 261,
+   "word_start": 34939,
+   "word_end": 34963,
+   "word_count": 24,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d275"
+   ],
+   "first_words": "i believe that case involves someone whose visa"
+  },
+  {
+   "turn_index": 595,
+   "parser_turn_index": 262,
+   "word_start": 34963,
+   "word_end": 34983,
+   "word_count": 20,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i am not asking you that question i"
+  },
+  {
+   "turn_index": 596,
+   "parser_turn_index": 262,
+   "word_start": 34983,
+   "word_end": 34989,
+   "word_count": 6,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d276"
+   ],
+   "first_words": "it is not an op ed"
+  },
+  {
+   "turn_index": 597,
+   "parser_turn_index": 263,
+   "word_start": 34989,
+   "word_end": 35110,
+   "word_count": 121,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "but that is exactly in fact what happened"
+  },
+  {
+   "turn_index": 598,
+   "parser_turn_index": 263,
+   "word_start": 35110,
+   "word_end": 35124,
+   "word_count": 14,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d277"
+   ],
+   "first_words": "there is no constitutional right to a student"
+  },
+  {
+   "turn_index": 599,
+   "parser_turn_index": 264,
+   "word_start": 35124,
+   "word_end": 35158,
+   "word_count": 34,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "but is there a constitutional right does it"
+  },
+  {
+   "turn_index": 600,
+   "parser_turn_index": 264,
+   "word_start": 35158,
+   "word_end": 35189,
+   "word_count": 31,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d278"
+   ],
+   "first_words": "there is a statute that says the secretary"
+  },
+  {
+   "turn_index": 601,
+   "parser_turn_index": 265,
+   "word_start": 35189,
+   "word_end": 35215,
+   "word_count": 26,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "do you think that the ina do you"
+  },
+  {
+   "turn_index": 602,
+   "parser_turn_index": 265,
+   "word_start": 35215,
+   "word_end": 35264,
+   "word_count": 49,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d279"
+   ],
+   "first_words": "well congress can always change the law if"
+  },
+  {
+   "turn_index": 603,
+   "parser_turn_index": 266,
+   "word_start": 35264,
+   "word_end": 35313,
+   "word_count": 49,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you said that mr secretary let me reclaim"
+  },
+  {
+   "turn_index": 604,
+   "parser_turn_index": 266,
+   "word_start": 35313,
+   "word_end": 35326,
+   "word_count": 13,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d280"
+   ],
+   "first_words": "no one has the right to a student"
+  },
+  {
+   "turn_index": 605,
+   "parser_turn_index": 267,
+   "word_start": 35326,
+   "word_end": 35358,
+   "word_count": 32,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr rubio why did the administration need to"
+  },
+  {
+   "turn_index": 606,
+   "parser_turn_index": 267,
+   "word_start": 35358,
+   "word_end": 35400,
+   "word_count": 42,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d281"
+   ],
+   "first_words": "well you will have to ask the agencies"
+  },
+  {
+   "turn_index": 607,
+   "parser_turn_index": 268,
+   "word_start": 35400,
+   "word_end": 35477,
+   "word_count": 77,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "secretary rubio i am talking about this particular"
+  },
+  {
+   "turn_index": 608,
+   "parser_turn_index": 268,
+   "word_start": 35477,
+   "word_end": 35500,
+   "word_count": 23,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d282"
+   ],
+   "first_words": "we don't do the snatching but i can"
+  },
+  {
+   "turn_index": 609,
+   "parser_turn_index": 269,
+   "word_start": 35500,
+   "word_end": 35539,
+   "word_count": 39,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "let me ask you about the national security"
+  },
+  {
+   "turn_index": 610,
+   "parser_turn_index": 269,
+   "word_start": 35539,
+   "word_end": 35553,
+   "word_count": 14,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d283"
+   ],
+   "first_words": "because radical crazies will try to hurt them"
+  },
+  {
+   "turn_index": 611,
+   "parser_turn_index": 270,
+   "word_start": 35553,
+   "word_end": 35579,
+   "word_count": 26,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so you think that u s agents who"
+  },
+  {
+   "turn_index": 612,
+   "parser_turn_index": 270,
+   "word_start": 35579,
+   "word_end": 35593,
+   "word_count": 14,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d284"
+   ],
+   "first_words": "i can't speak to law enforcement functions we"
+  },
+  {
+   "turn_index": 613,
+   "parser_turn_index": 271,
+   "word_start": 35593,
+   "word_end": 35626,
+   "word_count": 33,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "some of the country's most dangerous criminals suddenly"
+  },
+  {
+   "turn_index": 614,
+   "parser_turn_index": 271,
+   "word_start": 35626,
+   "word_end": 35663,
+   "word_count": 37,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d285"
+   ],
+   "first_words": "again that law student was a guest in"
+  },
+  {
+   "turn_index": 615,
+   "parser_turn_index": 272,
+   "word_start": 35663,
+   "word_end": 35687,
+   "word_count": 24,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so you revoked her student visa based on"
+  },
+  {
+   "turn_index": 616,
+   "parser_turn_index": 272,
+   "word_start": 35687,
+   "word_end": 35709,
+   "word_count": 22,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d286"
+   ],
+   "first_words": "someone is coming up here to stir up"
+  },
+  {
+   "turn_index": 617,
+   "parser_turn_index": 273,
+   "word_start": 35709,
+   "word_end": 35737,
+   "word_count": 28,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "she didn't do any of that she wrote"
+  },
+  {
+   "turn_index": 618,
+   "parser_turn_index": 273,
+   "word_start": 35737,
+   "word_end": 35750,
+   "word_count": 13,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d287"
+   ],
+   "first_words": "that is her lawyer's claims and your claims"
+  },
+  {
+   "turn_index": 619,
+   "parser_turn_index": 274,
+   "word_start": 35750,
+   "word_end": 35760,
+   "word_count": 10,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "reclaiming my time you revoked her student visa"
+  },
+  {
+   "turn_index": 620,
+   "parser_turn_index": 274,
+   "word_start": 35760,
+   "word_end": 35762,
+   "word_count": 2,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d288"
+   ],
+   "first_words": "yes proudly"
+  },
+  {
+   "turn_index": 621,
+   "parser_turn_index": 275,
+   "word_start": 35762,
+   "word_end": 35773,
+   "word_count": 11,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "because she wrote an op ed would you"
+  },
+  {
+   "turn_index": 622,
+   "parser_turn_index": 275,
+   "word_start": 35773,
+   "word_end": 35785,
+   "word_count": 12,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d289"
+   ],
+   "first_words": "we will do more we are going to"
+  },
+  {
+   "turn_index": 623,
+   "parser_turn_index": 276,
+   "word_start": 35785,
+   "word_end": 35820,
+   "word_count": 35,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i have another question for you would you"
+  },
+  {
+   "turn_index": 624,
+   "parser_turn_index": 276,
+   "word_start": 35820,
+   "word_end": 35842,
+   "word_count": 22,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d290"
+   ],
+   "first_words": "we will revoke the visa of anyone who"
+  },
+  {
+   "turn_index": 625,
+   "parser_turn_index": 277,
+   "word_start": 35842,
+   "word_end": 35857,
+   "word_count": 15,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "are you going to revoke the visa of"
+  },
+  {
+   "turn_index": 626,
+   "parser_turn_index": 277,
+   "word_start": 35857,
+   "word_end": 35877,
+   "word_count": 20,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d291"
+   ],
+   "first_words": "give me the case i will look at"
+  },
+  {
+   "turn_index": 627,
+   "parser_turn_index": 278,
+   "word_start": 35877,
+   "word_end": 35889,
+   "word_count": 12,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "well actually it is not just about revoking"
+  },
+  {
+   "turn_index": 628,
+   "parser_turn_index": 278,
+   "word_start": 35889,
+   "word_end": 35902,
+   "word_count": 13,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d292"
+   ],
+   "first_words": "i look forward to revoking the visas of"
+  },
+  {
+   "turn_index": 629,
+   "parser_turn_index": 279,
+   "word_start": 35902,
+   "word_end": 35942,
+   "word_count": 40,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "secretary rubio excuse me reclaiming my time can"
+  },
+  {
+   "turn_index": 630,
+   "parser_turn_index": 279,
+   "word_start": 35942,
+   "word_end": 35947,
+   "word_count": 5,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d293"
+   ],
+   "first_words": "that is not a visa"
+  },
+  {
+   "turn_index": 631,
+   "parser_turn_index": 280,
+   "word_start": 35947,
+   "word_end": 35958,
+   "word_count": 11,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you granted that person to enter the united"
+  },
+  {
+   "turn_index": 632,
+   "parser_turn_index": 280,
+   "word_start": 35958,
+   "word_end": 35990,
+   "word_count": 32,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d294"
+   ],
+   "first_words": "that is a totally different process that is"
+  },
+  {
+   "turn_index": 633,
+   "parser_turn_index": 281,
+   "word_start": 35990,
+   "word_end": 36010,
+   "word_count": 20,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "secretary rubio you revoked a visa based on"
+  },
+  {
+   "turn_index": 634,
+   "parser_turn_index": 281,
+   "word_start": 36010,
+   "word_end": 36017,
+   "word_count": 7,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d295"
+   ],
+   "first_words": "the gentlelady's time has expired secretary rubio"
+  },
+  {
+   "turn_index": 635,
+   "parser_turn_index": 281,
+   "word_start": 36017,
+   "word_end": 36028,
+   "word_count": 11,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d296"
+   ],
+   "first_words": "that is your claim that is inaccurate that"
+  },
+  {
+   "turn_index": 636,
+   "parser_turn_index": 282,
+   "word_start": 36028,
+   "word_end": 36036,
+   "word_count": 8,
+   "speaker": "JAYAPAL",
+   "bioguide_id": "J000298",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "to snatch somebody off the street chairman mast"
+  },
+  {
+   "turn_index": 637,
+   "parser_turn_index": 282,
+   "word_start": 36036,
+   "word_end": 36042,
+   "word_count": 6,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d297"
+   ],
+   "first_words": "your time has expired secretary rubio"
+  },
+  {
+   "turn_index": 638,
+   "parser_turn_index": 282,
+   "word_start": 36042,
+   "word_end": 36052,
+   "word_count": 10,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d298"
+   ],
+   "first_words": "that is your claim that is not accurate"
+  },
+  {
+   "turn_index": 639,
+   "parser_turn_index": 282,
+   "word_start": 36052,
+   "word_end": 36062,
+   "word_count": 10,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d299"
+   ],
+   "first_words": "the chair recognizes ranking member meeks for a"
+  },
+  {
+   "turn_index": 640,
+   "parser_turn_index": 283,
+   "word_start": 36062,
+   "word_end": 36343,
+   "word_count": 281,
+   "speaker": "MEEKS",
+   "bioguide_id": "M001137",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i will be brief because this really is"
+  },
+  {
+   "turn_index": 641,
+   "parser_turn_index": 283,
+   "word_start": 36343,
+   "word_end": 36391,
+   "word_count": 48,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d300"
+   ],
+   "first_words": "thank you mr secretary for taking the time"
+  },
+  {
+   "turn_index": 642,
+   "parser_turn_index": 283,
+   "word_start": 36391,
+   "word_end": 36898,
+   "word_count": 507,
+   "speaker": "Rubio",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d301"
+   ],
+   "first_words": "no i appreciate it thank you for the"
+  },
+  {
+   "turn_index": 643,
+   "parser_turn_index": 283,
+   "word_start": 36898,
+   "word_end": 36903,
+   "word_count": 5,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d302"
+   ],
+   "first_words": "thank you again mr secretary"
+  },
+  {
+   "turn_index": 644,
+   "parser_turn_index": 284,
+   "word_start": 36903,
+   "word_end": 36910,
+   "word_count": 7,
+   "speaker": "OLSZEWSKI",
+   "bioguide_id": "O000176",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "point of order mr chairman chairman mast"
+  },
+  {
+   "turn_index": 645,
+   "parser_turn_index": 284,
+   "word_start": 36910,
+   "word_end": 36933,
+   "word_count": 23,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d303"
+   ],
+   "first_words": "the members of the committee may have some"
+  },
+  {
+   "turn_index": 646,
+   "parser_turn_index": 285,
+   "word_start": 36933,
+   "word_end": 36940,
+   "word_count": 7,
+   "speaker": "OLSZEWSKI",
+   "bioguide_id": "O000176",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr chairman point of order chairman mast"
+  },
+  {
+   "turn_index": 647,
+   "parser_turn_index": 285,
+   "word_start": 36940,
+   "word_end": 36956,
+   "word_count": 16,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d304"
+   ],
+   "first_words": "pursuant to committee rules all members may have"
+  },
+  {
+   "turn_index": 648,
+   "parser_turn_index": 286,
+   "word_start": 36956,
+   "word_end": 36961,
+   "word_count": 5,
+   "speaker": "OLSZEWSKI",
+   "bioguide_id": "O000176",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr chairman point of order"
+  },
+  {
+   "turn_index": 649,
+   "parser_turn_index": 286,
+   "word_start": 36961,
+   "word_end": 36976,
+   "word_count": 15,
+   "speaker": "Mast",
+   "bioguide_id": "M001199",
+   "source": "review",
+   "span_ids": [
+    "d305"
+   ],
+   "first_words": "chairman mast for the record subject to length"
+  }
+ ]
+}

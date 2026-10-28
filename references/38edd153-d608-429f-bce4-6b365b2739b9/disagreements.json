@@ -1,0 +1,72 @@
+{
+ "hearing_id": "38edd153-d608-429f-bce4-6b365b2739b9",
+ "chrg": "CHRG-119hhrg64229",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg64229.htm",
+ "print_sha256": "99674c5d7c07ebff53b2e01d7865330041d5fe2b1235f5a2c3beb6991e79b664",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "e02b4bde1c3b03c62e7ebaf81a238b9bcb8d0a507a303e29d3fb1a83a43b91fe",
+ "n_ref_words": 12340,
+ "roster_source": "committee_membership",
+ "total_body_words": 13259,
+ "words_both_opinion": 12340,
+ "words_agree": 12335,
+ "words_disagree": 5,
+ "words_no_llm_opinion": 539,
+ "words_no_parser_opinion": 874,
+ "words_inserted_material": 45,
+ "agree_rate": 0.9996,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 2583,
+   "end_word": 2598,
+   "word_count": 15,
+   "start_line": 396,
+   "end_line": 399
+  },
+  {
+   "start_word": 3637,
+   "end_word": 3652,
+   "word_count": 15,
+   "start_line": 519,
+   "end_line": 522
+  },
+  {
+   "start_word": 4289,
+   "end_word": 4304,
+   "word_count": 15,
+   "start_line": 601,
+   "end_line": 604
+  }
+ ],
+ "n_body_words_mapped": 12330,
+ "n_compare_words_spans": 1,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 6152,
+   "body_word_end": 6157,
+   "word_start": 5456,
+   "word_end": 5461,
+   "n_ref_words_mapped": 5,
+   "word_count": 5,
+   "start_line": 814,
+   "end_line": 814,
+   "parser_speaker": "Lawler",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Sherman",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "now recognize Mr. Burchett. Mr. Sherman. Each side of this aisle gets the same time.",
+    "span_text": "Mr. Lawler. I now recognize Mr. Burchett.",
+    "after": "Mr. Sherman. I've been on this committee for 29 years. Mr. Lawler. That's great. Mr."
+   },
+   "span_id": "d001"
+  }
+ ]
+}

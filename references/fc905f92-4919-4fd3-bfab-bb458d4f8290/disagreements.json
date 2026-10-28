@@ -1,0 +1,72 @@
+{
+ "hearing_id": "fc905f92-4919-4fd3-bfab-bb458d4f8290",
+ "chrg": "CHRG-119shrg62971",
+ "chamber": "senate",
+ "print_file": "CHRG-119shrg62971.htm",
+ "print_sha256": "8a5a343d6c703966c1eef9a4b1db7dcc987ec5e0a302ba2d06f067aeaa0117ee",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "d8799fb86898278ad3d9bbb1ec86ba0f3cc556bf4841a78d9a9411a91ee04014",
+ "n_ref_words": 12897,
+ "roster_source": "committee_membership",
+ "total_body_words": 13721,
+ "words_both_opinion": 12897,
+ "words_agree": 12895,
+ "words_disagree": 2,
+ "words_no_llm_opinion": 402,
+ "words_no_parser_opinion": 824,
+ "words_inserted_material": 0,
+ "agree_rate": 0.9998,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [],
+ "n_body_words_mapped": 12872,
+ "n_compare_words_spans": 2,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 6735,
+   "body_word_end": 6736,
+   "word_start": 6201,
+   "word_end": 6202,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 864,
+   "end_line": 864,
+   "parser_speaker": "Cornyn",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Boyd",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "hundred and eighty miles---- Chair Cornyn. Okay. Sheriff Boyd [continuing]. Halfway between Laredo and Houston.",
+    "span_text": "Chair Cornyn. Okay.",
+    "after": "Sheriff Boyd. So from there, by 2024, we arrested 502 people. It climbed every single"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 11251,
+   "body_word_end": 11252,
+   "word_start": 10605,
+   "word_end": 10606,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1329,
+   "end_line": 1329,
+   "parser_speaker": "Carter-Walters",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Cornyn",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "those illegal immigrants who are not being detained and not being deported. Is that right?",
+    "span_text": "Ms. Carter-Walters. Yes.",
+    "after": "Chair Cornyn. And Ms. Cathell, thank you to the Washington Examiner for allowing you to"
+   },
+   "span_id": "d002"
+  }
+ ]
+}

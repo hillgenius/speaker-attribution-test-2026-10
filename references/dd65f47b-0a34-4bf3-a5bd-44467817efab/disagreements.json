@@ -1,0 +1,254 @@
+{
+ "hearing_id": "dd65f47b-0a34-4bf3-a5bd-44467817efab",
+ "chrg": "CHRG-119hhrg63001",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg63001.htm",
+ "print_sha256": "4af7ceaab504ec84707134bba5e4a8a797cc6311134340ab1a5934446415adfc",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "ab4e1d20a369262ad539aa97aa380ef428273285e9e82158228581213075273d",
+ "n_ref_words": 16464,
+ "roster_source": "committee_membership",
+ "total_body_words": 17544,
+ "words_both_opinion": 14895,
+ "words_agree": 14880,
+ "words_disagree": 15,
+ "words_no_llm_opinion": 167,
+ "words_no_parser_opinion": 615,
+ "words_inserted_material": 2034,
+ "agree_rate": 0.999,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 167,
+   "end_word": 473,
+   "word_count": 306,
+   "start_line": 71,
+   "end_line": 134
+  },
+  {
+   "start_word": 1409,
+   "end_word": 2245,
+   "word_count": 836,
+   "start_line": 251,
+   "end_line": 344
+  },
+  {
+   "start_word": 3050,
+   "end_word": 3859,
+   "word_count": 809,
+   "start_line": 438,
+   "end_line": 527
+  },
+  {
+   "start_word": 4912,
+   "end_word": 4932,
+   "word_count": 20,
+   "start_line": 654,
+   "end_line": 659
+  },
+  {
+   "start_word": 5878,
+   "end_word": 5898,
+   "word_count": 20,
+   "start_line": 783,
+   "end_line": 788
+  },
+  {
+   "start_word": 6711,
+   "end_word": 6732,
+   "word_count": 21,
+   "start_line": 886,
+   "end_line": 891
+  },
+  {
+   "start_word": 7581,
+   "end_word": 7603,
+   "word_count": 22,
+   "start_line": 995,
+   "end_line": 1000
+  }
+ ],
+ "n_body_words_mapped": 15586,
+ "n_compare_words_spans": 8,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 10596,
+   "body_word_end": 10597,
+   "word_start": 9774,
+   "word_end": 9775,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1344,
+   "end_line": 1344,
+   "parser_speaker": "Gray",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Sewell",
+   "llm_bioguide_id": "S001185",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "5 minutes. Ms. Sewell. Thank you, Mr. Chairman. My questions are for you, Secretary Gray.",
+    "span_text": "Mr. Gray. Yes.",
+    "after": "Ms. Sewell. I have read with great interest about your Election Integrity Agenda, especially the"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 10770,
+   "body_word_end": 10772,
+   "word_start": 9940,
+   "word_end": 9942,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1364,
+   "end_line": 1364,
+   "parser_speaker": "Steil",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Sewell",
+   "llm_bioguide_id": "S001185",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "that shows that the State of Wyoming has only had one case of voter fraud.",
+    "span_text": "Chairman Steil. Without objection.",
+    "after": "[The report referred to follows:] [GRAPHICS NOT AVAILABLE IN TIFF FORMAT] Ms. Sewell. Secretary Gray,"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 11387,
+   "body_word_end": 11389,
+   "word_start": 10520,
+   "word_end": 10522,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1436,
+   "end_line": 1436,
+   "parser_speaker": "Steil",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Sewell",
+   "llm_bioguide_id": "S001185",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "to enter into the record the Heritage Foundation's election fraud map that shows this point.",
+    "span_text": "Chairman Steil. Without objection.",
+    "after": "[The election fraud map follows:] [GRAPHICS NOT AVAILABLE IN TIFF FORMAT] Ms. Sewell. Nobody should"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 12849,
+   "body_word_end": 12851,
+   "word_start": 11943,
+   "word_end": 11945,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1605,
+   "end_line": 1605,
+   "parser_speaker": "Steil",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Torres",
+   "llm_bioguide_id": "T000474",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "unanimous consent to enter into the record testimony from my local L.A. County elections official.",
+    "span_text": "Chairman Steil. Without objection.",
+    "after": "Mrs. Torres. Thank you. [The election official testimony follows:] [GRAPHICS NOT AVAILABLE IN TIFF FORMAT]"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 13671,
+   "body_word_end": 13672,
+   "word_start": 12731,
+   "word_end": 12732,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1703,
+   "end_line": 1703,
+   "parser_speaker": "Nobile",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Griffith",
+   "llm_bioguide_id": "G000568",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Mr. Griffith. You think that the Make Elections Great Again will help us do that?",
+    "span_text": "Mr. Nobile. Yes.",
+    "after": "Mr. Griffith. I do too. Mr. Nobile, in your experience, what have been some of"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 14827,
+   "body_word_end": 14831,
+   "word_start": 13851,
+   "word_end": 13855,
+   "n_ref_words_mapped": 4,
+   "word_count": 4,
+   "start_line": 1826,
+   "end_line": 1826,
+   "parser_speaker": "Brinson Bell",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Johnson",
+   "llm_bioguide_id": "J000310",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "North Carolina's polling places---- Ms. Johnson. Right. That is 25,000 just in North Carolina. Imagine----",
+    "span_text": "Ms. Brinson Bell. Just in North Carolina.",
+    "after": "Ms. Johnson [continuing]. the State of Texas. Ms. Brinson Bell. Yes. That does not include"
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 16177,
+   "body_word_end": 16178,
+   "word_start": 15154,
+   "word_end": 15155,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1974,
+   "end_line": 1974,
+   "parser_speaker": "Gray",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Carey",
+   "llm_bioguide_id": "C001126",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "your testimony, as an Ohioan. I did not realized you were referred to as ``Wyomingites''----",
+    "span_text": "Mr. Gray. Yes.",
+    "after": "Mr. Carey [continuing]. so that is one thing I did learn. Mr. Nobile, Judicial Watch"
+   },
+   "span_id": "d007"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 17332,
+   "body_word_end": 17334,
+   "word_start": 16282,
+   "word_end": 16284,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 2101,
+   "end_line": 2101,
+   "parser_speaker": "Miller",
+   "parser_bioguide_id": "M001211",
+   "llm_speaker": "Bollin",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "the assurance. If there is funding, I think the funding should be tied to compliance.",
+    "span_text": "Mrs. Miller. Uh-huh.",
+    "after": "Ms. Bollin. Unfortunately--I mean, I know we do not want to tie fundings, but, as"
+   },
+   "span_id": "d008"
+  }
+ ]
+}

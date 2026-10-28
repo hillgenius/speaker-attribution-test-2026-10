@@ -1,0 +1,169 @@
+{
+ "hearing_id": "eb6690eb-f02f-41f8-90cd-f57e4a3ca878",
+ "chrg": "CHRG-119hhrg63267",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg63267.htm",
+ "print_sha256": "5653947e8cebc3eb35c5160133a0078ffd1b75938f2d00ebbec506a33f7d20fa",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "03c52fc70eac679617591b4d711e4816cbcdc550486e168451b3ee0b4d764431",
+ "n_ref_words": 16475,
+ "roster_source": "committee_membership",
+ "total_body_words": 17954,
+ "words_both_opinion": 16045,
+ "words_agree": 15982,
+ "words_disagree": 63,
+ "words_no_llm_opinion": 794,
+ "words_no_parser_opinion": 796,
+ "words_inserted_material": 683,
+ "agree_rate": 0.9961,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 364,
+   "end_word": 951,
+   "word_count": 587,
+   "start_line": 130,
+   "end_line": 244
+  },
+  {
+   "start_word": 1381,
+   "end_word": 1396,
+   "word_count": 15,
+   "start_line": 298,
+   "end_line": 302
+  },
+  {
+   "start_word": 2192,
+   "end_word": 2208,
+   "word_count": 16,
+   "start_line": 390,
+   "end_line": 394
+  },
+  {
+   "start_word": 2958,
+   "end_word": 2975,
+   "word_count": 17,
+   "start_line": 483,
+   "end_line": 487
+  },
+  {
+   "start_word": 3547,
+   "end_word": 3563,
+   "word_count": 16,
+   "start_line": 557,
+   "end_line": 561
+  },
+  {
+   "start_word": 4330,
+   "end_word": 4346,
+   "word_count": 16,
+   "start_line": 649,
+   "end_line": 653
+  },
+  {
+   "start_word": 5071,
+   "end_word": 5087,
+   "word_count": 16,
+   "start_line": 741,
+   "end_line": 745
+  }
+ ],
+ "n_body_words_mapped": 16469,
+ "n_compare_words_spans": 3,
+ "n_header_scan_spans": 1,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 6609,
+   "body_word_end": 6669,
+   "word_start": 5461,
+   "word_end": 5521,
+   "n_ref_words_mapped": 60,
+   "word_count": 60,
+   "start_line": 906,
+   "end_line": 911,
+   "parser_speaker": "Takano",
+   "parser_bioguide_id": "T000472",
+   "llm_speaker": "Khawar",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "really sure that people can connect with a live technically trained person to provide them.",
+    "span_text": "Mr. Khawar: Yes. Yes. Yes, Representative. It is truly \nunfortunate because you have situations like the one that you \nare describing, and it used to be a point of pride in the \nagency that calls were answered live, and then it was something \nlike 95 percent of calls were returned within one business day \nif someone called after hours. That is not----",
+    "after": "Mr. Takano. Okay. We just heard Mr. Golumbic describe this situation where EBSA, you know,"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 16146,
+   "body_word_end": 16147,
+   "word_start": 14761,
+   "word_end": 14762,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1934,
+   "end_line": 1934,
+   "parser_speaker": "McClain",
+   "parser_bioguide_id": "M001136",
+   "llm_speaker": "Bonham",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Correct. Mrs. McClain. It seems a little unfair, does it not? Mr. Bonham. It does.",
+    "span_text": "Mrs. McClain. Yes.",
+    "after": "Mr. Bonham. I would add to that, there is an ongoing buildup of costs for"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 16215,
+   "body_word_end": 16217,
+   "word_start": 14818,
+   "word_end": 14820,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1944,
+   "end_line": 1944,
+   "parser_speaker": "McClain",
+   "parser_bioguide_id": "M001136",
+   "llm_speaker": "Bonham",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Mrs. McClain. Would it make sense to hold the agency accountable too? Mr. Bonham. Sure.",
+    "span_text": "Mrs. McClain. Thank you.",
+    "after": "Chairman Allen. The gentlelady yields. Now, I call on Ranking Member DeSaulnier of California for"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "header_scan",
+   "line_text": "Mr. Khawar: Yes. Yes. Yes, Representative. It is truly",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 6607,
+   "body_word_end": 6669,
+   "word_count": 62,
+   "word_start": 5459,
+   "word_end": 5521,
+   "n_ref_words_mapped": 62,
+   "start_line": 906,
+   "end_line": 911,
+   "parser_speaker": "Takano",
+   "parser_bioguide_id": "T000472",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "that EBSA had reduced staffing, and that you are not really sure that people can connect with a live technically trained person to provide them.",
+    "span_text": "Mr. Khawar: Yes. Yes. Yes, Representative. It is truly \nunfortunate because you have situations like the one that you \nare describing, and it used to be a point of pride in the \nagency that calls were answered live, and then it was something \nlike 95 percent of calls were returned within one business day \nif someone called after hours. That is not----",
+    "after": ""
+   },
+   "span_id": "h001",
+   "shape": "header-scan flag"
+  }
+ ]
+}

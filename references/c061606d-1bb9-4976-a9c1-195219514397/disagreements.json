@@ -1,0 +1,137 @@
+{
+ "hearing_id": "c061606d-1bb9-4976-a9c1-195219514397",
+ "chrg": "CHRG-119hhrg62627",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg62627.htm",
+ "print_sha256": "20acfd74aec23046826b4ca7430852ed40b179ee48ffa5a04da2bde72c075877",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "8a6b5282c04af6d9950d3e937513cf0e9d4633697dd1d552186a75021a21ce34",
+ "n_ref_words": 30727,
+ "roster_source": "committee_membership",
+ "total_body_words": 42804,
+ "words_both_opinion": 15160,
+ "words_agree": 15117,
+ "words_disagree": 43,
+ "words_no_llm_opinion": 640,
+ "words_no_parser_opinion": 12001,
+ "words_inserted_material": 15643,
+ "agree_rate": 0.9972,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 2,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1298,
+   "end_word": 1899,
+   "word_count": 601,
+   "start_line": 251,
+   "end_line": 317
+  },
+  {
+   "start_word": 2671,
+   "end_word": 3066,
+   "word_count": 395,
+   "start_line": 402,
+   "end_line": 447
+  },
+  {
+   "start_word": 4434,
+   "end_word": 10379,
+   "word_count": 5945,
+   "start_line": 602,
+   "end_line": 1163
+  },
+  {
+   "start_word": 11323,
+   "end_word": 14896,
+   "word_count": 3573,
+   "start_line": 1267,
+   "end_line": 1648
+  },
+  {
+   "start_word": 15657,
+   "end_word": 18650,
+   "word_count": 2993,
+   "start_line": 1739,
+   "end_line": 2111
+  },
+  {
+   "start_word": 19580,
+   "end_word": 21716,
+   "word_count": 2136,
+   "start_line": 2223,
+   "end_line": 2458
+  }
+ ],
+ "n_body_words_mapped": 30626,
+ "n_compare_words_spans": 3,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 27983,
+   "body_word_end": 27984,
+   "word_start": 27011,
+   "word_end": 27012,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3088,
+   "end_line": 3088,
+   "parser_speaker": "Lee",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Luttrell",
+   "llm_bioguide_id": "L000603",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "they're going to look, I mean, they are looking at me like I am crazy.",
+    "span_text": "Mr. Lee. Yes.",
+    "after": "Mr. Luttrell. The legislation all the way up needs to be talking about it. I"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 28346,
+   "body_word_end": 28365,
+   "word_start": 27354,
+   "word_end": 27373,
+   "n_ref_words_mapped": 19,
+   "word_count": 19,
+   "start_line": 3124,
+   "end_line": 3126,
+   "parser_speaker": "Garbarino",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Luttrell",
+   "llm_bioguide_id": "L000603",
+   "shape": "different person",
+   "excerpt": {
+    "before": "I will absolutely see you after class, sir. With that, Mr. Chairman, I yield back.",
+    "span_text": "Mr. Garbarino. The gentleman yields back.\n    I now recognize the gentlelady from New Jersey, Mrs. \nMcIver, for 5 minutes of questions.",
+    "after": "Mrs. McIver. Thank you so much, Chairman. Thank you to our Ranking Member. My district"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 29804,
+   "body_word_end": 29827,
+   "word_start": 28759,
+   "word_end": 28782,
+   "n_ref_words_mapped": 23,
+   "word_count": 23,
+   "start_line": 3283,
+   "end_line": 3286,
+   "parser_speaker": "Garbarino",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Ogles",
+   "llm_bioguide_id": "O000175",
+   "shape": "different person",
+   "excerpt": {
+    "before": "we are untouchable in air space and communications. With that, Mr. Chairman, I yield back.",
+    "span_text": "Mr. Garbarino. The gentleman yields back.\n    I now recognize the Ranking Member, the gentleman from \nCalifornia, Mr. Swalwell, for his second 5 minutes of \nquestions.",
+    "after": "Mr. Swalwell. Dr. Gleason, what is the status of Lawrence Livermore's other partnerships, including its"
+   },
+   "span_id": "d003"
+  }
+ ]
+}

@@ -1,0 +1,114 @@
+{
+ "hearing_id": "6c8efcf3-92d5-40db-a056-c4fc6f50fbdc",
+ "chrg": "CHRG-119hhrg61303",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg61303.htm",
+ "print_sha256": "8f166c87b22171f1ba5102247303e21de262d07ba5b829068288509ab6280889",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "12b7ac198873b54b554396eadc650bb08fd2a0d01b9dea02c4e235b4a2d51c1b",
+ "n_ref_words": 23330,
+ "roster_source": "committee_membership",
+ "total_body_words": 24411,
+ "words_both_opinion": 13552,
+ "words_agree": 13531,
+ "words_disagree": 21,
+ "words_no_llm_opinion": 729,
+ "words_no_parser_opinion": 995,
+ "words_inserted_material": 9864,
+ "agree_rate": 0.9985,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1401,
+   "end_word": 1988,
+   "word_count": 587,
+   "start_line": 350,
+   "end_line": 418
+  },
+  {
+   "start_word": 2710,
+   "end_word": 3413,
+   "word_count": 703,
+   "start_line": 494,
+   "end_line": 569
+  },
+  {
+   "start_word": 4210,
+   "end_word": 4886,
+   "word_count": 676,
+   "start_line": 661,
+   "end_line": 747
+  },
+  {
+   "start_word": 5485,
+   "end_word": 5971,
+   "word_count": 486,
+   "start_line": 819,
+   "end_line": 874
+  },
+  {
+   "start_word": 5991,
+   "end_word": 6410,
+   "word_count": 419,
+   "start_line": 877,
+   "end_line": 926
+  },
+  {
+   "start_word": 7530,
+   "end_word": 8734,
+   "word_count": 1204,
+   "start_line": 1060,
+   "end_line": 1181
+  },
+  {
+   "start_word": 9537,
+   "end_word": 11020,
+   "word_count": 1483,
+   "start_line": 1279,
+   "end_line": 1469
+  },
+  {
+   "start_word": 11884,
+   "end_word": 14498,
+   "word_count": 2614,
+   "start_line": 1576,
+   "end_line": 1925
+  },
+  {
+   "start_word": 15257,
+   "end_word": 16949,
+   "word_count": 1692,
+   "start_line": 2016,
+   "end_line": 2216
+  }
+ ],
+ "n_body_words_mapped": 23210,
+ "n_compare_words_spans": 1,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 21049,
+   "body_word_end": 21070,
+   "word_start": 20075,
+   "word_end": 20096,
+   "n_ref_words_mapped": 21,
+   "word_count": 21,
+   "start_line": 2659,
+   "end_line": 2661,
+   "parser_speaker": "Guest",
+   "parser_bioguide_id": "G000591",
+   "llm_speaker": "Strong",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "being here today. Your information is very valuable. Again, thank you each for being here.",
+    "span_text": "Mr. Guest. Thank you, Chairman Strong.\n    I now recognize the gentleman from New York, Ranking Member \nKennedy, for his 5 minutes of questioning.",
+    "after": "Mr. Kennedy. Thank you, Chairman. Again, thanks to each of you for your testimony. Also,"
+   },
+   "span_id": "d001"
+  }
+ ]
+}

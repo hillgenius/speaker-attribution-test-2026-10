@@ -1,0 +1,217 @@
+{
+ "hearing_id": "33e047e2-88a1-4631-b66a-284b384b26be",
+ "chrg": "CHRG-119hhrg60677",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60677.htm",
+ "print_sha256": "0e44f0d6e1663fc6e6bae5d8aa1c1e94fe9addaa3f12ac3e47bf197dded1fee6",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "20a8e6c17d8c8a854626359e332619ee1925a577a7b8d08b00112d5b6fa207a5",
+ "n_ref_words": 22177,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 23760,
+ "words_both_opinion": 22177,
+ "words_agree": 21851,
+ "words_disagree": 326,
+ "words_no_llm_opinion": 836,
+ "words_no_parser_opinion": 1455,
+ "words_inserted_material": 128,
+ "agree_rate": 0.9853,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 5,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1568,
+   "end_word": 1584,
+   "word_count": 16,
+   "start_line": 278,
+   "end_line": 281
+  },
+  {
+   "start_word": 2171,
+   "end_word": 2187,
+   "word_count": 16,
+   "start_line": 351,
+   "end_line": 354
+  },
+  {
+   "start_word": 2954,
+   "end_word": 2970,
+   "word_count": 16,
+   "start_line": 440,
+   "end_line": 443
+  },
+  {
+   "start_word": 3853,
+   "end_word": 3869,
+   "word_count": 16,
+   "start_line": 542,
+   "end_line": 545
+  },
+  {
+   "start_word": 4914,
+   "end_word": 4930,
+   "word_count": 16,
+   "start_line": 666,
+   "end_line": 669
+  },
+  {
+   "start_word": 5784,
+   "end_word": 5800,
+   "word_count": 16,
+   "start_line": 768,
+   "end_line": 771
+  },
+  {
+   "start_word": 6591,
+   "end_word": 6607,
+   "word_count": 16,
+   "start_line": 866,
+   "end_line": 869
+  },
+  {
+   "start_word": 7581,
+   "end_word": 7597,
+   "word_count": 16,
+   "start_line": 981,
+   "end_line": 984
+  }
+ ],
+ "n_body_words_mapped": 22158,
+ "n_compare_words_spans": 6,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 16674,
+   "body_word_end": 16949,
+   "word_start": 15339,
+   "word_end": 15614,
+   "n_ref_words_mapped": 275,
+   "word_count": 275,
+   "start_line": 1930,
+   "end_line": 1956,
+   "parser_speaker": "Winters",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Fletcher",
+   "llm_bioguide_id": "F000468",
+   "shape": "different person",
+   "excerpt": {
+    "before": "want to address how is this going to help or hurt us in that effort.",
+    "span_text": "Mr. Winters. Yes, absolutely, and thank you for the \nquestion. I mean, very simply, taking resources away from these \nagencies, and in the case of the CFPB and this part of the DOJ, \ncompletely trying to stop all of their work is absolutely not \ngoing to help in the fight against these harms.\n    On the DOJ consumer protection case that I mentioned, yes, \nthat is a data broker that sold a list of over 30 million \nelderly Americans directly to a scammer. It is not just that it \nended up in the scammer's hands. Data brokers will sell to \nanyone at any time. And so what Congress needs to do for both \nscam reasons and lots of other reasons is pass comprehensive \ndata privacy law with data minimization and a private right of \naction and a few other key things. Or at least, if you want to \nbe more focused, it should be focused on restricting the sale \nof consumer data.\n    CFPB specifically, shuttering that really cuts off a \ncentral resource for people that are victims of scams, \nespecially. They have had, you know, counselors, people that \nanswer the phone and take complaints and try to get things \nresolved for you. There are a bunch of great stories of people \nthat literally had their scams resolved. You know, they got \nmoney back from their bank with the help of CFPB professionals. \nSo they can do things on enforcement and work with financial \nactors where people are losing their money. But they also are \njust critical support. And they provide also tracking of those \ncomplaints and, you know, gets it to State AGs and those who \ncan help.",
+    "after": "Mrs. Fletcher. Thank you, Mr. Winters. I have gone over my time. I do have"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 17899,
+   "body_word_end": 17912,
+   "word_start": 16540,
+   "word_end": 16553,
+   "n_ref_words_mapped": 13,
+   "word_count": 13,
+   "start_line": 2057,
+   "end_line": 2059,
+   "parser_speaker": "Balderson",
+   "parser_bioguide_id": "B001306",
+   "llm_speaker": "Tonko",
+   "llm_bioguide_id": "T000469",
+   "shape": "different person",
+   "excerpt": {
+    "before": "innovate. Mr. Tonko. Well, I thank you very much. And with that, I yield back.",
+    "span_text": "Mr. Balderson. Thank you.\n    Next up is the gentlelady from New York, Ocasio-Cortez, \nplease.",
+    "after": "Ms. Ocasio-Cortez. Thank you, Mr. Chair. Mr. Winters, I want folks back home to kind"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 19737,
+   "body_word_end": 19748,
+   "word_start": 18311,
+   "word_end": 18322,
+   "n_ref_words_mapped": 11,
+   "word_count": 11,
+   "start_line": 2250,
+   "end_line": 2251,
+   "parser_speaker": "Balderson",
+   "parser_bioguide_id": "B001306",
+   "llm_speaker": "Mullin",
+   "llm_bioguide_id": "M001225",
+   "shape": "different person",
+   "excerpt": {
+    "before": "just make it a lot harder. Mr. Mullin. Thank you for that. I yield back.",
+    "span_text": "Mr. Balderson. Thank you. Next up is the gentleman from \nTexas, Mr. Pfluger.",
+    "after": "Mr. Pfluger. Thank you, Mr. Chairman. Thanks for the witnesses being here. I want to"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 22621,
+   "body_word_end": 22635,
+   "word_start": 21104,
+   "word_end": 21118,
+   "n_ref_words_mapped": 14,
+   "word_count": 14,
+   "start_line": 2549,
+   "end_line": 2550,
+   "parser_speaker": "Balderson",
+   "parser_bioguide_id": "B001306",
+   "llm_speaker": "Rulli",
+   "llm_bioguide_id": "R000619",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Thank you so much. And with that, I yield my time back to the chair.",
+    "span_text": "Mr. Balderson. Thank you. Next up is the gentleman from \nTexas for 5 minutes, Mr. Weber.",
+    "after": "Mr. Weber. Thank you, Mr. Chairman. Ms. Leggin, I am coming to you. I had"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 23495,
+   "body_word_end": 23507,
+   "word_start": 21948,
+   "word_end": 21960,
+   "n_ref_words_mapped": 12,
+   "word_count": 12,
+   "start_line": 2640,
+   "end_line": 2641,
+   "parser_speaker": "Leggin",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Weber",
+   "llm_bioguide_id": "W000814",
+   "shape": "different person",
+   "excerpt": {
+    "before": "a question for the two of you all. And we will go back to you,",
+    "span_text": "Ms. Leggin. How about have you all ever encountered what is \nknown as swatting?",
+    "after": "Ms. Leggin. Yes. Mr. Weber. And how often? Or would you put a percentage on"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 23509,
+   "body_word_end": 23510,
+   "word_start": 21960,
+   "word_end": 21961,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 2642,
+   "end_line": 2642,
+   "parser_speaker": "Leggin",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Weber",
+   "llm_bioguide_id": "W000814",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "you, Ms. Leggin. How about have you all ever encountered what is known as swatting?",
+    "span_text": "Ms. Leggin. Yes.",
+    "after": "Mr. Weber. And how often? Or would you put a percentage on that? And what"
+   },
+   "span_id": "d006"
+  }
+ ]
+}

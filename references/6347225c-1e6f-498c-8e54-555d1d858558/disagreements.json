@@ -1,0 +1,144 @@
+{
+ "hearing_id": "6347225c-1e6f-498c-8e54-555d1d858558",
+ "chrg": "CHRG-119hhrg60692",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60692.htm",
+ "print_sha256": "1cc7aa69763c7b46af20c47d4dfc1a02b0e79dd9943f840201e46d553763cc3b",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "dda8569005a208cea2deb4f79db6251318522d243b3b1e60a349f18441c2baa4",
+ "n_ref_words": 22437,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 23422,
+ "words_both_opinion": 12970,
+ "words_agree": 12735,
+ "words_disagree": 235,
+ "words_no_llm_opinion": 592,
+ "words_no_parser_opinion": 864,
+ "words_inserted_material": 9588,
+ "agree_rate": 0.9819,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 3,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1651,
+   "end_word": 2621,
+   "word_count": 970,
+   "start_line": 351,
+   "end_line": 462
+  },
+  {
+   "start_word": 3506,
+   "end_word": 4334,
+   "word_count": 828,
+   "start_line": 564,
+   "end_line": 653
+  },
+  {
+   "start_word": 4356,
+   "end_word": 4896,
+   "word_count": 540,
+   "start_line": 656,
+   "end_line": 722
+  },
+  {
+   "start_word": 6074,
+   "end_word": 6090,
+   "word_count": 16,
+   "start_line": 866,
+   "end_line": 870
+  },
+  {
+   "start_word": 6984,
+   "end_word": 8048,
+   "word_count": 1064,
+   "start_line": 980,
+   "end_line": 1099
+  },
+  {
+   "start_word": 8973,
+   "end_word": 13680,
+   "word_count": 4707,
+   "start_line": 1206,
+   "end_line": 1759
+  },
+  {
+   "start_word": 14388,
+   "end_word": 15851,
+   "word_count": 1463,
+   "start_line": 1843,
+   "end_line": 1998
+  }
+ ],
+ "n_body_words_mapped": 22299,
+ "n_compare_words_spans": 3,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 8048,
+   "body_word_end": 8065,
+   "word_start": 7338,
+   "word_end": 7355,
+   "n_ref_words_mapped": 17,
+   "word_count": 17,
+   "start_line": 1099,
+   "end_line": 1101,
+   "parser_speaker": "Gimenez",
+   "parser_bioguide_id": "G000593",
+   "llm_speaker": "Kroenig",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "to share my views on these challenges, and I look forward to taking your questions.",
+    "span_text": "Chairman Gimenez. Thank you, Dr. Kroenig.\n    I now recognize Dr. Berg for 5 minutes to summarize his \nopening statements.",
+    "after": "STATEMENT OF RYAN C. BERG, DIRECTOR, AMERICAS PRO- GRAM, CENTER FOR STRATEGIC AND INTERNATIONAL STUDIES"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 13680,
+   "body_word_end": 13696,
+   "word_start": 12897,
+   "word_end": 12913,
+   "n_ref_words_mapped": 16,
+   "word_count": 16,
+   "start_line": 1759,
+   "end_line": 1761,
+   "parser_speaker": "Gimenez",
+   "parser_bioguide_id": "G000593",
+   "llm_speaker": "Berg",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "Panama and Peru obtained by CSIS from Maxar Technologies. [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]",
+    "span_text": "Chairman Gimenez. Thank you, Dr. Berg.\n    I recognize Mr. Davis for 5 minutes to summarize his \nopening statements.",
+    "after": "STATEMENT OF CARY DAVIS, PRESIDENT & CEO, AMERICAN ASSOCIATION OF PORT AUTHORITIES (AAPA) Mr. Davis."
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 15851,
+   "body_word_end": 16053,
+   "word_start": 15044,
+   "word_end": 15246,
+   "n_ref_words_mapped": 202,
+   "word_count": 202,
+   "start_line": 1998,
+   "end_line": 2017,
+   "parser_speaker": "Gimenez",
+   "parser_bioguide_id": "G000593",
+   "llm_speaker": "Davis",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "questions and working with this committee to advance policies that support America's ports. Thank you.",
+    "span_text": "Chairman Gimenez. Thank you, Mr. Davis, and I am sorry for \nyour loss. By the way, for those who don't know, if you died of \noverdose of fentanyl, 97 percent of the precursor chemicals \nthat create fentanyl are manufactured in China. Even worse than \nthat, those precursor chemicals are actually illegal to sell in \nChina and yet the Chinese Communist Party actually incentivizes \ncompanies to produce them for export.\n    They have no other use, by the way. It is just for \nfentanyl, so it was something done by the Chinese Communist \nParty on purpose to kill, basically, American lives.\n    That is why you know when they asked why I am so, you know, \nso hawkish on China and, you know, think they are greatest \nthreat, this is an example of why I think that they are our \ngreatest threat. They did it on purpose and for no other reason \nfor I guess to harm us and also to make money.\n    I now recognize myself for 5 minutes for opening statements \nor for opening questions.\n    Mr. Kroenig, you mentioned the presence of China and the \nChinese-controlled ports on both sides of the Panama Canal. How \ndoes that pose a threat to the United States?",
+    "after": "Mr. Kroenig. Well, I think it poses a number of challenges. One to the topic"
+   },
+   "span_id": "d003"
+  }
+ ]
+}

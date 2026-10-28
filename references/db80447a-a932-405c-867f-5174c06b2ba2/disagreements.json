@@ -1,0 +1,299 @@
+{
+ "hearing_id": "db80447a-a932-405c-867f-5174c06b2ba2",
+ "chrg": "CHRG-119hhrg63556",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg63556.htm",
+ "print_sha256": "0327a02607656b1fce9fe30018bce8217f0e33b67777f7c7854af3f39eabc5b3",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "640867a7b4e13da41b34f746552303464e1a88e0f6fb17b1e9af64c6eb50f84e",
+ "n_ref_words": 16702,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 24566,
+ "words_both_opinion": 10673,
+ "words_agree": 10488,
+ "words_disagree": 185,
+ "words_no_llm_opinion": 573,
+ "words_no_parser_opinion": 7923,
+ "words_inserted_material": 5970,
+ "agree_rate": 0.9827,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 4,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1195,
+   "end_word": 1703,
+   "word_count": 508,
+   "start_line": 226,
+   "end_line": 281
+  },
+  {
+   "start_word": 3667,
+   "end_word": 4282,
+   "word_count": 615,
+   "start_line": 481,
+   "end_line": 543
+  },
+  {
+   "start_word": 5264,
+   "end_word": 7081,
+   "word_count": 1817,
+   "start_line": 660,
+   "end_line": 871
+  },
+  {
+   "start_word": 7823,
+   "end_word": 10853,
+   "word_count": 3030,
+   "start_line": 957,
+   "end_line": 1294
+  }
+ ],
+ "n_body_words_mapped": 16531,
+ "n_compare_words_spans": 11,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 11605,
+   "body_word_end": 11747,
+   "word_start": 10928,
+   "word_end": 11070,
+   "n_ref_words_mapped": 142,
+   "word_count": 142,
+   "start_line": 1366,
+   "end_line": 1380,
+   "parser_speaker": "Sabatino",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Guest",
+   "llm_bioguide_id": "G000591",
+   "shape": "different person",
+   "excerpt": {
+    "before": "any time left, Ms. Benedict, I will let you have the remainder of that time.",
+    "span_text": "Ms. Sabatino. Thank you for the question, Congressman. I \ncertainly would say that continued accountability and holding \nus accountable for meeting those goals is critical for us to \nget there with the deployments; I think continuing to support \nour work with the vendors to identify additional or enhanced or \nemerging technology. We have--we're very optimistic about some \ntests that are going on now, working with the Department of \nHomeland Security Science and Technology Office, to address the \nradiation portal monitor interference at a place like San \nYsidro. That would significantly increase the scan rates, being \nthe largest border crossing for vehicles on the Southwest \nBorder. Certainly continuing to engage with us, you know, with \nour needs with respect to addressing the civil works and \nfunding and very much appreciate the funding that was available \nto us in the One Big Beautiful Bill Act.",
+    "after": "Mr. Guest. Ms. Benedict, I know I am almost over time, but I want to"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 13658,
+   "body_word_end": 13659,
+   "word_start": 12878,
+   "word_end": 12879,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1588,
+   "end_line": 1588,
+   "parser_speaker": "Sabatino",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Green",
+   "llm_bioguide_id": "G000553",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "and Customs Enforcement and other partners, yes. Mr. Green. Would that include--other partners include ICE?",
+    "span_text": "Ms. Sabatino. Yes.",
+    "after": "Mr. Green. So you have persons who are actually in the field and they are"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 13717,
+   "body_word_end": 13718,
+   "word_start": 12929,
+   "word_end": 12930,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1594,
+   "end_line": 1594,
+   "parser_speaker": "Sabatino",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Green",
+   "llm_bioguide_id": "G000553",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "of ways, we do---- Mr. Green. Excuse me. Is making arrests one of the ways?",
+    "span_text": "Ms. Sabatino. Yes.",
+    "after": "Mr. Green. OK, thank you. These persons who are doing this, have they been trained"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 16400,
+   "body_word_end": 16411,
+   "word_start": 15532,
+   "word_end": 15543,
+   "n_ref_words_mapped": 11,
+   "word_count": 11,
+   "start_line": 1873,
+   "end_line": 1874,
+   "parser_speaker": "Guest",
+   "parser_bioguide_id": "G000591",
+   "llm_speaker": "Correa",
+   "llm_bioguide_id": "C001110",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Thank you very much. I look forward to getting your data from you. Thank you.",
+    "span_text": "Mr. Guest. The gentleman yields back.\n    The Chair recognizes the gentleman from Arizona.",
+    "after": "Mr. Crane. Thank you, Mr. Chairman. Obviously my colleagues on the other side of the"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 16701,
+   "body_word_end": 16712,
+   "word_start": 15824,
+   "word_end": 15835,
+   "n_ref_words_mapped": 11,
+   "word_count": 11,
+   "start_line": 1905,
+   "end_line": 1906,
+   "parser_speaker": "Guest",
+   "parser_bioguide_id": "G000591",
+   "llm_speaker": "Crane",
+   "llm_bioguide_id": "C001132",
+   "shape": "different person",
+   "excerpt": {
+    "before": "gentleman yields? Mr. Crane [continuing]. To the American people. Thank you and I yield back.",
+    "span_text": "Mr. Guest. The gentleman yields back.\n    The Chair recognizes the gentleman from Virginia.",
+    "after": "Mr. Walkinshaw. I yield back, Mr. Chairman. I am OK. Actually, I will yield to"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 17075,
+   "body_word_end": 17089,
+   "word_start": 16190,
+   "word_end": 16204,
+   "n_ref_words_mapped": 14,
+   "word_count": 14,
+   "start_line": 1944,
+   "end_line": 1946,
+   "parser_speaker": "Guest",
+   "parser_bioguide_id": "G000591",
+   "llm_speaker": "Walkinshaw",
+   "llm_bioguide_id": "W000831",
+   "shape": "different person",
+   "excerpt": {
+    "before": "and impartial investigation in the case of Liam Ramos or others. Thank you, Mr. Chairman.",
+    "span_text": "Mr. Guest. The gentleman yields back.\n    The Chair recognizes the gentleman from Texas for 3 \nminutes.",
+    "after": "Mr. Green. Thank you, Mr. Chairman. Again, I thank you and the Ranking Member and"
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 17140,
+   "body_word_end": 17141,
+   "word_start": 16251,
+   "word_end": 16252,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1953,
+   "end_line": 1953,
+   "parser_speaker": "Sabatino",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Green",
+   "llm_bioguide_id": "G000553",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "concluded that it can be reported to your Office of Professional Responsibility. Is that correct?",
+    "span_text": "Ms. Sabatino. Yes.",
+    "after": "Mr. Green. Can anyone report to this office, Ms. Sabatino? Ms. Sabatino. I believe there's"
+   },
+   "span_id": "d007"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 17188,
+   "body_word_end": 17189,
+   "word_start": 16287,
+   "word_end": 16288,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1960,
+   "end_line": 1960,
+   "parser_speaker": "Sabatino",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Green",
+   "llm_bioguide_id": "G000553",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "If I could report allegations? Mr. Green. Does anyone include you when I say anyone?",
+    "span_text": "Ms. Sabatino. Yes.",
+    "after": "Mr. Green. OK. Now let's talk about criminal activity. Is a similar circumstance available for"
+   },
+   "span_id": "d008"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 17329,
+   "body_word_end": 17330,
+   "word_start": 16412,
+   "word_end": 16413,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1978,
+   "end_line": 1978,
+   "parser_speaker": "Sabatino",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Green",
+   "llm_bioguide_id": "G000553",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Professional Responsibility for these kinds of things. It is sort-of internal affairs, is that correct?",
+    "span_text": "Ms. Sabatino. Yes.",
+    "after": "Mr. Green. You have the ability to report these things, do you not? Ms. Sabatino."
+   },
+   "span_id": "d009"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 17359,
+   "body_word_end": 17360,
+   "word_start": 16434,
+   "word_end": 16435,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1983,
+   "end_line": 1983,
+   "parser_speaker": "Sabatino",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Green",
+   "llm_bioguide_id": "G000553",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "not? Ms. Sabatino. Everyone in the public can report. Mr. Green. Does everyone include you?",
+    "span_text": "Ms. Sabatino. Yes.",
+    "after": "Mr. Green. So you have the ability to report, do you not? Ms. Sabatino. If"
+   },
+   "span_id": "d010"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 17495,
+   "body_word_end": 17496,
+   "word_start": 16554,
+   "word_end": 16555,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1998,
+   "end_line": 1998,
+   "parser_speaker": "Sabatino",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Green",
+   "llm_bioguide_id": "G000553",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Anyone who believes that there's criminal---- Mr. Green. Are you a part of the anyone?",
+    "span_text": "Ms. Sabatino. Yes.",
+    "after": "Mr. Green. So you can report it. How can you, ma'am, see what happened on"
+   },
+   "span_id": "d011"
+  }
+ ]
+}

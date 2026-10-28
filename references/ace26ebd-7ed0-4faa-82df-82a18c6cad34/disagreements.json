@@ -1,0 +1,131 @@
+{
+ "hearing_id": "ace26ebd-7ed0-4faa-82df-82a18c6cad34",
+ "chrg": "CHRG-119hhrg60778",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60778.htm",
+ "print_sha256": "582ce2c3cd7b45cc05199461e68ac27a660d9e5397ea46c7fe128756df1bf098",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "cd7f00813dba969109024bafbeeb35a05039b34e88a76100a8c4f259e3bf2773",
+ "n_ref_words": 16496,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 18246,
+ "words_both_opinion": 16496,
+ "words_agree": 16478,
+ "words_disagree": 18,
+ "words_no_llm_opinion": 1139,
+ "words_no_parser_opinion": 1719,
+ "words_inserted_material": 31,
+ "agree_rate": 0.9989,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 4882,
+   "end_word": 4898,
+   "word_count": 16,
+   "start_line": 662,
+   "end_line": 666
+  },
+  {
+   "start_word": 5577,
+   "end_word": 5592,
+   "word_count": 15,
+   "start_line": 749,
+   "end_line": 753
+  }
+ ],
+ "n_body_words_mapped": 16487,
+ "n_compare_words_spans": 4,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 11374,
+   "body_word_end": 11389,
+   "word_start": 9993,
+   "word_end": 10008,
+   "n_ref_words_mapped": 15,
+   "word_count": 15,
+   "start_line": 1355,
+   "end_line": 1356,
+   "parser_speaker": "Issa",
+   "parser_bioguide_id": "I000056",
+   "llm_speaker": "Fry",
+   "llm_bioguide_id": "F000478",
+   "shape": "different person",
+   "excerpt": {
+    "before": "you for that. Mr. Chair, I see my time has expired and I yield back.",
+    "span_text": "Mr. Issa. I thank the gentleman. We now go to the gentleman \nfrom Colorado for five minutes.",
+    "after": "Mr. Neguse. I thank the Chair and the Ranking Member for holding this hearing and"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 14593,
+   "body_word_end": 14594,
+   "word_start": 13031,
+   "word_end": 13032,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1707,
+   "end_line": 1707,
+   "parser_speaker": "St. Eve",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Jordan",
+   "llm_bioguide_id": "J000289",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "the court security account. Chair Jordan. OK. That means $658 million is for other things?",
+    "span_text": "Judge St. Eve. Yes.",
+    "after": "Chair Jordan. Where is all that going? Judge St. Eve. Defender services, we are asking"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 15123,
+   "body_word_end": 15124,
+   "word_start": 13531,
+   "word_end": 13532,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1766,
+   "end_line": 1766,
+   "parser_speaker": "St. Eve",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Kamlager-Dove",
+   "llm_bioguide_id": "K000400",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "chopping block. So, Judge St. Eve, my understanding is that you were an AUSA, correct?",
+    "span_text": "Judge St. Eve. Correct.",
+    "after": "Ms. Kamlager-Dove. OK. Judge Scudder, you too were an AUSA, correct? Judge Scudder. Correct. Ms."
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 15138,
+   "body_word_end": 15139,
+   "word_start": 13541,
+   "word_end": 13542,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1769,
+   "end_line": 1769,
+   "parser_speaker": "Scudder",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Kamlager-Dove",
+   "llm_bioguide_id": "K000400",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Judge St. Eve. Correct. Ms. Kamlager-Dove. OK. Judge Scudder, you too were an AUSA, correct?",
+    "span_text": "Judge Scudder. Correct.",
+    "after": "Ms. Kamlager-Dove. In New York and Chicago, is what I read. For regular people listening,"
+   },
+   "span_id": "d004"
+  }
+ ]
+}

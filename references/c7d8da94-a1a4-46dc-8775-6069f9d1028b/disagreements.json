@@ -1,0 +1,144 @@
+{
+ "hearing_id": "c7d8da94-a1a4-46dc-8775-6069f9d1028b",
+ "chrg": "CHRG-119hhrg64315",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg64315.htm",
+ "print_sha256": "ffb9893b11853d47212297fae5cd1fecbcca81f122da48d9b867f0a0a00fe9e0",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "b4990dda15cbbe3a91cd92cf9034f21cbad6364e54057b31a44b42b90e8f8c3f",
+ "n_ref_words": 16597,
+ "roster_source": "committee_membership",
+ "total_body_words": 17776,
+ "words_both_opinion": 16597,
+ "words_agree": 16545,
+ "words_disagree": 52,
+ "words_no_llm_opinion": 379,
+ "words_no_parser_opinion": 736,
+ "words_inserted_material": 443,
+ "agree_rate": 0.9969,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 3,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 379,
+   "end_word": 731,
+   "word_count": 352,
+   "start_line": 109,
+   "end_line": 176
+  },
+  {
+   "start_word": 1100,
+   "end_word": 1115,
+   "word_count": 15,
+   "start_line": 220,
+   "end_line": 223
+  },
+  {
+   "start_word": 1858,
+   "end_word": 1874,
+   "word_count": 16,
+   "start_line": 309,
+   "end_line": 312
+  },
+  {
+   "start_word": 2652,
+   "end_word": 2667,
+   "word_count": 15,
+   "start_line": 404,
+   "end_line": 407
+  },
+  {
+   "start_word": 3229,
+   "end_word": 3244,
+   "word_count": 15,
+   "start_line": 478,
+   "end_line": 482
+  },
+  {
+   "start_word": 3766,
+   "end_word": 3781,
+   "word_count": 15,
+   "start_line": 545,
+   "end_line": 548
+  },
+  {
+   "start_word": 4302,
+   "end_word": 4317,
+   "word_count": 15,
+   "start_line": 613,
+   "end_line": 616
+  }
+ ],
+ "n_body_words_mapped": 16584,
+ "n_compare_words_spans": 3,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 5972,
+   "body_word_end": 5995,
+   "word_start": 5040,
+   "word_end": 5063,
+   "n_ref_words_mapped": 23,
+   "word_count": 23,
+   "start_line": 794,
+   "end_line": 796,
+   "parser_speaker": "Owens",
+   "parser_bioguide_id": "O000086",
+   "llm_speaker": "Adams",
+   "llm_bioguide_id": "A000370",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Ms. Adams. Thank you very much. Mr. Chairman, I will yield back my 13 seconds.",
+    "span_text": "Chairman Owens. Thank you so much. I would now like to \nrecognize the Chairman of the Full Committee, and my friend \nfrom Michigan, Chairman Walberg.",
+    "after": "Mr. Walberg. Thank you, Mr., Chairman, and thank you as well for that amazing video."
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 10486,
+   "body_word_end": 10500,
+   "word_start": 9464,
+   "word_end": 9478,
+   "n_ref_words_mapped": 14,
+   "word_count": 14,
+   "start_line": 1266,
+   "end_line": 1267,
+   "parser_speaker": "Owens",
+   "parser_bioguide_id": "O000086",
+   "llm_speaker": "Fine",
+   "llm_bioguide_id": "F000484",
+   "shape": "different person",
+   "excerpt": {
+    "before": "all of you, and the work that you are doing. Mr. Chairman, I yield back.",
+    "span_text": "Chairman Owens. Thank you. I would now like to recognize my \nfriend from California, Mr. DeSaulnier.",
+    "after": "Mr. DeSaulnier. Thank you, Mr. Chairman, and I want to thank all the witnesses for"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 13295,
+   "body_word_end": 13310,
+   "word_start": 12228,
+   "word_end": 12243,
+   "n_ref_words_mapped": 15,
+   "word_count": 15,
+   "start_line": 1557,
+   "end_line": 1558,
+   "parser_speaker": "Owens",
+   "parser_bioguide_id": "O000086",
+   "llm_speaker": "Onder",
+   "llm_bioguide_id": "O000177",
+   "shape": "different person",
+   "excerpt": {
+    "before": "think we understand how to go about it. Mr. Onder. Thank you. I yield back.",
+    "span_text": "Chairman Owens. Thank you. I would now like to recognize my \ngood friend from Wisconsin, Mr. Grothman.",
+    "after": "Mr. Grothman. Thank you very much. Mr. DiDonato, are there technical changes that employers would"
+   },
+   "span_id": "d003"
+  }
+ ]
+}

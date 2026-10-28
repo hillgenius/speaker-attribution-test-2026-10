@@ -1,0 +1,180 @@
+{
+ "test": "HillGenius speaker attribution, 100 randomly drawn congressional hearings, October 2026",
+ "page": "https://www.hillgenius.com/methodology/speaker-attribution",
+ "version": "1.0",
+ "published": "2026-10-28",
+ "kit_commit": "5826159a",
+ "headline": {
+  "by_word": {
+   "correct": 1639116,
+   "total": 1649095,
+   "accuracy": 0.9939488022218247
+  },
+  "by_speaker": {
+   "correct": 1669,
+   "total": 1690,
+   "accuracy": 0.9875739644970414
+  },
+  "precision_equals_recall": true,
+  "formula": "by_word = sum(word_correct) / (sum(word_correct) + sum(word_wrong)) over per_hearing.csv; by_speaker = sum(cluster_correct) / (sum(cluster_correct) + sum(cluster_wrong))"
+ },
+ "by_chamber": {
+  "house": {
+   "hearings": 79,
+   "word_correct": 1347179,
+   "word_total": 1352652,
+   "cluster_correct": 1424,
+   "cluster_total": 1440
+  },
+  "senate": {
+   "hearings": 21,
+   "word_correct": 291937,
+   "word_total": 296443,
+   "cluster_correct": 245,
+   "cluster_total": 250
+  }
+ },
+ "by_role_post_hoc": {
+  "note": "Broken out after scoring; not in the pre-registration. Classified by person: sitting Members of Congress count as members even when testifying; per-voice roles in results/roles_post_hoc.jsonl.",
+  "member": {
+   "cluster_correct": 1340,
+   "cluster_total": 1348,
+   "word_correct": 950190,
+   "word_total": 950276
+  },
+  "witness": {
+   "cluster_correct": 329,
+   "cluster_total": 334,
+   "word_correct": 688926,
+   "word_total": 697077
+  },
+  "other": {
+   "cluster_correct": 0,
+   "cluster_total": 8,
+   "word_correct": 0,
+   "word_total": 1742
+  }
+ },
+ "hearings": 100,
+ "hearings_with_no_wrong_speaker": 82,
+ "confidence_interval": {
+  "method": "percentile bootstrap over hearings (resample the 100 hearings with replacement, pool, repeat)",
+  "resamples": 10000,
+  "seed": 20261027,
+  "by_word_95": [
+   0.9873001814080578,
+   0.9988123582252632
+  ],
+  "by_speaker_95": [
+   0.9822958309537407,
+   0.9925880172946263
+  ],
+  "computed_after_scoring": true
+ },
+ "coverage": {
+  "transcript_words": 1807969,
+  "headline_words": 1649095,
+  "minority_words_in_scored_clusters": 3784,
+  "ambiguous_clusters": 8,
+  "ambiguous_cluster_words": 10680,
+  "no_gold_clusters": 45,
+  "by_word_if_minority_words_counted_wrong": 0.9916733166795634
+ },
+ "wrong_clusters": {
+  "count": 21,
+  "by_cause": [
+   {
+    "cause": "witness_unnamed",
+    "label": "Witness or guest named on the record but left unnamed",
+    "clusters": 4,
+    "words": 4489
+   },
+   {
+    "cause": "late_video_chair",
+    "label": "Video starts mid-hearing; a witness was given the chair's name",
+    "clusters": 2,
+    "words": 3666
+   },
+   {
+    "cause": "clerk",
+    "label": "Clerk calling a roll-call vote",
+    "clusters": 5,
+    "words": 1661
+   },
+   {
+    "cause": "unison",
+    "label": "Members speaking in unison ('All')",
+    "clusters": 3,
+    "words": 81
+   },
+   {
+    "cause": "unknown_bucket",
+    "label": "Short remarks in the unidentified-speaker bucket",
+    "clusters": 5,
+    "words": 61
+   },
+   {
+    "cause": "member_short",
+    "label": "A member's brief remark, mislabeled or unnamed",
+    "clusters": 2,
+    "words": 21
+   }
+  ]
+ },
+ "locked_run_before_corrections": {
+  "by_word": {
+   "correct": 1620934,
+   "total": 1635050,
+   "accuracy": 0.9913666248738571
+  },
+  "by_speaker": {
+   "correct": 1663,
+   "total": 1688,
+   "accuracy": 0.9851895734597157
+  }
+ },
+ "reference": {
+  "source": "GPO printed hearing record (GovInfo CHRG packages)",
+  "spans_reviewed": 2517,
+  "words_relabeled": 47141,
+  "reference_words": 2156515,
+  "decision_parser": 1839,
+  "decision_llm": 642,
+  "decision_split": 26,
+  "decision_other": 10,
+  "audit": {
+   "agreeing_turns_sampled": 200,
+   "corrections_found": 1
+  }
+ },
+ "member_id_check": {
+  "scored_correct": {
+   "agrees": 1189,
+   "conflicts": 0,
+   "no_id_ours": 2,
+   "no_id_reference": 478,
+   "no_id_reference_same_surname": 12
+  },
+  "scored_wrong": {
+   "agrees": 0,
+   "conflicts": 0,
+   "no_id_ours": 4,
+   "no_id_reference": 17,
+   "no_id_reference_same_surname": 1
+  },
+  "same_surname_checked_by_hand": 12
+ },
+ "sampling": {
+  "population": 143,
+  "population_sha256": "c86a8d286e82a9214ecf5d83524c3b30ba4c592d02da1e4937480b005ed58bb9",
+  "seed_source": "NIST Randomness Beacon v2, pulse 2026-10-27T03:30:00Z (index 2001207, chain 2)",
+  "seed": "6C8B84729D863158FC71E44D05EE63E8E1C61DDFE85298176AC892190F95E8B6A104075721B43AE69A2B76AC7530432E6D5DAFA27004E9E31D5721BCE44491DA",
+  "sample_sha256": "35cb7bd0ddac5202bd3190bf2f7e401ff214a55f2305a8a738f9df20ba5a5396",
+  "house": 79,
+  "senate": 21
+ },
+ "system": "Tiro 1, the HillGenius transcription system",
+ "pipeline_commit": "9f3d03d0",
+ "files": "https://github.com/hillgenius/speaker-attribution-test-2026-10/blob/main/SHA256SUMS",
+ "end_of_file": true
+}

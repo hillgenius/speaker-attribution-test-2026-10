@@ -1,0 +1,23 @@
+{
+ "strict": {
+  "n_hearings": 100,
+  "n_clusters_scored": 1690,
+  "n_ambiguous_discarded": 8,
+  "by_cluster": {
+   "n_correct": 1669,
+   "n_wrong": 21,
+   "n_blank": 0,
+   "n_answered": 1690,
+   "precision": 0.9875739644970414,
+   "recall": 0.9875739644970414
+  },
+  "by_word": {
+   "n_correct": 1639116,
+   "n_wrong": 9979,
+   "n_blank": 0,
+   "n_answered": 1649095,
+   "precision": 0.9939488022218247,
+   "recall": 0.9939488022218247
+  }
+ }
+}

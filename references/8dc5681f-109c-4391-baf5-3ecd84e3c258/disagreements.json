@@ -1,0 +1,115 @@
+{
+ "hearing_id": "8dc5681f-109c-4391-baf5-3ecd84e3c258",
+ "chrg": "CHRG-119hhrg60989",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60989.htm",
+ "print_sha256": "0d10500ac2b0d279109350632ff02ea6f90fb301de83ff124679132e347e6b05",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "055329b22ccd1c44c4d6246d26fbff3c4f41a081d6d0ce31774fdc6d3ef21608",
+ "n_ref_words": 6026,
+ "roster_source": "committee_membership",
+ "total_body_words": 6934,
+ "words_both_opinion": 6026,
+ "words_agree": 6002,
+ "words_disagree": 24,
+ "words_no_llm_opinion": 616,
+ "words_no_parser_opinion": 812,
+ "words_inserted_material": 96,
+ "agree_rate": 0.996,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 1,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 1608,
+   "end_word": 1624,
+   "word_count": 16,
+   "start_line": 277,
+   "end_line": 280
+  },
+  {
+   "start_word": 2083,
+   "end_word": 2099,
+   "word_count": 16,
+   "start_line": 336,
+   "end_line": 339
+  },
+  {
+   "start_word": 2716,
+   "end_word": 2732,
+   "word_count": 16,
+   "start_line": 406,
+   "end_line": 409
+  },
+  {
+   "start_word": 4819,
+   "end_word": 4835,
+   "word_count": 16,
+   "start_line": 621,
+   "end_line": 624
+  },
+  {
+   "start_word": 5419,
+   "end_word": 5435,
+   "word_count": 16,
+   "start_line": 697,
+   "end_line": 700
+  },
+  {
+   "start_word": 6171,
+   "end_word": 6187,
+   "word_count": 16,
+   "start_line": 782,
+   "end_line": 785
+  }
+ ],
+ "n_body_words_mapped": 6005,
+ "n_compare_words_spans": 2,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 4835,
+   "body_word_end": 4857,
+   "word_start": 4051,
+   "word_end": 4073,
+   "n_ref_words_mapped": 22,
+   "word_count": 22,
+   "start_line": 624,
+   "end_line": 626,
+   "parser_speaker": "Hill",
+   "parser_bioguide_id": "H001072",
+   "llm_speaker": "Sherman",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "yield back. [The prepared statement of Hon. Sherman follows:] [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]",
+    "span_text": "Chairman Hill. The gentleman yields back. The distinguished \nRanking Member of our Housing and Insurance Subcommittee, Mr. \nCleaver, you are recognized for 5 minutes.",
+    "after": "STATEMENT OF HON. EMANUEL CLEAVER, A REPRESENTATIVE FROM THE STATE OF MISSOURI Mr. Cleaver. Thank"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 6707,
+   "body_word_end": 6709,
+   "word_start": 5847,
+   "word_end": 5849,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 838,
+   "end_line": 838,
+   "parser_speaker": "Hill",
+   "parser_bioguide_id": "H001072",
+   "llm_speaker": "Green",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Okay. Mr. Green. I want to believe that it is placed where it should be----",
+    "span_text": "Chairman Hill. Mm-hmm.",
+    "after": "Mr. Green [continuing]. because the community banks, they are not really creating systemic risk. They"
+   },
+   "span_id": "d002"
+  }
+ ]
+}

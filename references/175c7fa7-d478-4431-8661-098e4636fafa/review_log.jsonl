@@ -1,0 +1,3 @@
+{"span_id": "d001", "decision": "parser", "speaker": null, "assign": null, "evidence": "print", "note": "Mr. Halpern. Thank you.", "reviewer": "Claude (claude-opus-5-5), the AI agent running this test", "timestamp": "2026-10-27T04:41:09+00:00"}
+{"span_id": "d002", "decision": "parser", "speaker": null, "assign": null, "evidence": "print", "note": "Mrs. Torres. OK.", "reviewer": "Claude (claude-opus-5-5), the AI agent running this test", "timestamp": "2026-10-27T04:41:09+00:00"}
+{"span_id": "d003", "decision": "parser", "speaker": null, "assign": null, "evidence": "print", "note": "Mr. Halpern. Absolutely.", "reviewer": "Claude (claude-opus-5-5), the AI agent running this test", "timestamp": "2026-10-27T04:41:09+00:00"}

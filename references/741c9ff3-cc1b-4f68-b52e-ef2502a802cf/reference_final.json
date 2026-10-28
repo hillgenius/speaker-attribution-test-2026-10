@@ -1,0 +1,2001 @@
+{
+ "hearing_id": "741c9ff3-cc1b-4f68-b52e-ef2502a802cf",
+ "chrg": "CHRG-119shrg62707",
+ "chamber": "senate",
+ "print_file": "CHRG-119shrg62707.htm",
+ "print_sha256": "1568d7ae124c0f4c26cdd0c5f47fbe6df2792d03ee2b2a227ccacd3ef37bc8d8",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "dca6857e950a08e0e5995a1a5df535c215e3daeab9699c1493a02b861d1a4d49",
+ "n_ref_words": 11834,
+ "review_log_sha256": "dd674c2de37945bc28cf0d8c01cb63e908516612158fa2e99a4d8e5b460e8c81",
+ "spans_reviewed": 66,
+ "decisions": {
+  "llm": 66
+ },
+ "words_relabeled": 5280,
+ "header_scan_reviewed": [],
+ "turns": [
+  {
+   "turn_index": 0,
+   "parser_turn_index": 0,
+   "word_start": 0,
+   "word_end": 529,
+   "word_count": 529,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i want to begin by welcoming you all"
+  },
+  {
+   "turn_index": 1,
+   "parser_turn_index": 0,
+   "word_start": 529,
+   "word_end": 1383,
+   "word_count": 854,
+   "speaker": "Warner",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d001"
+   ],
+   "first_words": "well thank you mr chairman and general rudd"
+  },
+  {
+   "turn_index": 2,
+   "parser_turn_index": 0,
+   "word_start": 1383,
+   "word_end": 1396,
+   "word_count": 13,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "be confirmed thank you very much mr chairman"
+  },
+  {
+   "turn_index": 3,
+   "parser_turn_index": 1,
+   "word_start": 1396,
+   "word_end": 1485,
+   "word_count": 89,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr vice chairman general rudd before"
+  },
+  {
+   "turn_index": 4,
+   "parser_turn_index": 1,
+   "word_start": 1485,
+   "word_end": 1488,
+   "word_count": 3,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d002"
+   ],
+   "first_words": "yes mr chairman"
+  },
+  {
+   "turn_index": 5,
+   "parser_turn_index": 2,
+   "word_start": 1488,
+   "word_end": 1518,
+   "word_count": 30,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "if confirmed two if confirmed do you agree"
+  },
+  {
+   "turn_index": 6,
+   "parser_turn_index": 3,
+   "word_start": 1518,
+   "word_end": 1551,
+   "word_count": 33,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "three do you agree to provide documents or"
+  },
+  {
+   "turn_index": 7,
+   "parser_turn_index": 4,
+   "word_start": 1551,
+   "word_end": 1575,
+   "word_count": 24,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "four will you ensure that your office and"
+  },
+  {
+   "turn_index": 8,
+   "parser_turn_index": 5,
+   "word_start": 1575,
+   "word_end": 1614,
+   "word_count": 39,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "five do you agree to inform and fully"
+  },
+  {
+   "turn_index": 9,
+   "parser_turn_index": 6,
+   "word_start": 1614,
+   "word_end": 1649,
+   "word_count": 35,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you general rudd we'll now proceed to"
+  },
+  {
+   "turn_index": 10,
+   "parser_turn_index": 6,
+   "word_start": 1649,
+   "word_end": 2278,
+   "word_count": 629,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d003"
+   ],
+   "first_words": "chairman cotton vice chairman warner and distinguished members"
+  },
+  {
+   "turn_index": 11,
+   "parser_turn_index": 6,
+   "word_start": 2278,
+   "word_end": 2294,
+   "word_count": 16,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "confirmed i look forward to working with you"
+  },
+  {
+   "turn_index": 12,
+   "parser_turn_index": 7,
+   "word_start": 2294,
+   "word_end": 2360,
+   "word_count": 66,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "general you have an extensive career as a"
+  },
+  {
+   "turn_index": 13,
+   "parser_turn_index": 7,
+   "word_start": 2360,
+   "word_end": 2539,
+   "word_count": 179,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d004"
+   ],
+   "first_words": "yes mr chairman the the vast amount of"
+  },
+  {
+   "turn_index": 14,
+   "parser_turn_index": 8,
+   "word_start": 2539,
+   "word_end": 2587,
+   "word_count": 48,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you as i mentioned at the outset"
+  },
+  {
+   "turn_index": 15,
+   "parser_turn_index": 8,
+   "word_start": 2587,
+   "word_end": 2716,
+   "word_count": 129,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d005"
+   ],
+   "first_words": "so mr chairman i think i would draw"
+  },
+  {
+   "turn_index": 16,
+   "parser_turn_index": 9,
+   "word_start": 2716,
+   "word_end": 2747,
+   "word_count": 31,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "cybercom is significantly smaller than nsa have you"
+  },
+  {
+   "turn_index": 17,
+   "parser_turn_index": 9,
+   "word_start": 2747,
+   "word_end": 2836,
+   "word_count": 89,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d006"
+   ],
+   "first_words": "well mr chairman one of my priorities if"
+  },
+  {
+   "turn_index": 18,
+   "parser_turn_index": 10,
+   "word_start": 2836,
+   "word_end": 2900,
+   "word_count": 64,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "as the vice chairman noted in his opening"
+  },
+  {
+   "turn_index": 19,
+   "parser_turn_index": 10,
+   "word_start": 2900,
+   "word_end": 2978,
+   "word_count": 78,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d007"
+   ],
+   "first_words": "senator or mr chairman from an operational perspective"
+  },
+  {
+   "turn_index": 20,
+   "parser_turn_index": 11,
+   "word_start": 2978,
+   "word_end": 2985,
+   "word_count": 7,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you vice chairman vice chairman warner"
+  },
+  {
+   "turn_index": 21,
+   "parser_turn_index": 11,
+   "word_start": 2985,
+   "word_end": 3064,
+   "word_count": 79,
+   "speaker": "Warner",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d008"
+   ],
+   "first_words": "thank you mr chairman and again general enjoyed"
+  },
+  {
+   "turn_index": 22,
+   "parser_turn_index": 11,
+   "word_start": 3064,
+   "word_end": 3072,
+   "word_count": 8,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d009"
+   ],
+   "first_words": "mr vice chairman you do vice chairman warner"
+  },
+  {
+   "turn_index": 23,
+   "parser_turn_index": 11,
+   "word_start": 3072,
+   "word_end": 3133,
+   "word_count": 61,
+   "speaker": "Warner",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d010"
+   ],
+   "first_words": "thank you do you have do i have"
+  },
+  {
+   "turn_index": 24,
+   "parser_turn_index": 11,
+   "word_start": 3133,
+   "word_end": 3147,
+   "word_count": 14,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d011"
+   ],
+   "first_words": "mr vice chairman i will and you do"
+  },
+  {
+   "turn_index": 25,
+   "parser_turn_index": 11,
+   "word_start": 3147,
+   "word_end": 3280,
+   "word_count": 133,
+   "speaker": "Warner",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d012"
+   ],
+   "first_words": "i think your record reflects that one of"
+  },
+  {
+   "turn_index": 26,
+   "parser_turn_index": 11,
+   "word_start": 3280,
+   "word_end": 3348,
+   "word_count": 68,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d013"
+   ],
+   "first_words": "mr vice chairman you do the electoral process"
+  },
+  {
+   "turn_index": 27,
+   "parser_turn_index": 11,
+   "word_start": 3348,
+   "word_end": 3502,
+   "word_count": 154,
+   "speaker": "Warner",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d014"
+   ],
+   "first_words": "thank you because again the nsa and particularly"
+  },
+  {
+   "turn_index": 28,
+   "parser_turn_index": 11,
+   "word_start": 3502,
+   "word_end": 3627,
+   "word_count": 125,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d015"
+   ],
+   "first_words": "mr vice chairman this is a critical area"
+  },
+  {
+   "turn_index": 29,
+   "parser_turn_index": 11,
+   "word_start": 3627,
+   "word_end": 3751,
+   "word_count": 124,
+   "speaker": "Warner",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d016"
+   ],
+   "first_words": "thank you i look forward to working with"
+  },
+  {
+   "turn_index": 30,
+   "parser_turn_index": 11,
+   "word_start": 3751,
+   "word_end": 3798,
+   "word_count": 47,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d017"
+   ],
+   "first_words": "mr vice chairman that's something that i would"
+  },
+  {
+   "turn_index": 31,
+   "parser_turn_index": 11,
+   "word_start": 3798,
+   "word_end": 3844,
+   "word_count": 46,
+   "speaker": "Warner",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d018"
+   ],
+   "first_words": "my time's up but i just want to"
+  },
+  {
+   "turn_index": 32,
+   "parser_turn_index": 12,
+   "word_start": 3844,
+   "word_end": 3846,
+   "word_count": 2,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator collins"
+  },
+  {
+   "turn_index": 33,
+   "parser_turn_index": 13,
+   "word_start": 3846,
+   "word_end": 4040,
+   "word_count": 194,
+   "speaker": "Collins",
+   "bioguide_id": "C001035",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman general i want to"
+  },
+  {
+   "turn_index": 34,
+   "parser_turn_index": 13,
+   "word_start": 4040,
+   "word_end": 4136,
+   "word_count": 96,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d019"
+   ],
+   "first_words": "senator again i appreciate the opportunity to meet"
+  },
+  {
+   "turn_index": 35,
+   "parser_turn_index": 14,
+   "word_start": 4136,
+   "word_end": 4154,
+   "word_count": 18,
+   "speaker": "Collins",
+   "bioguide_id": "C001035",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "do you see yourself as the lead in"
+  },
+  {
+   "turn_index": 36,
+   "parser_turn_index": 14,
+   "word_start": 4154,
+   "word_end": 4192,
+   "word_count": 38,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d020"
+   ],
+   "first_words": "well senator i see us as a lead"
+  },
+  {
+   "turn_index": 37,
+   "parser_turn_index": 15,
+   "word_start": 4192,
+   "word_end": 4304,
+   "word_count": 112,
+   "speaker": "Collins",
+   "bioguide_id": "C001035",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i think that's part of the problem that"
+  },
+  {
+   "turn_index": 38,
+   "parser_turn_index": 15,
+   "word_start": 4304,
+   "word_end": 4384,
+   "word_count": 80,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d021"
+   ],
+   "first_words": "well senator i think that's a critically important"
+  },
+  {
+   "turn_index": 39,
+   "parser_turn_index": 16,
+   "word_start": 4384,
+   "word_end": 4390,
+   "word_count": 6,
+   "speaker": "Collins",
+   "bioguide_id": "C001035",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you thank you mr chairman"
+  },
+  {
+   "turn_index": 40,
+   "parser_turn_index": 17,
+   "word_start": 4390,
+   "word_end": 4392,
+   "word_count": 2,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator king"
+  },
+  {
+   "turn_index": 41,
+   "parser_turn_index": 18,
+   "word_start": 4392,
+   "word_end": 4496,
+   "word_count": 104,
+   "speaker": "King",
+   "bioguide_id": "K000383",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman general we have talked"
+  },
+  {
+   "turn_index": 42,
+   "parser_turn_index": 18,
+   "word_start": 4496,
+   "word_end": 4519,
+   "word_count": 23,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d022"
+   ],
+   "first_words": "senator thanks for the opportunity to meet and"
+  },
+  {
+   "turn_index": 43,
+   "parser_turn_index": 19,
+   "word_start": 4519,
+   "word_end": 4699,
+   "word_count": 180,
+   "speaker": "King",
+   "bioguide_id": "K000383",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i appreciate that and i think that's very"
+  },
+  {
+   "turn_index": 44,
+   "parser_turn_index": 19,
+   "word_start": 4699,
+   "word_end": 4735,
+   "word_count": 36,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d023"
+   ],
+   "first_words": "senator i am committed to that as i"
+  },
+  {
+   "turn_index": 45,
+   "parser_turn_index": 20,
+   "word_start": 4735,
+   "word_end": 4881,
+   "word_count": 146,
+   "speaker": "King",
+   "bioguide_id": "K000383",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you final area in your work in"
+  },
+  {
+   "turn_index": 46,
+   "parser_turn_index": 20,
+   "word_start": 4881,
+   "word_end": 4991,
+   "word_count": 110,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d024"
+   ],
+   "first_words": "senator i've had the incredible fortune throughout my"
+  },
+  {
+   "turn_index": 47,
+   "parser_turn_index": 21,
+   "word_start": 4991,
+   "word_end": 5020,
+   "word_count": 29,
+   "speaker": "King",
+   "bioguide_id": "K000383",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "it's true is it not that allies are"
+  },
+  {
+   "turn_index": 48,
+   "parser_turn_index": 21,
+   "word_start": 5020,
+   "word_end": 5032,
+   "word_count": 12,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d025"
+   ],
+   "first_words": "senator i think that's a that's a great"
+  },
+  {
+   "turn_index": 49,
+   "parser_turn_index": 22,
+   "word_start": 5032,
+   "word_end": 5039,
+   "word_count": 7,
+   "speaker": "King",
+   "bioguide_id": "K000383",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you i'll leave it at that"
+  },
+  {
+   "turn_index": 50,
+   "parser_turn_index": 23,
+   "word_start": 5039,
+   "word_end": 5041,
+   "word_count": 2,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator lankford"
+  },
+  {
+   "turn_index": 51,
+   "parser_turn_index": 24,
+   "word_start": 5041,
+   "word_end": 5149,
+   "word_count": 108,
+   "speaker": "Lankford",
+   "bioguide_id": "L000575",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "mr chairman thank you general thank you thank"
+  },
+  {
+   "turn_index": 52,
+   "parser_turn_index": 24,
+   "word_start": 5149,
+   "word_end": 5258,
+   "word_count": 109,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d026"
+   ],
+   "first_words": "yeah thanks senator the i you know my"
+  },
+  {
+   "turn_index": 53,
+   "parser_turn_index": 25,
+   "word_start": 5258,
+   "word_end": 5411,
+   "word_count": 153,
+   "speaker": "Lankford",
+   "bioguide_id": "L000575",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "okay thank you i want to follow up"
+  },
+  {
+   "turn_index": 54,
+   "parser_turn_index": 25,
+   "word_start": 5411,
+   "word_end": 5646,
+   "word_count": 235,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d027"
+   ],
+   "first_words": "well senator i think it speaks to what"
+  },
+  {
+   "turn_index": 55,
+   "parser_turn_index": 26,
+   "word_start": 5646,
+   "word_end": 6031,
+   "word_count": 385,
+   "speaker": "Lankford",
+   "bioguide_id": "L000575",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ok it's helpful you've been a consumer of"
+  },
+  {
+   "turn_index": 56,
+   "parser_turn_index": 26,
+   "word_start": 6031,
+   "word_end": 6057,
+   "word_count": 26,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d028"
+   ],
+   "first_words": "senator if confirmed certainly i would do everything"
+  },
+  {
+   "turn_index": 57,
+   "parser_turn_index": 27,
+   "word_start": 6057,
+   "word_end": 6063,
+   "word_count": 6,
+   "speaker": "Lankford",
+   "bioguide_id": "L000575",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you thank you mr chairman"
+  },
+  {
+   "turn_index": 58,
+   "parser_turn_index": 28,
+   "word_start": 6063,
+   "word_end": 6065,
+   "word_count": 2,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator wyden"
+  },
+  {
+   "turn_index": 59,
+   "parser_turn_index": 29,
+   "word_start": 6065,
+   "word_end": 6269,
+   "word_count": 204,
+   "speaker": "Wyden",
+   "bioguide_id": "W000779",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you very much mr chairman general enjoyed"
+  },
+  {
+   "turn_index": 60,
+   "parser_turn_index": 29,
+   "word_start": 6269,
+   "word_end": 6339,
+   "word_count": 70,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d029"
+   ],
+   "first_words": "yeah senator i again i appreciate the opportunity"
+  },
+  {
+   "turn_index": 61,
+   "parser_turn_index": 30,
+   "word_start": 6339,
+   "word_end": 6490,
+   "word_count": 151,
+   "speaker": "Wyden",
+   "bioguide_id": "W000779",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "that respectfully though doesn't get close to what"
+  },
+  {
+   "turn_index": 62,
+   "parser_turn_index": 30,
+   "word_start": 6490,
+   "word_end": 6526,
+   "word_count": 36,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d030"
+   ],
+   "first_words": "well senator as again as we discussed i"
+  },
+  {
+   "turn_index": 63,
+   "parser_turn_index": 31,
+   "word_start": 6526,
+   "word_end": 6634,
+   "word_count": 108,
+   "speaker": "Wyden",
+   "bioguide_id": "W000779",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "let's move on so we can get some"
+  },
+  {
+   "turn_index": 64,
+   "parser_turn_index": 31,
+   "word_start": 6634,
+   "word_end": 6691,
+   "word_count": 57,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d031"
+   ],
+   "first_words": "well senator that's that's a topic that i'd"
+  },
+  {
+   "turn_index": 65,
+   "parser_turn_index": 32,
+   "word_start": 6691,
+   "word_end": 6761,
+   "word_count": 70,
+   "speaker": "Wyden",
+   "bioguide_id": "W000779",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "let me go a little bit further on"
+  },
+  {
+   "turn_index": 66,
+   "parser_turn_index": 32,
+   "word_start": 6761,
+   "word_end": 6777,
+   "word_count": 16,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d032"
+   ],
+   "first_words": "senator the alliances and partnerships that we rely"
+  },
+  {
+   "turn_index": 67,
+   "parser_turn_index": 33,
+   "word_start": 6777,
+   "word_end": 6782,
+   "word_count": 5,
+   "speaker": "Wyden",
+   "bioguide_id": "W000779",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ok thank you mr chairman"
+  },
+  {
+   "turn_index": 68,
+   "parser_turn_index": 34,
+   "word_start": 6782,
+   "word_end": 6784,
+   "word_count": 2,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator rounds"
+  },
+  {
+   "turn_index": 69,
+   "parser_turn_index": 35,
+   "word_start": 6784,
+   "word_end": 7046,
+   "word_count": 262,
+   "speaker": "Rounds",
+   "bioguide_id": "R000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman and general rudd first"
+  },
+  {
+   "turn_index": 70,
+   "parser_turn_index": 35,
+   "word_start": 7046,
+   "word_end": 7105,
+   "word_count": 59,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d033"
+   ],
+   "first_words": "senator it wouldn't and i think this is"
+  },
+  {
+   "turn_index": 71,
+   "parser_turn_index": 36,
+   "word_start": 7105,
+   "word_end": 7130,
+   "word_count": 25,
+   "speaker": "Rounds",
+   "bioguide_id": "R000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "would it be fair to say that in"
+  },
+  {
+   "turn_index": 72,
+   "parser_turn_index": 36,
+   "word_start": 7130,
+   "word_end": 7135,
+   "word_count": 5,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d034"
+   ],
+   "first_words": "senator that's certainly my experience"
+  },
+  {
+   "turn_index": 73,
+   "parser_turn_index": 37,
+   "word_start": 7135,
+   "word_end": 7215,
+   "word_count": 80,
+   "speaker": "Rounds",
+   "bioguide_id": "R000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "so you've been around the horn a little"
+  },
+  {
+   "turn_index": 74,
+   "parser_turn_index": 37,
+   "word_start": 7215,
+   "word_end": 7292,
+   "word_count": 77,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d035"
+   ],
+   "first_words": "senator i would agree with that and again"
+  },
+  {
+   "turn_index": 75,
+   "parser_turn_index": 38,
+   "word_start": 7292,
+   "word_end": 7454,
+   "word_count": 162,
+   "speaker": "Rounds",
+   "bioguide_id": "R000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i'm going to bring this down now to"
+  },
+  {
+   "turn_index": 76,
+   "parser_turn_index": 38,
+   "word_start": 7454,
+   "word_end": 7485,
+   "word_count": 31,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d036"
+   ],
+   "first_words": "senator i would again offer my personal experience"
+  },
+  {
+   "turn_index": 77,
+   "parser_turn_index": 39,
+   "word_start": 7485,
+   "word_end": 7612,
+   "word_count": 127,
+   "speaker": "Rounds",
+   "bioguide_id": "R000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you let me go one step further"
+  },
+  {
+   "turn_index": 78,
+   "parser_turn_index": 39,
+   "word_start": 7612,
+   "word_end": 7652,
+   "word_count": 40,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d037"
+   ],
+   "first_words": "senator it seems reasonable that that would naturally"
+  },
+  {
+   "turn_index": 79,
+   "parser_turn_index": 40,
+   "word_start": 7652,
+   "word_end": 7658,
+   "word_count": 6,
+   "speaker": "Rounds",
+   "bioguide_id": "R000605",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you thank you mr chairman"
+  },
+  {
+   "turn_index": 80,
+   "parser_turn_index": 41,
+   "word_start": 7658,
+   "word_end": 7660,
+   "word_count": 2,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator kelly"
+  },
+  {
+   "turn_index": 81,
+   "parser_turn_index": 42,
+   "word_start": 7660,
+   "word_end": 7843,
+   "word_count": 183,
+   "speaker": "Kelly",
+   "bioguide_id": "K000377",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman um just like senator"
+  },
+  {
+   "turn_index": 82,
+   "parser_turn_index": 42,
+   "word_start": 7843,
+   "word_end": 7984,
+   "word_count": 141,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d038"
+   ],
+   "first_words": "senator i would i would offer on risk"
+  },
+  {
+   "turn_index": 83,
+   "parser_turn_index": 43,
+   "word_start": 7984,
+   "word_end": 8146,
+   "word_count": 162,
+   "speaker": "Kelly",
+   "bioguide_id": "K000377",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and general also you know one priority i"
+  },
+  {
+   "turn_index": 84,
+   "parser_turn_index": 43,
+   "word_start": 8146,
+   "word_end": 8229,
+   "word_count": 83,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d039"
+   ],
+   "first_words": "senator in as plain as language as i"
+  },
+  {
+   "turn_index": 85,
+   "parser_turn_index": 44,
+   "word_start": 8229,
+   "word_end": 8278,
+   "word_count": 49,
+   "speaker": "Kelly",
+   "bioguide_id": "K000377",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "but for a family hardworking american family not"
+  },
+  {
+   "turn_index": 86,
+   "parser_turn_index": 44,
+   "word_start": 8278,
+   "word_end": 8290,
+   "word_count": 12,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d040"
+   ],
+   "first_words": "well senator again in my experience it's quite"
+  },
+  {
+   "turn_index": 87,
+   "parser_turn_index": 45,
+   "word_start": 8290,
+   "word_end": 8313,
+   "word_count": 23,
+   "speaker": "Kelly",
+   "bioguide_id": "K000377",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "save lives could it could we be potentially"
+  },
+  {
+   "turn_index": 88,
+   "parser_turn_index": 45,
+   "word_start": 8313,
+   "word_end": 8345,
+   "word_count": 32,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d041"
+   ],
+   "first_words": "again senator the lives of men and women"
+  },
+  {
+   "turn_index": 89,
+   "parser_turn_index": 46,
+   "word_start": 8345,
+   "word_end": 8411,
+   "word_count": 66,
+   "speaker": "Kelly",
+   "bioguide_id": "K000377",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yeah and i agree with you and i"
+  },
+  {
+   "turn_index": 90,
+   "parser_turn_index": 47,
+   "word_start": 8411,
+   "word_end": 8413,
+   "word_count": 2,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator budd"
+  },
+  {
+   "turn_index": 91,
+   "parser_turn_index": 48,
+   "word_start": 8413,
+   "word_end": 8518,
+   "word_count": 105,
+   "speaker": "Budd",
+   "bioguide_id": "B001305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you chairman general thank you for your"
+  },
+  {
+   "turn_index": 92,
+   "parser_turn_index": 48,
+   "word_start": 8518,
+   "word_end": 8631,
+   "word_count": 113,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d042"
+   ],
+   "first_words": "well senator it's a continuous assessment of the"
+  },
+  {
+   "turn_index": 93,
+   "parser_turn_index": 49,
+   "word_start": 8631,
+   "word_end": 8707,
+   "word_count": 76,
+   "speaker": "Budd",
+   "bioguide_id": "B001305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you general you know we've talked about"
+  },
+  {
+   "turn_index": 94,
+   "parser_turn_index": 49,
+   "word_start": 8707,
+   "word_end": 8742,
+   "word_count": 35,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d043"
+   ],
+   "first_words": "yes senator the uh first of all if"
+  },
+  {
+   "turn_index": 95,
+   "parser_turn_index": 49,
+   "word_start": 8742,
+   "word_end": 8743,
+   "word_count": 1,
+   "speaker": "Budd",
+   "bioguide_id": "B001305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "todate"
+  },
+  {
+   "turn_index": 96,
+   "parser_turn_index": 49,
+   "word_start": 8743,
+   "word_end": 8890,
+   "word_count": 147,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d043"
+   ],
+   "first_words": "is not without those experiences and opportunities perhaps"
+  },
+  {
+   "turn_index": 97,
+   "parser_turn_index": 49,
+   "word_start": 8890,
+   "word_end": 8891,
+   "word_count": 1,
+   "speaker": "Budd",
+   "bioguide_id": "B001305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "organization"
+  },
+  {
+   "turn_index": 98,
+   "parser_turn_index": 50,
+   "word_start": 8891,
+   "word_end": 8960,
+   "word_count": 69,
+   "speaker": "Budd",
+   "bioguide_id": "B001305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you general you know there's an executive"
+  },
+  {
+   "turn_index": 99,
+   "parser_turn_index": 50,
+   "word_start": 8960,
+   "word_end": 8982,
+   "word_count": 22,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d044"
+   ],
+   "first_words": "yes senator that's something that i would want"
+  },
+  {
+   "turn_index": 100,
+   "parser_turn_index": 51,
+   "word_start": 8982,
+   "word_end": 9006,
+   "word_count": 24,
+   "speaker": "Budd",
+   "bioguide_id": "B001305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "that's my next question so you will commit"
+  },
+  {
+   "turn_index": 101,
+   "parser_turn_index": 51,
+   "word_start": 9006,
+   "word_end": 9013,
+   "word_count": 7,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d045"
+   ],
+   "first_words": "senator if confirmed i'll look into it"
+  },
+  {
+   "turn_index": 102,
+   "parser_turn_index": 52,
+   "word_start": 9013,
+   "word_end": 9063,
+   "word_count": 50,
+   "speaker": "Budd",
+   "bioguide_id": "B001305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you um you spent a lot of"
+  },
+  {
+   "turn_index": 103,
+   "parser_turn_index": 52,
+   "word_start": 9063,
+   "word_end": 9120,
+   "word_count": 57,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d046"
+   ],
+   "first_words": "senator we're doing it on a daily basis"
+  },
+  {
+   "turn_index": 104,
+   "parser_turn_index": 53,
+   "word_start": 9120,
+   "word_end": 9123,
+   "word_count": 3,
+   "speaker": "Budd",
+   "bioguide_id": "B001305",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you general"
+  },
+  {
+   "turn_index": 105,
+   "parser_turn_index": 54,
+   "word_start": 9123,
+   "word_end": 9125,
+   "word_count": 2,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator gillibrand"
+  },
+  {
+   "turn_index": 106,
+   "parser_turn_index": 55,
+   "word_start": 9125,
+   "word_end": 9182,
+   "word_count": 57,
+   "speaker": "Gillibrand",
+   "bioguide_id": "G000555",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman for nearly a decade"
+  },
+  {
+   "turn_index": 107,
+   "parser_turn_index": 55,
+   "word_start": 9182,
+   "word_end": 9242,
+   "word_count": 60,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d047"
+   ],
+   "first_words": "senator the electoral process is fundamental to our"
+  },
+  {
+   "turn_index": 108,
+   "parser_turn_index": 56,
+   "word_start": 9242,
+   "word_end": 9342,
+   "word_count": 100,
+   "speaker": "Gillibrand",
+   "bioguide_id": "G000555",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i appreciate that in your responses to the"
+  },
+  {
+   "turn_index": 109,
+   "parser_turn_index": 56,
+   "word_start": 9342,
+   "word_end": 9392,
+   "word_count": 50,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d048"
+   ],
+   "first_words": "well senator if confirmed for this role i"
+  },
+  {
+   "turn_index": 110,
+   "parser_turn_index": 57,
+   "word_start": 9392,
+   "word_end": 9486,
+   "word_count": 94,
+   "speaker": "Gillibrand",
+   "bioguide_id": "G000555",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "okay several years ago i led the creation"
+  },
+  {
+   "turn_index": 111,
+   "parser_turn_index": 57,
+   "word_start": 9486,
+   "word_end": 9544,
+   "word_count": 58,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d049"
+   ],
+   "first_words": "senator i'd certainly like to learn more about"
+  },
+  {
+   "turn_index": 112,
+   "parser_turn_index": 58,
+   "word_start": 9544,
+   "word_end": 9699,
+   "word_count": 155,
+   "speaker": "Gillibrand",
+   "bioguide_id": "G000555",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yeah and when we created it it has"
+  },
+  {
+   "turn_index": 113,
+   "parser_turn_index": 58,
+   "word_start": 9699,
+   "word_end": 9718,
+   "word_count": 19,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d050"
+   ],
+   "first_words": "senator again i look forward to learning as"
+  },
+  {
+   "turn_index": 114,
+   "parser_turn_index": 59,
+   "word_start": 9718,
+   "word_end": 9817,
+   "word_count": 99,
+   "speaker": "Gillibrand",
+   "bioguide_id": "G000555",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you last year dni gabbard fired over"
+  },
+  {
+   "turn_index": 115,
+   "parser_turn_index": 59,
+   "word_start": 9817,
+   "word_end": 9866,
+   "word_count": 49,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d051"
+   ],
+   "first_words": "yes senator i appreciate that concern certainly the"
+  },
+  {
+   "turn_index": 116,
+   "parser_turn_index": 60,
+   "word_start": 9866,
+   "word_end": 9872,
+   "word_count": 6,
+   "speaker": "Gillibrand",
+   "bioguide_id": "G000555",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you thank you mr chairman"
+  },
+  {
+   "turn_index": 117,
+   "parser_turn_index": 61,
+   "word_start": 9872,
+   "word_end": 9874,
+   "word_count": 2,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator young"
+  },
+  {
+   "turn_index": 118,
+   "parser_turn_index": 62,
+   "word_start": 9874,
+   "word_end": 9939,
+   "word_count": 65,
+   "speaker": "Young",
+   "bioguide_id": "Y000064",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "general rudd good to see you again i"
+  },
+  {
+   "turn_index": 119,
+   "parser_turn_index": 62,
+   "word_start": 9939,
+   "word_end": 10002,
+   "word_count": 63,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d052"
+   ],
+   "first_words": "well senator i think the way that we"
+  },
+  {
+   "turn_index": 120,
+   "parser_turn_index": 63,
+   "word_start": 10002,
+   "word_end": 10081,
+   "word_count": 79,
+   "speaker": "Young",
+   "bioguide_id": "Y000064",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you you also noted in your questionnaire"
+  },
+  {
+   "turn_index": 121,
+   "parser_turn_index": 63,
+   "word_start": 10081,
+   "word_end": 10167,
+   "word_count": 86,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d053"
+   ],
+   "first_words": "yes senator i think that's a critically important"
+  },
+  {
+   "turn_index": 122,
+   "parser_turn_index": 64,
+   "word_start": 10167,
+   "word_end": 10200,
+   "word_count": 33,
+   "speaker": "Young",
+   "bioguide_id": "Y000064",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "general can you describe the role you see"
+  },
+  {
+   "turn_index": 123,
+   "parser_turn_index": 64,
+   "word_start": 10200,
+   "word_end": 10246,
+   "word_count": 46,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d054"
+   ],
+   "first_words": "yeah thanks senator that's the example i was"
+  },
+  {
+   "turn_index": 124,
+   "parser_turn_index": 65,
+   "word_start": 10246,
+   "word_end": 10278,
+   "word_count": 32,
+   "speaker": "Young",
+   "bioguide_id": "Y000064",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "will you commit to working with this committee"
+  },
+  {
+   "turn_index": 125,
+   "parser_turn_index": 65,
+   "word_start": 10278,
+   "word_end": 10302,
+   "word_count": 24,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d055"
+   ],
+   "first_words": "senator the the role of any commander leader"
+  },
+  {
+   "turn_index": 126,
+   "parser_turn_index": 66,
+   "word_start": 10302,
+   "word_end": 10306,
+   "word_count": 4,
+   "speaker": "Young",
+   "bioguide_id": "Y000064",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "ok thank you chairman"
+  },
+  {
+   "turn_index": 127,
+   "parser_turn_index": 67,
+   "word_start": 10306,
+   "word_end": 10308,
+   "word_count": 2,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator ossoff"
+  },
+  {
+   "turn_index": 128,
+   "parser_turn_index": 68,
+   "word_start": 10308,
+   "word_end": 10567,
+   "word_count": 259,
+   "speaker": "Ossoff",
+   "bioguide_id": "O000174",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you mr chairman and general thank you"
+  },
+  {
+   "turn_index": 129,
+   "parser_turn_index": 68,
+   "word_start": 10567,
+   "word_end": 10607,
+   "word_count": 40,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d056"
+   ],
+   "first_words": "senator i will pledge if confirmed to ensure"
+  },
+  {
+   "turn_index": 130,
+   "parser_turn_index": 69,
+   "word_start": 10607,
+   "word_end": 10774,
+   "word_count": 167,
+   "speaker": "Ossoff",
+   "bioguide_id": "O000174",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "general i appreciate the answer and i want"
+  },
+  {
+   "turn_index": 131,
+   "parser_turn_index": 69,
+   "word_start": 10774,
+   "word_end": 10787,
+   "word_count": 13,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d057"
+   ],
+   "first_words": "senator i look forward to looking into that"
+  },
+  {
+   "turn_index": 132,
+   "parser_turn_index": 70,
+   "word_start": 10787,
+   "word_end": 10932,
+   "word_count": 145,
+   "speaker": "Ossoff",
+   "bioguide_id": "O000174",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you if confirmed you'll take this post"
+  },
+  {
+   "turn_index": 133,
+   "parser_turn_index": 70,
+   "word_start": 10932,
+   "word_end": 10962,
+   "word_count": 30,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d058"
+   ],
+   "first_words": "senator i recognize the critical role that nsa"
+  },
+  {
+   "turn_index": 134,
+   "parser_turn_index": 71,
+   "word_start": 10962,
+   "word_end": 10965,
+   "word_count": 3,
+   "speaker": "Ossoff",
+   "bioguide_id": "O000174",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you general"
+  },
+  {
+   "turn_index": 135,
+   "parser_turn_index": 72,
+   "word_start": 10965,
+   "word_end": 10967,
+   "word_count": 2,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "senator cornyn"
+  },
+  {
+   "turn_index": 136,
+   "parser_turn_index": 73,
+   "word_start": 10967,
+   "word_end": 11042,
+   "word_count": 75,
+   "speaker": "Cornyn",
+   "bioguide_id": "C001056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "welcome general and congratulations on your nomination and"
+  },
+  {
+   "turn_index": 137,
+   "parser_turn_index": 73,
+   "word_start": 11042,
+   "word_end": 11052,
+   "word_count": 10,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d059"
+   ],
+   "first_words": "senator there is a very talented legal team"
+  },
+  {
+   "turn_index": 138,
+   "parser_turn_index": 74,
+   "word_start": 11052,
+   "word_end": 11100,
+   "word_count": 48,
+   "speaker": "Cornyn",
+   "bioguide_id": "C001056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yeah it seems like a blessing or a"
+  },
+  {
+   "turn_index": 139,
+   "parser_turn_index": 74,
+   "word_start": 11100,
+   "word_end": 11105,
+   "word_count": 5,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d060"
+   ],
+   "first_words": "senator i don't know that"
+  },
+  {
+   "turn_index": 140,
+   "parser_turn_index": 75,
+   "word_start": 11105,
+   "word_end": 11117,
+   "word_count": 12,
+   "speaker": "Cornyn",
+   "bioguide_id": "C001056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "yeah it's a whole bunch and they're very"
+  },
+  {
+   "turn_index": 141,
+   "parser_turn_index": 75,
+   "word_start": 11117,
+   "word_end": 11132,
+   "word_count": 15,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d061"
+   ],
+   "first_words": "i would guess there is and i would"
+  },
+  {
+   "turn_index": 142,
+   "parser_turn_index": 76,
+   "word_start": 11132,
+   "word_end": 11151,
+   "word_count": 19,
+   "speaker": "Cornyn",
+   "bioguide_id": "C001056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "will you be consulting with them on issues"
+  },
+  {
+   "turn_index": 143,
+   "parser_turn_index": 76,
+   "word_start": 11151,
+   "word_end": 11196,
+   "word_count": 45,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d062"
+   ],
+   "first_words": "senator i would expect to consult with the"
+  },
+  {
+   "turn_index": 144,
+   "parser_turn_index": 77,
+   "word_start": 11196,
+   "word_end": 11402,
+   "word_count": 206,
+   "speaker": "Cornyn",
+   "bioguide_id": "C001056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "i have i have no doubt about that"
+  },
+  {
+   "turn_index": 145,
+   "parser_turn_index": 77,
+   "word_start": 11402,
+   "word_end": 11422,
+   "word_count": 20,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d063"
+   ],
+   "first_words": "senator that's my understanding that 702 is focused"
+  },
+  {
+   "turn_index": 146,
+   "parser_turn_index": 78,
+   "word_start": 11422,
+   "word_end": 11431,
+   "word_count": 9,
+   "speaker": "Cornyn",
+   "bioguide_id": "C001056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and it's an invaluable resource correct lt general"
+  },
+  {
+   "turn_index": 147,
+   "parser_turn_index": 78,
+   "word_start": 11431,
+   "word_end": 11437,
+   "word_count": 6,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d064"
+   ],
+   "first_words": "in my experience it is senator"
+  },
+  {
+   "turn_index": 148,
+   "parser_turn_index": 79,
+   "word_start": 11437,
+   "word_end": 11605,
+   "word_count": 168,
+   "speaker": "Cornyn",
+   "bioguide_id": "C001056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "and i'm sure you like all of us"
+  },
+  {
+   "turn_index": 149,
+   "parser_turn_index": 79,
+   "word_start": 11605,
+   "word_end": 11609,
+   "word_count": 4,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d065"
+   ],
+   "first_words": "no senator i'm not"
+  },
+  {
+   "turn_index": 150,
+   "parser_turn_index": 80,
+   "word_start": 11609,
+   "word_end": 11729,
+   "word_count": 120,
+   "speaker": "Cornyn",
+   "bioguide_id": "C001056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "you're unburdened by that by that credential so"
+  },
+  {
+   "turn_index": 151,
+   "parser_turn_index": 80,
+   "word_start": 11729,
+   "word_end": 11741,
+   "word_count": 12,
+   "speaker": "Rudd",
+   "bioguide_id": null,
+   "source": "review",
+   "span_ids": [
+    "d066"
+   ],
+   "first_words": "senator that's certainly something i'd like to take"
+  },
+  {
+   "turn_index": 152,
+   "parser_turn_index": 81,
+   "word_start": 11741,
+   "word_end": 11749,
+   "word_count": 8,
+   "speaker": "Cornyn",
+   "bioguide_id": "C001056",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you my time is up thank you"
+  },
+  {
+   "turn_index": 153,
+   "parser_turn_index": 82,
+   "word_start": 11749,
+   "word_end": 11834,
+   "word_count": 85,
+   "speaker": "Cotton",
+   "bioguide_id": "C001095",
+   "source": "parser",
+   "span_ids": [],
+   "first_words": "thank you general rudd for your testimony here"
+  }
+ ]
+}

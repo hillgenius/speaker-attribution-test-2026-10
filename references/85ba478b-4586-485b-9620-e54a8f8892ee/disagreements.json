@@ -1,0 +1,248 @@
+{
+ "hearing_id": "85ba478b-4586-485b-9620-e54a8f8892ee",
+ "chrg": "CHRG-119shrg62766",
+ "chamber": "senate",
+ "print_file": "CHRG-119shrg62766.htm",
+ "print_sha256": "a1a0299aa29064dd3b7893d1ab5928d79090453974cf3dc4937999facd76b234",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "846f9ae8e9b40721a5c7ddf33f1043faeec2a45db89c819cb52757752649636d",
+ "n_ref_words": 35076,
+ "roster_source": "committee_membership",
+ "total_body_words": 55785,
+ "words_both_opinion": 22751,
+ "words_agree": 22714,
+ "words_disagree": 37,
+ "words_no_llm_opinion": 643,
+ "words_no_parser_opinion": 20642,
+ "words_inserted_material": 12392,
+ "agree_rate": 0.9984,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 2,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 4109,
+   "end_word": 10302,
+   "word_count": 6193,
+   "start_line": 530,
+   "end_line": 1402
+  },
+  {
+   "start_word": 11134,
+   "end_word": 14447,
+   "word_count": 3313,
+   "start_line": 1499,
+   "end_line": 1969
+  },
+  {
+   "start_word": 15015,
+   "end_word": 17901,
+   "word_count": 2886,
+   "start_line": 2044,
+   "end_line": 2450
+  }
+ ],
+ "n_body_words_mapped": 34998,
+ "n_compare_words_spans": 9,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 19667,
+   "body_word_end": 19683,
+   "word_start": 18849,
+   "word_end": 18865,
+   "n_ref_words_mapped": 16,
+   "word_count": 16,
+   "start_line": 2631,
+   "end_line": 2632,
+   "parser_speaker": "Jacobs",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Cantwell",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "not letting--that is--we--this is all doable. It is about whether---- Mr. Jacobs. Oh, I agree.",
+    "span_text": "Senator Cantwell.--we have the resources and the \ninvestment. And I am saying, let's make the investment. Let's--",
+    "after": "-- Mr. Jacobs. I agree. Senator Cantwell. And you agree is what I am trying"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 23981,
+   "body_word_end": 23995,
+   "word_start": 23003,
+   "word_end": 23017,
+   "n_ref_words_mapped": 14,
+   "word_count": 14,
+   "start_line": 3102,
+   "end_line": 3103,
+   "parser_speaker": "Kumar",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Blunt Rochester",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "going to ask, are you familiar with the letters that we sent to the Department?",
+    "span_text": "Mr. Kumar. Thank you for the question, Senator. Yes, I am \nat a high level, yes.",
+    "after": "Senator Blunt Rochester. At a high level. And I wanted to know when do you"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 25843,
+   "body_word_end": 25844,
+   "word_start": 24799,
+   "word_end": 24800,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3298,
+   "end_line": 3298,
+   "parser_speaker": "Jacobs",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Lujan",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "agree that people deserve to get emergency alerts in the language that they can understand?",
+    "span_text": "Mr. Jacobs. Yes.",
+    "after": "Senator Lujan. Yes or no, do you commit to ensuring that this lapse in translation"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 28894,
+   "body_word_end": 28895,
+   "word_start": 27718,
+   "word_end": 27719,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 3632,
+   "end_line": 3632,
+   "parser_speaker": "Jacobs",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Young",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "on. Senator Young. Would you work with me on that priority, should you be confirmed?",
+    "span_text": "Mr. Jacobs. Absolutely.",
+    "after": "Senator Young. OK, great. I am a member of the Intelligence Committee, as well as"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 33853,
+   "body_word_end": 33854,
+   "word_start": 32468,
+   "word_end": 32469,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 4177,
+   "end_line": 4177,
+   "parser_speaker": "Jacobs",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Sullivan",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "get confirmed, you are going to be spending a lot of time in Alaska. But--right?",
+    "span_text": "Mr. Jacobs. Absolutely.",
+    "after": "Senator Sullivan. Yes, good. OK. But my point is, if you don't do the surveys,"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 34821,
+   "body_word_end": 34822,
+   "word_start": 33420,
+   "word_end": 33421,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 4274,
+   "end_line": 4274,
+   "parser_speaker": "Jacobs",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Sullivan",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "help to work on those issues as well. Can I get your commitment on those?",
+    "span_text": "Mr. Jacobs. Absolutely.",
+    "after": "Senator Sullivan. Good. Thank you, Mr. Chairman. The Chairman. Thank you. You know, Dr. Jacobs,"
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 35137,
+   "body_word_end": 35138,
+   "word_start": 33705,
+   "word_end": 33706,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 4312,
+   "end_line": 4312,
+   "parser_speaker": "Jacobs",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Cantwell",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Cantwell. Great, thank you. Do you support the reauth--do you support the Weather Act reauthorization?",
+    "span_text": "Mr. Jacobs. Yes.",
+    "after": "Senator Cantwell. OK. Do you support replacing a Northwest--the lab, the Northwest Fisheries Science Center?"
+   },
+   "span_id": "d007"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 36480,
+   "body_word_end": 36481,
+   "word_start": 35002,
+   "word_end": 35003,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 4455,
+   "end_line": 4455,
+   "parser_speaker": "Jacobs",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Cruz",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "and timely responses to the Committee's requests and to appear before the Committee when requested?",
+    "span_text": "Mr. Jacobs. Yes.",
+    "after": "Mr. Jordan. Yes. Mr. Kumar. Yes. The Chairman. Thank you. I have letters of support"
+   },
+   "span_id": "d008"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 36483,
+   "body_word_end": 36484,
+   "word_start": 35003,
+   "word_end": 35004,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 4456,
+   "end_line": 4456,
+   "parser_speaker": "Jordan",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Cruz",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "to the Committee's requests and to appear before the Committee when requested? Mr. Jacobs. Yes.",
+    "span_text": "Mr. Jordan. Yes.",
+    "after": "Mr. Kumar. Yes. The Chairman. Thank you. I have letters of support for Dr. Jacobs"
+   },
+   "span_id": "d009"
+  }
+ ]
+}

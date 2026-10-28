@@ -1,0 +1,82 @@
+{
+ "hearing_id": "2d64ceea-0e71-4d02-9917-362d20f1ad4e",
+ "chrg": "CHRG-119hhrg60646",
+ "chamber": "house",
+ "print_file": "CHRG-119hhrg60646.htm",
+ "print_sha256": "3406566d4e1fdb337f34a57c22d7d5db2a205ce6056ca74f645787a1cea68886",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "65ec09241de26f1f8e990f30d45f6b4d550f3840f821bc95c85f7daafc9c85c8",
+ "n_ref_words": 11410,
+ "roster_source": "committee_membership",
+ "total_body_words": 12496,
+ "words_both_opinion": 11410,
+ "words_agree": 11410,
+ "words_disagree": 0,
+ "words_no_llm_opinion": 668,
+ "words_no_parser_opinion": 1020,
+ "words_inserted_material": 66,
+ "agree_rate": 1.0,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 0,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 4166,
+   "end_word": 4182,
+   "word_count": 16,
+   "start_line": 650,
+   "end_line": 654
+  },
+  {
+   "start_word": 5137,
+   "end_word": 5155,
+   "word_count": 18,
+   "start_line": 767,
+   "end_line": 771
+  },
+  {
+   "start_word": 5938,
+   "end_word": 5954,
+   "word_count": 16,
+   "start_line": 867,
+   "end_line": 871
+  },
+  {
+   "start_word": 6736,
+   "end_word": 6752,
+   "word_count": 16,
+   "start_line": 959,
+   "end_line": 963
+  }
+ ],
+ "n_body_words_mapped": 11397,
+ "n_compare_words_spans": 0,
+ "n_header_scan_spans": 1,
+ "spans": [
+  {
+   "source": "header_scan",
+   "line_text": "Ms. Caroline Wilson Palow. Ms. Wilson Palow is the Legal",
+   "reason": "header_like_not_accepted",
+   "located": true,
+   "body_word_start": 2964,
+   "body_word_end": 3387,
+   "word_count": 423,
+   "word_start": 2283,
+   "word_end": 2706,
+   "n_ref_words_mapped": 423,
+   "start_line": 508,
+   "end_line": 557,
+   "parser_speaker": "Biggs",
+   "parser_bioguide_id": "B001302",
+   "llm_speaker": null,
+   "llm_bioguide_id": null,
+   "excerpt": {
+    "before": "the National Science Foundation, and the National Institute of Standards and Technology. Welcome, Professor. Thank you for being here.",
+    "span_text": "Ms. Caroline Wilson Palow. Ms. Wilson Palow is the Legal \nDirector and General Counsel at Privacy International, a \nnonprofit organization based in the U.K. Ms. Wilson Palow leads \nthe organization's legal advocacy and advises its programs on \nlegal strategy and risk.\n    Prior to joining Privacy International, she was an attorney \nwith Wilson, Sonsini, Goodrich & Rosati, where her practice \nfocused on privacy and intellectual property.\n    Thank you for joining us. Thanks for coming all this way, \ntoo.\n    Mr. Richard Salgado is the founder of Salgado Strategies, a \nconsulting firm that advises clients on geopolitical, \ncybersecurity, and surveillance issues. He also serves as a \nlecturer at both Harvard Law School and Stanford Law School.\n    Mr. Salgado previously was the Director of Law Enforcement \nand Information Security at Google for more than 13 years, \nworked on international security and law enforcement compliance \nat Yahoo! and served in the Department of Justice.\n    Thank you, Mr. Salgado, for being with us.\n    Mr. Gregory Nojeim is a Senior Counsel and Director of the \nSecurity and Surveillance Project at the Center for Democracy \nand Technology, a nonprofit organization that advocates for \ncivil rights and civil liberties in an increasingly digital \nworld.\n    He previously served as the Associate Director and Chief \nLegislative Counsel of the ACLU's Washington office, where he \nfocused on the civil liberties implications of terrorism, \nnational security, and information privacy legislation.\n    We welcome all of you. Thank you for being here today.\n    We will begin now by swearing you in. Would you please rise \nand raise your right hand?\n    Do each of you swear or affirm under penalty of perjury \nthat the testimony you are about to give is true and correct to \nthe best of your knowledge, information, and belief, so help \nyou God?\n    Let the record reflect that the witnesses have all answered \nin the affirmative.\n    You may now be seated. Thank you.\n    I want you to know that we've read your--I don't know, I \nwon't guarantee everybody--but I've read your statements, and \nthose will be entered into the record in their entirety. \nAccordingly, we ask that you summarize your testimony in five \nminutes.\n    At four minutes, the light should go yellow before you. \nWhen it's almost five minutes, I will just tap this a little \nbit so you'll know it's time to kind of wrap up. I don't want \nto cut you off too much, but we do want to remind you of that.\n    We thank you so much for being here.\n    Now, Professor Landau, I recognize you for your five \nminutes.",
+    "after": ""
+   },
+   "span_id": "h001",
+   "shape": "header-scan flag"
+  }
+ ]
+}

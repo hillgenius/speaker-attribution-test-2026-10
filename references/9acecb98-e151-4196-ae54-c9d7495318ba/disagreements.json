@@ -1,0 +1,204 @@
+{
+ "hearing_id": "9acecb98-e151-4196-ae54-c9d7495318ba",
+ "chrg": "CHRG-119shrg61564",
+ "chamber": "senate",
+ "print_file": "CHRG-119shrg61564.htm",
+ "print_sha256": "1465e6a28b3f76a94fdb08297ca5a746b46db5d77a4eb9b1ffdfed329a21fd8f",
+ "scorer_sha256": "583888d4d0de59addde847347af779fff19f522d882a8b4dc6a3ffe6f9c4c509",
+ "ref_words_sha256": "c8b7fec916646f0c238b218ac4fb29827a3f1dac29798678ec08a744a66855aa",
+ "n_ref_words": 12941,
+ "roster_source": "members_present_sentence",
+ "total_body_words": 24437,
+ "words_both_opinion": 12930,
+ "words_agree": 12282,
+ "words_disagree": 648,
+ "words_no_llm_opinion": 387,
+ "words_no_parser_opinion": 11454,
+ "words_inserted_material": 53,
+ "agree_rate": 0.9499,
+ "review_threshold_words": 8,
+ "spans_ge_threshold": 2,
+ "llm_unlocated_turns": 0,
+ "inserted_material_ranges": [
+  {
+   "start_word": 2787,
+   "end_word": 2806,
+   "word_count": 19,
+   "start_line": 416,
+   "end_line": 421
+  },
+  {
+   "start_word": 3701,
+   "end_word": 3718,
+   "word_count": 17,
+   "start_line": 523,
+   "end_line": 526
+  },
+  {
+   "start_word": 4488,
+   "end_word": 4505,
+   "word_count": 17,
+   "start_line": 617,
+   "end_line": 621
+  }
+ ],
+ "n_body_words_mapped": 12919,
+ "n_compare_words_spans": 7,
+ "n_header_scan_spans": 0,
+ "spans": [
+  {
+   "source": "compare_words",
+   "body_word_start": 491,
+   "body_word_end": 1049,
+   "word_start": 101,
+   "word_end": 658,
+   "n_ref_words_mapped": 556,
+   "word_count": 558,
+   "start_line": 154,
+   "end_line": 216,
+   "parser_speaker": "Bauernfeind",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Tuberville",
+   "llm_bioguide_id": "T000278",
+   "shape": "different person",
+   "excerpt": {
+    "before": "Yvette Davids of the Naval Academy; and Lieutenant General Tony---- Lieutenant General Bauernfeind. Bauernfeind, sir.",
+    "span_text": "Senator Tuberville.----Bauernfeind. It is going to be a \nlong day.\n    As this is the first meeting of the Personnel Subcommittee \nin the 119th Congress let me begin by saying I look forward to \nworking with you, Ranking Member Warren, thank you for being \nhere, as we continue the bipartisan tradition of the Armed \nServices Committee in developing the National Defense \nAuthorization Act. Nothing is more bipartisan than supporting \nour men and women in uniform and their families. This \nSubcommittee has a long history of prioritizing the well-being \nand morale of our servicemembers, and I am eager to continue \nthat work as the new Chairman.\n    The Military Service Academies are foundational to the \nsuccess of the military officer corps. In many ways, the \nService Academies establish the culture of their respected \nservice. Moreover, the academies occupy an important position \nin our society. They are perhaps the last universities in the \ncountry that focus on building character and improving the \nmorality of their student body.\n    The American people often perceive the academies as being \nemblematic of the entire U.S. military, for better or for \nworse. Over the last several years, the academies have lost \nsight in some areas of the fundamental reason for their \nexistence, which is to commission officers with the education \nrequired by the respective military branches.\n    All three academies have been sued for engaging in race-\nbased affirmative action that is now prohibited at every other \nuniversity in the country. We have repeatedly heard, over the \nlast several years, that our diversity is our strength. It is \nnot. Diversity can be an awesome advantage, but our unity of \neffort and shared benefits in our Constitution and common \nvalues are our strength. Diversity for the sake of diversity \nalone weakens us.\n    A professor at the Air Force Academy proudly authored a \nWashington Post op-ed proclaiming that she teaches critical \nrace theory to cadets. Both West Point and the Air Force \nAcademy established diversity and inclusion minors which can be \ntrendy in other university settings, but were so unpopular with \ncadets that when they were abruptly canceled by President Trump \nhardly anyone noticed.\n    More importantly, any effort to teach our future leaders to \njudge or short people by immutable characteristics like race \nruns counter to the Constitution and is devastating to good \norder and discipline. Last fall, the Naval Academy \nappropriately canceled a lecture after it was revealed that the \nspeaker planned to use the opportunity to make a partisan \npolitical speech. But one must ask, why was this speaker \ninvited in the first place? The academies must always remember \nthat they were created in the first place. The American people \ndevote tremendous resources to maintaining all of these \ninstitutions. If the academies are not entirely focused on \nbuilding officers' character and to lead our Nation's sons and \ndaughters in combat, then what is the purpose?\n    I hope our witnesses will address these criticisms but also \ntell us about the great things that are happening every day at \nthe academies.\n    The vast majority of the cadets and midshipmen, faculty and \nstaff at the Service Academies are properly focused on the only \nmission that matters, which is defending our Constitution and \nthe American people.\n    I thank the witnesses for appearing here today, and I look \nforward to their testimony.\n    Now I will turn the microphone over to Senator Warren.",
+    "after": "STATEMENT OF SENATOR ELIZABETH WARREN Senator Warren. Thank you, Mr. Chairman. I am also looking"
+   },
+   "span_id": "d001"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 9351,
+   "body_word_end": 9353,
+   "word_start": 8677,
+   "word_end": 8679,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1142,
+   "end_line": 1142,
+   "parser_speaker": "Tuberville",
+   "parser_bioguide_id": "T000278",
+   "llm_speaker": "Hirono",
+   "llm_bioguide_id": "H001042",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "Administration. I would like this list to be included in the record of this hearing.",
+    "span_text": "Senator Tuberville. So entered.",
+    "after": "Senator Hirono. Thank you. [The information referred to follows:] [GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT]"
+   },
+   "span_id": "d002"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 9578,
+   "body_word_end": 9580,
+   "word_start": 8841,
+   "word_end": 8843,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1179,
+   "end_line": 1179,
+   "parser_speaker": "Gilland",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Scott",
+   "llm_bioguide_id": "S001217",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "I am, as well, sir. Senator Scott. So you are responsible for your faculty, right?",
+    "span_text": "Lieutenant General Gilland. Yes, Senator.",
+    "after": "Senator Scott. How is your faculty chosen? Lieutenant General Gilland. Senator, our faculty at West"
+   },
+   "span_id": "d003"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 10270,
+   "body_word_end": 10272,
+   "word_start": 9447,
+   "word_end": 9449,
+   "n_ref_words_mapped": 2,
+   "word_count": 2,
+   "start_line": 1263,
+   "end_line": 1263,
+   "parser_speaker": "Gilland",
+   "parser_bioguide_id": null,
+   "llm_speaker": "Tuberville",
+   "llm_bioguide_id": "T000278",
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "on that, can you fire a civilian, tenured teacher, professor? General, can you fire one?",
+    "span_text": "Lieutenant General Gilland. Yes, Senator.",
+    "after": "Senator Tuberville. You can? Lieutenant General Gilland. Yes, through the process we have the ability"
+   },
+   "span_id": "d004"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 11607,
+   "body_word_end": 11687,
+   "word_start": 10720,
+   "word_end": 10800,
+   "n_ref_words_mapped": 80,
+   "word_count": 80,
+   "start_line": 1413,
+   "end_line": 1421,
+   "parser_speaker": "Budd",
+   "parser_bioguide_id": "B001305",
+   "llm_speaker": "Gilland",
+   "llm_bioguide_id": null,
+   "shape": "different person",
+   "excerpt": {
+    "before": "score, as I said, broken down, there's academic which is 60 percent---- Senator Budd. Physical----",
+    "span_text": "General Gilland.--Thirty percent, which is the character \nand extracurricular activities, and then 10 percent physical, \nand then there is the assessment of the intangibles as we have \nseen through letters of evaluation that come in from coaches \nand teachers, respectively, the interview process, the \ninterviews that go through our field force members that are out \nwithin the respective locales. So there are these intangibles \nthat are also considered in the development of a candidate and \ndetermining admissions to the Military Academy.",
+    "after": "Senator Budd. General, is there a different minimum score for any particular demographic? Lieutenant General"
+   },
+   "span_id": "d005"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 12238,
+   "body_word_end": 12239,
+   "word_start": 11327,
+   "word_end": 11328,
+   "n_ref_words_mapped": 1,
+   "word_count": 1,
+   "start_line": 1483,
+   "end_line": 1483,
+   "parser_speaker": "Tuberville",
+   "parser_bioguide_id": "T000278",
+   "llm_speaker": "Gilland",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "civilian hiring practices and regulations that govern that are different than from our uniformed members.",
+    "span_text": "Senator Tuberville. Admiral?",
+    "after": "Vice Admiral Davids. Very similar, except that I would say that at the Naval Academy"
+   },
+   "span_id": "d006"
+  },
+  {
+   "source": "compare_words",
+   "body_word_start": 13341,
+   "body_word_end": 13344,
+   "word_start": 12396,
+   "word_end": 12399,
+   "n_ref_words_mapped": 3,
+   "word_count": 3,
+   "start_line": 1599,
+   "end_line": 1599,
+   "parser_speaker": "Tuberville",
+   "parser_bioguide_id": "T000278",
+   "llm_speaker": "Davids",
+   "llm_bioguide_id": null,
+   "shape": "hand-off line",
+   "excerpt": {
+    "before": "I think that the return on investment is incredible, and I fully support it, sir.",
+    "span_text": "Senator Tuberville. Thank you. General?",
+    "after": "Lieutenant General Bauernfeind. Senator Tuberville, I also, as a freshman, looked up to one Chad"
+   },
+   "span_id": "d007"
+  }
+ ]
+}
